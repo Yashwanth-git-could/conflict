@@ -1,0 +1,713 @@
+Transaction_ID,Customer_ID,Amount,Date,Status,Branch_ID,Branch_Name,City,Payment_Method,Merchant_Name,Product_Category
+af9f46d6-3c83-44f4-a2c7-e767a1c15161,2ea0c0bd-8dc4-4789-9636-b1f623dfc0ed,8450.24,2025-04-26,,BAN-KOR,Koramangala,Bangalore,Debit Card,Smith Group,Books
+dbc25c0c-f9f1-47a4-931e-f1a6c697c35b,239609db-e979-4423-9f33-2581be563d07,9595.39,2025-04-26,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Roberson, Davis and Williams",
+dbc25c0c-f9f1-47a4-931e-f1a6c697c35b,239609db-e979-4423-9f33-2581be563d07,9595.39,2025-04-26,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Roberson, Davis and Williams",
+4c9ff10b-c682-43ce-8753-9f87edae76c0,6b334829-78d1-463b-9d87-f9334c111257,6918.95,2025-04-21,,BAN-X-ERR,KORAMANGALA,bangalore,,"Freeman, Vasquez and Hicks",clothng
+90166300-86ed-4be3-b877-3f7d9577af0e,284149a3-dd53-47e4-af30-314562a7b05c,3755.57,2025-04-27,,BAN-KOR,Koramangala,Bangalore,,Jimenez-Carter,clothng
+b6d658e6-d3c9-4466-b2b0-679c3b48b9f6,8d74605b-efd9-4f90-a487-28c89e67325a,1147.61,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,UPI,Wilkins-Ayala,clothng
+8e5c4995-cbff-4b36-8222-058251ffa1c7,920d9666-4e8d-4c03-8ef7-505483034cf6,7152.99,2025-04-25,,BAN-KOR,Koramangala,Bangalore,upi,"Martin, Jackson and Duarte",Toys
+0782da85-8e92-41bd-a1b3-0110525feb10,1cf0ba5a-b434-4a28-bf55-1b92df8b7e63,3166.53,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,upi,Munoz LLC,
+fa8600cd-1094-45d1-b71d-8129cd80af82,364bf82c-12e5-4648-b1ce-263cba77f397,7743.26,2025-04-25,Failed,BAN-KOR,Koramangala,Bangalore,UPI,,Books
+4d7b2b94-1112-45e1-a137-666ad8d83ac9,a9710d4e-557f-4964-819e-6147b925ddfe,4915.27,2025-04-26, pending,BAN-KOR,Koramangala,Bangalore,,Jones-Adams,Toys
+1048cfa0-f259-46d6-8f89-4c26c51c2b3e,ee06974e-2f77-4dbd-92f7-595f9b403266,4881.86,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Cash,Miller PLC,Home Decor
+b00871ad-c61e-420f-b297-26adf0f710f4,4c6d2aff-1ac0-40d9-bf05-0787e4315d98,6236.52,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Cash,White-Santos,Electronics
+eb931392-52d7-4563-afb0-c5f64d35dd4b,bcc2fbb4-6c9e-4274-a877-5fd683a2e931,48443.07,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Weiss PLC,Electronics
+ecd760e5-fc04-461f-ac37-f00aafaab1b7,66aba70b-f898-42ac-8371-5a26baeca74a,3467.06,2025-04-22,Failed,BAN-KOR,Koramangala,Bangalore,UPI,Henderson PLC,Books
+7c0e1249-04b5-48b9-90be-f96b1d558058,,3953.91,2025-04-24, success ,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Rogers, Moore and Torres",Electronics
+ee73bcdb-f015-4c23-8bb3-0909d748c6d1,f7c6b0f8-a51d-427c-9e23-ea03677f7299,9033.93,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,Credit Card,Mcintosh LLC,Clothing
+0c8b0bdd-17a6-4a9a-9c6d-26a553916410,c7fc74b0-c04e-4d8e-a209-d2e9dc6cb16c,9268.67,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Huffman and Sons,
+1daf5b85-afc7-4803-a6b4-2f5803d195f1,17f1e481-7a7a-470c-8bab-7e2458c294b9,1521.57,2025-04-21, pending,BAN-KOR,Koramangala,Bangalore,Debit Card,Ford-Marshall,
+a072e098-3f70-44c5-8f89-ab83fa09d502,c0c679b3-34ab-453e-9ac2-1853762b39ad,4692.66,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Cash,Blankenship PLC,Groceries
+e899b84c-2238-4625-a3a3-8db84f155159,74bae3de-b16d-4336-b1ac-1542fbecc646,5625.62,2025-04-21,Failed,BAN-KOR,Koramangala,Bangalore,Cash,Brown Group,electronics
+6e5a9c63-faf0-4d38-a2aa-dafad1a8a474,6f20cd11-0253-4c5c-b2af-431beade1e7f,7294.24,2025-04-23,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Peters Ltd,
+8eba91b6-861b-4090-9e92-5c3b78e5c929,95863151-59f1-4908-82da-27f010b0e007,7120.73,2025-04-24, pending,BAN-X-ERR,KORAMANGALA,bangalore,upi,"English, Rogers and Montes",Books
+92750ac2-64f0-4e9a-8fb9-1144bd4da401,f3f64e75-56d6-4171-9d9c-237ba287c8e1,8019.19,2025-04-24,,BAN-KOR,Koramangala,Bangalore,Cash,"Esparza, Vargas and Shepherd",Clothing
+e23a1701-c0c6-4aeb-ad79-0f075492d5c4,b12a26d1-795b-4288-ae2b-77ae44295180,4196.7,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,Credit Card,"Brown, Johnson and Bennett",
+3279ece6-5631-4e82-9aad-db99a34e37ba,e211d489-ae29-4266-a039-ea66e417ed4d,45462.63,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Ramirez-Walker,Books
+389bce7b-2a05-463f-a199-94f110e7e66f,d6c81538-06ae-4366-bc58-9e9003d3b2cf,8827.05,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,,Johnson Ltd,
+2ba5c142-a630-4176-86a9-a75b59d3c3f7,86d89ed2-0b0e-482b-b967-3f3addee6a13,7871.55,2025-04-22,,BAN-KOR,Koramangala,Bangalore,,Edwards PLC,Toys
+f475a7ad-88e4-43c3-834b-0cd360f51c17,e9651add-af93-46d5-8323-7691bfa1ebf9,1770.47,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,,"Glover, Hall and Miller",
+b062f6dd-32b3-4da5-a7ea-e2c697a4a116,686546a6-7ed7-46e8-a965-1c4182400395,9162.14,2025-04-27,,BAN-KOR,Koramangala,Bangalore,,Pruitt-Baker,Groceries
+ed3e265e-c67d-4cd5-a871-9e3f10df5198,98646964-df49-41d6-9cc3-769e267f956b,785.52,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Duran-Reyes,Clothing
+1c6a24c4-a027-4086-a4e7-599fdee39f15,958a2e48-f963-4dab-8ae6-eb3a7fea4a1f,6631.66,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,upi,Stein Group,Groceries
+26ad27ba-3251-4c65-80fb-8888bbd8fc71,b87e76de-c13c-4d59-81ce-fb6303b4c32d,6875.56,2025-04-23,,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Duncan, Moore and Salas",Groceries
+,5a0dce04-22ed-4dc2-8f3a-28ef559dfc4d,19101.53,2025-04-24,Success,BAN-X-ERR,KORAMANGALA,bangalore,UPI,"Hernandez, Wright and Richards",Clothing
+24729f32-1c34-4a6d-9a06-909b8ec6948e,9723a23e-55dd-461b-887b-acdf1d753f02,3199.48,2025-04-26,Success,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,Mccullough Inc,Home Decor
+acbd26aa-42d0-41a4-af28-dc812fbf5a31,b3e9d15d-26df-4910-a51a-a70047d9144f,5149.21,2025-04-23,Success,BAN-KOR,Koramangala,Bangalore,Cash,Smith-Thomas,
+,fc154df1-3c3b-4fc2-bd6d-67c66a48ee73,36198.4,2025-04-23, success ,BAN-X-ERR,KORAMANGALA,bangalore,,"Jackson, Martinez and Garcia",electronics
+0d71b0fe-2fcb-4fa0-bab1-ce753fe39338,fe29a949-9919-4c2b-a532-aa08e125d427,8475.98,2025-04-24,Success,BAN-KOR,Koramangala,Bangalore,Cash,Wilkerson-Smith,
+e665ec66-3ab3-4085-8796-f6db31f6ffc2,a3f73352-82b4-49b1-b755-7aba607bfa9b,1835.72,2025-04-27,,BAN-KOR,Koramangala,Bangalore,CASH,Berry-Ramirez,Electronics
+6468ae41-0714-4184-b705-018e0e2f0a2c,dc12be61-5f45-47f0-a8d0-6d92cb499646,3601.66,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,UPI,"Lane, Smith and Johnson",Books
+3f63e0d4-09e1-4259-9bb7-ce05a244b4d9,51e56bb1-7b20-4925-ac88-107a821aec43,6004.92,2025-04-25,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,Trujillo-Osborn,Home Decor
+3bf8e3af-148c-43e4-a290-068a626bb7aa,216f77e2-8e72-46d1-ae9b-199e44136bb4,9851.87,2025-04-23,Failed,BAN-KOR,Koramangala,Bangalore,UPI,Donaldson LLC,
+b1c583d2-055e-4c18-9233-05583c3f7cd7,4ed56d5b-1712-4661-b986-05004049ccec,1812.4,2025-04-23, pending,BAN-KOR,Koramangala,Bangalore,CASH,Anderson-Ballard,electronics
+d1e4ff59-bc5f-4ebc-94af-eca058c8be2a,5b47a43a-fb92-4bcc-9a79-a132316f2adf,36926.11,2025-04-24,,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Roberts Inc,Clothing
+1e0ad653-ff20-4ad0-acdc-432ec1c2d6f4,1441ca58-16c4-4472-bb24-c389a4d41e7e,3870.49,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Debit Card,"Scott, Flores and Richard",
+f6aea441-1706-4d59-a44b-da98695363a6,2c5ffa30-d371-4537-a512-5b6298ea165f,6722.24,2025-04-23,Success,BAN-X-ERR,KORAMANGALA,bangalore,,,Clothing
+6715c9af-a2a4-42d4-a272-eeadc422aeca,247b9104-6b16-4377-886a-b5dcbe8e6fe5,8967.71,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Combs Group,Clothing
+6568fc27-7955-4cf8-a487-6b2e7a154101,011ca3f7-99e8-477e-ab09-e3dcfe1dfa4a,5774.52,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,,Howard-Smith,Toys
+8474616c-a8f3-4e98-8826-98b88353a058,376bc8c8-03d5-4cd1-9b88-583234d06a9e,1704.18,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,UPI,Ortiz-Adams,electronics
+4838dfdd-735e-4b03-aa3f-ad2c0eb46e1a,fa8ba9ea-f063-4639-9843-0845efac2ee0,1895.19,2025-04-27,Success,BAN-KOR,Koramangala,Bangalore,CASH,"Barker, Williams and Sweeney",Home Decor
+a55a8075-f3fc-468a-8638-531d79723d6e,fe70bd6c-130d-4e10-809a-0c5d67d149ba,7169.59,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Credit Card,Hunt-Black,electronics
+0017c95b-fbb3-4582-95e8-84709e444f81,a45661b3-115b-4784-8021-890fe491f860,8888.87,2025-04-23,Pending,BAN-KOR,Koramangala,Bangalore,,Sullivan PLC,electronics
+f1cf2534-169e-4ccf-9a68-190390bf8f54,d8514192-0d0a-47f3-9ba0-2459e0b8768b,9362.3,2025-04-26,Success,BAN-KOR,Koramangala,Bangalore,UPI,Obrien LLC,Groceries
+5ec9cc06-06aa-4965-a47b-eef74d65e066,d1d547c4-05a1-4a4b-a59c-2cac2c62b5b3,2043.42,2025-04-23,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Henderson LLC,electronics
+d95b7380-e3b2-4ac8-bc80-6f94e18e06f6,8f510ceb-251f-40d2-8a9a-c1cc1a256256,8841.87,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,CASH,Higgins-Robinson,clothng
+8186172d-49e3-44ef-a080-3d25aa1ce64b,c616e338-eec0-4f61-a680-907e051d5a12,7725.72,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,CASH,Jones Group,Toys
+e9d2f511-d1b5-4b20-8e67-0e94ccd5b30f,4b6ec2c9-9035-4642-915c-7e094efa9439,258.08,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,Net Banking,Baldwin-Valencia,Books
+46c4152f-1ebe-4744-a122-ebccc47dd7bd,,9570.19,2025-04-23,,BAN-X-ERR,KORAMANGALA,bangalore,,Baker-Schwartz,
+7422bd32-2e7b-424e-8941-a31dbcd7774a,96698f37-c81b-4c46-8f4e-f87a1963a979,3719.93,2025-04-27,Pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Phillips Group,Groceries
+2ddf8854-9569-41d0-a4e0-6d64c91155eb,28065194-6d0f-4bd1-90a3-98be2b658a85,2143.85,2025-04-25,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,,Books
+,de457872-b323-4a5b-8fc8-c473dc1fd5d0,7300.12,2025-04-24,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,UPI,Mcconnell-Good,
+1d9f2185-27f7-438f-af7c-9bc27b285638,d041efa4-6d6b-4f76-9daa-ed35784e6efe,894.35,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,Credit Card,"Brown, Perez and Baker",
+d6648225-c503-4cf4-b8e5-9fbbcbc58415,9c30676d-e38d-4e1b-a484-236016240f8b,7346.05,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,Net Banking,Bruce-Long,Books
+a52527ca-cb68-488b-a03b-c381f097fab0,9ef4936e-5c44-4bd9-9eac-efdad7fad159,9845.81,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,Cash,Cooke-Humphrey,Toys
+497fc82c-eeba-4e0a-b1c6-b09b9fd31a78,3e941a58-e129-4c38-b7ab-7fff0fccbca4,6121.33,2025-04-23,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,CASH,,Groceries
+497fc82c-eeba-4e0a-b1c6-b09b9fd31a78,3e941a58-e129-4c38-b7ab-7fff0fccbca4,6121.33,2025-04-23,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,CASH,,Groceries
+37aa877c-7cd3-4789-b2a9-d5b8918cdcef,c6f8c9bb-1d60-4df1-bf93-5e3553993173,653.9,2025-04-21,Failed,BAN-X-ERR,KORAMANGALA,bangalore,UPI,"Smith, Kirby and Gonzalez",Electronics
+,855210c9-16ea-4132-bd0b-06e235dd4e4e,2235.01,2025-04-26, success ,BAN-X-ERR,KORAMANGALA,bangalore,,"Palmer, Allen and Aguilar",Home Decor
+10dfc979-934f-41b6-92ab-3f2aaf70988f,6232ebbf-b0f2-4e12-8157-6788ddf415f6,6811.24,2025-04-23,,BAN-KOR,Koramangala,Bangalore,Net Banking,Bennett-Cortez,clothng
+1126a4ac-955e-41ad-bb3e-ffe0639c1955,0cc93eb7-931c-44ef-8c14-3cd5ad7d5ee2,1772.04,2025-04-21,Failed,BAN-KOR,Koramangala,Bangalore,Debit Card,"Wilson, Lyons and Beasley",Home Decor
+c489bd45-290b-4cb8-a0c3-e18a3bfaa9a6,f7bbd4c3-975a-480b-84e2-7ba6183e6b01,29843.6,2025-04-25, pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,,Toys
+e98dbf6e-a484-4c1c-85a0-539a1fbc4911,b115ba81-7d50-425b-9d1b-fc7510649d99,6235.59,2025-04-23, success ,BAN-KOR,Koramangala,Bangalore,upi,Roach-Fox,
+e1b1b1fa-aef5-4b95-b3ad-b2b9083ad540,bbffe02b-c15c-43ce-b467-8f611690815d,9503.6,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,Debit Card,Roberts-Schroeder,Books
+ba9343d0-a323-4b6b-bc0b-9fa504ade787,b5f725ae-ee94-42aa-9cfa-51a4ef70ce93,3383.03,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,upi,"Barrett, Dunn and Phillips",clothng
+b29e6194-ef0a-46ed-bf0c-5bb27d728290,0da73ae7-9294-48f1-a950-15c2fb2d51e2,1001.75,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,Cash,Cochran Ltd,Home Decor
+b1d92a11-ca73-449a-8f5f-aaff30a63a61,71ceb89c-938c-4cca-9ce6-07fb887892e1,-90.23,2025-04-27,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,Randolph-Lane,
+3ffd17ff-1725-4e9a-a4c0-e9bbdb33e46b,1e1b69fa-1072-4c0a-afec-41c49f68ae6d,1603.22,2025-04-26,,BAN-KOR,Koramangala,Bangalore,CASH,Figueroa PLC,Groceries
+605bd022-63a4-4cca-8b29-a956d7f1ce32,f958898b-1b49-49d4-a3d3-c6f596f685ab,439.49,2025-04-24,Success,BAN-KOR,Koramangala,Bangalore,,"Wells, Short and Caldwell",Toys
+94b20a34-828a-496e-a0dd-9c8732e1120a,44452228-988e-4e99-a430-4c81237fe98b,5910.49,2025-04-27,Pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Perez and Sons,
+20f7dc8c-f456-422b-9fb7-cb63bb43669b,bcd4bb3b-5aee-4de6-aac4-e00b96f13cba,-73.7,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,,"Brown, Stanley and Bailey",
+071827ee-3b69-429b-9480-f6744a5a4319,1bded87f-e1e0-472b-a254-4d044f26414f,1940.18,2025-04-24,,BAN-KOR,Koramangala,Bangalore,Credit Card,"Ellison, Allen and Miller",Toys
+68e51707-bf70-4c79-ab22-90c6eba8f747,e3a3419b-8eef-4cd0-9d4a-3c95595d0d0a,7364.0,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Gonzalez Ltd,electronics
+bae382c7-f6a2-4e43-9311-a718e23d3f30,941cb14d-23b4-4fb6-8b85-d72742dc3f35,3156.73,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,Debit Card,Hamilton Group,Books
+8ef71cba-d386-44db-949f-0ff6e8ddad89,2fc45f15-3653-4055-b7c0-5b1da37af480,6277.95,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Martinez Inc,Groceries
+8a2f9420-dbae-4c0b-abb4-302b39a3cf61,4431bcd9-9d45-4b0d-821c-6173563e68c6,17813.15,2025-04-26,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Cunningham LLC,Electronics
+aa293a01-5234-45b7-99be-57a85ef5b4b9,8776b89d-96a5-433f-9ae2-a41b2c5b473a,6605.44,2025-04-23,Success,BAN-KOR,Koramangala,Bangalore,,Hale-Lewis,
+14983aed-8926-4294-871f-0086b40d0f74,242f9cc4-7654-4cde-a222-1579c4578b7c,7704.01,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,Debit Card,Hurley Group,Groceries
+46b5d963-201b-445f-96b7-17be6e1711f7,4f093c1a-0cdc-4065-bcce-9d8920f62580,5931.62,2025-04-24,Success,BAN-KOR,Koramangala,Bangalore,Net Banking,Cook PLC,Toys
+ba3a8f7a-d87f-4c3f-a2e5-d42dafffbfa4,cc4b75a8-0f54-4dd9-92ae-3dcba6099524,39631.41,2025-04-26,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,,electronics
+e2f14638-adeb-4dfb-bbe3-ddb8278a3e5a,a29e90c0-9f60-4db0-91a5-449e9848d72a,3171.11,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,UPI,Duncan-Austin,Toys
+0e38fca9-a124-4de1-8b19-c88ddbd0360d,1ed15480-c118-4a20-a9b1-b42dcbf8eddc,8871.49,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,,"Fuentes, Ray and Thompson",Toys
+ea3bf012-e44d-4c95-ae7f-47306c92c2e0,cc041690-e19d-4874-bf48-9f00c46fa88d,5750.42,2025-04-27,Pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Campos Ltd,Home Decor
+7328aaa4-6198-4dd5-a561-8057f9ef8ca1,a7941c80-81bf-4201-8e62-4adb407c1362,8463.27,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,UPI,Ortiz-Quinn,Toys
+de272e15-2a36-498c-8b5c-800707f8a5ed,578b3651-9526-4807-adcb-8a01bdbe6dd4,7545.72,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,,Walker PLC,
+58bd1b50-311a-4633-b402-7821e4eb613c,45219483-364b-497c-9fff-6340bf41503c,5513.71,2025-04-22,,BAN-KOR,Koramangala,Bangalore,,Price-Castillo,Electronics
+7dd895dd-8599-4750-b07c-70f0e3619306,9bed68d4-9862-4c47-b9be-6c5164b22ce2,7181.23,2025-04-23,Success,BAN-KOR,Koramangala,Bangalore,,Acosta-Wang,
+5bb32bb9-998d-4447-ad35-a4b61fb7f024,d8f92b52-9602-48cb-8b54-d1f92fe87eac,5773.65,2025-04-27,,BAN-KOR,Koramangala,Bangalore,,Bennett-Gillespie,electronics
+71e11de0-7df3-4140-88d3-8df4efbb71df,58ca40c7-1adb-430c-81eb-16b277bce7d9,493.56,2025-04-24,,BAN-KOR,Koramangala,Bangalore,,Golden-Garrett,Electronics
+4c26fc98-ae1c-48bb-8d70-e11837c843c2,9cc3e25c-1f7b-443b-b7fc-cdcfeeed8e6f,4726.01,2025-04-21,Success,BAN-KOR,Koramangala,Bangalore,,Thompson Inc,
+10fa6c5f-9460-42ea-ada2-36b8fdc710b5,9345a8df-d419-4261-b373-79f34dbc79ba,885.3,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,upi,Saunders Group,Home Decor
+117a4a8d-0e85-4b81-8041-929142348f43,753f810c-9a03-4d99-9c15-c71c55e86e49,4939.8,2025-04-23,,BAN-KOR,Koramangala,Bangalore,,Reed LLC,Groceries
+e19c4115-7484-45cb-abc1-84e922f6dd04,bfb1acfd-2362-4069-9ac9-bf4714223615,119.68,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,Cash,"Dunn, Marshall and Irwin",clothng
+fd74d47f-9217-4ce0-8dc3-d380a76d4a8d,834dccc9-0116-4e75-b519-83ce6310511d,7351.95,2025-04-23,,BAN-X-ERR,KORAMANGALA,bangalore,,,Books
+854be984-e3ed-48ee-b4ca-0ac9e495341b,f132cf76-b570-4b2a-b3bd-f446870cc4cb,49663.87,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,Patterson Group,
+d535e002-c644-4da6-bc4a-9818edaafa16,fda6699c-20ed-45ed-878e-642132c07985,9678.52,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,upi,Romero-Jensen,Books
+14705dcf-ad36-4fe6-9ef8-0486b9f88ad5,713c690d-ff0c-40c2-b7c9-cfe7af66f9c0,3690.47,2025-04-22,Success,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,Pugh LLC,
+be2a9ecc-8efc-407f-ae95-c4bbf81ec7a9,e47c6649-5b11-4dbf-9b22-709e89bb9254,9375.25,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,CASH,Reynolds PLC,
+1919cfda-7fb1-4070-817f-806d2b64cbbd,06049d11-065b-42c2-b46b-5a43f9900256,9727.01,2025-04-23,Failed,BAN-KOR,Koramangala,Bangalore,upi,Kirk PLC,Books
+73c73214-db19-443b-b89d-95fac81e5a7c,38975ef0-44df-42c9-8419-88d4d5a756a5,3005.7,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,upi,Carter Ltd,Clothing
+34b668f6-6857-4f24-902d-7d5c5ef8d5a1,d1a98816-f4bc-4ad5-834b-8b6a87ac59b1,84.04,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,,White PLC,Groceries
+adc74340-7135-4dbc-9c09-b2d8f9eebb37,0a60a6b6-1d68-4516-b902-5836c926b7f1,4540.53,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,CASH,Morris-Vaughn,Toys
+1d9ce59d-13e0-4f30-8f6f-13f78bb2a006,038c46e6-88dc-4019-81a5-b8791359b59a,4431.3,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,,Ortiz Ltd,Electronics
+c697eab3-b95e-4f51-8256-3342e01849ee,f94d1c9a-8cf2-4004-91d4-2acb8baf3d69,5414.94,2025-04-22,,BAN-KOR,Koramangala,Bangalore,,"Wilson, Romero and Evans",Toys
+3cd679c8-4423-4bbf-9939-b74f7bc01bab,f8f0b025-4bdc-4840-ad59-d29b8d407b4b,3890.34,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,,Bowers Inc,Books
+48915619-a1b7-4de3-90d3-5b1f56ca321d,ea63f5e1-af98-402e-a861-c0f5077599e3,1.51,2025-04-23,Failed,BAN-KOR,Koramangala,Bangalore,CASH,Villa PLC,Books
+95606fb4-d6fc-4e84-acbd-9525f330c744,df9dcacb-e12c-42f7-8f87-19630e08f9b0,6725.99,2025-04-26,Pending,BAN-KOR,Koramangala,Bangalore,Debit Card,,
+341f2023-505c-463f-940d-af8a0a08a8d0,e027db0d-6dae-41dd-9ec9-a49f044b49c3,9575.87,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,Net Banking,"Vasquez, Hatfield and Tran",Toys
+892ade41-690a-4418-845e-ae0695c41a99,1c793f17-0f3b-414f-b2fa-1099e0ff5eba,8963.15,2025-04-26,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Henderson-Sullivan,clothng
+bbc55b2d-40f3-4c0d-ac48-c3039c83d480,b7778b56-e3f7-460a-a54e-1e189f7014a1,1102.06,2025-04-26,Success,BAN-X-ERR,KORAMANGALA,bangalore,CASH,"Parker, Sanchez and Greene",Toys
+9e3720f1-66c4-4e51-a558-5767c1310f56,2a56a193-8ccb-43e7-aaac-f029d3cae6ae,4409.99,2025-04-25,,BAN-KOR,Koramangala,Bangalore,,"Brown, Powell and Thomas",
+4e9168f2-04d9-44e9-8591-0cd0d252d23c,a1070b6a-9dff-4975-b31e-5d0c1e5c7b81,8827.29,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,Net Banking,"Herrera, Chandler and Robinson",clothng
+0d1492eb-576e-41d2-b97e-15a23cb8368a,71a87123-3709-497e-b4de-0acd06fab255,6799.76,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Williams-White,Books
+53e355c4-503d-427f-9e32-76aa84fd8b86,df5c4886-8e34-4c1c-b566-ceee0f75cb33,1977.2,2025-04-24,,BAN-KOR,Koramangala,Bangalore,UPI,,Electronics
+cee19c8c-c717-4869-b060-ef6eadb1cf96,6b7388b1-f9e3-4688-81ac-3d961497de9f,15038.08,2025-04-27,Failed,BAN-X-ERR,KORAMANGALA,bangalore,upi,,Toys
+9eeca9e4-f297-4beb-9400-9e21a667257d,c709f959-3185-4db5-be5f-95e7f25b8ef0,2189.35,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,CASH,Wright-West,Electronics
+26268919-eb5b-42ae-9aa3-68e0f0333a2f,0ee4a0f7-142c-4034-b21d-9a333fc25d67,6478.59,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,CASH,"Johnson, Roberts and Gomez",Electronics
+5adf663d-76f6-48e4-93cc-bd9ef0cf9f7e,07d34c63-3fda-4bee-9a9a-4693a999bee3,5625.17,2025-04-22,FAILED,BAN-KOR,Koramangala,Bangalore,UPI,Smith Group,Books
+8b3f03b9-d67e-4b25-85c3-c7db393e08c0,f7f61998-3343-47c3-a02d-6c9813e93c46,4044.45,2025-04-24,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,"Wilson, Smith and Morgan",clothng
+8b3f03b9-d67e-4b25-85c3-c7db393e08c0,f7f61998-3343-47c3-a02d-6c9813e93c46,4044.45,2025-04-24,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,"Wilson, Smith and Morgan",clothng
+c3da33f6-7667-43b4-858e-c65c226fdfe2,cd734a64-d213-4cd9-b37d-e7512acee707,8301.29,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,,"Gonzales, Keith and Maynard",
+db3cc164-155a-4e01-aefa-b10b2c2635de,,41382.72,2025-04-24,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Cash,,
+c7800e2a-4f30-482a-b61a-55f188127701,1cc4ec86-6315-40e8-a773-e4323e0dfb8f,6348.09,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Debit Card,Lee-Bell,Toys
+a832eec5-8b6f-4652-8c93-a5be5bae0474,4c50833a-31df-4726-8a43-7de8258422ee,15669.03,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,upi,Thomas Inc,electronics
+54f59870-8270-4ec3-8a2f-1333db8994d9,efd2c18f-f47b-451b-a175-992172a9cc1b,6271.08,2025-04-23, pending,BAN-KOR,Koramangala,Bangalore,Cash,"Melton, Cruz and Young",Books
+1aff19a7-b74c-4901-a8ef-f1811519ae26,be217520-fff5-446d-bfff-9603c82b207b,7411.69,2025-04-25,Failed,BAN-KOR,Koramangala,Bangalore,Credit Card,Thomas PLC,
+f1b33570-ba35-4d98-a9a2-4458dcb72ee5,f155483a-57ed-4fe2-8f4f-1cefea4dbf28,5523.81,2025-04-24, success ,BAN-X-ERR,KORAMANGALA,bangalore,upi,Rogers Group,clothng
+f075ebe5-7236-4eef-b214-a01e839e92b5,0d353ce7-a0a1-4c3e-8ca8-de1cb1045870,6914.78,2025-04-27,Success,BAN-KOR,Koramangala,Bangalore,Debit Card,"Williams, Dominguez and Clark",
+7ac1fd15-f245-4cfe-96ba-6365da7d1a8e,944abeec-cbdb-483f-a465-6decc8d6f126,9857.15,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Harper, Thomas and Norton",Books
+77c5faba-3d43-4a7c-97ee-a5af4e1d7956,d875506e-bc87-428e-9bfc-1c2dee70c4f0,11839.49,2025-04-23,,BAN-X-ERR,KORAMANGALA,bangalore,,"Thompson, Davis and Gonzales",Home Decor
+3b5fd2d4-489e-46b3-ad76-1f926645b3a6,9edc2e21-66ff-4b56-a0be-e68a1c4f2a7c,2197.52,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,Cash,"Dunn, Brown and Bowers",Clothing
+c2b0bfbc-1310-4f1d-83d8-37d985bd1a59,de033293-ce0f-4c5e-9385-6201af3cf4f7,996.33,2025-04-26,Failed,BAN-X-ERR,KORAMANGALA,bangalore,,Salas Ltd,
+be7eb35f-db55-404b-9cb5-c9350de20043,25116a08-2b39-4100-9020-fe65eaff71a1,4411.93,2025-04-22,,BAN-X-ERR,KORAMANGALA,bangalore,,Kelly LLC,Clothing
+be7eb35f-db55-404b-9cb5-c9350de20043,25116a08-2b39-4100-9020-fe65eaff71a1,4411.93,2025-04-22,,BAN-X-ERR,KORAMANGALA,bangalore,,Kelly LLC,Clothing
+c46eb946-7db9-488f-8c29-8f03c93f96bb,75fa675d-860a-4b2a-bc85-db52271c77fb,1203.48,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,Debit Card,"Boyer, Mitchell and Duncan",Toys
+c3090626-3a2f-44bb-a2da-ce0bb1d6e976,,1047.4,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Dorsey, Smith and Anderson",Books
+9003aeed-0bd2-4bb4-ba93-3aa45605db8c,a92b2cc9-5fa2-4b85-b781-f52f1af69b15,6038.56,2025-04-26,Pending,BAN-KOR,Koramangala,Bangalore,upi,"Keller, Chan and Lewis",electronics
+,cea05d3c-2e7f-4790-846e-757cb257d392,1296.13,2025-04-22, success ,BAN-X-ERR,KORAMANGALA,bangalore,,Cobb-Stewart,clothng
+9abef7bf-9151-43a4-85d1-e1287867dce2,1f5a3244-dccb-40b0-a1e3-e7235fe0c6e7,7972.82,2025-04-21,Failed,BAN-KOR,Koramangala,Bangalore,Cash,Powell-Smith,Clothing
+90e7fe90-97e3-4876-894c-1c419f04cdec,1c443215-1e92-40ee-a783-2bf429f95f2c,7339.65,2025-04-21, pending,BAN-KOR,Koramangala,Bangalore,Net Banking,"Evans, Roberts and Knapp",
+ab41a728-699a-40dc-abaa-aababe74fe99,1bee073f-d057-45ef-8fab-c84fb35659bf,3854.32,2025-04-24,Pending,BAN-KOR,Koramangala,Bangalore,Credit Card,"Chan, Gonzalez and Smith",Electronics
+d09c5509-3b20-41c8-9440-ed7b0ff37c14,6a5173d4-e9e5-4cb6-855c-6218c58d515c,9900.93,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,,Guerra LLC,Books
+eb70289f-c477-4bf7-ad74-9127db29d99b,cdc2ea0c-7457-47ba-9eec-3cbca951d597,989.24,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,,Warner-Cox,Electronics
+c0cf8fd0-5ec2-4ce4-90e0-239a385582a8,2024ed73-778c-4811-9a18-228e833b22f2,8620.2,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Smith-Weiss,clothng
+1189ef12-47c4-416a-a5a2-2da2fcc410a5,7c963e47-84fe-41e3-80d1-ff371963e10f,7082.04,2025-04-22,Failed,BAN-KOR,Koramangala,Bangalore,Cash,Torres-Cobb,
+2c2c98cb-2b67-4127-9067-96749ca1d40c,ac214889-af5f-4b91-aea1-3bf79e1281b8,193.76,2025-04-23,,BAN-X-ERR,KORAMANGALA,bangalore,UPI,Ortiz-Jackson,Groceries
+b834b876-5dda-465b-a8da-8a86735d1009,394bd375-8dbf-4c52-8b69-7814f2be3394,8585.3,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Norton-Moran,Groceries
+2fdb2aac-744d-4171-9115-7a3f97a6f464,84f3b8c4-4cfd-4af1-b502-9d4f6e76f042,9678.85,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,Net Banking,Guerrero-Williams,
+07c8b488-c918-4465-af1c-39243fe82231,762b5278-a6e2-4063-b9cb-19e79bd68eff,5620.71,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,Debit Card,"Hardin, Sutton and Rowe",Home Decor
+65852e7e-8ab1-4ae7-a86d-16e8e0646eb1,81d325f6-92a1-4748-944e-796260f1e8e3,4839.97,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,Net Banking,"Murphy, Johnson and Williams",clothng
+a387e3d9-91bd-4c83-8d9f-a8f020b4f5a2,380f6ba0-dcb4-4439-bf10-420e4e5a8da1,2681.19,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,Net Banking,Smith and Sons,Electronics
+eef39b8b-b7d7-4616-bbcf-ae94d3acfe07,1b1d8b18-0466-4dc1-b3c2-b72ac3a4e8fc,2524.75,2025-04-23,FAILED,BAN-KOR,Koramangala,Bangalore,Cash,Harmon Inc,Books
+f28b4865-6392-412b-a381-3df73e87c294,,877.87,2025-04-23, pending,BAN-X-ERR,KORAMANGALA,bangalore,UPI,Harper PLC,Home Decor
+978d5c4e-4c6b-4d58-83ce-fb9368e8368e,87d43651-6aaa-4c58-ad13-2092687203c8,4364.63,2025-04-25,,BAN-KOR,Koramangala,Bangalore,,,Electronics
+,fe1e11a7-f767-482a-b36d-d5677b8b8b3a,40309.85,2025-04-24,Success,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,"Hunt, Booth and Cohen",Home Decor
+cd84d9ee-feff-4711-927c-b7d0e6fde7a5,2b17d916-2ed0-40d1-9614-a837cff05f3a,8843.42,2025-04-21,Success,BAN-KOR,Koramangala,Bangalore,upi,"Smith, Lee and Gaines",Electronics
+084dc4be-6696-43fd-a791-0c6da85c558a,923649ad-6b64-4ce7-9113-f539e93a6007,5868.08,2025-04-21,,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Blake-Gutierrez,
+084dc4be-6696-43fd-a791-0c6da85c558a,923649ad-6b64-4ce7-9113-f539e93a6007,5868.08,2025-04-21,,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Blake-Gutierrez,
+b2e944ba-4d99-4ab2-b399-2cb5e49506f6,b97117b9-41dc-4bb3-8129-7a52bbb0d3f3,5567.29,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,,"Green, Taylor and Jones",Clothing
+7169f2c0-6906-4306-8394-480f13792c79,a315234a-9c45-42ea-9d8a-ad4503a2cb1f,47219.86,2025-04-21,Success,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,Clark-Shields,electronics
+c6403d17-68ea-444c-abcb-e66b3ab46a2f,16f290af-a06f-47bc-8a40-f765e36e8607,3090.63,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,Cash,Chen PLC,Groceries
+41dbc7ef-0874-4cdd-9a40-f8a7760a0015,,10975.62,2025-04-21, pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Rivas, Hill and Patterson",Groceries
+e6bdea30-fa87-4ae9-8236-b3b2c28c462f,88014ac9-3a96-4b71-a695-5102cdacb78f,2108.76,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,,"Hernandez, Holmes and Johnson",Electronics
+ba68303a-4ecf-4c43-b337-b92810cccea9,9db95f3a-a132-4abd-bcef-d58841b9fafc,4502.55,2025-04-26, pending,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,"Williams, Lucas and Barrett",
+a45c46c3-f4ba-438c-be64-813fa25180bd,0fd72804-81a8-471c-9379-2d06382610d7,3884.86,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,,Rodriguez-Sanchez,Books
+28f4a437-b748-49cf-9a29-ee5a82e67782,ec8f36b8-718b-48a6-9710-526ae7d85eb6,9098.56,2025-04-25,Failed,BAN-KOR,Koramangala,Bangalore,Cash,Gallagher Group,Toys
+d731a70e-90d2-4139-aca5-e10da8933140,,36113.09,2025-04-22,Failed,BAN-X-ERR,KORAMANGALA,bangalore,,Rogers PLC,Home Decor
+d731a70e-90d2-4139-aca5-e10da8933140,,36113.09,2025-04-22,Failed,BAN-X-ERR,KORAMANGALA,bangalore,,Rogers PLC,Home Decor
+e93e27e7-aebc-404c-8658-9844a78cd57b,eb5a780f-536a-44c8-b435-573403cc502d,3157.9,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,Net Banking,"Butler, Mckinney and Marquez",
+80ef7b7f-c479-4e2c-8903-ffaefe97b8f1,f109ed8b-a09f-4bc4-ad2d-d316ed17aaf0,1274.47,2025-04-22,FAILED,BAN-KOR,Koramangala,Bangalore,Net Banking,Mendez-Webster,Groceries
+339c4436-0e16-4c98-9160-8621b58a3243,eeb77b89-3bfb-4564-a1a1-c45ead302164,5301.9,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,Cash,Macias and Sons,electronics
+a41b6696-c716-4e9f-9b8e-656a7b8d2913,82cd3317-bc24-4777-941b-34acaa527317,7699.31,2025-04-22,Failed,BAN-KOR,Koramangala,Bangalore,CASH,Park Ltd,Books
+,,6746.14,2025-04-22,Success,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,,Electronics
+759a6f39-16f6-4382-a2ce-537bd6f98bb6,b4553e1b-95eb-48da-9c5a-a23305e568ba,6381.67,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,Net Banking,Chapman-Wiley,Electronics
+34e6a862-10bc-438d-89ff-e85511eab6b6,2f3b240c-0fae-4e2e-9d33-601141355bdb,6393.22,2025-04-21, pending,BAN-KOR,Koramangala,Bangalore,CASH,Wilson-Price,Toys
+8b1bb5f3-b5bc-4264-941e-535119348a88,f409336a-e1f1-4016-ac1f-9067c39ded8d,8441.41,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,,Perry Inc,Books
+073ee874-7fd4-40b3-aa10-d7230e9bba04,df178665-6567-4291-bab3-476d77fc74e8,8119.82,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Debit Card,Hooper-Lopez,
+1f74261a-9f3a-4a28-8762-dba5b50ac023,ce5c2662-798f-442b-a119-e875d8eeb7ff,7859.56,2025-04-22,Pending,BAN-X-ERR,KORAMANGALA,bangalore,upi,Olson-Mckay,electronics
+a77f3a76-89f8-411d-a5dc-04572878bd2f,e0bb5545-f3c1-4169-b68b-55b953bc649d,3715.04,2025-04-26,,BAN-KOR,Koramangala,Bangalore,Credit Card,"Cannon, Jones and Floyd",Groceries
+97e3a15d-80a4-4d5b-a0f5-7371bc444e46,d086378e-68ca-4c66-900c-f4b64a541394,7188.59,2025-04-27,Success,BAN-KOR,Koramangala,Bangalore,CASH,Salinas-Jones,Home Decor
+5b032d44-fbed-4644-b5fd-07f9801c95ed,,1200.45,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,Bates Group,
+7c0d6a55-b43d-4e88-a0f9-6a03754aa390,a904908b-9c3b-4fb9-b043-1feb8a2f93e1,7069.98,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,CASH,Mccullough-Turner,electronics
+14bec16f-e90f-4c19-9f6f-3677e34fb3ac,ff2dac4d-bfbc-44ad-aa75-8d546c6400e4,5087.8,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Cash,"Kemp, Miller and Howard",Groceries
+a3635f85-f695-4cda-8552-3e7749de61a5,250323fc-5111-4de8-a942-c1d2faadc30a,422.49,2025-04-24,Success,BAN-KOR,Koramangala,Bangalore,Credit Card,Coleman PLC,Home Decor
+a9659f28-695b-4bb3-9f45-374fc4bd6167,,49467.17,2025-04-26,,BAN-X-ERR,KORAMANGALA,bangalore,,"Bautista, Griffin and Black",Home Decor
+d0d90785-9207-4ac8-8940-89c59d8cae4f,77a4e606-fc83-41fd-8d05-08340299e75a,1922.73,2025-04-27,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Gordon Inc,Groceries
+03053c1e-f8fc-431c-925e-db9f6677a979,3e66f761-c372-410d-9d47-a6b942f05e1e,7531.42,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,,"Grimes, Day and Nelson",Groceries
+90cbc717-e9e8-4dbc-8a40-1e760aa86138,7b2ca4ac-d22b-4925-a010-dabbf6dc580e,3688.07,2025-04-21,Success,BAN-KOR,Koramangala,Bangalore,CASH,Arnold LLC,Clothing
+11f95d56-3d06-4542-80b8-2f14184e9698,5e9f4386-1299-40dc-99d0-99e3e0291df0,2491.1,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,CASH,Goodwin-Huffman,
+38eb3fb1-89e5-4c83-91cf-01160de3e7da,a889014c-aff2-4625-ae51-b508032483c6,7367.5,2025-04-26,Pending,BAN-KOR,Koramangala,Bangalore,Debit Card,"Torres, Hull and Gordon",
+58ad2227-fe02-43bc-8021-3d16c00f9496,,45522.68,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,upi,Sutton Ltd,electronics
+3b26d81e-eb99-491c-8a27-01e99efeb171,1e8abbce-0649-4ddb-a6f0-6b8cebb70421,7761.77,2025-04-23,FAILED,BAN-KOR,Koramangala,Bangalore,Cash,Hernandez and Sons,Groceries
+a394c4db-c4c8-44b9-91f0-5c4a325d94b1,457591cc-58f6-4fc6-a647-4d713fef5a8a,7091.67,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,Cash,Brooks Inc,Toys
+c3c84a54-32c6-48e6-9b09-be3e3babefbc,,5430.42,2025-04-27, success ,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Oconnell-King,Home Decor
+8d5377e4-7784-4531-a05f-eb59290b1ca1,1c7c0f0c-cbe2-4754-a17b-af8112cdd7f1,8277.93,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Net Banking,"Joseph, Edwards and Davidson",
+3b6f807a-7af3-4237-b3f2-4a18cb53db1f,15d0244c-ea05-466e-9eaf-9f29d2b9597e,8980.72,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,Credit Card,"Ayers, Jarvis and James",
+,0fdab8bd-6ef4-4a28-a2aa-249fac175fe6,4203.22,2025-04-26,,BAN-X-ERR,KORAMANGALA,bangalore,,"Esparza, Ortiz and Washington",Home Decor
+4a0e6f6c-3593-41f7-85be-5bde25a345d9,a44d4f78-67a7-41c4-bcdf-0570bb1ccb05,7721.5,2025-04-27,,BAN-KOR,Koramangala,Bangalore,upi,Baker LLC,
+57472b7c-74ac-415b-97c1-299a4bc9a961,d628f07c-541b-4313-afa4-18901b71bf03,7042.34,2025-04-26,,BAN-KOR,Koramangala,Bangalore,Net Banking,"Mills, Williams and Edwards",electronics
+6c19fbe3-25e1-4ba4-bb64-a1cc826bb69e,a2dcd0d1-78a0-4b63-9599-6349a42d5260,2444.27,2025-04-23,,BAN-KOR,Koramangala,Bangalore,Credit Card,Brown-Blanchard,
+e6a7b779-bdba-4c3e-b86b-2aa53b58dfad,d63b6459-7064-4fc0-9207-ffea0f168e1e,4972.02,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Moore, Love and Curry",Groceries
+2d72f8b6-9fb3-4167-962b-e4089d678049,3e5454cc-f750-4893-8dcf-e8c87fda1d97,892.54,2025-04-23,,BAN-KOR,Koramangala,Bangalore,CASH,Ferguson PLC,Clothing
+d2fb372c-6016-428d-b343-e8edb8e22468,4301b664-e4b5-4879-bacd-55f38f92559e,2577.89,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,Credit Card,Jones Ltd,electronics
+fb5f884e-0e3d-40cc-b23d-f93d13c3eea4,1770f984-588a-485e-a249-1539d346c306,3226.02,2025-04-24,Success,BAN-KOR,Koramangala,Bangalore,,"Davis, Robertson and Cantu",clothng
+27550091-6a4e-4ed9-aa33-44842bc005f0,6101f8a9-3265-430f-8554-6ad09d625af8,6354.34,2025-04-25,Success,BAN-X-ERR,KORAMANGALA,bangalore,,"Kelley, Velasquez and Ball",Books
+62f60ee4-9d6d-4aef-accd-be209d8529cf,2679a780-54dc-4409-8c24-1ea1d899d7c4,8302.07,2025-04-21,,BAN-KOR,Koramangala,Bangalore,UPI,"Gentry, Payne and Thomas",Groceries
+d18c6382-614b-43cd-a53e-5823511a5be7,99f3cb87-ae79-44dd-b77d-ee40ad840f02,6315.29,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,upi,"Lee, Wagner and Brooks",Clothing
+93a9f483-66b4-4c8d-80c0-b06d5ac58602,9ceaec62-09ad-4e6d-a068-27d448f89ac4,5038.11,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,CASH,"Parrish, Owens and Jones",Clothing
+9862185d-233b-42ec-8cc8-0a0387eed0d5,77841445-a288-4241-94ae-b8ba9c658cc0,6702.27,2025-04-27,Pending,BAN-KOR,Koramangala,Bangalore,Net Banking,Roach Group,Home Decor
+1952eb8b-6b59-48b7-a46b-3225e3cce70f,5b872950-4111-4c81-9ccd-73e9ed531949,3487.18,2025-04-27,,BAN-KOR,Koramangala,Bangalore,CASH,"Smith, Sandoval and Mccoy",Books
+,70ec3df4-853d-40e3-ab2b-72751af88993,4058.95,2025-04-21,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Haas and Sons,clothng
+25b60427-1186-4e8b-9051-b2b069d1bd35,6bd20644-103c-401b-8224-0d5b2f46b63b,6095.18,2025-04-23,Success,BAN-KOR,Koramangala,Bangalore,CASH,Griffin-Morrison,Groceries
+a543caa1-4f43-475f-a7a5-e0b73d5e65e2,af291d10-da43-4680-aeb4-8484721f9c2e,313.2,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,CASH,"Kelley, Kelly and Stephens",Toys
+b7f56532-19de-438b-8fac-9b612d44ba94,e6962d24-8314-4778-a13f-3dbb2bf7c3f5,8515.51,2025-04-27,Pending,BAN-KOR,Koramangala,Bangalore,Cash,Clark-Morris,
+42d128df-1a21-4594-9177-0ff3405aab39,a37318b7-183c-4a97-8974-bea73ead251e,3135.48,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,,clothng
+e23eb3fb-6559-4d39-adbc-fe34401da555,3b84d893-e9e4-4240-b612-44b1dfad20e3,1395.53,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,upi,Huang LLC,
+1b4f9f37-cd67-4ebd-8dee-af7ae5f7f503,0b3a093e-1755-41d9-bcfb-2acc5ab61db3,4927.64,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,CASH,"Walker, Weaver and Carter",electronics
+c5aa7ca7-0891-40b2-96e4-8d8238b7fe2c,9c1722e4-52f7-4704-abb1-1fea095c7256,3769.81,2025-04-21, pending,BAN-KOR,Koramangala,Bangalore,Debit Card,West-Carter,Books
+98e3f82f-6fac-407a-bb07-0ecfcae4467b,f40e86e6-1bef-4bfd-b73a-d3f016793705,8949.52,2025-04-23, success ,BAN-KOR,Koramangala,Bangalore,UPI,Cunningham-Jones,
+479e1994-f859-4eec-81ee-321ef4ecb2fe,949058e9-d32a-441e-a9a0-afc0fa77e4ff,9138.99,2025-04-22, success ,BAN-KOR,Koramangala,Bangalore,,Hernandez-Turner,
+73be17e8-24d7-4d13-95e2-5bf2d2bc8db8,99fa55bf-f52b-42d5-9c0e-b1601c9239b0,9081.1,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,Debit Card,Jackson-Torres,Electronics
+b410eaca-8a30-4a27-935a-a22c9ada53e2,337d186b-d7d8-408d-89cc-70587c94c942,8918.88,2025-04-23,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Clark Group,
+a80074f1-f711-4a77-9874-be875d2f078b,cc56155c-cdbd-4e25-ac1e-9a8a9ee63982,7493.83,2025-04-26,,BAN-KOR,Koramangala,Bangalore,,Jones-Kelly,Groceries
+012a3ca0-238d-4bb8-b4dc-f56f2188ad04,e95cf653-2767-4339-a892-715eb2aa7881,4906.42,2025-04-22,Failed,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Oliver-Garcia,clothng
+aa9973bc-f367-441a-b4fd-07037d6b4555,d0251a6b-165d-4c1c-88ae-ef17070fa81e,2214.95,2025-04-23,,BAN-KOR,Koramangala,Bangalore,Credit Card,"Williams, Cooper and Swanson",Electronics
+11607bfa-b0e2-4e83-97a0-ee80da63ab31,,4115.65,2025-04-26,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,Santos LLC,electronics
+98b017d3-b621-4bab-8c24-e7868bca4204,b452ae5c-38bf-4986-bf44-4a898ce18858,3176.77,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,Net Banking,Elliott PLC,Home Decor
+,5ccbbf9a-3ef2-40fd-8cfb-09ec6ec354d6,7553.09,2025-04-24,,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Richardson Ltd,Groceries
+c93833ea-6588-4860-a477-c20852f8ad10,e1a94b11-bddf-4a79-855d-13d8410af3aa,5672.58,2025-04-25,Pending,BAN-X-ERR,KORAMANGALA,bangalore,upi,Chen Group,Groceries
+e9498be6-3550-461a-a6ea-756a4ea8a9f2,02c3ef39-9b6e-422b-a0ba-5d422314b60c,7646.46,2025-04-21,,BAN-KOR,Koramangala,Bangalore,Cash,,Books
+563b6220-9c43-44e1-8cac-dec382c23e2b,93510812-cda2-431c-829e-b993f28ec580,6370.38,2025-04-21, success ,BAN-KOR,Koramangala,Bangalore,CASH,Porter-White,clothng
+c3e4761b-00cd-4002-9379-5bf4ef03b64f,3f5bdeaf-b3f6-42c2-ae44-dac5c5b45590,2133.7,2025-04-26,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Hernandez PLC,Electronics
+c498d8ee-dd85-4065-ad2b-49d0e6cb4447,587d2490-031d-4e8d-9423-83de29626641,955.92,2025-04-23,Success,BAN-KOR,Koramangala,Bangalore,,"Myers, Roy and Davis",Books
+4407c32c-8f3a-4848-90ed-57e2321ec8ad,2761d91c-43fb-491c-b12b-841b84da3e2e,17312.65,2025-04-21,Success,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Baker, Mills and Phillips",electronics
+c1ad74e7-b63a-4fb0-ae6b-1f12fa77951a,0b50ba83-c62d-404a-ba89-c56f28100f60,9531.4,2025-04-24,Pending,BAN-KOR,Koramangala,Bangalore,,Parker Ltd,electronics
+95cd9183-e025-41cc-a2a2-d2577fe0f9e7,313286b6-72ab-47da-afcd-957777e37e9b,9353.42,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,Net Banking,Barrera PLC,electronics
+b5f3cb02-d36d-4133-a999-6376f2b3fc75,827a7bf1-a496-486d-9b8f-cbd81685206c,2444.26,2025-04-21,Failed,BAN-X-ERR,KORAMANGALA,bangalore,upi,"Carney, Schroeder and Ayala",Toys
+28e191fa-dd3e-445a-832f-6586a4f95de2,dcbfc121-38d5-4665-9755-8283aa02dae2,3326.54,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,upi,Ellis and Sons,clothng
+c416faa2-57e4-4ed4-aa62-4b1e875fd7d3,d58cc103-7558-4538-a52c-f960fa26e263,9554.98,2025-04-23,Pending,BAN-KOR,Koramangala,Bangalore,,"Williams, Nielsen and Gamble",clothng
+e0ac0e03-5590-4ad9-ae09-0199a8a9cea1,d2df1197-f26c-4bb0-9f52-2caef946a601,1521.61,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,,Simmons-York,Home Decor
+30915591-bd80-421c-bca7-af667494f395,0c693957-12ad-43c3-a03b-d81d7058a63d,14421.07,2025-04-26, pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Moody Group,Toys
+dfdbe28f-8e9c-4ca5-bb10-dc3fa8beb929,ba6b4e73-7c16-4c8f-b3a9-625db70baa62,9765.26,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,,"Rivera, May and Obrien",Electronics
+4a711cde-26d8-4fb3-bc2b-aec27d230485,a9d00aa5-5e33-4a61-86e2-010a6b6e44e6,9058.45,2025-04-26,Pending,BAN-KOR,Koramangala,Bangalore,,Bailey and Sons,Toys
+992cb291-1858-44d4-9726-94dab14b2641,b84880f2-02b0-43c9-94ba-e69023037f42,6281.86,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,UPI,"Carey, Stanley and Hammond",Electronics
+dd835861-857c-47ea-b662-ba496578bcab,10a40c89-c534-4fec-9448-58b02b2c410f,7692.66,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,,Little LLC,Electronics
+d1e62852-ecd1-433b-a671-b9f8eb2980b0,b97aa292-a7e9-4425-9a6f-121ee70d59a7,3364.02,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,Credit Card,"Roberson, Hernandez and Henson",Groceries
+914edc2f-6f6e-4fd6-8173-fa36e9dba48e,3c7bca68-d9df-49cf-a98d-1e09ae0f82f9,3319.41,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,,Lopez-Todd,Groceries
+31245cf8-8d01-4ddd-a955-0921fe2d88a1,d3f7d16d-2baf-4016-9502-19f97205e72c,3514.12,2025-04-21,,BAN-KOR,Koramangala,Bangalore,Cash,Smith Ltd,Books
+20233938-2fbf-48e0-b5c5-5abc7e9f020c,4d8c0e88-4d11-4dd1-87d0-bbfec84eedde,3215.14,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,UPI,Smith-Johnson,Home Decor
+4cc9dea0-377f-4fb5-9af4-2d5445fd83f4,d03bc928-64aa-4ae8-863a-f19249f0b6e1,4601.23,2025-04-23,FAILED,BAN-KOR,Koramangala,Bangalore,UPI,Porter Ltd,Books
+d7f18eaa-9ab9-4f14-8d15-06efe756f702,7e564cba-1240-46dc-8011-017722205e03,7362.29,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,Debit Card,Thompson-Mejia,Groceries
+72bb5039-77b8-4308-832b-9e6c32889cdb,43ff0c25-0566-4447-aedb-80212ad8c43f,9976.29,2025-04-27,,BAN-KOR,Koramangala,Bangalore,Credit Card,"Baker, Allen and Colon",
+ce0b2e76-e8e4-4214-a22d-15bdfea79e2e,d17837b5-8d77-4476-a354-1b1a254f2507,8205.49,2025-04-22,FAILED,BAN-KOR,Koramangala,Bangalore,Net Banking,Gregory-Duncan,clothng
+,49cac31e-8eb2-4406-8c3f-3de74eadb75e,5656.75,2025-04-27,Failed,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Burgess Group,Home Decor
+5d501ff8-631a-45d7-93cd-b211596f17ff,7e0abe75-8d21-42b4-9869-cd185e4f6b59,3188.55,2025-04-26,,BAN-KOR,Koramangala,Bangalore,CASH,"Burgess, Hubbard and Juarez",Toys
+f7185003-1b3a-4533-b455-d0c34011d4cf,00caa98e-064f-45c9-afac-f8e03ce3e2e8,5729.84,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,UPI,"Bauer, Gonzales and Brown",Groceries
+c4833082-55f5-47a8-b842-eade259497b2,64ee9919-1c0c-41c7-a5dc-20979bb280dd,9911.9,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,UPI,Hubbard PLC,Books
+438f374b-d9e5-4020-abe5-50172f0ff50b,e7653ba9-cd79-41de-9a44-630cbe94fae8,6640.5,2025-04-24,Success,BAN-KOR,Koramangala,Bangalore,CASH,Nunez-Carpenter,
+e1e3f623-6637-4853-9c68-7fadd807ba3c,a9fee772-abe8-46be-a227-028bb3575899,1562.43,2025-04-25, success ,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,Wolfe-Smith,Clothing
+6d2c5be0-7e7a-4eda-872f-7fa5aa0d1957,cc8b33c3-479a-40d6-a43e-002da5a76a5c,7185.95,2025-04-24, pending,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,Cowan and Sons,Groceries
+687d147b-94eb-434b-8f43-c9f0baf2420b,240a04a9-c0db-4e13-9a25-56841ca33370,2218.36,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,,"Perez, Mann and Huff",clothng
+995f33d0-ce28-4b84-bb13-8c6bd31e57cb,fd93ede1-4f2c-4120-a816-d00cc4942db6,6894.4,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,UPI,,
+49f610ee-8e87-46de-84ae-c2fc13229860,6f8d0ff2-2a74-40a2-8c5a-742cb037276f,5602.56,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,UPI,"Ramirez, Walsh and Walker",electronics
+78a5964d-5e3e-4a9a-8a49-23f5ef35c84f,45900987-59f6-4e91-8fce-6701e0aad504,40945.87,2025-04-24, pending,BAN-X-ERR,KORAMANGALA,bangalore,,Rivera Group,Books
+1f48ab24-98aa-4217-857e-7b014ea0705d,2c5149f8-0305-424a-aa84-9d4f574c4313,3140.58,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,UPI,Cross LLC,electronics
+bd227b29-8b6c-41f8-bd83-1b3b1136e1c7,8fe9d26c-f9b8-40f7-a985-e4e15f757856,2262.26,2025-04-26,Success,BAN-KOR,Koramangala,Bangalore,Net Banking,Robertson-Jones,Toys
+0167fce7-5a02-412a-90c6-2adeb3dcbf20,85a16fff-b25a-498f-a631-e75ad44c4e24,5281.38,2025-04-22,Failed,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Larson-Singleton,clothng
+90733016-9aed-4823-ac09-d84c70f3bb74,77143ad6-5f05-4957-8f9e-85e41e13865e,8747.4,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,"Fischer, Johnson and Turner",Home Decor
+6d039147-f9e6-471a-abf9-c36081237d7d,93ac57ac-f6d0-40c8-858c-3673eff4fec9,4392.4,2025-04-21,,BAN-KOR,Koramangala,Bangalore,,"Beck, Hancock and Moore",clothng
+83a688e2-ba7a-40a5-bf72-2bd0d1a93821,92ba8b3c-4145-4bbf-a930-589924e22912,5759.18,2025-04-21,,BAN-KOR,Koramangala,Bangalore,Debit Card,"Flynn, Waters and Young",Clothing
+7ff189ee-d7ba-4693-8703-fce0219f3cdb,731d6a16-9a20-4f7f-a754-933144dffeaf,8107.02,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,upi,Ellis-Jackson,Toys
+5ee09319-104d-4de2-8a2f-d67281132504,67f75abf-50f6-481f-93d0-e8895665c613,8505.66,2025-04-23,Pending,BAN-KOR,Koramangala,Bangalore,UPI,"Evans, Jensen and Singh",Books
+50cd2e94-99ec-4869-979c-7cb923c1ec1d,eea81d11-b9f5-4793-a8f7-c49ccda8c321,4030.36,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,UPI,Nelson Inc,
+49d838e0-0eb2-409f-a7a4-455d18539fd8,db86b312-6a0c-46a7-951f-102823a48149,27188.2,2025-04-23,,BAN-X-ERR,KORAMANGALA,bangalore,upi,"Atkins, Wood and Greene",Toys
+b0df697d-7ace-4487-bc8f-1011c3e35d93,9255dc8a-f97b-476e-aedc-e992bd0ae2ab,6936.88,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,upi,Myers-Stone,Toys
+f28b576a-cec9-4406-823d-92495ccd91e2,f67596b1-6925-4d42-b51a-9f5e577aa63b,6595.28,2025-04-21,,BAN-KOR,Koramangala,Bangalore,UPI,Smith-Mccarty,
+5d107b3e-785c-42e8-9271-bd38ca2f98f6,9357f96f-e648-4d31-8317-0a56988a6a49,1933.26,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,Debit Card,Dawson-Moss,Toys
+91a4ba25-d11f-4dde-a9c1-56bcfbb1d77a,886a339a-1524-4edc-bc68-21caacc245ff,5285.98,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,Cash,"Duffy, Beck and Howell",Electronics
+8030fd94-47c8-4a73-980f-fe5e0a733e46,69e47de6-4054-4d76-9766-318bfd191a81,514.5,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,,Carpenter Inc,
+95d24500-88c7-410e-9630-e2fcb3d4388b,85b9bafa-5c61-4c3d-b1f6-512ffd655b05,4263.32,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,CASH,Payne-Gonzalez,Electronics
+8b749d0f-d04a-4c44-a2aa-80cc71a10a29,006092fe-d206-4974-ada8-27a5230625ac,2446.41,2025-04-24,,BAN-KOR,Koramangala,Bangalore,Net Banking,Huffman-Ross,clothng
+468de879-474b-4e78-8041-4a542432eae2,17d602b2-1ee1-4324-b4c4-219a203e8386,9428.8,2025-04-26,,BAN-KOR,Koramangala,Bangalore,UPI,"Perez, Macias and Campbell",electronics
+735cfe46-bb8a-4a17-a76c-8bc2629e412d,,26063.79,2025-04-24,,BAN-X-ERR,KORAMANGALA,bangalore,,Reeves Ltd,
+,,8924.13,2025-04-25,Success,BAN-X-ERR,KORAMANGALA,bangalore,upi,"Landry, Bowen and Weaver",Books
+110e56f0-05aa-4ebb-b158-186408b7e43f,4d6ad1e2-b34c-4220-b1b4-b7073d57f5f8,2012.6,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Debit Card,Perez Ltd,
+,46ca0888-0602-45da-bee7-2b8f51215647,7992.26,2025-04-24, success ,BAN-X-ERR,KORAMANGALA,bangalore,UPI,"Figueroa, Watson and Griffith",Toys
+d30a07d4-0d72-434b-b59c-08f61c5e3b9c,6e774772-feb3-4944-a91b-b3b1d401a882,1885.07,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,UPI,Hicks Ltd,Groceries
+1d00c03e-00c2-430f-a71a-ff7a086b2264,0d1e2f38-e441-49ce-9a4a-123ea656c193,5175.89,2025-04-24,Success,BAN-KOR,Koramangala,Bangalore,UPI,Thomas LLC,Books
+8186cd30-edec-44b1-b15e-47cf8288efe2,0b44d4af-b039-451a-a936-51b4e88a1754,4908.05,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,CASH,"Rios, Smith and Day",Toys
+2ac84ddc-9f2d-4f02-8b5c-756150352254,1fcc47d5-07fc-4c4c-af8b-d9cff3343a22,5366.45,2025-04-22,FAILED,BAN-KOR,Koramangala,Bangalore,,"Weaver, Nguyen and Martin",Toys
+842e18a2-23c3-49a4-bd66-168515c56ba6,7d57606f-22cb-486f-b1d1-5243c6ea3fa0,493.0,2025-04-21,Failed,BAN-KOR,Koramangala,Bangalore,CASH,Moran Inc,electronics
+208b6f6e-9063-46a5-9fac-b6b321173a19,7ddde94d-949d-4642-b0a2-b32bc476ce76,2125.88,2025-04-25,Failed,BAN-KOR,Koramangala,Bangalore,Debit Card,King and Sons,Home Decor
+dd99b95e-886d-42e7-9c16-1a1c73776596,,6286.47,2025-04-23, success ,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Sparks Inc,Clothing
+f3513be5-ab57-4fa6-83fe-0d500cb59ec0,d55e7df4-954b-406e-bacb-dda245807f23,9972.97,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,Credit Card,,Electronics
+42ca9e69-ebbc-4324-9799-fd682580a60a,bef4ce08-0235-490e-9cf4-491909f503ae,4879.38,2025-04-23, success ,BAN-KOR,Koramangala,Bangalore,Net Banking,,clothng
+f947ce62-e455-41f1-ab38-d8a25d4c1f83,c55aebd4-1cb7-437d-ad4e-3597f45d9b9e,7563.99,2025-04-27,,BAN-KOR,Koramangala,Bangalore,Debit Card,"Schneider, Johns and Lewis",electronics
+626300d2-7e24-4eb5-90f5-a45cbf4a27b0,906ef42c-48a6-428a-95cc-b31bf36ad091,2254.01,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,Debit Card,Wagner-Garza,clothng
+62f0db76-27ad-47b5-9ef1-da207437d2f9,ba8a64ab-aace-4ae5-8066-ff7cb30cb194,6405.03,2025-04-21,Success,BAN-KOR,Koramangala,Bangalore,CASH,Sullivan Ltd,Books
+b1b9e5e6-6919-42a7-9453-f7bbbb36b100,61c838e2-63a4-43e3-8216-29e7aaa5b7cd,3812.25,2025-04-25,,BAN-KOR,Koramangala,Bangalore,CASH,"Burton, Lopez and Jordan",
+149cea8a-bc73-41bc-b4e3-8f2baaac6fbb,98ba414d-22b9-45b5-8afa-7e0c834e4da0,5370.87,2025-04-26,Pending,BAN-KOR,Koramangala,Bangalore,CASH,"Underwood, Valencia and Stevens",Books
+264208dc-d386-47bf-b2b1-9b008b0649f5,a36d4e59-8508-4b68-9ed7-57df4af28ea0,7274.78,2025-04-24,,BAN-KOR,Koramangala,Bangalore,upi,"Anthony, Miller and Jordan",Books
+6d15d777-ff89-4f43-afb6-34e92ea7fea2,c88b1e26-7091-46fa-97e6-bb4339120df2,7443.98,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,Cash,Schwartz-Blake,Toys
+07c8ebfb-4cad-470a-ac49-4bcc547f99f3,44010c79-fcd9-4a02-9899-625cd3a04eeb,6340.96,2025-04-22,Success,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Hatfield-Gonzalez,clothng
+43e7bbfe-e05a-45d8-9ec4-28863305d88d,b7cd10de-ab61-40d2-9d41-2d402d825b83,4424.25,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,Credit Card,Thompson-Young,Toys
+,30b39613-dda2-44fa-8845-a71e848054c5,42652.51,2025-04-22,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Williams-Nguyen,Home Decor
+2b426195-022e-4e16-8758-16b04c8060a6,e8aad058-4bba-4725-b20b-1e6f7c0d4bda,256.13,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,,Wright and Sons,Groceries
+d15a2986-f553-4d8e-8186-1d3dfe75cee7,,-43.14,2025-04-25, pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Watkins, Moore and Higgins",Electronics
+03eb4719-d706-4bc6-9c0b-dd4b79f9b32e,26590892-a61b-4183-82c6-0100a5390c32,1290.68,2025-04-25,,BAN-KOR,Koramangala,Bangalore,,"Graham, Gregory and Sanchez",Toys
+feefb652-6a79-4a63-b793-0272a63d45a5,e4f013ec-a00c-4917-8e8b-04ba3197f10d,9631.23,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,UPI,Anderson-Medina,Electronics
+9bd75374-2579-4e53-b4b5-7318af1d08e7,8376c1a3-de53-4e1d-9084-6a28fd20b90a,9691.55,2025-04-21, success ,BAN-KOR,Koramangala,Bangalore,upi,Horton Inc,Toys
+1c29a8f5-0692-4f45-a64d-4bd8ee0265bd,2b1b7244-e94a-4cc9-bdee-8f373a1fc92a,9415.01,2025-04-26, pending,BAN-KOR,Koramangala,Bangalore,,"Jacobs, Hunt and Richardson",Toys
+527cff70-6787-4d43-8fdc-c2ad91d7f48a,bd760f12-13c4-4fb3-a835-cdf8a1a177aa,9707.15,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,UPI,Mclean-Russo,
+02e17072-0456-42c6-96b1-4cbd8d1b83d1,dd803608-1ccb-447d-8022-70832ad9bdb9,1069.01,2025-04-21, pending,BAN-KOR,Koramangala,Bangalore,,Mcpherson-Stuart,clothng
+cddbceac-0571-48e4-9ac7-25b03648762a,4fd3c815-60b2-4b64-8df6-5a2b3ef786cb,5049.6,2025-04-22,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Porter-Trujillo,
+4d2fb867-1525-4473-bf54-f5c82a3e0749,f01ecf43-cdee-4593-af9c-aa1e90c3169b,8255.76,2025-04-21,,BAN-KOR,Koramangala,Bangalore,upi,Palmer-Lopez,Toys
+7639d9ab-0508-4610-99ba-14020045e75c,59c16624-2213-4388-ab61-b638758b5aaf,4826.69,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,upi,Martinez Inc,electronics
+56a9dfd3-ee8c-486e-8be8-a1db95c3a928,a23f34ad-0e74-4066-b79b-6a4d9573a344,8206.21,2025-04-26, pending,BAN-KOR,Koramangala,Bangalore,UPI,"Smith, Dixon and Gonzalez",
+9ed39977-d45b-4d35-a5d1-2d6aa28a2e2f,e5616d38-5fbe-4bbc-be64-feac1734f937,3096.54,2025-04-23,Success,BAN-KOR,Koramangala,Bangalore,CASH,"Norman, Nelson and Hodge",clothng
+1e1aaee0-e7d2-4c1d-a624-fc7caf2fc90a,c46ed9cd-f08e-43cd-9638-a94483524d9d,7275.32,2025-04-26, pending,BAN-KOR,Koramangala,Bangalore,,Mcdonald and Sons,clothng
+319a606d-9b1b-462e-b37c-0514feb9a87f,771180bd-1529-41be-8c0f-c1a73b02852c,4552.57,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,,Briggs-Lopez,Books
+1d9ae2a2-dafc-460f-b2b7-4fd4fc0660bd,ea8f742a-9794-4ed3-9cf6-b7601d2d23cb,9946.47,2025-04-25,Failed,BAN-KOR,Koramangala,Bangalore,CASH,"Franklin, Bailey and Ward",clothng
+aeed0e52-9825-4624-a7f2-64624dd3df0e,755d4a60-ee15-4306-bc04-3966134dbc0f,21124.57,2025-04-27,Pending,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Rush PLC,Books
+7e6c0795-5790-428b-a951-841b57a7e905,1fb6842a-4300-4ed7-bc65-ed7364973f0e,5811.88,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,,Watson Inc,
+0758eaf2-4413-467e-ad57-5334e6b14590,,4324.72,2025-04-23,Pending,BAN-X-ERR,KORAMANGALA,bangalore,,,
+3b7f11eb-7369-4a69-b5be-70fdb2b8cb6e,e989a9d8-f5bc-46ba-b7a7-c3a892e8619c,3469.8,2025-04-21,Success,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Adams, Reeves and Steele",Books
+18d674cb-4776-48ce-a5b3-42f9f7b7efc6,f042cd99-9d73-468b-a03f-057dac2e07df,3072.47,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Smith-Guerrero,electronics
+e2528cc2-7aee-4465-b982-96c33fbe3b28,dae86d7b-0731-456e-818a-fe8690cd9383,6647.37,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,CASH,Moore-Patton,Electronics
+a2d1ff72-79e5-4313-9540-3fc2f19ba98d,7e4de2ef-211c-42e4-b407-705f06048440,6756.86,2025-04-26, pending,BAN-KOR,Koramangala,Bangalore,Cash,Bird-Garcia,electronics
+ba200d1a-dac6-4257-a120-dbadd3d6b3e2,aab8e2c2-7531-4add-ae8f-f518c5022819,5690.94,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,,"Pena, Wilkins and Barber",clothng
+82280173-7434-4e7e-8744-ac438a39a7e7,635ac09f-c462-4c20-a78f-bec6f3b38baf,3549.07,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,Net Banking,Williams Ltd,
+2bce8c34-be1b-4751-9428-d0ac345cbcab,ded6cf19-5f80-4dd3-b578-29c2eec76ac4,50.01,2025-04-24,Success,BAN-KOR,Koramangala,Bangalore,Debit Card,"Odom, Huber and Graham",electronics
+9e21189e-3a2f-4d85-9183-7cb028155325,8cc9360a-1cdd-4002-bd89-3f2b60403f96,2672.1,2025-04-23, success ,BAN-X-ERR,KORAMANGALA,bangalore,,Osborne PLC,Home Decor
+25cc2891-0160-42ec-b288-900d54037007,91c658a3-562c-441b-9773-9b1a1217e47d,6765.3,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,,Moore PLC,clothng
+3be93ace-d754-4372-a08f-d754ddf90860,,32091.26,2025-04-22,,BAN-X-ERR,KORAMANGALA,bangalore,upi,Harper-Rasmussen,Groceries
+08fb0259-f63c-4029-9457-f2a4af943bb6,8b5f6d4a-17e2-4125-b271-ce345b6a1113,4003.52,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Credit Card,Pena PLC,electronics
+29f78d33-2000-4515-896e-7ce67b7f926a,0cb0d7d3-19ed-4823-b176-aa788213b97c,8491.51,2025-04-27,,BAN-KOR,Koramangala,Bangalore,,"Rodriguez, Benson and Wallace",Electronics
+8f00b88e-99a1-4722-845b-a8cde37030cd,eababe89-0aa8-465f-8c6f-151b555a141f,424.46,2025-04-21,,BAN-KOR,Koramangala,Bangalore,CASH,Rose Ltd,
+be87daed-19f4-48ec-99aa-f75a9ca3d73e,e4936071-20e8-4ba2-b8a5-c196fdd279df,1463.02,2025-04-21,,BAN-KOR,Koramangala,Bangalore,,Ross PLC,electronics
+3a0af059-30f1-4962-8772-7e3e65356431,f5135251-9037-4ee9-86a1-d7f17e42a1f7,5735.6,2025-04-25,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,,Groceries
+2b2966fa-fd8b-4431-9252-58f8dc86ea6a,00746c5e-d2c8-4063-94ed-5bb266e66d18,4445.26,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,Cash,Moody PLC,Clothing
+9a836252-7860-451d-acdd-aef30f70d753,d67612eb-4969-457a-b1d3-7b9e3fc698da,2273.0,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,Credit Card,,
+9b085860-6dff-4964-9088-7817cace8ecc,a380cb66-0090-4bcc-9b65-d98860aec379,9554.08,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,Debit Card,Moore Inc,Books
+,715273b0-3dbf-4b34-834f-c3ed93dd2803,9749.53,2025-04-27, success ,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Nelson Group,clothng
+fc0f8f5a-7e6e-4f22-8163-dd4a008868e5,e161a8d8-14c2-449d-a438-f0bf933a9d20,2536.67,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,UPI,"Jackson, Rivera and Schwartz",
+2d52b315-0f63-4d73-a8c5-80a3a90c46dd,f2e329e1-35de-4fe2-9f00-24257c536e6a,22939.67,2025-04-21,Pending,BAN-X-ERR,KORAMANGALA,bangalore,,Castaneda-Ray,clothng
+db0dfef0-8794-4b7f-bd72-34d9911d8ea3,c4d33d8e-52b1-4d81-9404-0f0408b6a1a7,9001.92,2025-04-21, pending,BAN-KOR,Koramangala,Bangalore,UPI,Phillips LLC,electronics
+1ab9a3c6-192f-4bba-80ef-c826381f453e,e0a48d58-a054-4234-9129-3bd6e6090468,9733.55,2025-04-26,Success,BAN-KOR,Koramangala,Bangalore,CASH,Johnson-Reed,clothng
+12cff4c4-af9d-47b7-a327-c85f1aeaa13c,3ecd607e-5041-49df-b961-dd080ea41242,1785.11,2025-04-24,,BAN-KOR,Koramangala,Bangalore,Credit Card,Gomez Ltd,Groceries
+e199b285-aeaa-4ad5-8b23-4ec0f5d116b3,6d40d05c-3f00-4578-be91-07002aef85a8,6644.15,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,UPI,"Clark, Saunders and Bailey",clothng
+188cb912-9b6e-4815-83cc-d3af884e6ba6,2de60589-8cb9-4ba8-a2af-74e5201cf70f,2180.76,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,upi,White-Bradley,Groceries
+558abaeb-841e-4797-87fa-9ae244d74934,1d4d799a-660c-48ce-9ec8-491bdb2a79bb,1108.51,2025-04-27,Pending,BAN-KOR,Koramangala,Bangalore,Cash,"Phillips, Sullivan and Pena",
+bb80421a-411a-47e2-969b-8acd8871396f,d2449e90-3913-4c25-bb09-172770aefc33,3720.0,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,upi,"Allen, Smith and Sheppard",Groceries
+f4521611-2db5-4f0a-b892-2f881e70e34d,24621d1f-9b6e-489d-aecf-21dc7839b243,-64.79,2025-04-24,,BAN-KOR,Koramangala,Bangalore,,Gray PLC,Toys
+d366a6c9-10e7-48bc-945f-d4b1d9d2b7fa,050706fe-d858-43be-95b8-ed44520f9ae3,7139.82,2025-04-26, pending,BAN-KOR,Koramangala,Bangalore,UPI,Fisher PLC,clothng
+34e8d217-f5a9-4626-a076-0a70d2e4c815,1e34be45-c2a3-47ae-8633-d1ad251aa1d2,6513.7,2025-04-26,,BAN-KOR,Koramangala,Bangalore,Net Banking,Miller Group,electronics
+510be5ba-fa40-4dd1-b6e5-ef55ed1df637,175cdf34-085e-4b68-b808-275035992c01,6763.81,2025-04-24,Pending,BAN-KOR,Koramangala,Bangalore,UPI,Brown-Kelly,Clothing
+1a59d3d4-d7d4-4a22-8957-c5fabca9b00e,a8abae77-d2cd-45c8-beb6-98784679a7ca,2692.61,2025-04-21, success ,BAN-KOR,Koramangala,Bangalore,Debit Card,Miranda Ltd,Groceries
+9ec80c1c-a76a-42a6-b3d0-d824642ce8fa,1fff4312-9219-4eab-abc4-d49ca857914a,727.58,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,,Hill LLC,Electronics
+ea2ef8e1-f703-4523-87cf-a191020dea0b,39a01c54-8841-4f98-b875-a2dd243033fa,5986.99,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,Cash,Jackson-Johnson,clothng
+14e10a5c-4418-4a9f-94aa-cbf59af85739,cd3f4b74-820c-4735-adde-9b9209f3482c,5270.4,2025-04-24,,BAN-KOR,Koramangala,Bangalore,Net Banking,Mueller PLC,Electronics
+6804ba0c-b0fd-4eab-9b05-6adc77d6b4c8,23adea68-4bd3-45cc-a44f-8bec794d52af,17430.22,2025-04-25,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,Bowen Ltd,Groceries
+33cf45bc-1f6a-4e07-b87a-a2df359dd1ff,d32dbfd4-6a61-498c-9b53-4d642866995a,473.5,2025-04-23,Pending,BAN-KOR,Koramangala,Bangalore,,Gilmore Ltd,Electronics
+e4e41cb8-1532-419e-864d-d20e7723d2b1,4f831d83-b036-4980-b9f8-b50ee07da28b,5302.41,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,,"Cook, Garcia and Mccall",Clothing
+9ae06a76-bf1f-43ee-a0f0-16e7c5f6cd64,ca6a54db-e9fb-42d0-b798-21cb77e5249f,6602.88,2025-04-22,Failed,BAN-KOR,Koramangala,Bangalore,Net Banking,"Jones, Martinez and Farmer",Books
+38687b88-969f-46db-abb7-7e24c31d4d32,934f9aac-4767-48b3-9ca1-c02eee081f64,2565.7,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,upi,Murray LLC,Groceries
+73910987-8c2d-4eee-808e-d5d3655ff876,80e9e4b6-d714-4db9-b6c5-6593a02a7997,8493.5,2025-04-23,FAILED,BAN-KOR,Koramangala,Bangalore,,Kennedy Ltd,clothng
+ba4c64c8-54be-406f-9b31-22d6960f80d7,fa3a9962-2640-45a8-99ee-12b2b5382521,3847.96,2025-04-21, success ,BAN-KOR,Koramangala,Bangalore,Net Banking,Morgan-Smith,Electronics
+cc6a7c1c-c6f2-404b-a0fb-b5e3c8f45403,ad541304-8849-4022-8668-1ed76263322f,33.54,2025-04-23,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Phelps, Miller and Stewart",
+7c9aa3de-3151-4287-8f7e-513ec201c83f,1cb93052-adf0-407d-b0b4-6c136af44260,8753.68,2025-04-26,,BAN-KOR,Koramangala,Bangalore,CASH,Lamb-Garcia,Electronics
+755d2078-6880-4d90-b631-1b7eb7b1e895,caea5f90-1a74-4650-b9cd-68bc40a5b321,7772.35,2025-04-22, success ,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Fitzgerald and Sons,clothng
+907d5845-5967-454f-a6eb-062a75ac2187,3905c96d-745f-46ba-ab16-4829d997e8e6,26236.72,2025-04-24,Pending,BAN-X-ERR,KORAMANGALA,bangalore,,"Jimenez, Parrish and Brewer",Groceries
+4b405dc4-8fdc-4e54-8c50-c2f17aa46ffa,14e6b9f1-d8b0-44f5-b262-cd67ff6fb4c8,590.67,2025-04-26,FAILED,BAN-KOR,Koramangala,Bangalore,upi,"Fritz, Murray and Simon",Electronics
+d6b79e1c-05f4-43d8-a051-eb8abcca0b39,1bb3f503-ed28-46d4-9b5f-8cc5f69ab18c,6995.73,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,Net Banking,Daniel-Richardson,clothng
+744880dc-5f96-45c4-9ac5-e37bfd98b429,a996a51f-1ebc-47c8-adcf-32509d5513e5,1263.75,2025-04-24,,BAN-KOR,Koramangala,Bangalore,,Hansen and Sons,clothng
+b300de6c-2334-4e63-8665-7c443b1ee2c2,9eda2c55-0f4c-4c96-ab4e-f9028c140fcb,4315.1,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,Credit Card,"Shaw, Kaiser and Chaney",clothng
+d9e98131-5362-4686-ac81-8e6e3fadc18d,b9e17e88-46ff-4739-9af1-8cd13ae5d71e,6153.34,2025-04-23,,BAN-KOR,Koramangala,Bangalore,,Wilson Ltd,Toys
+6b43a3ee-8e9d-4283-b5ff-bd6427e846ca,b189c096-7e4f-4807-8902-e922ec3d799a,5907.55,2025-04-27,Failed,BAN-X-ERR,KORAMANGALA,bangalore,,Martin PLC,Clothing
+96a9b40d-a289-4493-8fa9-569beb75e6c3,9c48a129-0d3c-4a5e-a354-d4e0fca13638,1221.91,2025-04-23, success ,BAN-KOR,Koramangala,Bangalore,upi,"Campbell, Kelly and Brooks",clothng
+3ea6bc86-9b38-4013-b67d-eff581bf5362,26f63e59-3d1b-4604-829f-4ecf4d5f62e9,2589.6,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Hammond Inc,Toys
+039523bb-ac9d-4515-8192-64e7988935cd,,3094.19,2025-04-24,,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,Jones-Chavez,Books
+7d42d29d-1bca-4cc2-b302-ac7e05e7173f,487db901-c25b-429b-98da-d8e11309b6ad,8327.57,2025-04-27, pending,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Green, Nash and Flores",Groceries
+edfd8e34-af1d-4163-bff2-31b75f7d7dce,ec6ca71a-2051-45a9-a29b-d223d6e0c6bc,5600.58,2025-04-23,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,Lambert-Alexander,clothng
+de0437c1-298f-41df-8e3b-5cf66ab422a6,,1552.78,2025-04-26, success ,BAN-X-ERR,KORAMANGALA,bangalore,,Griffin Ltd,electronics
+d7310c2f-8090-49fe-a1b9-ef4504cc645b,,5225.53,2025-04-24, success ,BAN-X-ERR,KORAMANGALA,bangalore,,"Kim, Gutierrez and Lloyd",Electronics
+541a8220-1120-4312-bf26-888fcfe9350c,257f99a4-e13a-4df4-bbe1-4112ddb97533,244.95,2025-04-24,,BAN-KOR,Koramangala,Bangalore,CASH,"Carr, James and Long",Groceries
+,480adeaf-6c14-43c3-87ed-d5bbf5f6cef2,34022.21,2025-04-23, success ,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Solomon, Kerr and Cunningham",Electronics
+379c6ab3-9960-403f-afb5-5d937816a924,ecd3e26e-70f9-4642-bc2d-3e6b010b24e0,9997.51,2025-04-21, success ,BAN-KOR,Koramangala,Bangalore,,Campbell Group,
+dc03c880-b818-4f3b-8f2e-260b6acf5f77,d0ab56b4-c51e-472d-a87d-02e4d7c06885,7828.0,2025-04-25,Failed,BAN-X-ERR,KORAMANGALA,bangalore,UPI,"Martin, Graves and Jenkins",Toys
+c990c777-edda-4c49-94db-dbbb1a11f497,7c32ef6e-4cd9-41dd-8f1a-a5d722fa672f,1354.81,2025-04-22,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Hobbs Inc,Groceries
+,6517d417-00f8-4260-a933-0ae65494156c,812.91,2025-04-24,,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Johnson, Griffith and Elliott",clothng
+144cd61a-a588-4ee1-9ea9-911b10520d51,735baee9-d356-4641-82cc-632bb9c1d794,34724.44,2025-04-21, pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Reynolds-Perez,electronics
+144cd61a-a588-4ee1-9ea9-911b10520d51,735baee9-d356-4641-82cc-632bb9c1d794,34724.44,2025-04-21, pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Reynolds-Perez,electronics
+9bf17c37-828f-4976-befc-7a044bfa28e0,05ed42f9-a7a6-4b5d-b45f-de2e1b5357e7,5116.35,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,Cash,"Miller, Martinez and Oconnor",Clothing
+507536b5-160f-4c1a-96fb-7cace0f74dbc,1a753eed-88ba-4e58-8b01-ec5550209b3b,707.26,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Debit Card,Winters-Mills,Clothing
+95df9801-b05c-4302-99ee-2c493b637216,d6d84e3f-007c-459a-b4a8-8049e6d20d55,4319.69,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,Net Banking,"Short, Lee and Russell",Books
+79aa6f2d-2f30-4330-bcb8-b620f472ed29,67dabebc-36cf-4ad7-8c15-d41478741b44,5937.66,2025-04-21, success ,BAN-KOR,Koramangala,Bangalore,Cash,"Walker, Gordon and Drake",Electronics
+576fba57-7e33-493c-bac7-e5a9a4bb4cb6,77e0e843-5124-4c66-a312-baede1b40f3c,9782.19,2025-04-26,Success,BAN-KOR,Koramangala,Bangalore,Net Banking,"Ochoa, Bailey and Keller",Groceries
+7006b666-3ff0-4211-8416-310767e1c559,7f3561a9-adff-420e-988b-0d33ecda5c9d,9450.86,2025-04-26, pending,BAN-KOR,Koramangala,Bangalore,upi,"Rogers, Rogers and Anderson",Home Decor
+c3b5f202-1721-497d-b5dc-a191f1072849,f423a596-d593-44f9-9a88-5b00d2bb8f60,8366.44,2025-04-22,FAILED,BAN-KOR,Koramangala,Bangalore,Net Banking,Fox-Dawson,Books
+,919d0e0b-553a-41c3-b2a3-8568dd90f4a3,23111.91,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,,Bond Group,clothng
+c74c9f01-ef73-4e63-ab8b-7afc37c640f3,4b3d602d-95b8-4e7a-b160-a9eb4f6fc949,3118.99,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,upi,"Dodson, Williams and Horton",Groceries
+c909250a-5d77-4872-b6ff-77a2dde06891,ac6d9547-f940-4b61-a492-4990c74f162f,2309.72,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,Net Banking,"Franklin, Hill and Chen",Books
+10ea5fe2-c328-4269-9e88-8b9ab4499957,e51405fb-1cd6-4b13-8157-454ab5e12c02,2722.25,2025-04-21,Failed,BAN-KOR,Koramangala,Bangalore,Credit Card,Smith PLC,Home Decor
+76cd8f9c-ecce-401a-88c3-ad7fbbcaae1b,603c9cdb-2aed-4678-a4f5-6e62d072f355,6472.22,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,Credit Card,"Smith, Macdonald and Floyd",Electronics
+7e55c568-334c-4e2d-98de-49da731a487b,deb9d187-2071-43be-9787-fb9a31438e9c,458.32,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,CASH,"Reyes, Schmitt and Brooks",Toys
+b82f081f-db90-444a-af83-9cacf55bbbbb,a6465e61-1239-406e-8251-486c9c673952,18660.27,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,,Miranda Ltd,electronics
+44900a9e-945f-4f90-b0d1-bae80117f132,b4b9a51d-38a1-444c-bd02-4d957ec2addb,257.53,2025-04-22,Failed,BAN-KOR,Koramangala,Bangalore,UPI,Walton Ltd,Clothing
+9f49e310-479e-40b9-93a2-4770544bed9c,7edf5420-0bb2-4ae4-bedb-68a2fc51e1ac,9148.66,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,,Phillips Ltd,Books
+7ec5e9f5-6b5f-4a15-be90-d851cc136fb5,f2cc21b7-0eae-4710-8f5e-e2334f4dcaec,650.49,2025-04-22,Success,BAN-X-ERR,KORAMANGALA,bangalore,UPI,"Sullivan, Wright and Davis",Electronics
+740ed626-ecd0-42e6-87a3-3bd0cb0dacb0,9577b0f8-171e-4c3c-82cb-e14e3d394e8e,22027.74,2025-04-27,Failed,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Williams-Adams,Home Decor
+8f838327-8817-42b2-b9e7-5943eda0076b,5ccd9edf-56a3-4d22-99c1-9d2c23f89f0b,2242.47,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Net Banking,"Fisher, Lopez and Fernandez",Groceries
+f9d35db0-c21f-427f-aa95-21beef631963,,30312.33,2025-04-24, success ,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Larsen and Sons,
+73b373b4-ab76-4df8-8b7e-b8708e08fe61,21f847cc-c138-4388-b238-bd09bb5e95ea,8326.08,2025-04-26, pending,BAN-X-ERR,KORAMANGALA,bangalore,CASH,"Juarez, Ware and Johnson",Toys
+d0bc04cd-cf6c-4df2-bfbf-98644f944845,7208334b-86aa-4661-885b-7b320bdae0eb,5041.33,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,upi,Riggs-Armstrong,
+05fc4c0d-aa28-4ab0-a836-173da53baa69,f39b0efa-30da-4320-b3a9-3bdf7b65a877,9867.67,2025-04-21,,BAN-KOR,Koramangala,Bangalore,upi,Mendoza LLC,Groceries
+9651e24e-7f34-4bb4-8869-708da45ea7e6,e1127a48-30f6-4fd6-a38f-085f41b022a7,37581.86,2025-04-22,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,"Smith, Williams and Mccarty",Groceries
+ca914aaa-981a-481a-8507-5180c7636111,37bd1cbc-ab86-4098-844d-1597aa5bb86a,7140.54,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,UPI,Harper-Garner,Clothing
+565a5ed4-7d2f-46b7-a299-7138d0652184,c6f74f3b-d1ca-4fd4-88ee-f9eb47661cc1,5883.35,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,Credit Card,,
+2fd51626-aec2-4a15-b6ed-bc91437bfa41,dc2bd3ae-3644-4016-b620-ba662c796354,9520.65,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,Debit Card,Butler Ltd,electronics
+c6c38961-3148-4d74-801c-78df97ab6582,95b8a2e0-2246-4b46-b183-87b54c351a79,34747.21,2025-04-26,Success,BAN-X-ERR,KORAMANGALA,bangalore,CASH,"Watts, Robinson and Conrad",Groceries
+c6c38961-3148-4d74-801c-78df97ab6582,95b8a2e0-2246-4b46-b183-87b54c351a79,34747.21,2025-04-26,Success,BAN-X-ERR,KORAMANGALA,bangalore,CASH,"Watts, Robinson and Conrad",Groceries
+92f704a8-213f-4163-947f-f8a1dd6f2acd,92d4851f-5c5c-4fa0-941c-1803b3d2e045,8877.65,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,,Manning Group,Toys
+822deb9f-f11a-4f4c-8901-6ec0a052bba4,4492f764-d084-4123-9bc1-7b7886132b01,6698.37,2025-04-27,,BAN-KOR,Koramangala,Bangalore,Credit Card,"Dawson, Castro and Taylor",
+a93cf998-ccc2-473f-9a8d-80594445ddaa,03afb325-cf18-478e-a172-eb4cbb6cbec6,2680.95,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,Credit Card,Warner LLC,Toys
+238f8cb4-7bd7-4012-8ea7-61b8e38adff9,36cc28e5-343d-4d8a-acde-574e4c4e228e,2169.56,2025-04-21,Success,BAN-KOR,Koramangala,Bangalore,upi,Turner PLC,Home Decor
+d4ed8bca-490b-433e-ba8d-02ecb170552c,bcf7aca7-a868-4c8c-9644-ddbe011724ed,6029.32,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,CASH,Williams PLC,Home Decor
+a3ca1e9e-3f34-42f9-8bf8-04c9ee411fe0,6937a949-dd0a-4407-af80-a322bf866ec4,5417.96,2025-04-26,,BAN-KOR,Koramangala,Bangalore,CASH,"Phillips, Valencia and Williams",clothng
+18e8e75f-790e-4954-af96-3ea94f41d7d6,923233d0-9468-4f2a-b3ba-6acdcb2d0c9d,7623.57,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,Net Banking,Walker Ltd,clothng
+d71821ef-ac4b-44e1-ae3c-b3bddfb0b5c2,98a2b6e8-6fc8-4770-8bd8-7a61d2fd782e,1241.19,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,,Steele-Ruiz,Books
+80bac90a-befb-489d-84da-2fa0390fb3e6,a8b14abf-2797-440d-a115-397b077cb8b7,8600.59,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,CASH,Schmidt-Moore,Groceries
+4453a3d7-b956-4b46-a226-6be7b1a80792,d704f795-07ff-4f09-b555-131f4f84db29,9664.04,2025-04-26,Success,BAN-KOR,Koramangala,Bangalore,,"Morgan, Hutchinson and Leach",
+771604dd-148b-4134-bf88-367c12c53b80,8dd5be2d-1ef0-46d1-9dbb-281e1feaa661,1362.95,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,upi,Thomas and Sons,Electronics
+719bdf46-1eb2-455d-b821-6b21f6dababc,b9007b3e-601d-44d1-bb44-35d925300d9f,9600.23,2025-04-21,,BAN-KOR,Koramangala,Bangalore,CASH,Martinez Ltd,clothng
+fcd6a254-8b60-46f7-8141-e231c6028bf2,0bb45f8c-0570-470a-89b1-0452d5196f14,7759.75,2025-04-22,Failed,BAN-KOR,Koramangala,Bangalore,CASH,"Cook, Suarez and Evans",clothng
+b0ee7df0-a36e-4814-859c-a44d0116e730,9ef2da2a-40b0-49a6-b948-6252f5b2e8a5,7758.13,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,Net Banking,Robinson LLC,
+5e2449cf-0773-4bd3-b19e-b54969a829ff,33979bfd-72e5-4138-a352-a517756e5e88,8607.09,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,upi,,
+f72d08dd-1cd6-4be2-8444-fb92ab85dcf1,,40656.21,2025-04-24,Success,BAN-X-ERR,KORAMANGALA,bangalore,UPI,Arroyo and Sons,electronics
+6ca25c10-592a-42f8-9aa3-c921634bf832,be8c346b-2cf7-4813-b399-a249ce4ed7b4,483.35,2025-04-21, success ,BAN-KOR,Koramangala,Bangalore,Net Banking,"Nelson, Hicks and Mitchell",Clothing
+c4cf0cfa-1479-4d76-a471-dae9a40b7ba7,260780a9-0e5e-4f61-8eb3-e167bab9a0e0,8512.78,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,,"Hernandez, Robinson and Shaw",
+,,22431.11,2025-04-24,Success,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,Alvarez and Sons,
+82eaab22-12d7-4a6f-9a95-df7af5c568b5,a540f470-eba3-4d82-a1c9-b43334558cd2,3013.96,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,"Stanton, Cooper and Miller",Groceries
+3daaf66e-a75f-49b8-902e-d74d7b443f5a,9f0601f1-f73b-416b-b873-9ca80888ca12,5057.76,2025-04-26,,BAN-KOR,Koramangala,Bangalore,Debit Card,Mcmillan Ltd,electronics
+b5147c12-8012-4d8a-823e-583e049bcab6,d6865b51-c9fd-4182-a7bc-8bb3d343ef62,77.31,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,Debit Card,Kelley Inc,Clothing
+1223c4b2-e8f6-4880-87f9-4b35c44637da,98928763-c306-47d7-b7ce-63322000027b,5796.96,2025-04-22,Failed,BAN-KOR,Koramangala,Bangalore,UPI,Williams-Perry,
+a51882ba-8e49-4c76-9628-4c21e3e3df4d,105e9ab9-2d80-4a6e-bcc9-d905d98a092d,182.97,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,UPI,"Newman, Hill and Hatfield",Clothing
+d6186ca4-da63-467c-ab6d-352fa0ea00eb,a40fc6c3-8ef0-4170-a16d-b261f6941f81,5649.51,2025-04-26,,BAN-KOR,Koramangala,Bangalore,UPI,Miller Group,
+7ce61229-d9ef-49d1-8e04-de70f3939c21,46a8a0b5-0191-43ce-8445-1797ff43ed62,743.01,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,UPI,Cox Group,electronics
+568e129b-9572-41bf-ab3b-a1bab4baac30,22c70fb3-9c22-4b9c-b2fd-4df3504ccd96,7353.68,2025-04-22,,BAN-KOR,Koramangala,Bangalore,,"Garcia, Vazquez and Shelton",electronics
+649f0ed0-d4ec-4f5e-89ab-f654f74e2aad,f3bb5504-85d8-465b-a830-8f144020dce0,32398.82,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Cole PLC,clothng
+9fc5ea73-9981-467f-8991-4ea3de9bea92,cb4b788d-0db0-4f13-bfdc-c8300ccb8a1b,-9.38,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,upi,Young-Lane,electronics
+2a9f5a5a-9e61-4f45-bcd7-6bc9ef880df3,2e21b3f7-2d76-4600-bf5e-269ded9384c1,5322.74,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,Net Banking,Martinez Inc,Books
+fd1f741a-dc84-4388-9e15-236a2359c2f5,3227fbe1-2673-4c65-adf7-83d359b0032a,85.68,2025-04-24,,BAN-KOR,Koramangala,Bangalore,Debit Card,"Bryan, Torres and Martinez",
+1be68d20-f8cc-415b-b41e-f35db5c77d2e,e19ad4ca-200a-4030-bc68-e2cf90f43713,4770.03,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,Net Banking,West-Davis,clothng
+83d00621-17c3-4300-9997-648873fd598c,4e650426-6659-4226-8aec-3adb5add220d,1533.39,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,,"Chaney, Dominguez and Perez",
+,033e083e-6527-4cce-b78f-1d8f062c47f7,996.13,2025-04-26,,BAN-X-ERR,KORAMANGALA,bangalore,,Rivas PLC,Clothing
+,033e083e-6527-4cce-b78f-1d8f062c47f7,996.13,2025-04-26,,BAN-X-ERR,KORAMANGALA,bangalore,,Rivas PLC,Clothing
+743106c5-85da-4fde-b653-318cb550ddab,73d23919-3410-4ad4-9525-401909a8ecc0,10198.41,2025-04-27,,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Baker, Ramirez and Wells",Electronics
+e524b86a-fd6b-4b41-ab6c-99c1b86e93bd,f534753c-7756-4b60-aa1a-803e681b013b,5208.57,2025-04-26,Pending,BAN-X-ERR,KORAMANGALA,bangalore,upi,"Lewis, Goodman and Martinez",Toys
+b66b85cd-19b5-46e0-aca5-f2a33567faf1,9e0009c3-2c19-4a07-b14a-d1e99c1e5da5,1032.11,2025-04-23, success ,BAN-KOR,Koramangala,Bangalore,UPI,Thompson and Sons,
+7e025677-bfb2-409c-8cbd-7bae95cad99a,0937c3a5-88a3-4ba1-aa78-7cd5c77b6c1d,9169.22,2025-04-21,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Gomez Group,
+d4c8d684-5c64-4cb5-9d74-d4587004ffe3,35cad15a-678c-4e7e-a889-735d60236ddf,1430.29,2025-04-25,Failed,BAN-KOR,Koramangala,Bangalore,upi,"Terry, Jordan and Fox",Groceries
+090fe677-102a-402a-8b16-5eb80fc18d76,e2b85924-da5e-41f2-a182-c212942b6471,4491.28,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,CASH,Baker Ltd,Electronics
+fa56a0fa-0c24-4654-9e8f-fa102f811d1c,e2b8d51a-02bc-45e4-9c40-399046f2209e,7265.48,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,UPI,Clark-Rodgers,Books
+0f009836-32d0-4359-a57b-f27fa23ec35e,af55f5f3-26eb-4b38-aa6c-fce65bc25865,8202.96,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,upi,"Watkins, Hernandez and Wyatt",
+948152b4-0637-4576-ba20-d29834306c39,44f9bf35-f355-4820-9816-5d3cc7602d4f,7308.04,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,,Beck PLC,Electronics
+562356e7-f954-4518-8036-7b5784123b3b,3613b453-e51e-4b08-8a90-b7cfd34f739b,5561.23,2025-04-22,,BAN-KOR,Koramangala,Bangalore,,"Farmer, Smith and George",Books
+fc6c6bcc-a915-4e12-a533-4178c29d7ce6,1bc3038a-9fcf-4b73-8a31-f6f1c12d3710,8451.68,2025-04-23,Success,BAN-KOR,Koramangala,Bangalore,CASH,Smith Group,Home Decor
+6404f2cd-e046-4a7e-abd8-5939765c0240,259a85e5-987d-414c-a33f-bd8cbc1c084d,4561.04,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,,Bailey-Howe,clothng
+c3c58640-cbd5-403b-bb8f-45a85ba4ae63,af8c89b0-ff5c-49d2-8e4e-7b86b46132a5,3932.62,2025-04-22, success ,BAN-KOR,Koramangala,Bangalore,Cash,"Moreno, Petersen and Turner",Clothing
+ad17d2d7-ced6-443c-9ef7-06298ac48cc3,0fca6381-eb63-4d29-8305-d4b0b70ef00e,8084.44,2025-04-22,,BAN-KOR,Koramangala,Bangalore,CASH,"Murphy, Sullivan and Perkins",electronics
+95cc8b22-833c-44c3-9fed-36bc8dd46045,7a03be5a-f762-4b71-9a4e-36cc313bc4da,2786.07,2025-04-22,Success,BAN-X-ERR,KORAMANGALA,bangalore,,Garcia-Johnson,electronics
+4c1a3bb4-6ffa-481b-abc3-d6739917a131,,16642.82,2025-04-22,,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Jackson-Terry,electronics
+5e8eb9af-af62-483e-9299-4ed48c665080,88bbf14a-ee85-4988-976d-eb5ee791d24e,5517.35,2025-04-27,,BAN-KOR,Koramangala,Bangalore,UPI,Valdez-Hall,Books
+58abea19-47c3-4d95-99c2-b1b3d2adab34,2b1122a9-58a6-4302-86dd-93be33f6f1fa,1913.38,2025-04-23,Failed,BAN-KOR,Koramangala,Bangalore,Debit Card,"Yang, Jackson and Carter",
+eafa72c1-13bc-4455-9fd5-9b72de90e396,f8ef7c34-0ed9-418e-9479-ca33b6fb76fa,7958.03,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,upi,Larson-Ford,Home Decor
+47fe1317-b6b9-45f3-bec4-d9999180e1cc,,50.95,2025-04-23,Success,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Sloan Ltd,Home Decor
+47fe1317-b6b9-45f3-bec4-d9999180e1cc,,50.95,2025-04-23,Success,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Sloan Ltd,Home Decor
+1ab34403-46a4-4683-89ec-97673f12179c,2954e5ca-4e5c-438e-a55f-a3573ef397b5,4816.44,2025-04-26,,BAN-X-ERR,KORAMANGALA,bangalore,UPI,,Clothing
+821b442b-2a0c-4260-a8ff-7567b0e971f7,9a5765ca-89d8-4080-bbe0-e23e9d5fa623,5053.41,2025-04-23, success ,BAN-KOR,Koramangala,Bangalore,,Stewart-Gilbert,clothng
+46f33d79-b77f-42bc-92a6-0718699300dd,6849ab2c-c152-4666-b10d-c2ac5b78c8cc,3623.24,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,,Bailey Group,clothng
+3170e22b-7e2e-4f6e-9f0e-14551f59638b,60543113-9f64-4996-bab7-17db936e29e5,1971.58,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,UPI,Mendoza Group,Books
+aa20bd68-bb8b-418c-a043-a10fa82dab45,01021bd2-f81d-4d2b-b7aa-2ead56bffc48,6231.11,2025-04-26,Pending,BAN-KOR,Koramangala,Bangalore,Cash,Maynard-Wheeler,Home Decor
+00a6cc9f-2c08-42f8-98aa-b4e094f42d9e,5e2b0140-2143-4435-b0b3-ffe90cc25560,6115.37,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,upi,"James, Lee and Johnson",clothng
+90bbbc35-c4e6-4d80-a97f-2b8214537d9c,070d70fc-79fd-48d1-84b7-d0d2b7fd17db,17383.42,2025-04-27, pending,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Odom and Sons,Books
+,6f79e4e0-b485-441f-a710-15d0fd18b2c9,1441.25,2025-04-26,Success,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Ford, Howe and Wells",Toys
+3481ebb7-3705-414c-a2da-40b08db1b421,189f91ea-7da2-4eb9-9ab3-dec2789d431b,1880.75,2025-04-23,Pending,BAN-KOR,Koramangala,Bangalore,UPI,Patton and Sons,Books
+12215992-7b7e-4020-b9a2-e377a20b93a6,37675143-1699-4191-9a82-b7c5aa619dcc,4641.72,2025-04-23,Success,BAN-X-ERR,KORAMANGALA,bangalore,upi,Reynolds Inc,
+,,4464.56,2025-04-22, pending,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Burns, Burton and Casey",Home Decor
+,d40ab302-6002-4e01-bf74-17133edd3716,9843.39,2025-04-23, success ,BAN-X-ERR,KORAMANGALA,bangalore,upi,Tate-Martin,
+,0c4e2604-6664-4b63-bd9d-0b718a2c8ed6,17104.09,2025-04-21,Failed,BAN-X-ERR,KORAMANGALA,bangalore,upi,Garcia Inc,clothng
+4cd7bd5f-aeba-49d5-a6da-4bd6eaa7f868,67793745-13d5-4939-bc70-62edd314588f,1045.34,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,UPI,Irwin-Bryant,
+85483453-dd84-474e-a890-d482f0a77e33,8b975ceb-4185-42d1-a834-d41e899e8754,7977.22,2025-04-23, success ,BAN-X-ERR,KORAMANGALA,bangalore,,Gonzalez Inc,
+42ade91b-a0e9-4f5d-b9e0-b84e7284932b,4d2c50fa-b4ce-4304-8a12-5174d6258de1,9596.98,2025-04-27,Success,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,,Electronics
+1cde8675-4368-464e-b88d-6b67787ae05b,0359b53b-cfab-4a19-a4a8-edfd5ff3b5ea,1970.08,2025-04-23,,BAN-KOR,Koramangala,Bangalore,Debit Card,Archer Group,Clothing
+ad87e0bf-4f15-4add-b95b-a2a75fbfbcc0,85d7cb96-bede-4bcb-b8bd-01f1846fecb1,9293.91,2025-04-21,,BAN-KOR,Koramangala,Bangalore,,Miller-Hooper,Electronics
+3eda2437-7d40-41ea-8deb-a12c78917a9b,650faa58-bc9b-4c77-bd25-78bc83b2923c,3397.76,2025-04-26,,BAN-KOR,Koramangala,Bangalore,Net Banking,"Mitchell, Rodriguez and Aguirre",
+9da6b60d-47e7-40ae-88d9-df7be800562d,61f05186-5a6c-4f6d-8791-283f9ca686e3,447.39,2025-04-24,,BAN-KOR,Koramangala,Bangalore,Debit Card,Moore-Richardson,Groceries
+,6c9fc568-ba67-460d-9127-bdf4fef8023e,8674.07,2025-04-24, pending,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Higgins, Mathews and Richardson",
+573e4de4-d962-41e8-8161-f5b2640f23a4,2d743f39-c10d-4327-9645-70b2fcce40da,4992.68,2025-04-23,Success,BAN-KOR,Koramangala,Bangalore,Cash,Holmes PLC,clothng
+1b824b62-51e9-4c9f-a362-a944bc79132c,959bb24c-c34d-483e-a776-d6c06b685a39,2118.52,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,,Padilla Inc,
+f55ddb07-fa6a-43d2-8adc-848b6a8d8b40,d05280b6-b7d5-4cfc-9a53-3b3a39c6ed0c,4928.0,2025-04-23,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,"Taylor, Warren and Johnson",Toys
+3159f820-15f1-4905-90dc-c57d416b7892,096155b7-9d7d-48a4-9414-ec26e51ac62c,3367.69,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,,"Williams, Myers and Miller",clothng
+,dc57445a-286f-4fd4-91b4-64c4165c9443,4564.57,2025-04-25,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,"Page, Dunn and Cruz",Groceries
+e9ae3417-7d35-4436-9e32-0e321cf99c46,03cd08c0-09e2-408e-b0cd-6f4ed9730f4c,5228.51,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,UPI,Buckley-Hunter,
+9cb16d9c-2cbb-4d3c-bcd8-9cc431b4b166,180c942f-1454-422f-a654-b0e295eed93a,4771.25,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,UPI,Strickland Ltd,Electronics
+ca7f8a61-a44d-4d7b-b688-80732dbc3322,b7964a47-8b5c-4a25-9b16-02c175ee6a6b,6700.0,2025-04-24,Success,BAN-X-ERR,KORAMANGALA,bangalore,,Richardson PLC,
+479a9a82-3bf4-4811-bdf4-13f623d1fe46,9c2c9049-9a2d-4d5b-9df0-b99cc2d1f0c1,4239.82,2025-04-27,,BAN-KOR,Koramangala,Bangalore,,Gomez-Howell,
+bf2a8657-88a9-4690-b9fd-23469578e79e,9562f4f3-bb85-48dc-974a-3569bbb76d76,29796.76,2025-04-23, success ,BAN-X-ERR,KORAMANGALA,bangalore,,"Brown, Kelly and Bauer",Books
+bf2a8657-88a9-4690-b9fd-23469578e79e,9562f4f3-bb85-48dc-974a-3569bbb76d76,29796.76,2025-04-23, success ,BAN-X-ERR,KORAMANGALA,bangalore,,"Brown, Kelly and Bauer",Books
+514b04d1-f073-44f6-82d3-57fa44a5df17,caabcb73-e871-4163-9516-cbc6cc2a778f,2947.88,2025-04-21, pending,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,Sims Group,Electronics
+0b58c283-d3ef-4660-bc9c-756bcb062eaf,d50a1ffa-b84f-48e3-b285-090c7bea928c,5806.17,2025-04-23,Pending,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Reed Ltd,
+744389ab-52d6-4d34-8a27-a04b96589b0c,5899570f-d7e3-4b4a-a02b-9625ebeff37d,3759.63,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,Cash,Berg Ltd,
+,f8c68171-b857-4dfe-ad3e-61f8bc30a52f,151.54,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,Snyder Ltd,Clothing
+4f5b0649-8411-4079-a12b-6cba961c8f39,b6c45d56-e433-4188-a495-148b85b5e4c4,8539.33,2025-04-27,Pending,BAN-KOR,Koramangala,Bangalore,Net Banking,Powers Inc,clothng
+45e699e6-b23b-4301-8fdc-c78fd70f7844,a8c491cf-0436-4125-a191-b47ddbebfe2d,6013.27,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,,Collier Inc,Groceries
+a05ec760-bf48-430e-ba60-db1b16795035,38cc26d9-38be-4064-ab3d-637b58b1930f,6490.28,2025-04-22,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,"Yang, Welch and Kennedy",Books
+f62deea5-7f61-49c4-a048-35d8b36eef1f,49ab4042-4722-4f16-a4c6-3f8a61ad68a0,8074.94,2025-04-23, pending,BAN-KOR,Koramangala,Bangalore,upi,"Thompson, Trevino and Pham",Groceries
+ec12a116-aa5c-4f33-886f-f02430275b55,2996e716-4f27-445a-9351-1c877fe4c02a,38305.48,2025-04-23,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,Dunn and Sons,
+0a082062-b296-4584-85f5-faa216cff264,ed7d9c70-c36b-46e0-92f5-51d84f831dee,6590.43,2025-04-27,,BAN-KOR,Koramangala,Bangalore,,"Brown, Cunningham and Nelson",Books
+e0b64f9b-339c-497b-b5d4-15bd684478a8,e703514f-13cf-4f92-a368-b51876048ab3,7961.0,2025-04-23, pending,BAN-KOR,Koramangala,Bangalore,,Jordan-Joseph,Electronics
+bcfba7e4-1e17-4243-b644-d552b86aaa12,bc1d5d8f-2c65-4ace-9b0d-d70a5f25ca97,902.33,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,Debit Card,,Toys
+96bbcc8c-4566-4687-ae5f-bd85299600c1,29722831-8598-4a1c-bedf-437f6eeaac47,9178.1,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Cash,Greene-Davis,
+74174b14-141f-41ef-9b05-44e299c7a2d4,ab8f9e5a-5e0e-4d44-916e-b852e3277c24,8461.56,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,CASH,Sanchez Inc,Clothing
+ad1a52cb-5e7b-4f56-9bb3-8fa683b9190d,3a508aa5-a608-4c6a-91b8-074d114411a7,4029.92,2025-04-21,Failed,BAN-KOR,Koramangala,Bangalore,Debit Card,Miller Ltd,clothng
+965e34b5-a10d-412f-8d47-cba85530aa44,1cc7aaf2-bd88-4450-9965-e2e0bae0dd1d,3382.69,2025-04-22,,BAN-KOR,Koramangala,Bangalore,upi,Trujillo-Clarke,Home Decor
+a3ed7977-caf9-4f85-81ac-99b44c9b2318,40430196-2325-43e4-b570-01c4b8ab027b,6087.89,2025-04-27,Pending,BAN-KOR,Koramangala,Bangalore,Debit Card,"Nelson, Crosby and Doyle",Clothing
+5c7eeefa-e4d5-477f-b179-81171f97c81b,62608efe-d316-4c42-8ef1-e7b0dccf11df,5883.08,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,,Hart Group,
+75c4c85c-8237-4ede-9078-25fb31f86556,ad236d58-5049-405c-af7b-99835619a140,737.43,2025-04-26,,BAN-KOR,Koramangala,Bangalore,UPI,Bass PLC,
+c807e0e7-17d9-475d-9708-783a128337d7,4b699faf-9b51-48fc-bce5-9a482c1b84cd,69.49,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Goodman-Jones,Books
+dd75fbe7-f58c-44db-a323-55657a95f395,9d06f57b-1cbc-49b1-af77-c5a64e4bcc89,8842.05,2025-04-26,,BAN-KOR,Koramangala,Bangalore,Credit Card,Johnson-Hicks,clothng
+32b27459-7520-4506-ac7c-74d4e2b7f7a0,71c6ed1b-10c4-4d85-8dbc-d2c33e796cca,4192.98,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,CASH,Torres-Herrera,Electronics
+2e3a2875-69d2-4835-9a9e-3c91b35d99bc,70c6078e-5b5c-4b69-b7e4-908cf4721399,4105.95,2025-04-26,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Wade-Tran,Home Decor
+127ec520-2b02-4a67-b250-d013fb4c4d06,86f17718-de71-43aa-bc71-98eea36b3207,4111.32,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,UPI,Barron-Harris,Groceries
+,50e85e14-6138-4789-a5fc-d02d71a10261,1100.05,2025-04-26,,BAN-X-ERR,KORAMANGALA,bangalore,,"Fox, Hayes and Boyer",Clothing
+10a2d5d9-508a-47b4-89f7-851b0f959ef6,5e802777-c6bd-48f2-a4ca-9876cdbfb1e2,3210.79,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,Cash,"Brown, Jones and Arroyo",
+25558f55-b8b5-41e8-8382-95b58aa8d26e,b0e383a7-3800-440c-bb5d-c10e708f5753,671.87,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Lopez LLC,Groceries
+226aef9f-7c01-4230-9988-b90829e326ae,85a8a004-9828-4910-9ddb-65591666e238,623.9,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,Cash,Robinson Group,Clothing
+21d80051-418b-4cd5-a6e5-e61c230a326a,fdcab04e-3253-4b6b-a460-e6a882c68bbf,6968.6,2025-04-24, pending,BAN-KOR,Koramangala,Bangalore,upi,Rodgers-Thomas,clothng
+7060248b-e835-4cd3-8e97-d214ae49f0ee,252307eb-fafc-42b7-aca0-93491ee7d5ee,7299.38,2025-04-23, success ,BAN-KOR,Koramangala,Bangalore,,Moore LLC,Groceries
+ef2388aa-030f-41ae-ab48-630636ccbf26,782392d5-fc82-4603-8d2e-17a300f72a78,1332.19,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,,Ballard LLC,Books
+fe64a64a-a3c0-45a1-8bf4-4259da67e285,,5128.83,2025-04-24,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,Andrade-Ramirez,Toys
+32a64339-19fe-403a-96d5-d516e8dd53b7,dec3d883-72ac-4c72-94ca-7c06a98651f1,6649.41,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,upi,"Stephens, West and Howard",electronics
+8750e5c8-e9f6-4b89-8be0-d21b41450c9b,77dd63f4-5b89-48c6-8ba0-837f0312b972,-20.35,2025-04-23,,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Cannon-Montoya,Electronics
+4e6cac8f-40f6-48b1-9931-186aa61d367d,f355a823-0d78-4c1b-bad4-42d49da85039,29965.04,2025-04-27,Failed,BAN-X-ERR,KORAMANGALA,bangalore,,"Hudson, Park and Pope",
+cb0ea38d-f8ca-4c45-95f5-a8ea326928d5,1678e5dd-e3d7-4e22-a3ee-28bdbaf2f2d0,9933.38,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,Cash,Meadows and Sons,clothng
+2ed642e8-de57-43d2-9ed5-fce9849b03c0,3e50bf06-3741-4bf0-889e-5df8c684c346,3992.15,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Credit Card,Miller Group,electronics
+f2639a50-fbd4-4a1f-9b9f-6528b65cb796,2bfde673-6006-4b3d-8f70-68b5c1071496,4300.21,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,,"Mitchell, Gamble and Brown",
+,857477f1-752e-41d3-8ae2-d4ec83b5ae5c,1291.15,2025-04-26,Pending,BAN-X-ERR,KORAMANGALA,bangalore,,Curtis Inc,
+c69ec79d-cb1e-4137-a7e5-95813934774e,7c7cec92-4d7a-41cd-b846-317e8dde2a2b,4028.23,2025-04-21,Success,BAN-KOR,Koramangala,Bangalore,Credit Card,Brown-Underwood,electronics
+e3c78332-4306-4eec-bcf3-1ccf2ae78661,af127ed7-025b-4029-b26a-4f3d9e91e290,6219.06,2025-04-21,Success,BAN-KOR,Koramangala,Bangalore,UPI,"Barker, Palmer and Martin",Books
+fd73d020-f4f6-4c54-9de4-65bfdbcdb613,5e727491-e138-434c-b82d-d8cafdd7f824,5911.61,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,,James and Sons,
+b94b428d-f3fa-4bef-98ef-164014617602,a4593a16-7662-4b28-8903-60dbcc48e730,7494.88,2025-04-23,Success,BAN-KOR,Koramangala,Bangalore,Net Banking,Vaughan-Fry,clothng
+56be34cc-891f-44a2-b6d0-42a68e4c1dee,a7c6464b-20e4-4081-b107-6d69736a9f97,941.02,2025-04-26,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Hammond and Sons,Toys
+dc04f145-606d-4b9b-9056-6bb7304cd302,31a0d281-6c44-4b8b-86e4-ef0ac7a26844,3807.13,2025-04-25,,BAN-KOR,Koramangala,Bangalore,,"Elliott, Watkins and Johnson",
+dbfbbe63-a39b-4c2d-b033-c43b6203b981,bfd5ac5f-387a-4907-a2f9-7d6203aa32ee,5223.15,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,Cash,Tate-Williams,electronics
+52108888-0432-4cf8-9956-c69586f4b726,de1265a6-22a4-440a-9498-9ed43e80c207,9423.91,2025-04-22, success ,BAN-KOR,Koramangala,Bangalore,Cash,Holder-Lynn,Clothing
+686e3b8f-9392-4cee-b310-271c20cfe626,285a469b-fe44-4921-a1c9-c3805b7f234a,1074.62,2025-04-22,Failed,BAN-X-ERR,KORAMANGALA,bangalore,,Benton PLC,
+bc1b9e79-4ffb-4c1f-ab01-db05b9450afa,3180de5f-1566-4e82-b98e-04ae457e4f17,6604.95,2025-04-23, pending,BAN-KOR,Koramangala,Bangalore,Cash,Miller-Rodriguez,
+c95f90cc-b352-4e5a-9958-1d529984e735,8aa23eee-c24c-46bf-a046-95bbb464ac91,3141.2,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Ferrell and Sons,Home Decor
+fe96c2f1-36c3-4c98-9908-88d7533fb781,124c2aa5-ba9d-42ea-8bf4-373b6ac483c0,1159.74,2025-04-23,,BAN-KOR,Koramangala,Bangalore,upi,"Stone, Walls and Stone",Toys
+cc7d4b2d-8691-43a7-b3e6-12ef8395789f,d6c1a4ba-7fda-4cf7-a13a-d674d412440f,4179.85,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,Cash,Jones-Johnson,Books
+ae32b694-0b76-4762-9c1a-74d394d2bef1,32d04d34-f386-4ae7-be16-cbd695e6bd9e,2136.73,2025-04-22,,BAN-KOR,Koramangala,Bangalore,UPI,Potts Group,Groceries
+2e2b2d9f-fe62-4037-a5da-4a24a0927a96,36811afc-7b40-4586-9997-26f05d3ae178,2358.02,2025-04-22,,BAN-KOR,Koramangala,Bangalore,,,
+6e0c2c8e-5ee7-41e8-9a91-b91362d2644d,8dc6a689-268c-41a2-a0cd-ac3def21cebf,21398.66,2025-04-24,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,"Guerrero, Miller and Sullivan",
+8b2e9740-5bc5-47cc-91bb-a6e89cfae9ab,06d6c1a0-c9fd-4033-a699-d070a7a4732d,38360.51,2025-04-22,,BAN-X-ERR,KORAMANGALA,bangalore,,Leach and Sons,Toys
+6e96d617-6da3-464f-b217-589acd2ec7ba,f2ffd361-53cd-49d5-8b70-c89f77b73f4f,5901.98,2025-04-27,Failed,BAN-X-ERR,KORAMANGALA,bangalore,,Walters and Sons,
+38435648-3ace-406a-ba55-7d0ceed5d41b,9c4e686e-9868-4037-b49c-67c87d5421a1,8491.48,2025-04-26,Pending,BAN-KOR,Koramangala,Bangalore,,"Michael, Roach and Ingram",Books
+58bf9169-b41a-40e6-9209-3299344c869a,9dc7aa94-df0c-4984-8542-4bf7e32b7839,6066.33,2025-04-23, pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Nguyen-Mitchell,electronics
+67852144-833f-4f24-9621-8fd9845de4a3,e2ae9aae-8a70-4802-96f2-594f85649bfa,7284.15,2025-04-26,,BAN-KOR,Koramangala,Bangalore,,"Perez, Lopez and Alvarez",Clothing
+38f26f24-3ae6-47f1-8f61-63dfe0903762,b290b95d-77c6-46ee-8cef-7d6a89972db3,3811.62,2025-04-22,Success,BAN-X-ERR,KORAMANGALA,bangalore,UPI,King Inc,
+97f23c1d-25a0-412b-80da-d065c22a9828,,7311.07,2025-04-23, success ,BAN-X-ERR,KORAMANGALA,bangalore,,"Austin, Howe and Rodriguez",Groceries
+baee4701-6bde-4fb8-b6e1-2e779284bc31,f89129b3-dc15-42b1-9f3a-4376c7c35293,24358.89,2025-04-27,Success,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Barnes, Humphrey and Davis",Books
+5d39d43c-7d41-4a0a-bcfb-1a76e76d0125,8024b48d-482d-4aec-adb0-7a609a9f62a4,5117.61,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,upi,Curry-Johnson,
+772ec0d9-e0d6-47d2-9b56-7c597f13b6f6,8fd5a429-331a-4ae6-aaee-f45ea8de98a6,6233.82,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,upi,Hunt Inc,Home Decor
+f5414322-65a8-473e-ac55-9e578371106a,5d46dad3-a592-4a1e-96ea-d9fdaf532fe3,1721.7,2025-04-24,,BAN-KOR,Koramangala,Bangalore,Debit Card,,clothng
+,0f87c9a1-04f8-45f2-b393-e36694b81c57,1906.91,2025-04-21,,BAN-X-ERR,KORAMANGALA,bangalore,Net Banking,"Johnson, Wilkerson and Velez",Home Decor
+2df1dfcd-199d-42e8-838e-a216e666175d,9031ddfc-cc69-410a-b544-eb2118668f51,7058.06,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,UPI,Chen-Roberts,Clothing
+0f1fa06f-3300-42ac-b57b-0871bf9e2660,3a51267f-7223-4ab5-9274-0a502b70caca,158.65,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,Cash,"Peterson, Johnston and Park",
+4e0b08b1-bfbd-4ee1-bd6d-0defcb774ef2,3a35ebfc-3376-4c2e-a931-672c0bf41f33,9895.01,2025-04-22, pending,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,Hall PLC,Books
+de0f86e4-9b93-4aa3-95f6-ec3335442070,c411b1db-d962-4683-a3bc-c443ac83d45f,7392.16,2025-04-21,Failed,BAN-KOR,Koramangala,Bangalore,,Hale-Norton,Groceries
+0a10484d-d0da-4390-82e2-b268881a0739,518d696f-c001-454e-8e8e-5f81fa7ae4f6,1042.93,2025-04-22,,BAN-KOR,Koramangala,Bangalore,CASH,Cruz-Duncan,Clothing
+3c8d76a3-d140-431d-9fcb-a8d05db64195,9bbe0951-3bb8-4368-8052-6bbafa2c762e,4606.57,2025-04-24,Pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Taylor, Williams and Haas",Groceries
+302ffa44-c4f8-4b17-9de6-af3330803ab3,cbc3ad9f-3463-4759-8cd2-2c7da75d9819,46775.12,2025-04-24,,BAN-X-ERR,KORAMANGALA,bangalore,upi,Jackson PLC,electronics
+f3138713-b38b-4595-95ae-c3e493338135,,20333.91,2025-04-22,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Cash,,
+29d2e043-bf27-4e32-a963-dc258da78f47,203c528c-397f-45d8-8a21-4f2dd2f86e35,4625.0,2025-04-25,,BAN-KOR,Koramangala,Bangalore,upi,Morgan-Mckinney,Clothing
+4b42531e-8c96-4442-b3dd-7f374901591c,4b3b4948-aabb-4fcb-b32f-7e9d68ce2dab,1629.77,2025-04-25,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Fisher-Garza,Groceries
+31e21c01-e6ee-48ad-b6cc-feb501c42dc3,479fb0fe-59df-44a9-99ec-73eb6614247e,7821.6,2025-04-24,Pending,BAN-KOR,Koramangala,Bangalore,,Martinez LLC,clothng
+4cf76da7-3ee9-4f14-8e97-30277a5f74cf,5edbde19-7ad1-4cae-976e-b8dc77edbdc4,1640.6,2025-04-26,,BAN-KOR,Koramangala,Bangalore,UPI,Fields-Moore,clothng
+d043acfb-2778-47eb-b27d-622434114933,f5af11e6-9900-41f8-9df1-4659957bec29,480.12,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,,Ramirez and Sons,Electronics
+6c700db7-a5d1-49be-8f71-a8e12c32d21a,275878f3-1729-4f6b-8b67-1a9f1e322235,4533.81,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,CASH,Ball-Nelson,electronics
+6bc201ee-92f1-4691-b94c-829636952b3a,,5835.03,2025-04-25,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,upi,Shah PLC,
+c597e067-3068-4626-b33f-2b40482ea607,401e7016-21ad-466a-afb9-c10d764da66d,4262.6,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Cash,"Drake, Parker and Williams",Groceries
+8cd19bcd-70fc-4ce6-b04f-b8a9d5b31c7c,9b82cd4e-696c-4907-bbfa-9da529a4c8bf,1493.25,2025-04-27,,BAN-KOR,Koramangala,Bangalore,Net Banking,Peck Ltd,Groceries
+6b16a5c6-a825-468a-9c97-491cf8ebeecf,a7981427-0de2-42d2-a520-7ee84981c91a,9971.1,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,Net Banking,Cooley-Riddle,clothng
+abc5a6cb-129c-469f-ae81-9be350c8b8d9,799eb767-cf91-4c47-8eb3-424c75d6e84f,2378.96,2025-04-26,Success,BAN-KOR,Koramangala,Bangalore,CASH,"Irwin, Vaughan and Anderson",Electronics
+,,31197.11,2025-04-22, pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,Lyons Inc,Electronics
+80d3fcc6-a69c-4c57-96e9-40276ec8f522,71d9cc84-8f24-4736-bbac-59b08bebc5ee,5971.42,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,CASH,Duncan Group,Electronics
+dbe1a5a8-7def-435f-aa47-b84542871609,d5ff8df1-574d-403b-b43d-73f6fa980dd7,3129.06,2025-04-23,FAILED,BAN-KOR,Koramangala,Bangalore,,Reyes Ltd,clothng
+9d04e845-77a4-49ee-880c-3f02ef78ca9f,bea23d37-6e51-4c7a-8aef-f1bd7afc8cde,39949.32,2025-04-25,,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,"Gilbert, Ramsey and Bell",clothng
+0f4569d8-4924-4eab-88ff-f85f564c0287,26b60cea-ed2b-4706-8ab1-e29f3f5a13a2,46727.47,2025-04-27,Success,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,"Hernandez, Graham and Carter",Clothing
+6806aee7-cae5-4fe3-bdad-e44a55226113,67ebea29-cd29-4aa0-a91d-2bf7f1945e65,9660.08,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,Cash,"Krueger, Martin and Everett",Groceries
+b16c8f7d-19cf-4d31-a8db-07944e800d74,5122bad8-5dd2-4b16-8fca-8aa549b422c8,-30.86,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,Debit Card,Bond-Huffman,electronics
+c489dfb8-7c90-43ef-bbd8-52b3ceba9e3b,94fe9ebd-c78a-445a-916f-22a857dfcdbd,794.05,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,CASH,"Robinson, Armstrong and Knox",Toys
+594e18c1-f852-4198-97e6-c03226d50269,e7b0be06-97a4-495c-8414-9cd570b3651a,1443.86,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,"Fisher, Reyes and Taylor",Groceries
+67263c7f-f88f-4d6b-9ad9-7b589b49335d,fe9e9f06-36ef-49da-af2d-93e27075f7f6,4852.39,2025-04-21, pending,BAN-KOR,Koramangala,Bangalore,,"Murphy, Hill and Burch",clothng
+c611fa92-695e-4290-bbef-78a73865275e,47d6649e-f70f-4fdc-8cbe-ce24c176d668,3313.32,2025-04-23,,BAN-KOR,Koramangala,Bangalore,UPI,Torres-Gill,Home Decor
+03276be9-941c-4808-bbfa-e6f9dc3eef2e,e4440537-8150-406b-8e8b-9c2cb177d277,6071.57,2025-04-26,Success,BAN-KOR,Koramangala,Bangalore,CASH,"Odonnell, Nolan and Marquez",Books
+3401fc36-c7c2-47b8-8c48-37f28a7a5e7a,abd2f435-f60b-40b6-81f6-b03b83754671,9046.9,2025-04-24, pending,BAN-X-ERR,KORAMANGALA,bangalore,,"Garcia, Carpenter and Martinez",
+d9559fd3-b3c1-407c-b000-e7bf5da0e375,d5cc412f-b35e-4ed4-bebd-06336592d396,3801.7,2025-04-22, success ,BAN-KOR,Koramangala,Bangalore,Net Banking,"Vang, Turner and Johnson",Books
+375678f2-b797-4981-bfeb-f6f6c1c1e0a9,e3d04332-fd07-4143-ba1a-81705629d27a,8422.87,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,CASH,"Fisher, Klein and Glover",clothng
+d064aec4-7d64-42f4-8e2b-bae977e2a853,0d9d1713-8c91-4a81-b099-de8d8f552221,5753.66,2025-04-27,,BAN-KOR,Koramangala,Bangalore,Debit Card,Page Group,clothng
+6afe6fef-61d5-494e-b49d-f0c6ccb6fd5d,2c8ac8e9-74f3-44c2-b509-6e161aa6ad56,9760.74,2025-04-21,Failed,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Walsh, Jackson and Vaughn",electronics
+3c654e2f-9e1f-4ce9-9ca7-c1f8debebc4a,0cbf1aae-2938-4b11-8b96-c0209aaa0280,2183.77,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,CASH,Hogan LLC,
+d2da4251-13e3-4de4-8805-279250f9534a,4844f9d4-22ab-4cd8-aec4-a62cc2942e9d,7762.92,2025-04-24,Success,BAN-X-ERR,KORAMANGALA,bangalore,UPI,Smith-Yates,Clothing
+77c714bb-3a5d-4d11-881e-e1699e0567e2,4da158a4-2147-47dc-a097-8b6720bddfce,23315.46,2025-04-26,Success,BAN-X-ERR,KORAMANGALA,bangalore,upi,,Toys
+d04b7e5d-267a-406e-8d72-5d652944d364,5a232bf8-0da7-468a-b976-efc94db15f6d,5832.44,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Cash,"Butler, Jennings and Montoya",Home Decor
+0fd1e51b-89ce-403d-a54b-be34519ae275,33a5f7f3-cf57-4050-a47f-348d8fbd6219,4688.49,2025-04-21,FAILED,BAN-KOR,Koramangala,Bangalore,upi,Ross PLC,electronics
+80abf561-ae82-40de-ac38-27949a3cfb56,9451d8ad-3356-4f19-a48b-df0e4904133b,7989.8,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,Net Banking,Peterson-King,
+005a9b87-6420-4abf-a51d-5e052c1b4a41,884aecf3-ab34-49cf-9ad1-d6ccf18830cd,5847.06,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,,Stokes-Hendrix,
+f6e890b1-00f3-4f02-b3ea-0e84763f561b,ce18a18c-a83b-4c24-92af-13ee1dfe3bd6,9953.09,2025-04-22,Success,BAN-KOR,Koramangala,Bangalore,UPI,"Smith, Williams and Roy",Clothing
+99918091-750f-4f7c-b80e-a75a47bbf2f8,94a4313e-4c8c-4630-a813-8db0bb75bb3a,6460.21,2025-04-21, pending,BAN-KOR,Koramangala,Bangalore,CASH,Miller-Watson,clothng
+85d56c1f-e836-4d29-845c-dd7948415e04,5f7ad5cb-e490-4ae0-a146-537181dbec5f,4819.1,2025-04-27,Success,BAN-KOR,Koramangala,Bangalore,,"Jones, Lopez and Francis",Books
+a784816d-a8ed-4a88-a6a4-3579c14184c3,29eafcbf-779c-4875-b3ba-3f0a2fc4232c,9041.44,2025-04-24,FAILED,BAN-KOR,Koramangala,Bangalore,,"Whitehead, Schneider and Hill",Toys
+57084506-90f7-4b72-83ae-511f6e07724f,673dee16-ff32-4846-8460-ec1b0982e4c2,4266.59,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,,Galloway-Harrell,Toys
+56fcb6e3-89b0-4cfe-ac70-a0033ac527dd,236cab07-5ff2-467a-9432-d7b616a7885b,4819.66,2025-04-27,,BAN-KOR,Koramangala,Bangalore,CASH,Baker-Anderson,Clothing
+77da4155-79a7-4953-a941-3cff642d56c6,df13d9c3-9a7d-43b2-a4f4-f1a01de070c8,7674.36,2025-04-21,,BAN-KOR,Koramangala,Bangalore,,Lee and Sons,Electronics
+60f5e287-b485-489c-a242-457fd8e4216d,c81f9758-8d5f-4198-a620-5f3c8f7b8fb1,2842.12,2025-04-26,,BAN-KOR,Koramangala,Bangalore,Cash,"Oconnor, Brown and Mann",
+75beb360-916d-4b12-93cb-72d9c8fbc487,95299564-a304-4afd-bf70-09ef0660ccbd,7156.04,2025-04-24, success ,BAN-KOR,Koramangala,Bangalore,Cash,Moore-Brown,
+97f2632e-2200-4c36-af1f-7c50e71fda20,76b56538-7e8b-43c7-bb97-d4cf16dd4614,7217.38,2025-04-25,,BAN-KOR,Koramangala,Bangalore,CASH,"Johnson, Cruz and Carey",electronics
+b70f26ab-7502-4209-bf56-8a7b24dcdae8,d003867b-ca9e-4c3a-9718-b1e165ec8762,9496.57,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,UPI,Flynn-Lopez,Clothing
+a1e2fed0-497a-401d-aa68-6fd61bd729ed,b7a51566-a825-448b-9c8c-bbe90bcfa66b,8334.59,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,Net Banking,"Mathews, Patrick and Lambert",Home Decor
+662105ea-3eda-4759-8046-f8bda7039ecb,90447dab-98c3-4584-87bf-35a56a7e2ea1,1224.11,2025-04-24,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,Smith-Wilson,Clothing
+53913d7c-3a28-4dd8-9e30-303984331ef8,3a7604eb-2029-4ed0-8015-c6e56c7d9a64,4419.47,2025-04-21,Pending,BAN-KOR,Koramangala,Bangalore,Credit Card,Russo-Scott,
+9dc6c276-1f4a-47b4-8580-1680b002ca59,c4e1a810-3e1d-4141-af9b-a271d53e1e8e,1016.88,2025-04-24,,BAN-KOR,Koramangala,Bangalore,upi,Fleming-Miller,Electronics
+8b83df92-aaf3-4999-ad23-f1cf0278ffdf,af8edaad-51c4-415b-b263-10ecd6421bb8,2326.2,2025-04-27, success ,BAN-KOR,Koramangala,Bangalore,,"Foster, Griffin and Patton",Clothing
+fff8ed26-3c9e-45af-af5c-30a56aa4d235,2a9f7c74-15cf-42d6-8e45-a9128aed0bbb,3707.11,2025-04-24,,BAN-KOR,Koramangala,Bangalore,,Flores Ltd,clothng
+ebc72a5f-ac30-4afd-98ae-e106c430e631,de85e3aa-2738-4016-b251-621d95e24956,15744.68,2025-04-25,Success,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,"Taylor, Sloan and Caldwell",Toys
+ebc72a5f-ac30-4afd-98ae-e106c430e631,de85e3aa-2738-4016-b251-621d95e24956,15744.68,2025-04-25,Success,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,"Taylor, Sloan and Caldwell",Toys
+3caa404a-823d-473d-84e8-e604b67f2dcc,165fa04a-5586-43a3-89f1-c0d778f0f524,6255.44,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,,Foster Inc,Toys
+494d0d5d-a02b-4a90-a4bb-4c6fdd6b35fd,a8663ce1-f8cc-4b96-9eb2-674c0bdab2d3,6505.06,2025-04-23,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Miller-Vega,Home Decor
+003b68d5-09a5-4ad1-b8c9-8f4273662425,696e0fc8-4ae4-4ae9-b944-cfa69e59ee5e,3518.85,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,,Ramirez and Sons,Toys
+e6563645-312c-4c9d-8a8a-c4094c9b0489,e32c3346-14bc-479c-95dd-63cfa810e0f9,15720.28,2025-04-24, success ,BAN-X-ERR,KORAMANGALA,bangalore,Debit Card,Smith-Morales,Home Decor
+4cadb9bd-3688-40df-bbbd-390f50b04cb0,d7dee89f-dca5-4900-bf18-e9d1b45c6169,77.12,2025-04-24,Failed,BAN-KOR,Koramangala,Bangalore,,Chapman-Hernandez,Groceries
+39b76017-1a52-43b9-8348-254846a91c13,df141dcd-f7d1-4a60-b63a-f991845b62de,7766.65,2025-04-25,,BAN-KOR,Koramangala,Bangalore,CASH,"Collier, Hansen and Hamilton",Clothing
+6b94bb8d-4341-4927-8c94-a17cdcfd1b46,49444384-e4f2-403b-a5a0-8fa0871be1a1,8903.74,2025-04-27,,BAN-KOR,Koramangala,Bangalore,CASH,Miles Ltd,Clothing
+aa202379-e859-4c9b-9bd7-60a2b548571f,277868ea-d400-478c-ae6c-98ae231663a8,2541.27,2025-04-27,,BAN-KOR,Koramangala,Bangalore,Net Banking,Turner Group,Books
+e3e0bffc-cb31-4043-a2d1-d2764b02b12a,698a76d1-395f-4618-a467-b65d308676db,1265.69,2025-04-23, pending,BAN-X-ERR,KORAMANGALA,bangalore,Cash,"Hanson, Schneider and Edwards",
+54380abc-a512-48de-94bb-aa529fb3fa9f,c2e885c7-f420-422f-98ab-79761581f727,1592.65,2025-04-24,,BAN-KOR,Koramangala,Bangalore,Credit Card,"Barry, Johnson and Boyd",Home Decor
+45d250e3-dfd8-4077-a206-c6daf1840b2a,0388d0a9-0d72-4239-93f0-2a1fc08e1ade,7865.65,2025-04-21, success ,BAN-KOR,Koramangala,Bangalore,upi,Wells-Mitchell,Home Decor
+187c8917-d49c-4549-af58-701db28aabaa,f3e11b15-1208-4ea2-9c39-44f592aeec42,1859.12,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Debit Card,Serrano Inc,Electronics
+d9ec9466-1b9e-40ff-8125-81bb11210305,be32a0e2-e82f-4ee2-afb7-fd4a6f7309fd,3783.66,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Cash,"Lopez, Vazquez and Moss",Home Decor
+47e16d1d-6427-418a-bd2a-9a295f08d79b,b52c03e3-9806-4f64-9fe3-21db1dab0e55,9447.58,2025-04-21,Success,BAN-KOR,Koramangala,Bangalore,Net Banking,,Books
+3b45c051-bca8-456f-b3c0-2859a6dd21fd,d0054edc-a7c3-46a3-bfc8-250d94fe1942,4372.97,2025-04-26,,BAN-KOR,Koramangala,Bangalore,UPI,Singh PLC,clothng
+cf069c6e-d8d2-45ad-beb3-5f887a80cf18,4c8c75d1-f516-49a7-89b7-a8ffc4209eeb,4228.89,2025-04-22, success ,BAN-X-ERR,KORAMANGALA,bangalore,UPI,Davis LLC,electronics
+293f7f5c-a801-42bd-9105-64e769a94a34,a2acb255-abbd-4446-98bf-9cec19b2f840,8898.18,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,upi,"Castillo, Bailey and Martin",clothng
+abe71a32-7c01-4bc7-802e-0863de1acf2b,8a6a01fc-88ab-40a4-b0c4-e3dd0f9ed2a7,8044.66,2025-04-23,,BAN-KOR,Koramangala,Bangalore,Credit Card,Howell-Ellison,Groceries
+45ad299f-4a27-43cc-9831-8b17ccca6b41,5f5d594f-aa73-4dae-a0b0-47417459c1d0,2540.46,2025-04-22,FAILED,BAN-KOR,Koramangala,Bangalore,Net Banking,Wolfe Inc,
+8ce0846b-0533-45dd-a1fa-a67fdb84b447,c96bdd1f-a0af-425f-a81e-65b1fcbb7687,2709.21,2025-04-25,,BAN-KOR,Koramangala,Bangalore,,"Johns, Smith and Hudson",Electronics
+9dd4668c-1ab2-48d8-89d9-6e9f7a88bb55,5e097bcd-00f8-4094-b620-d1764d5ffdca,2051.03,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,Cash,Wallace-Morales,Home Decor
+1ec60975-4225-49f7-8707-5949e29a9252,3aee1dac-d844-4c7a-9b63-4bd35187e4f5,1342.09,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,UPI,Pacheco and Sons,Home Decor
+d1fafe45-4eb4-44e8-bf99-154fb8c88fcc,ed6ed134-6ce3-4f4d-b3cc-3573087c0b39,4933.9,2025-04-21,,BAN-KOR,Koramangala,Bangalore,,Benjamin Group,electronics
+2e68bce4-86f2-4413-9802-ac31a5ebef9a,eea34108-9917-441a-8167-c5e275469818,6084.19,2025-04-22, success ,BAN-KOR,Koramangala,Bangalore,CASH,Simmons-Martin,
+402c3fef-d43a-4601-af17-14edee47a619,671dd26e-b044-4c94-a191-e2a2025f1171,8569.59,2025-04-23,Pending,BAN-KOR,Koramangala,Bangalore,CASH,"Morris, Henderson and Good",electronics
+ca12159b-ed6a-4dfe-9741-635875a520b2,92ffa2ac-2897-42af-9748-cb725fc32bbf,2866.66,2025-04-22,,BAN-KOR,Koramangala,Bangalore,upi,Brown Group,Electronics
+ff97338f-98fc-4b53-8b3e-ef0d22e31edc,e26d2ae0-99a0-473f-ac7f-31ac1126788f,42.81,2025-04-26,,BAN-KOR,Koramangala,Bangalore,upi,Huang-Schmidt,Electronics
+8afe227c-3af9-4333-bd2a-4b5b245b4406,21fcc000-f37f-4265-8db9-372a752e9456,2474.97,2025-04-25,,BAN-KOR,Koramangala,Bangalore,Debit Card,Kelley Ltd,electronics
+cc81a2ad-c638-4894-8869-28764bcd1caf,780dcb86-d93c-454b-95bd-47300c178e93,6006.35,2025-04-21,Success,BAN-X-ERR,KORAMANGALA,bangalore,,West-Mitchell,Clothing
+a694c31b-dc5a-4a40-bfc5-6cba031c53b6,0c6fae1a-6024-4630-97c3-256b8f7f902f,2043.05,2025-04-25,Success,BAN-KOR,Koramangala,Bangalore,Credit Card,Lee Group,Clothing
+40e5b3a7-2fef-4d08-9c0d-ff4c176e46ee,,4803.86,2025-04-24, pending,BAN-X-ERR,KORAMANGALA,bangalore,,Walker Group,
+91cd8993-d7c6-443a-8eeb-3af7f768661a,6b72398b-589b-4567-b00e-60feef0f7b2e,2854.77,2025-04-27, pending,BAN-KOR,Koramangala,Bangalore,CASH,"Owen, Reynolds and Hunter",Books
+f4d641c0-39e3-48e2-9c92-7c5f7b32050c,0b016ec6-7b8f-4555-8117-4bd5f7ce1960,1983.13,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,Cash,Mathews LLC,Toys
+54d846d8-fb49-41f2-aeb7-9d416edd9e43,7dfed66a-9518-4577-9a0f-fd6b9f3e7d40,8119.38,2025-04-27,,BAN-KOR,Koramangala,Bangalore,upi,"Simmons, Cobb and Anderson",Toys
+a938b75a-d690-4b64-963f-2c360f219267,7bd2ec7b-60da-4062-87fe-25945586f0c5,5349.23,2025-04-22,,BAN-KOR,Koramangala,Bangalore,Debit Card,"Anderson, Price and Mills",Electronics
+2be5f776-f4b6-45ae-9654-fd30ff231a53,97e67c69-3605-468a-a1ac-ef5b30af2260,5660.54,2025-04-21, success ,BAN-X-ERR,KORAMANGALA,bangalore,,"Holder, Fuentes and Lloyd",
+236dae01-6b05-49a8-a0c3-26f1fc9073f6,aef109f5-a6cb-4f33-b830-9c52e97de702,6587.54,2025-04-26,,BAN-KOR,Koramangala,Bangalore,Credit Card,"Castillo, Reeves and Johnson",Toys
+f894d806-4130-4ae2-bec1-eaef8e5387f1,c49714a5-8c69-4f15-a52f-688fe9ffea6a,6073.92,2025-04-23,,BAN-KOR,Koramangala,Bangalore,UPI,"Erickson, Sanchez and Garcia",
+accf09c0-fcb4-4e26-9448-dce630e07eb0,7573cc53-e845-418d-9581-7d28cd5ead0e,6091.38,2025-04-27,Failed,BAN-KOR,Koramangala,Bangalore,Credit Card,"Terry, Davis and Allen",Home Decor
+b72268a7-59a6-4054-a144-ca346f4e1c5c,3292671c-3143-40f9-9c88-6c8858fcc1dc,7861.63,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,,West LLC,
+4b89a1ac-b218-4ed1-a09a-661b95676d9d,4f287a9a-8abe-423b-a3be-87e1d4aa2a66,4404.64,2025-04-26,Failed,BAN-KOR,Koramangala,Bangalore,Credit Card,Garcia-Morrison,Books
+4dc94cf9-1a8a-4dc8-a1dc-0acf748e9dd7,a8bcba1d-3a09-4dc5-bfad-57c3eeb9f7a7,3630.15,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,,Keller Group,Home Decor
+7d524c80-edb1-4c6a-a630-0c0b1db0dc6b,0122d6bd-c575-4205-8432-8b3e2b2782f2,7086.66,2025-04-24,,BAN-KOR,Koramangala,Bangalore,upi,Ray Group,Home Decor
+3187977c-a31a-42d7-a545-039c7344dde3,3a155c7b-39f5-48b9-901e-c3bfd6ec5337,3172.87,2025-04-23,Failed,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Garcia-Lynn,Clothing
+6dfd0e73-5150-4a4f-a487-bd794a2ba8fd,bcafdb1d-884e-48a6-8d1b-c018e7a08fed,4659.06,2025-04-25, success ,BAN-KOR,Koramangala,Bangalore,UPI,Jones-Chung,Home Decor
+5f6557c3-9753-4a68-b005-b62b5722f62d,39a1fb1b-f4e9-4724-baea-3cd1b75e87be,1927.96,2025-04-21,Success,BAN-KOR,Koramangala,Bangalore,Credit Card,,
+41b9bb93-3570-4b7a-b44d-fa23f7209770,617ca04e-1088-4cae-b749-3d6de54a8920,4880.49,2025-04-21,,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Vincent-Hughes,Home Decor
+7b56ebb2-a16d-4b09-8cf6-100e953e67d5,d9c85b8c-5748-477c-9aa2-1bb5089cd7ec,4199.2,2025-04-21,,BAN-KOR,Koramangala,Bangalore,Debit Card,Gallagher and Sons,Home Decor
+a449fc66-5d2c-45a3-90eb-43427a115579,2b8e7595-d459-480c-bac3-59a6f89eba3e,3174.09,2025-04-25, pending,BAN-KOR,Koramangala,Bangalore,Cash,Richardson Inc,Home Decor
+7f7ad50c-5512-4f35-9679-bedac6e5236b,b9ed2481-1501-42ae-8767-ebfecc14b76d,4250.02,2025-04-24,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,Wright-Frey,electronics
+8a347bf2-e945-4bda-b9f6-c85199ad7784,45dedc11-bd9f-486c-a840-f5bda0c1199d,4717.97,2025-04-25,FAILED,BAN-KOR,Koramangala,Bangalore,Credit Card,Miller-Aguilar,Toys
+917f6c00-b08c-4cff-a94b-6fabc1dcce9e,4aa6ce1b-d453-477a-9464-571d9a066c3c,3621.01,2025-04-27,,BAN-KOR,Koramangala,Bangalore,CASH,,Home Decor
+42e85755-0eba-4e0c-9772-07d321d18280,66954752-fe94-41a2-9462-2d5368215157,3765.09,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,Debit Card,Jones-White,
+46ff6c7b-e9b9-4458-9cef-bf93dfbaaf72,7dd83053-e2a9-4b0a-b6e9-8d8bcb9cba30,9466.92,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,Debit Card,Stephens Group,Books
+,03d473ce-ba4f-479c-b6a8-c4b23d9de570,7125.06,2025-04-26, success ,BAN-X-ERR,KORAMANGALA,bangalore,Credit Card,"Vaughan, Russell and Copeland",Toys
+1599d27e-a4de-4b67-af53-6f09b21f75c4,1d4992a4-2e4b-470a-98aa-f00131d8be21,5805.18,2025-04-22,,BAN-KOR,Koramangala,Bangalore,upi,"Hawkins, Holmes and Duffy",
+d91cebb4-6106-416f-a321-273b6afe5fc6,1a2a43bc-529a-44c7-bcab-621084b0a4e2,791.0,2025-04-25,Pending,BAN-KOR,Koramangala,Bangalore,Debit Card,Anderson and Sons,Books
+6d601cd2-e40c-4b8d-9068-864a4866154e,9336c8fd-13f9-4143-9da9-f861b68fe6e7,6202.6,2025-04-22, success ,BAN-KOR,Koramangala,Bangalore,UPI,Harris-Wheeler,Clothing
+09ea15f9-94cd-4eaf-89b1-9a44312a1a3b,,8105.3,2025-04-26,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,,"Reed, Meyer and Thomas",clothng
+,c9edf4a8-dbc2-45af-bab9-c2b78fb99cec,22995.53,2025-04-21,FAILED,BAN-X-ERR,KORAMANGALA,bangalore,CASH,Ray LLC,Home Decor
+e997eea4-4d7f-4cfe-b8fd-153c62d3b65f,6ab4707c-8dae-4e12-94e5-b42a87e6af5c,5624.74,2025-04-25,,BAN-KOR,Koramangala,Bangalore,CASH,Perkins-Alvarado,
+e490af51-1657-4540-9f30-a58cee418f38,c1dd2854-d72e-4bb4-ada0-20866fd806d8,9044.09,2025-04-27,FAILED,BAN-KOR,Koramangala,Bangalore,UPI,"Garza, Miller and Chandler",Electronics
+8c93235e-b173-4f5e-8ace-592e91f822e4,f5a22b4d-9f89-4055-9919-9d4f8dc05627,9423.06,2025-04-22,Pending,BAN-KOR,Koramangala,Bangalore,,Jackson Inc,Home Decor
+03361882-a0a3-4154-be56-5478338cb1f8,af6d7dae-2ca7-4101-b467-21288df70499,-2.85,2025-04-26, success ,BAN-KOR,Koramangala,Bangalore,,Chandler Group,electronics
+a7f4b74e-3341-4542-b786-f342d12cdb8f,69d2f613-5696-4564-a1bc-bd24fdd84eae,22331.27,2025-04-26,Failed,BAN-X-ERR,KORAMANGALA,bangalore,UPI,"Brooks, Matthews and Gomez",Home Decor
+97a68b1e-0814-4118-ae12-444841df0da1,8dd79cc3-53bc-4b0e-ad95-7fe0ee5043b9,4549.84,2025-04-22, pending,BAN-KOR,Koramangala,Bangalore,upi,Cole LLC,Home Decor

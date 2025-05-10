@@ -1,0 +1,712 @@
+Transaction_ID,Customer_ID,Amount,Date,Status,Branch_ID,Branch_Name,City,Payment_Method,Merchant_Name,Product_Category
+63ed5635-85e9-494e-837a-7562dd2e033a,1a8b2e45-9551-4152-b060-9f3e6dddb4ed,2145.14,2025-04-22,Pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Chambers and Sons,clothng
+1357d2fe-2a8f-49ce-8d61-647ccbf8b7e9,2a989e21-a85d-4083-a06a-5d3a438bf10a,7518.22,2025-04-24,Failed,DEL-KAR,KarolBagh,Delhi,Cash,Trujillo Inc,clothng
+7d3e4cc1-95e8-40a0-9bb3-59e4ec5b9ce6,,2492.9,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,UPI,"Shaffer, Thomas and Cook",Clothing
+64f1ca6b-4e5e-4ba4-9d7a-438d9e62e113,518775b3-c23f-48aa-821a-eb93fa0c01ac,40215.13,2025-04-26,,DEL-X-ERR,KAROLBAGH,delhi,CASH,Soto-Nelson,electronics
+36fb2d19-b337-4e70-9f4f-2723ea2aaae9,d1a8270a-afba-459b-9ff1-e3932e4d1186,9590.97,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,Cash,Mitchell-Jones,electronics
+c5c04ac0-cc1b-4e2e-98f9-69a785514ed6,d999b615-aa6d-4584-8846-59fbb0022232,49778.47,2025-04-25,Pending,DEL-X-ERR,KAROLBAGH,delhi,,Lewis Group,Groceries
+04aeac4d-f764-490b-82de-9e7330054231,0ed511e4-24f6-41b4-968f-84d5afe906ad,7666.86,2025-04-23,,DEL-KAR,KarolBagh,Delhi,Debit Card,"Petersen, Schneider and Garcia",Books
+d6667cff-71ce-4101-b765-305597d63070,83536185-6dc8-4ca7-b8e7-25ebf38321e3,9343.93,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,Cash,Herrera LLC,Toys
+148ca70b-f068-4554-bf24-c98edca91aee,2273c684-abb6-4922-a1ca-df6b429a8d6f,7432.93,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,CASH,Shah LLC,
+32c582ac-3e6b-4669-85b0-b47da970b211,f98b05df-4457-4f40-92da-47ac3e30ed5e,9672.22,2025-04-21, pending,DEL-X-ERR,KAROLBAGH,delhi,,Rodriguez Group,
+e952b547-3501-4e80-8aad-06932b428873,006a218f-3212-44c4-82ec-48f163a0793b,2392.69,2025-04-27, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,Johns-Foster,Books
+7b9fa2db-e86e-49ec-b7fd-90504a8435ed,02b48699-92b0-47cd-bb78-f7a70bd46916,1991.25,2025-04-26,Pending,DEL-KAR,KarolBagh,Delhi,Cash,"Ortega, Graham and Mata",Books
+609141dd-770c-4816-8685-d4ec3cbba6ad,5f887f61-9a8c-4761-bd8e-f50724f62acb,3410.28,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,,Fisher-Webb,clothng
+6a815581-a2f2-4a9f-90d0-6ee8d69d4bf7,7fbda7a0-1803-4038-b55d-b5792f7faa73,7321.33,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,,Campbell PLC,electronics
+8f981207-650e-4547-8422-1d34d87652b5,1a5cc4bd-4cbf-4a9d-a822-1fae0ca09c81,9850.03,2025-04-27,Failed,DEL-KAR,KarolBagh,Delhi,Debit Card,Cervantes-Walker,electronics
+abd96ad9-d3bd-4e0d-a2d4-0e2a39e77878,4c20a369-d84e-4f52-a31a-7806296e0975,4577.94,2025-04-24,Success,DEL-KAR,KarolBagh,Delhi,UPI,Scott-Jordan,Books
+9ce555f4-96bd-4f63-9bf3-c2e54c6b3119,52a9a87f-0979-4863-a6ba-285115541a3f,246.42,2025-04-23,,DEL-KAR,KarolBagh,Delhi,,,
+,630c1e84-053b-4b94-ae85-e8619bf63df3,2298.82,2025-04-24,,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Johnson, Cunningham and Mckinney",clothng
+3abe6b28-03f5-4143-a52a-0d8d7c8e107b,d0794a04-5617-4d9e-a174-cb534c61d505,6396.24,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,upi,"Ali, Hayes and Brown",Electronics
+dd063bad-bcc5-4886-91b3-e6a98d644744,198f2ed1-92e9-4654-8f03-e6215faefa38,153.59,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,CASH,Holder-Thomas,Toys
+02c22093-f459-4b86-b6ec-8b2364299af4,1e2c723c-2cd6-4b1d-86fb-4c7e765dfb30,9246.68,2025-04-25,,DEL-KAR,KarolBagh,Delhi,,Jones and Sons,clothng
+ba873328-65e1-416a-a6bd-7270a33ad286,,6883.46,2025-04-22, pending,DEL-X-ERR,KAROLBAGH,delhi,upi,Cisneros-Morales,
+1cf2ea66-2c9a-4b9a-a3fe-143100e1ebae,ede18254-bc27-4701-9246-67536c66ccf5,6346.96,2025-04-21,,DEL-KAR,KarolBagh,Delhi,Debit Card,"Zimmerman, Gibson and Sparks",Books
+dd661ebb-243d-4300-82ad-cdde83afa815,3b5e2089-9a7d-4010-ad95-1bccd7d19fa2,2484.8,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,CASH,Gardner-Avila,electronics
+aeb494ff-312f-4c12-8c4c-83d0d3dab73b,152ab4d9-a386-4a52-9f1e-6612d6d58e12,1567.0,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,,Cox-Allen,Electronics
+159f3cf1-d9ed-4f6a-9386-8606cdae0f08,eb142767-568b-41db-8fbe-5bf97ae2755c,4713.64,2025-04-24, success ,DEL-X-ERR,KAROLBAGH,delhi,Cash,Berry-Ingram,Home Decor
+06a7d305-1f43-4bd3-985c-7b4fb4bd9fca,14dc5ccc-bc01-414d-a9b5-6963e046e5c8,4882.63,2025-04-24,,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Solomon Inc,Books
+3e9a66d6-8b07-475a-a92f-924a2689e8a8,549657d6-9244-404e-9637-401e307c68e0,594.31,2025-04-25,,DEL-KAR,KarolBagh,Delhi,upi,"Lynn, Aguilar and Olson",Electronics
+3875c569-ee85-4b01-830e-22b394042b7f,dcc130e6-c224-4536-8eda-ccec56c07f2b,1427.62,2025-04-26,Success,DEL-KAR,KarolBagh,Delhi,Credit Card,Vasquez Group,electronics
+b302a11e-7c66-4196-9b65-aeb814d9a397,586c1d23-085c-4bf0-b137-01b406de0c92,2303.37,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,CASH,"Hayes, Brown and Berry",Groceries
+e8fabfb4-40ef-4762-a12b-770912dee971,013b67f3-61c9-43d4-b2da-886eeecfdd43,2155.73,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,Richmond LLC,Books
+c2c1925c-3b5b-4d47-8f24-8b558a767f56,,9574.29,2025-04-27,Pending,DEL-X-ERR,KAROLBAGH,delhi,Cash,"Flores, Allen and Cruz",Home Decor
+8eaea75f-c18c-4413-9d84-848442452602,6759a88b-d52d-4f3f-8393-256a741b8f3d,6623.8,2025-04-26,,DEL-KAR,KarolBagh,Delhi,CASH,Glenn-Graham,Toys
+47a1fa03-6345-439e-8267-61140f862b69,f1160667-5318-40ae-8f66-e8803974f1d9,31250.1,2025-04-26,Success,DEL-X-ERR,KAROLBAGH,delhi,,"Reid, Wilkinson and Cameron",electronics
+c2a34c89-78f0-45ad-8337-0882a398f60d,39cdea83-3a47-4c64-8b6b-60bc3c80666f,2835.43,2025-04-23, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,Carpenter-Fisher,Home Decor
+73811b54-b9ac-4500-b8f9-d852d426cf91,fbcf5d7b-c143-48aa-a993-a0e555552e00,9267.27,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,,Vang-Peterson,Groceries
+8af7e654-4d5c-4142-8015-1f29c78c1b73,dbd959b8-8888-4491-a59b-918547e9773e,1062.84,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,UPI,"Turner, Marks and Gonzales",Groceries
+1df8252e-d7fc-4bd6-b79b-8119cd4f66ac,582d1e50-fda6-4971-97bd-21248a994696,6962.81,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,CASH,Gates LLC,Groceries
+747bcec8-0d2c-44dc-bbd0-67942985cdd3,956bccd5-d945-4f4a-878a-112598276b5e,7682.21,2025-04-25, pending,DEL-KAR,KarolBagh,Delhi,,"Robbins, Evans and Woods",Toys
+1b8549f8-1aed-4b3b-9e0b-c3a2d4fb02df,fe44492f-f40f-4b9c-bbef-14350d1d14a0,9893.85,2025-04-27,,DEL-KAR,KarolBagh,Delhi,CASH,Myers-Ibarra,Clothing
+be4106d0-ac71-43d1-8a38-da425cafca04,761a0820-5767-4574-ab17-842259e14007,6071.02,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,Net Banking,"Cunningham, Bryant and Jackson",clothng
+4bc97e36-35c8-4907-939d-0debaee12e2d,f17a5c4e-44b3-425c-967d-8eb781c4d943,3783.9,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,UPI,Carpenter PLC,
+af6e95c8-f4e6-4ead-8200-90a181e99860,594fdbf8-dbb7-4e2d-8746-d7c6615676b3,7528.75,2025-04-26,Success,DEL-KAR,KarolBagh,Delhi,Cash,Cameron Group,Clothing
+98f314cb-ba9a-4998-9712-f0a3b93b8ca7,f43006a3-dd91-4930-ac13-43672e974f7a,3189.52,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,UPI,Robinson and Sons,Electronics
+8c40a4ed-c823-4e35-a8e6-7ec7ee75ff64,c47cd413-9ff2-4cff-88a5-26c679f29626,6023.26,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,Cash,,Books
+74ca8521-e3ef-44b7-b0d2-30e3e2163ec3,77e83c58-5fe4-4158-989c-da7070647540,6498.64,2025-04-21, success ,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Harris, Cunningham and Bryan",
+7f3b8cbb-390a-4e15-a051-d2a324f1d56e,e11c8a45-2f09-4dc7-96d9-b70b77eb6995,7263.4,2025-04-26,Pending,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,,Electronics
+,15dcb535-c90b-47d5-ab8a-5c0611dbbb3f,6886.62,2025-04-21,Pending,DEL-X-ERR,KAROLBAGH,delhi,Cash,Malone-Mcneil,Clothing
+98d9d65a-8dcc-4d11-a148-c1f41f8a3673,a922e7e9-2ffb-4032-ac21-d58c6b609d92,6994.97,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,CASH,Fernandez-Santana,electronics
+33a3aced-4994-4532-aafd-24e3ea91c395,af358d31-314d-4bab-bb59-192729f98244,8278.94,2025-04-23, success ,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,French and Sons,Electronics
+3ad334a6-edd7-4801-96e2-0abf9de576ca,05c656cc-610b-4ab9-87a9-087e409238d6,4380.57,2025-04-25, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,"Preston, Davenport and Crane",Electronics
+f96c7d29-fc23-4b0c-90e5-4bc660ba81c6,ae17d199-3a00-4703-b52d-00ee4232f4f6,3649.76,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,CASH,Salazar-Pena,
+89a5c5bb-7009-41ec-974d-515030d3a0de,c74d9c94-52b7-4822-a44c-347ae144b6aa,7440.77,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,upi,"Torres, Taylor and Cooper",
+0c6e703f-d5ab-4fd6-b724-9d797b7e2f8d,dc8a56ad-61ee-470f-8914-8dc108731942,5004.92,2025-04-24,FAILED,DEL-KAR,KarolBagh,Delhi,Credit Card,Schmidt-Clayton,Clothing
+7a97a5df-881e-44ef-898a-6c255619d679,3ed31eb3-5734-4c4d-b273-f4a4c7a5b755,28187.94,2025-04-22,,DEL-X-ERR,KAROLBAGH,delhi,CASH,Nixon Ltd,
+853135f4-ccaf-44af-83c1-53c8c0e1ab61,2aae11d3-4184-4e37-8282-a0c6c886878d,8948.96,2025-04-25, success ,DEL-X-ERR,KAROLBAGH,delhi,Cash,Mccarty-Conway,Home Decor
+52f094d3-01a7-4438-8d5a-708a87873c5e,6902ad05-71ae-45b1-b974-046a3f617ca8,6241.46,2025-04-24, success ,DEL-KAR,KarolBagh,Delhi,UPI,Diaz Inc,
+f88eb897-dc11-4b32-8ea0-20037acbbc8b,87b04e72-8cf7-4de1-ac9d-65d4f3819e6b,715.43,2025-04-26,Failed,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Sanders, Shelton and Williams",electronics
+214bb3fe-f371-4fac-9710-4075b8dbfc46,e34135da-3fc5-4079-9f51-e3c62b356a41,7783.47,2025-04-21,FAILED,DEL-KAR,KarolBagh,Delhi,Credit Card,Johnson-Lam,electronics
+e7502a74-b792-4cbe-b805-d2659f162c70,f6e6b949-66ba-481e-8f68-216d53769ade,2296.74,2025-04-26,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,Bean PLC,
+cfa4e764-8a39-4faf-a1b8-4e48a96de595,c6d82f62-8644-4c62-90dc-384278d36023,1344.96,2025-04-26,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,Gillespie PLC,Electronics
+cc2e4560-d38c-4ef3-b3f6-ac677f3f85cc,cd2b1777-4068-4f01-9387-a760b31d6e22,7525.72,2025-04-22,Failed,DEL-KAR,KarolBagh,Delhi,CASH,Bradley-Robles,
+1cf423ea-d143-4d59-9386-e7f12c765e0e,93d2f0f6-aaa1-487b-aa6c-32b47950d1be,3678.61,2025-04-25,,DEL-KAR,KarolBagh,Delhi,,Evans-Simmons,Books
+2ec8c9fa-c29f-4369-b1d7-bc493c053a87,01b27429-81ad-4fe7-8e84-687a8aba1684,9710.79,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Smith Inc,clothng
+86ee20c1-2dc5-4b49-8a94-6f99b39aff5d,af4d65d4-56a6-426c-8fed-9d447cd7d303,2901.54,2025-04-21,Pending,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,Crosby and Sons,Electronics
+b40c034b-bb0a-43e5-a8c2-0b8dae5cf007,150f95db-00ed-49d7-808c-8aa8a7f517c4,3695.32,2025-04-26,Failed,DEL-X-ERR,KAROLBAGH,delhi,,Evans-Valentine,Toys
+87a2c2ec-4682-4e82-a5fa-309f111b53e7,a896a2c1-2332-4bfd-9e98-77f77f8fe1c6,664.82,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,upi,Oneill LLC,Books
+dfdbb3e2-21b1-407e-aa40-e03467e1e6e7,bd5e628b-a675-4b7b-91cd-3d87776a6a9b,7223.78,2025-04-21,Success,DEL-X-ERR,KAROLBAGH,delhi,,Kelly Group,clothng
+7283555d-9237-4961-ae38-4228ae527935,d342b587-2bba-474c-8699-2fb440bb9671,4241.13,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,UPI,Parrish Group,clothng
+e896941f-88d8-445d-bb35-42fb0e2ed619,bc2552e8-4ad7-411e-9776-a917c45a40ac,3767.51,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,Cash,Harris PLC,clothng
+f3cd0681-81f7-4175-9f59-bdecf7b453f5,3ce7845d-e6ef-4a35-a44a-4cc27e50337b,6165.81,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Sanders Ltd,Clothing
+0c89956d-6d1e-4ed7-82ad-e14aa4ee7e8f,42762d24-dd4b-41a3-9682-38e9cbadd0cc,6563.39,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,Debit Card,Levine-Hernandez,Clothing
+,13527b16-7c44-4a59-a6bd-f3812273fa05,3166.99,2025-04-24,Pending,DEL-X-ERR,KAROLBAGH,delhi,UPI,"Alvarado, Peterson and Padilla",Toys
+01c89c55-75d6-4196-a25f-60269ef7497f,b8ed0933-0b56-4fd8-9d6f-7fb7187cc428,2427.54,2025-04-22,,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Reynolds, Lynch and Boone",electronics
+0717ec47-21da-4e34-ab57-dcd67bbf4550,12d85d3c-59b3-479c-a10e-70759e0f9375,5338.01,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Debit Card,Williams PLC,Clothing
+b88af834-b94c-4fd1-8cb9-b57e279cdef7,3a127eae-3cff-4604-a057-05da5a532c6e,4996.41,2025-04-22,Failed,DEL-KAR,KarolBagh,Delhi,upi,"Cole, Smith and Adams",Home Decor
+c102ec3b-329c-4d35-99da-ea9da5bef82e,,18590.96,2025-04-26,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Peterson, Martin and Blankenship",electronics
+f01ac6cb-f6f4-4272-8918-3f4257fad2ab,ea1bba42-5f38-40e3-a897-036da1b2b008,2776.17,2025-04-24,Pending,DEL-X-ERR,KAROLBAGH,delhi,,Jones and Sons,electronics
+7191d9b0-a55b-4de1-9ab7-34eccd549bfa,2a35295e-99fe-479b-884c-d5ce1551f6cf,4062.37,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,CASH,Cook-Mayer,Home Decor
+1c56cbe0-dbf5-4731-b22c-79f64d7e0130,4f4d4844-f692-4421-8aad-ece3feb3034b,3974.21,2025-04-23,,DEL-KAR,KarolBagh,Delhi,,Hoffman-Mcdonald,Toys
+2890440c-697b-4ee7-9533-f25d3cfc3cd4,99ee2665-5888-4ed9-a15a-6d3a62aebdb6,1270.03,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,UPI,"Frost, Young and Jones",Books
+f3d50d58-933a-40ee-a733-dfe64ce5a613,ea3918e6-caae-4f1a-b7c4-c6abfa0b14f4,4652.63,2025-04-26,Pending,DEL-KAR,KarolBagh,Delhi,Net Banking,"Cole, Wolf and Brewer",Books
+7ae25bd2-7609-4ca4-8a16-5cd7b551d776,42049e6c-c062-4e1c-a1c2-22492bfe6eb6,6277.7,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,Cash,Reid and Sons,Books
+dc243ce7-57b5-45e0-a222-af50a131b298,766274f1-e590-4906-9f65-10f54de6a5f1,2772.31,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Debit Card,Martin-Villegas,Groceries
+1c3dc6fd-79ff-4f76-9ca5-af97605b35b8,,1761.85,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,CASH,Goodwin-York,Electronics
+ddd62795-84be-45c1-a4f2-9f6739097369,d5bd2cdb-0b02-4e16-a5c8-6c04ad2534ed,7350.01,2025-04-22,,DEL-KAR,KarolBagh,Delhi,CASH,"Moon, Williams and Shaffer",Clothing
+a5b3c115-88b0-4aaf-ad97-af62452c8634,2017a988-4bfc-4ba0-a405-66ac04cda3ea,3287.38,2025-04-24,Success,DEL-KAR,KarolBagh,Delhi,Debit Card,Perkins-Barnes,Groceries
+b89320a0-07d3-4350-a061-450c0cf1ce3a,026d8738-497e-4b15-914f-d1040cc244a5,45422.12,2025-04-21,FAILED,DEL-X-ERR,KAROLBAGH,delhi,CASH,Hale-Webb,Clothing
+49b94f84-20a0-48fc-aa4a-86767a567dd0,61c7041e-67cf-4fa0-aaf4-74fde104e84c,6623.26,2025-04-22,Success,DEL-X-ERR,KAROLBAGH,delhi,upi,Diaz PLC,clothng
+3887e814-0876-48b5-ac3f-6c13275ec353,3b1e27d9-997f-44d6-8829-f373699f96c9,4568.67,2025-04-21,,DEL-KAR,KarolBagh,Delhi,,"Hodges, Robbins and Adams",Electronics
+0f03842e-f97b-4c71-a128-d0ebd486f3b8,5503b3e2-adc3-4d66-99aa-5d3fe9912230,3820.91,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Allen-Raymond,Clothing
+2f3157fa-75ca-45dc-808c-62fc1d1817f6,4f8c9946-6560-424f-aea9-d81ad1d0cc64,9929.82,2025-04-21,Failed,DEL-KAR,KarolBagh,Delhi,Cash,Henry-Cline,clothng
+c9b7b6e0-f83b-48a8-9252-ed846bcd7ba3,a256a20a-02f3-4565-a0f9-2b39034377e6,1862.26,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,CASH,"Adams, Hull and Robles",electronics
+,9c5ea99f-5478-43ab-ba98-a0fe37a95691,4163.36,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,"Nelson, Owen and Martin",Home Decor
+3e0b1d6b-a32a-46b9-89e8-81549340de4b,c2fc1353-f67b-4794-8b3f-5768d58539af,3171.31,2025-04-24, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,"Butler, Perry and Steele",electronics
+ef2a4dca-cc18-498d-ba06-cd74c99ab08f,3fcb545c-5a58-4ba4-bba1-d51b151979a1,4209.37,2025-04-21,,DEL-KAR,KarolBagh,Delhi,UPI,Martin and Sons,
+ba85241b-7708-4d96-8d1b-1b51bde394b1,530ef98a-6716-4d37-bc7c-b085c784f38b,4443.44,2025-04-21,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,Cortez and Sons,
+931c387a-0411-48dd-9011-89f99ae8be7a,,29336.7,2025-04-21, success ,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Mata, Brown and Turner",
+dd5ab402-114b-42aa-a815-93bd740a5464,4d1548c6-4fcf-466c-a519-8e6fd738d6ed,7622.11,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,upi,Gordon-Wright,Toys
+516eeddc-532b-4b65-b4a6-747ebccfcaf9,0d7079bd-f037-43d6-a89d-db8c4282c052,4721.83,2025-04-24,,DEL-X-ERR,KAROLBAGH,delhi,Cash,Davidson Inc,Groceries
+516eeddc-532b-4b65-b4a6-747ebccfcaf9,0d7079bd-f037-43d6-a89d-db8c4282c052,4721.83,2025-04-24,,DEL-X-ERR,KAROLBAGH,delhi,Cash,Davidson Inc,Groceries
+9943d04b-7e22-429a-9e86-b8f8668a9942,,7716.56,2025-04-22,,DEL-X-ERR,KAROLBAGH,delhi,,,
+0fa88502-bffb-463b-b490-78bdb95fd288,f34b1820-7160-4b59-aed0-6ef9bc15c81e,7017.13,2025-04-25, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,,Toys
+f232e871-4484-451d-9cf2-d920cfb988f6,324abcf2-9f39-4c24-b981-9a9d9226c970,5608.08,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,UPI,Sutton Group,clothng
+51c8709f-46f5-4bca-84eb-e955966539d0,c722acc4-bd45-4fdb-b646-65abda8a3993,9423.81,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,CASH,"Reed, Palmer and Grant",Electronics
+32b88480-74e8-4fa4-9599-86e738f14f3d,d3746f76-cc53-42e3-93c5-b45d3f84ca52,3980.12,2025-04-27, pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Mcclain and Sons,Electronics
+3b816a01-7b3d-4792-af2b-4115050aa77b,a10ad0f7-3fa1-4c73-9723-98eb46f8d203,4257.71,2025-04-23,,DEL-KAR,KarolBagh,Delhi,Net Banking,White and Sons,Toys
+d85ab117-19f9-4e88-8f6a-fb496c50520b,c2165055-4b09-4df3-a70c-03022dc028f3,1238.96,2025-04-26,Pending,DEL-KAR,KarolBagh,Delhi,Cash,,Clothing
+,a22fbed1-058a-4ecf-80e5-4037eef39b66,2794.2,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Brooks, Klein and Ellis",Home Decor
+58ca8e2a-3aeb-4562-bde1-dade0e122b19,12976a45-ea75-4126-92fe-8d720b797acf,3758.65,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,,Clothing
+d24dc8a1-3fa0-4182-a021-a70d0c56b028,d1a0635e-1888-4fc2-939f-916e21cf4640,3101.03,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,CASH,Erickson-Diaz,
+dbf47ef7-88c9-49cb-9303-1bdb5b433d20,9677593e-cdd1-48d0-8ddc-0d6e7fa7f07d,7986.66,2025-04-24,Failed,DEL-KAR,KarolBagh,Delhi,Credit Card,"Cuevas, Williams and Hernandez",Home Decor
+afe44754-d15c-4103-a5cb-190fe5366044,57447fcf-f240-4f38-8c95-575dacd397e7,18322.58,2025-04-25, success ,DEL-X-ERR,KAROLBAGH,delhi,Cash,Jones-Wheeler,
+5f4c8833-d021-41ac-9f0f-dbea2801461d,521c2428-21b0-44fc-966d-0b64db190bf7,4620.23,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,,"Owen, Johnson and Tucker",
+17547fcd-961d-4aae-934b-4c6b8451c1a8,fa2d4d7b-d281-45d0-bfdd-0452d82fdff4,4238.9,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,Net Banking,Bailey Ltd,Toys
+4f601dfd-b047-41f9-baae-8df239248a1a,ee7d6068-4101-4319-b603-f7199c7a3fb5,6492.4,2025-04-21,,DEL-KAR,KarolBagh,Delhi,Debit Card,"Marquez, Ruiz and Cook",
+50662b04-c1a6-4cf9-9bba-f54d7f494f83,1f0bf9a4-f30b-49dc-bf05-7f985ba21b8c,2717.28,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,,Toys
+2c762354-3b09-46a2-8c2b-b3da6ea7751c,a64bddd8-a1bd-41ac-83d2-863ef5736bb8,2443.23,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,CASH,Ortiz-Smith,Books
+beb70b53-1ecd-47f5-ae3a-b4adc8a9581e,da2187c8-d86a-4dbf-a256-344f6917a9fb,7388.63,2025-04-21,,DEL-X-ERR,KAROLBAGH,delhi,upi,"Caldwell, Herrera and Diaz",
+3cc94bec-6ebd-40ab-b753-9235f2cfea1d,dfbe8420-025e-4dbb-a1a4-f52550e19f95,5932.69,2025-04-21,FAILED,DEL-KAR,KarolBagh,Delhi,Net Banking,Graham-Jones,electronics
+0e031c36-2762-4cda-8a06-819d0aa212d9,a8d6fd03-8ff7-40ad-9b6b-c8bd507c0388,427.69,2025-04-25,,DEL-KAR,KarolBagh,Delhi,UPI,,Electronics
+aaeac217-5bc6-4d21-8f05-5ebe803fe303,72053f92-987c-48d7-ab86-e231a6f20f6a,7725.33,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,Cash,,Books
+3099d7f6-4e5a-4b0e-93cc-fa78e094675d,f6dfca85-b156-474e-b73c-d38faf931ea5,6505.14,2025-04-26,FAILED,DEL-KAR,KarolBagh,Delhi,upi,Durham PLC,
+97c5b796-c3f5-4f4f-bec2-ff040ac2aa3d,142239d6-0b4c-40c0-9bfb-5dbf09b6914e,6344.98,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,CASH,Oconnor-Atkinson,Clothing
+2617b8ea-9992-4403-b76f-c21dbb90e31c,86420701-8371-451c-94c0-37c47c4fc4f3,2946.83,2025-04-27, pending,DEL-KAR,KarolBagh,Delhi,CASH,"Garcia, Wheeler and Johnson",
+64077b44-e555-41d8-b94b-b175cc9b8fc7,f032822a-62c8-4efd-9d55-2067a80cb095,8373.91,2025-04-23,Success,DEL-KAR,KarolBagh,Delhi,Debit Card,"Mills, Russell and Romero",Groceries
+5a3145cf-bbde-40b8-8920-cd4db52d3d21,af5f8913-d13a-462d-8706-741a16ae2932,4666.77,2025-04-25,Pending,DEL-X-ERR,KAROLBAGH,delhi,,Galvan-Williams,Clothing
+a92cb3ec-0901-4b16-a0b1-a2d959bb814c,fe465a13-5585-43b3-a1be-43b69759ac2c,1244.06,2025-04-25,,DEL-KAR,KarolBagh,Delhi,,"Herrera, Martin and Mendoza",Groceries
+7aaab712-0314-4f77-88c6-3c7a862537e0,7cff9981-b6eb-4f09-a7f5-042bf301cfca,7846.58,2025-04-22,,DEL-KAR,KarolBagh,Delhi,,Ramsey PLC,Home Decor
+f1925d87-ab34-46b9-ac58-c5d21cbd0fb2,2782ae78-728a-4e31-8a56-8c93dd63a743,2501.27,2025-04-23, success ,DEL-KAR,KarolBagh,Delhi,Cash,Clark-Fisher,Home Decor
+39289fd0-8409-4d5c-b752-fc64048ac7a3,c7f41c7c-b640-418e-b974-3fb4ba269dde,4497.18,2025-04-21,Failed,DEL-KAR,KarolBagh,Delhi,upi,"Walker, Mack and Munoz",Clothing
+c29ec3a9-853a-4362-a262-0152f3c9ee87,fd17e143-a0f9-4fd0-9580-41aa9931ba4c,4364.72,2025-04-27,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,Garcia-Scott,
+8c72ab40-9b89-4f01-88b7-de64fa18e71f,e4465eb1-7621-4043-a962-4b673454d6fa,6831.64,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,Hughes-Baker,
+6100c7f1-6f4d-475a-b19e-24ab090aa3c6,6af8a1a0-b924-4c7b-83dd-bc2c86dffb72,5688.2,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,upi,Jones-Hoffman,electronics
+19d99470-e4a9-4427-bdcd-ed63c34ae3df,5ab4f09b-4de8-4b73-accb-eb851581184d,2771.53,2025-04-26,FAILED,DEL-KAR,KarolBagh,Delhi,,Bell PLC,Toys
+66f4a892-d22e-4018-9d8d-ab6acbacc8b6,3fbac7d4-4dbd-44aa-bf35-a7c0350ce885,6341.61,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,,"Williams, Garrett and Gonzales",Clothing
+042973a9-2584-470c-ae97-65f796ac9b5d,59782ca7-227b-4089-8849-8f04b842231b,2626.23,2025-04-27, success ,DEL-KAR,KarolBagh,Delhi,,Patterson-Chang,
+783fed58-c541-4a7f-bd7f-7a9136c3fd85,cb6b078b-7b6b-4fc1-ba10-b865b418f5ac,36987.6,2025-04-23,FAILED,DEL-X-ERR,KAROLBAGH,delhi,UPI,Rhodes Inc,electronics
+8ea54843-b000-473d-bec0-c73160e73853,c863453a-9786-4ef2-9bb7-47877b24df01,1147.71,2025-04-22,Failed,DEL-KAR,KarolBagh,Delhi,upi,Rodriguez-Campbell,clothng
+033ac08a-2758-404f-ac5d-3cf57b012a15,433b2440-24c1-4bb6-9a7e-bdd5da242350,3096.27,2025-04-21,Pending,DEL-X-ERR,KAROLBAGH,delhi,CASH,Finley LLC,Clothing
+a87ec290-0616-4fb0-923d-6ef85646a1b6,4bb8b91d-5793-470e-bf2d-79ad0ecc359f,6330.06,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,Debit Card,"Holder, Cortez and Wade",electronics
+d7ca5421-8cf1-48e3-ab1c-6feb960ddf1d,7ef83fa6-d8bd-4133-916a-50b73572a97c,5259.34,2025-04-25, success ,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Ellis, Meyer and Mendoza",Groceries
+644845b1-18ee-4dc3-a0a4-44b84f52bf21,cc5f9dc1-33c3-4d8c-8360-64a336ed1588,8114.43,2025-04-24,Success,DEL-KAR,KarolBagh,Delhi,Cash,Fox Ltd,electronics
+948c1f80-07a8-480d-870a-0bcc0f37649d,50185627-3930-4972-8a82-3ba1145801cd,4382.94,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,CASH,"Parker, Giles and Odom",
+b6c02711-f941-4aad-b10f-71f57de14528,fdd8d2b2-700b-4c96-9b3a-2f894729ad77,5360.5,2025-04-27,FAILED,DEL-KAR,KarolBagh,Delhi,Credit Card,"Nixon, Gutierrez and Mooney",Groceries
+27110ce0-6332-4743-812d-209069ced5a3,b174b4a5-7f1c-43dc-9e83-b5ce83116d02,33477.94,2025-04-23,Failed,DEL-X-ERR,KAROLBAGH,delhi,,Garcia-Obrien,electronics
+563a14f6-2530-4df2-a821-922b60a9e072,53ca59b9-c72a-4b39-b3cc-a92d27bb607f,7695.68,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,Net Banking,Smith and Sons,Books
+3975ddc5-2130-4a3f-8990-18a33ff3a8e4,09f8d252-4976-4d3c-b434-4a1de58a2bf7,4450.49,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,Manning-Hayes,
+1a223635-f415-4ddf-b9c0-84d4d916fabe,a8c7916a-142d-4e7c-9c03-53172f384264,985.66,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,,"Elliott, Williams and Baker",Home Decor
+a1085513-d9d0-40a2-843e-c442ec4b8bb4,81c05491-dcaf-49fa-85af-15332a7f1785,8532.97,2025-04-21,,DEL-KAR,KarolBagh,Delhi,,Jones-Powell,Electronics
+cd10d54c-8ad1-407b-b5aa-d4040b1f2e10,37aeba54-2e00-495a-998c-8a461d60cfb3,2079.09,2025-04-22,Pending,DEL-KAR,KarolBagh,Delhi,,Rose-Carter,Toys
+9d3cf4ab-a287-4d10-bc64-df0e468154a7,61b1ad35-8e8f-4854-956d-92e2089cfd5a,8705.91,2025-04-23,,DEL-KAR,KarolBagh,Delhi,,Miller-Taylor,Books
+d441b7f0-52ad-423f-9c8b-314664128cf5,db02a68c-cfe0-4ac9-8f70-b5e78d394846,8014.17,2025-04-24,FAILED,DEL-KAR,KarolBagh,Delhi,UPI,Turner-Smith,electronics
+4270021d-fa21-4b69-8c9b-4d6f28fa6446,40459b31-2630-49b7-8e29-8b11b1af3529,9867.74,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Credit Card,"Copeland, Lee and Jones",
+76472dce-3c15-4843-b624-2c71de49531a,0aa32d3b-5df3-43f5-8cda-219d13a9c831,3458.7,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,,Monroe Inc,Electronics
+b20904fb-0814-4870-8873-93d3e9d491ba,61722d0c-add5-401e-a158-a7f8270a3676,2013.37,2025-04-22,Success,DEL-X-ERR,KAROLBAGH,delhi,upi,,clothng
+1f1c0b97-c9b9-47f3-8379-56f8eb8acd15,ab66b8e7-3fa0-44a2-8321-bb829ab246ad,3545.0,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,,Smith-Miller,Groceries
+c852aaa4-ee41-40c0-b446-74ec438177ff,80592bd0-df94-4be7-97af-0e28c9b77e59,1718.25,2025-04-27,Pending,DEL-KAR,KarolBagh,Delhi,Cash,"Martinez, Garcia and Carpenter",Home Decor
+bbcfae06-200c-40d4-9d9a-7db6ccb23d6e,60dc88bf-f2b1-4b8d-98d4-eb9950b95cec,1816.65,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,Debit Card,Barber-Ortiz,Clothing
+361f83da-c6ed-440c-ab48-df2e8d5dbc9f,0b969596-f804-4e96-903a-5cbe4a1a7220,4101.57,2025-04-23,Pending,DEL-KAR,KarolBagh,Delhi,CASH,Miller-Davis,Groceries
+1a8873ec-8402-4ccf-91db-d376c17036d2,ffda04da-db9d-401b-b1a1-58d11c619ade,1872.65,2025-04-27,Pending,DEL-KAR,KarolBagh,Delhi,Debit Card,"Garcia, Smith and Lucero",Toys
+b430ea3c-b289-4d91-95ff-1b10ebefeeb8,a2dcc03b-509a-4a07-a815-209f3b40b13e,9362.49,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,Russo-Barnett,Toys
+09de91c6-734f-4539-8fd3-60ea4f49a94a,00595cd2-6a00-4647-9c74-e1da80989251,645.67,2025-04-27,,DEL-KAR,KarolBagh,Delhi,,"Hill, Williams and Kidd",Groceries
+4bc0e6a0-199f-4582-b407-3b4662ea9514,75720920-80da-4406-9149-8761a91be945,21645.86,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,Cash,Jones and Sons,Groceries
+,cea74981-cf2f-4f29-833e-bdf61ac4de35,448.78,2025-04-25, success ,DEL-X-ERR,KAROLBAGH,delhi,Cash,Nelson-Wells,electronics
+752d7125-2708-463d-83ba-e478f24509a5,78eefa7a-fa0a-4acb-a951-027b53ffd1eb,950.72,2025-04-24, success ,DEL-X-ERR,KAROLBAGH,delhi,,Gibson LLC,Groceries
+db9c26cb-36fc-46bf-b8f4-b81906fe88d3,43f96c59-7321-4dcb-aff6-c41cfe3d9753,368.67,2025-04-24,,DEL-KAR,KarolBagh,Delhi,Credit Card,"Burton, Austin and Montes",Toys
+f14c261f-9ab1-48f3-80f3-22d073249fa9,1b466088-9bc3-4140-bf36-f3003acbaf63,2275.16,2025-04-23,FAILED,DEL-KAR,KarolBagh,Delhi,,Adkins-Duarte,electronics
+d0d99a25-2f92-49fe-96c6-2fb849f75a24,4ceae9e0-f6a6-464b-a78e-a787a14c8086,4436.03,2025-04-21,,DEL-KAR,KarolBagh,Delhi,upi,Bass Inc,Home Decor
+c252e7c3-6d37-4252-aaf6-e2d83961b8ce,3bd6916f-59c0-44d1-b36f-82ffcf1ede3f,1790.46,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,Cash,"Brewer, Williams and Burns",clothng
+166c3d7f-3dce-4e0c-a586-1976f2acf3fc,14ca7405-0944-46e5-9625-e7cdaf795462,6591.53,2025-04-21,,DEL-KAR,KarolBagh,Delhi,,"Morrison, Schneider and Phillips",Books
+,527666d3-2a6e-4c7c-9839-1686c96c14c6,25793.15,2025-04-23, pending,DEL-X-ERR,KAROLBAGH,delhi,,,Clothing
+ee5763cc-6374-411b-8996-71b7656b0e99,47e8fc2a-0fba-4017-8575-1e1f49e30733,17661.47,2025-04-26,,DEL-X-ERR,KAROLBAGH,delhi,,Sampson-Ross,
+8fb9eb30-e076-4169-8ce1-5a7c99755d8d,a2dab49e-a2b5-46e4-865f-ad0a60ea07dc,7376.15,2025-04-27,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,"Nelson, King and Jones",Books
+3f17c3c3-a64e-4e94-a5ef-53ce031a1a40,067d8b79-1b45-42cf-8ee1-308767c0ec07,-82.73,2025-04-21,,DEL-KAR,KarolBagh,Delhi,Debit Card,,Groceries
+cc454c0b-74bc-44f1-a45c-500eebddcd37,12628861-c0e4-444d-8101-78e977f1ee38,7740.86,2025-04-26,,DEL-KAR,KarolBagh,Delhi,upi,Herring-Hubbard,Home Decor
+502dc916-7b00-4e16-a762-329c38cffb0f,9873e3ac-4f58-4137-a84e-d94e92f9a8fd,7913.24,2025-04-23,FAILED,DEL-KAR,KarolBagh,Delhi,,Cabrera Inc,Books
+1c536e83-1a6f-48bd-871e-3cfe71b3e4d6,713dd54e-12ea-4618-a28d-3518ee7bda68,7343.88,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,upi,"Warner, Henderson and Williams",Toys
+060c5b62-9db7-477f-872d-1ac20958f5b5,449ee4c0-17c3-4a71-ac02-884b2b939dd7,8181.55,2025-04-24, success ,DEL-X-ERR,KAROLBAGH,delhi,CASH,Miller-Bonilla,
+9787f16d-d965-4593-958d-51775b4ee0c5,3a3a2365-4781-41fd-b29f-04726c417982,1657.1,2025-04-23,Success,DEL-KAR,KarolBagh,Delhi,Debit Card,Wade PLC,Groceries
+bafc3b4e-908c-4cf2-a9e1-28a64d93e735,ecf5497e-b38a-4783-bc24-2bde683b729a,2469.19,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,,
+3a9368d1-2969-42d3-b0ab-e9c85fc02441,7ae4395e-1be0-4ce6-bc52-cc61914ac113,3742.98,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,Cash,Acosta LLC,Electronics
+,,5532.96,2025-04-23,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Walter Inc,
+cc060bbf-b1d9-412d-9e00-15f64fa55812,627d74d0-2e1b-4745-9567-454295ee3ecb,44968.65,2025-04-25, success ,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,Lewis-Cruz,Clothing
+9d0953a0-bd5c-4d10-b50d-ffc01c9648c1,74d42426-d4db-44a3-a5c8-c0727a457841,9043.4,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,CASH,Vang and Sons,Clothing
+4dae2693-de7a-4577-9163-8880f626c43a,e9bce624-b1c8-4325-ad75-5a78c36ad335,7934.05,2025-04-22,Pending,DEL-KAR,KarolBagh,Delhi,,Hunter-Robbins,Home Decor
+32320b6d-eb12-4723-add9-224926f8f882,8f667b4d-cfd1-4bc6-bf0a-2066caf39eb8,8456.48,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,Cash,"Bennett, Rivera and Stanley",
+dda23bfd-2747-40a1-9f29-f7dfd5e97619,63554c2b-cfe3-43a8-a8aa-98467aaa6336,5150.86,2025-04-27,FAILED,DEL-KAR,KarolBagh,Delhi,upi,Beck-Green,Home Decor
+f57e5464-ece6-4222-bdb4-55e71407983f,3364e3a6-9395-4587-8602-c1f63dce1890,1270.09,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,Lowery-Myers,Books
+018046d5-6e30-43a1-888b-7879efee0434,a41e1320-8f28-47a8-9d24-74ab5d83baf5,-87.74,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,Cash,Salas-Summers,Home Decor
+1e523ceb-2013-4be6-9b86-c1247666e4c8,637a0e52-1f16-4fde-b793-c642e17e7d37,1669.31,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,,Johnson-Terry,
+301f5433-9cc3-4555-8eaa-b4169662fce2,c0078f90-5ef9-4dba-a07d-0865ef38f3cc,4038.99,2025-04-24, success ,DEL-KAR,KarolBagh,Delhi,,Turner-Clark,
+98917f7e-b1a7-4885-88fd-480e97b0056d,f04cc6bb-1a04-4d33-83fc-c1fa72a6fb0e,8289.5,2025-04-24, success ,DEL-KAR,KarolBagh,Delhi,upi,"Rowland, Brewer and Ward",electronics
+3b142b23-dfb9-41db-98d2-0bb001414ba4,4023385d-3cc2-4eb8-b7a4-129c996bb5dc,3786.03,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,Cash,Dominguez-Hendrix,Electronics
+652690fc-fc4d-4640-8a7f-65abb96ba20a,954c04f8-bf53-40fe-b429-eb1265c4b4fb,5567.9,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,Cash,Morris-Munoz,Groceries
+544ad8e5-0e04-47fc-a600-a03cda2cb3dc,2c7350ca-ec85-4b81-9f02-e5f4061b4492,645.1,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,,Smith Ltd,clothng
+cbd880b8-f55b-4385-88a5-41c6148845ca,c54dc556-aacf-4558-9c70-20b5d1ab143f,8421.15,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,UPI,Meyers Group,Home Decor
+d89938bb-1206-494d-aa4f-ab5f12e48780,8fd54714-3149-49e5-b5ad-231b95de12d5,8298.39,2025-04-24,Failed,DEL-KAR,KarolBagh,Delhi,UPI,Faulkner-Burgess,clothng
+23aa26eb-14f7-414d-83a7-3323a075ed96,3b2208ea-dafc-4621-9674-d1dcf293373b,3324.12,2025-04-21,Failed,DEL-KAR,KarolBagh,Delhi,Debit Card,Chambers PLC,Toys
+c3872f7d-a7b7-40fd-a3d2-8f8f83120665,4d8e7abc-da8b-47f5-87e6-2a563176b09e,1982.84,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,CASH,"Weber, Duran and Parks",Electronics
+,,3052.41,2025-04-27, pending,DEL-X-ERR,KAROLBAGH,delhi,upi,Woods-Gonzalez,Clothing
+0fb5600a-12d5-46b5-b7d2-358beea28bbb,877b4f5b-432c-4b31-aa51-ca71438195c7,4311.52,2025-04-22,Failed,DEL-KAR,KarolBagh,Delhi,,Rhodes-Raymond,
+3eb91bc0-a0ca-47b8-b2dd-2f15775922fd,db27f241-69a6-4dc2-bdea-45bba0cd1abb,1165.33,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,Credit Card,Hardy-Jones,Clothing
+1262e807-fce2-4776-a05e-b64b2374eca2,8c04f012-87c2-472f-bdc6-d159c5a859cf,8268.77,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,Net Banking,Smith and Sons,Home Decor
+ba2c1329-86b9-456c-94e4-790dc02ac9eb,4994d0ad-d26b-44e9-a5cb-6c63fbeaa781,3401.64,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,UPI,Cruz-Little,electronics
+392d17cc-b7c0-419a-b989-0d55a09bdffa,308887f9-27d1-4340-8770-32d9d4169bcc,2779.57,2025-04-26,Success,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Duran-Vaughn,Books
+6c6e7717-3d1d-4aab-9b88-71526fb56ab0,e9be5b38-511e-4267-b074-45de81b9e7dd,8507.28,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,Cash,Abbott-Hamilton,
+25b83368-3e6a-4edb-962b-7e3603d3cc49,aa9ad6c5-93d0-4346-8813-d0f239af1b9c,2285.67,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,Net Banking,"Duncan, Perez and White",Home Decor
+e652b0c1-c9d4-4fd3-a3d1-45a357e1d096,e309fc24-e2b0-4c75-a630-fc95889df69c,4531.68,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,upi,Buck-Thompson,Clothing
+760a58a6-3d8a-467b-9a3d-a254e358200f,d880be2a-9ae2-4856-8291-c441954ad961,6311.29,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,Cash,Singleton-Martin,Electronics
+e830fc29-2f5c-4178-9022-2a432fbe7816,41dbfd14-c2f8-44f9-aa1a-fce69d6a2282,8822.12,2025-04-24, success ,DEL-KAR,KarolBagh,Delhi,upi,Sutton-Ramirez,Clothing
+ebfabe59-cd2a-44f5-bf91-6981f6208a2b,c4495462-6de0-4a39-a13a-2a59bf3aebc4,3584.88,2025-04-27, success ,DEL-KAR,KarolBagh,Delhi,Debit Card,Hunter-Wiggins,Clothing
+4f21d95e-130a-4dd1-9dbb-cbc3e2404e6f,388575fd-38f9-4101-b899-91bfc87cc249,3920.39,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,Debit Card,Scott-Jacobs,clothng
+8fda8d85-520a-4f1a-8647-0faf850d8003,d745f3fb-15cd-4409-ba99-5fba7feb2b41,8775.77,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Park-Wheeler,
+8fda8d85-520a-4f1a-8647-0faf850d8003,d745f3fb-15cd-4409-ba99-5fba7feb2b41,8775.77,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Park-Wheeler,
+0e480297-b1ba-4e62-881f-cc75a8f0ea32,637efd17-e8eb-4fa2-a3eb-3fb3c55b3cc0,5661.59,2025-04-23,Failed,DEL-X-ERR,KAROLBAGH,delhi,upi,Schmidt-Hickman,Home Decor
+5b387e32-ec1b-4b76-abf6-868a0d586c75,26e5ce42-b027-45d7-9914-7e3a93be9d51,269.14,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,,"Blair, Blevins and Mckay",Toys
+6996bc94-1dc1-4d33-ab15-a22c77cc5cc9,f774c909-b977-4607-a2e6-290c2db74239,998.62,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,Cash,Hardy-Robinson,
+4c055b0a-823b-4845-92f1-b8c830b4ff64,,2011.25,2025-04-21,FAILED,DEL-X-ERR,KAROLBAGH,delhi,UPI,"Hogan, Thompson and Flores",Clothing
+9159a174-96e5-4bda-9e85-c200a86bbcdb,c50201ee-77e9-473b-bd5d-5d25f38e28cc,8952.69,2025-04-23, success ,DEL-KAR,KarolBagh,Delhi,CASH,"Gibson, Stark and Duncan",Home Decor
+fa0c0499-5be7-4eb4-94a0-c8279a055c86,50db5bbb-9430-42bb-9a4b-866e7d263e0e,4718.2,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,Elliott Ltd,
+b84593aa-413e-4c2c-a563-73ffd0ed7c33,15d8bce5-aea3-4aec-84f9-84a1739181a3,1346.17,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Mendoza and Sons,clothng
+ec238cc1-f692-4870-a43a-3b69fcd5e8e6,b5e24788-37ea-4dc9-8308-90e274bfaad3,8245.4,2025-04-27, success ,DEL-KAR,KarolBagh,Delhi,UPI,Hernandez-Kelly,Clothing
+dce36cb8-7688-4ea9-a726-d089f5351e2b,290a407f-1a79-4525-9aa4-86776e5bd3de,2022.99,2025-04-25,,DEL-KAR,KarolBagh,Delhi,,"Carter, Horn and Harris",Books
+8b04b338-03b0-4dad-8be6-4a1607d750cb,f4cc3062-65de-43e9-9c8a-daa40aff8196,9213.79,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,upi,Paul PLC,Toys
+f6c92f7c-93fa-4320-a56a-463eb30d8a03,fe859d33-40b3-487f-a0d6-de0f2a8762ef,1881.01,2025-04-27, pending,DEL-KAR,KarolBagh,Delhi,,Dixon and Sons,Clothing
+dd4f8633-d6ab-461f-a8bb-9e50f6280c5f,0a1092c7-1c52-4935-8ca3-94412bd93d32,4334.99,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,Debit Card,"Moran, Warren and Miller",Electronics
+b75d696d-3ac2-4464-b0fe-1138a2fd3e96,c332fba9-5a67-41f9-bb49-795c6d4016c6,5054.53,2025-04-24,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,"Bailey, White and Kennedy",clothng
+72fe0ed8-9dff-4ff5-9065-cdf601af74cc,4b80507d-8ce7-40f2-85c2-f0abd84ee48f,5815.06,2025-04-22,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,"Harrison, Gallegos and Jones",electronics
+7d745b8c-2900-4faa-b76a-9338ae8f9525,c3148ef9-6e0c-4e86-b2bc-63449cf2495b,477.94,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,,"Foster, Jones and Weber",
+54ff0f8d-5a7d-436c-93c5-dbe2bb0caefb,04fcea60-b599-4215-af36-e28617645034,6946.03,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,Cash,Dyer-Johnson,Electronics
+b04a6c09-4db7-4043-9e52-4f171d6511c5,b5c2e83d-4184-4045-84c1-e37689ab0b0e,9409.32,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,Credit Card,Patterson and Sons,Electronics
+034b1d43-0c33-45d6-b0a9-31d1353ee9c4,fefbfce1-02bf-4d3f-ab18-6f2f35b5b64c,33589.0,2025-04-26,Success,DEL-X-ERR,KAROLBAGH,delhi,Cash,Anderson LLC,Electronics
+a7793d97-beee-44b2-a74e-720409cd2208,b494668f-00b8-4921-bb1d-2a83876913e0,-12.6,2025-04-23, success ,DEL-KAR,KarolBagh,Delhi,Net Banking,"Nelson, Thomas and Fuentes",clothng
+,74f72d9f-feea-4e19-b28e-cb96464ffd1f,8257.78,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,,Andrews Group,Electronics
+,d973a25c-243c-48a2-92b8-7a83c47c31f6,31453.45,2025-04-27,Success,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Lin Inc,Toys
+657a2952-b59f-426f-aa61-041fdf06f85a,,7140.09,2025-04-23, success ,DEL-X-ERR,KAROLBAGH,delhi,Cash,Henderson Group,Clothing
+8ee30925-d60d-416b-a2b0-95a59cba354d,4e387140-ad12-4a76-ba15-059b78a38a81,6897.63,2025-04-21,Failed,DEL-KAR,KarolBagh,Delhi,upi,Clark Inc,Toys
+e8ee009b-4748-410e-9fb2-6d344115d12e,04d40065-f15f-41be-9074-7f5140b2523d,7152.47,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,Graham LLC,Electronics
+07d7366f-0118-44c7-b6dc-dfcc948d8c72,4a4742f6-4992-4c29-8bed-af07af8ee6b2,4397.41,2025-04-25,Pending,DEL-KAR,KarolBagh,Delhi,Net Banking,"Johnson, Murphy and Rios",Clothing
+24881228-4ca0-4a68-a83f-5c0c7d63a082,d483c353-69b2-4ef3-b203-d2c49481e18a,9289.64,2025-04-23,,DEL-KAR,KarolBagh,Delhi,Credit Card,"Smith, Anderson and Davis",Groceries
+d170133e-515e-410e-818d-e1b45bd174ba,f6ddeb39-9c1e-4103-a779-736804a607d5,9431.73,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,upi,"Berry, Thornton and Garcia",Electronics
+1f467860-31f4-4370-85d8-9a2bb805bdc2,b5565022-2994-4c2d-9622-1037547413c1,1202.16,2025-04-25, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,Moore-Sanchez,Clothing
+cb0e0fe6-a920-4146-a216-b75929a31519,,1278.88,2025-04-27,Pending,DEL-X-ERR,KAROLBAGH,delhi,Cash,Nguyen PLC,Electronics
+a5de3158-74be-42b3-bbee-6066316f6e03,3c29b921-4ddd-493c-a2ce-577571ef0947,7914.32,2025-04-25,,DEL-KAR,KarolBagh,Delhi,CASH,Singh-Blevins,Toys
+7f37b8df-4e5a-4cc7-b68e-494dd9d035e3,f03c4306-2ca2-4592-a793-559ffebc2729,616.61,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,"Berg, Gonzalez and Diaz",electronics
+1da5d22d-1641-4cc1-9b44-09c9c586cf84,28be894a-c6bb-4bbc-9461-74aaea258c65,45698.0,2025-04-24, success ,DEL-X-ERR,KAROLBAGH,delhi,,Hunter-Graham,Home Decor
+b4417e12-7200-4509-b687-9dcf2e7bd3eb,2d5ae6b8-89ce-480d-8d5a-92b48b1591b5,7406.87,2025-04-25, pending,DEL-KAR,KarolBagh,Delhi,,Walker Group,Groceries
+04c84743-966a-46e9-8811-f89946bf8daf,4135cb68-0516-45be-bcea-efbcf8289fda,2331.3,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,Debit Card,"Macdonald, Romero and Mann",Clothing
+,d6368fba-1e23-4e53-b88c-1b3697cf6e6d,37860.2,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,upi,Jones-Oneal,
+e6adedf6-d3aa-4c7a-8f3b-4759d7e8b652,fddd0dbc-9bf1-460a-ad97-5d1221995bc3,5971.32,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,,Bernard-Murphy,electronics
+a926f820-4b86-45b2-84a6-9c4ab12fdaef,,28374.51,2025-04-25, pending,DEL-X-ERR,KAROLBAGH,delhi,Cash,"Suarez, Williams and Doyle",Home Decor
+71657a26-6821-4316-9043-8f485a45984f,997e5c7b-7ef4-4758-b1e6-1a3652388930,4531.64,2025-04-22,,DEL-KAR,KarolBagh,Delhi,upi,Becker Group,Clothing
+8c5a3de8-cc27-469f-97a8-754dfd4bdfec,4e31fb70-b569-4260-84b0-b6c139374669,1950.54,2025-04-25,,DEL-KAR,KarolBagh,Delhi,Cash,Jenkins-Thomas,Electronics
+c45dab85-533c-46b1-8007-7ab1dfc1ae68,1677a532-1aa4-4b78-aecd-dcffde3412aa,3022.41,2025-04-25, success ,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Dunn LLC,
+76fa2bea-9208-4d6e-87d5-dabdf7cd869a,cc493697-09fa-42d1-b2d7-0179e95c3d29,3221.94,2025-04-22,,DEL-KAR,KarolBagh,Delhi,Credit Card,Hopkins-Brandt,Toys
+3481d400-c6ce-42ab-9dc4-e66e2e790459,,6233.78,2025-04-23,FAILED,DEL-X-ERR,KAROLBAGH,delhi,upi,Fletcher-Larson,Clothing
+ea58867e-01fc-4776-8f8f-cbaf603efb14,7560acc3-45b5-4947-b21d-2a7a8396ad17,1254.4,2025-04-26,,DEL-KAR,KarolBagh,Delhi,Credit Card,"Goodman, Anderson and Romero",clothng
+,9632ba72-8426-4b76-a35b-f96b93e88b7f,9323.28,2025-04-23, pending,DEL-X-ERR,KAROLBAGH,delhi,UPI,Mcdaniel Group,Electronics
+1b17809d-e70a-4e3c-a3f2-4b8b47e01a1e,3f152b58-bf69-4686-9de8-b35fbd8fad35,8129.04,2025-04-27,FAILED,DEL-KAR,KarolBagh,Delhi,Cash,"Fischer, Mendoza and Henson",Clothing
+776f5126-206b-4c56-982a-3576d87bea26,edd44660-e807-47cc-a226-94a61ae9f778,9786.85,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,Debit Card,,clothng
+0c73949f-ef5e-4d66-a4d9-ba92b2289434,,4476.08,2025-04-23,,DEL-X-ERR,KAROLBAGH,delhi,,Meyer Group,Books
+84e06472-e1c6-4b7b-8a7f-2ee3bf87f4cc,d4279c0e-e1ec-4d8b-9a4e-dcb7ad375eb6,4859.23,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,,"Diaz, Day and Harding",Toys
+6585384b-8319-4a97-9d61-89fddc5c18a4,8bcd17a3-1adb-4a9f-a6e6-ecbe83352292,4783.17,2025-04-24,FAILED,DEL-KAR,KarolBagh,Delhi,Credit Card,Costa Group,
+0d18231e-3e22-4bfe-b259-65ae655b635c,91877077-e583-4a3b-a8cc-5248b6362ed3,4301.66,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,upi,"Smith, Young and Matthews",clothng
+9c99a5f0-faef-4fef-9517-abab9d8fdea8,ba5e1e3d-f150-4dea-886f-cbf7d982df8c,3923.43,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Edwards-Sutton,
+de9ab7bf-40ad-4e1d-a8d1-8eb0a47f7b58,,29082.07,2025-04-24,Pending,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Rodriguez-Mccarty,
+e7d72613-94df-4d06-a72a-7bae73afaf28,6d112b4c-be6a-403d-ab9c-79e9d40e0597,3383.86,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,upi,Bowman-Howe,Home Decor
+4c3742ce-3b75-4d37-a779-231448e94238,5acac401-d491-46a0-b3b1-5452c4c27619,7838.7,2025-04-27,Pending,DEL-KAR,KarolBagh,Delhi,upi,Norris Inc,Electronics
+425565b6-bbce-47a3-8ce2-91feefca70f5,a6fa7907-9469-47b1-9744-14563fde4aa3,8459.33,2025-04-27, pending,DEL-KAR,KarolBagh,Delhi,CASH,Mccall PLC,Electronics
+,,7701.97,2025-04-24,,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Walsh, Atkins and Yang",Home Decor
+b43c259c-9b20-4ac7-8ff7-ce327649a52a,6ddf9ca7-f754-4038-9282-5cd8c866a193,8439.57,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,,"Wyatt, Cole and Avila",
+b43c259c-9b20-4ac7-8ff7-ce327649a52a,6ddf9ca7-f754-4038-9282-5cd8c866a193,8439.57,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,,"Wyatt, Cole and Avila",
+54721382-7f33-4abf-ac03-ad01ec03ca00,cc2052af-fc79-4fff-aa7e-86f06aa8e69b,25.97,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Credit Card,Gray PLC,electronics
+37d425bb-d2e5-4b9e-bef9-b10b4f36ce79,09f82ed3-ad5c-4b51-8e7c-39c2fdb1080f,4535.33,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,Debit Card,"Clark, Ferrell and Pearson",electronics
+d7172c85-afcc-4d66-8e6e-4938190d7681,634f589e-f511-46f4-b737-92bd7749de00,8088.0,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,CASH,"Walsh, Lee and Sandoval",
+7def1818-00ab-4064-a05c-efa3a454c767,634db084-37c9-44dc-88db-a48782032ecd,2569.58,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,Cash,Lee Ltd,Groceries
+,48534f2b-5250-44da-8044-c4edb62b6006,1434.11,2025-04-21,,DEL-X-ERR,KAROLBAGH,delhi,CASH,Strong Group,Electronics
+570eaaee-9aa0-464c-967e-8e7b94e68bda,55417f43-8de8-48d5-b435-1ab72140da62,1948.76,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,CASH,,Home Decor
+1645864a-3965-477d-aff2-0b42ba612f2d,2363ffd7-f645-4ab6-bfea-e7f5c3d5aee0,6688.59,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,Debit Card,Gonzalez-Ellis,Home Decor
+b5ffd964-abc4-4e1c-b1c1-4c7c504598f7,48e4f2df-1e6e-4e84-8f11-952054bd5eab,737.95,2025-04-26, success ,DEL-KAR,KarolBagh,Delhi,Cash,Baker Ltd,
+,f7f4c985-23c0-4ef5-b039-50c00dbab3c3,8435.18,2025-04-22,Failed,DEL-X-ERR,KAROLBAGH,delhi,CASH,Adams Group,
+cace510f-6c83-45b5-8ac1-c50513287d7c,088b9499-e2df-45e3-9469-ca369cc48e9c,8615.4,2025-04-23,Success,DEL-KAR,KarolBagh,Delhi,upi,"Kelly, Richardson and Neal",Books
+e9ca8e13-0aba-40ff-bd16-e3c1fc98036a,0a7bfebf-0968-4ea3-a617-8762fb618e63,4122.57,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,Net Banking,Ruiz Inc,clothng
+4f25a44b-f970-4448-ab08-61f231cec987,caffe132-eeef-4ef0-afe0-665c43f5c5f3,9790.08,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,Credit Card,"Hill, Harrison and Myers",Electronics
+8d0f24a5-1b97-4c23-a8fd-74e1c416b278,a9a4de81-ed5b-4d52-bfd0-ea2a904fda43,46952.47,2025-04-22, pending,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Hernandez, Rhodes and Campos",
+532e76cc-6b21-4da9-97bd-bc4303a72479,67bc92d9-bc25-4805-b006-84a707980ab9,5023.1,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,Cash,Jackson and Sons,Groceries
+a62be74f-8a80-4fd5-ba7a-07d7e806abcc,a1dfc05c-b5c8-4c42-a7fd-b8ef3ca28c66,664.97,2025-04-21,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,Hughes-Campbell,
+3f92b5fe-5a4a-4f63-b1e9-dc4b8eb5848f,41b51e5b-efd2-4655-811e-747babd38b99,3397.54,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,Debit Card,Nguyen-Ayers,Books
+204612c0-0d11-4275-953d-549a94a451d7,b4a8486c-3655-40ac-a86b-797ff832cee9,9059.05,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,Credit Card,,Home Decor
+7f98638d-7fed-4e8a-81b1-a6056dbf8a01,9b1025a3-89f7-4cf7-84a6-27f57cbef196,8124.81,2025-04-24,Success,DEL-X-ERR,KAROLBAGH,delhi,CASH,,Groceries
+3b6a0a85-3765-4bf7-8b28-6babec45449d,68f1fe4e-7cf7-46bf-a30b-c715a56b22a2,7037.3,2025-04-23, pending,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Cummings, Brown and Gregory",Toys
+850122e2-077b-4b90-890d-b92f693b3938,d326bcb2-bde8-46b8-b1bc-64f92d8dafc0,452.12,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,Credit Card,Cunningham-Le,Electronics
+2461c797-d5cc-42ca-91d2-6d82fba938bc,e3c9682b-6c91-4671-b5bb-6837f2b2c28c,752.81,2025-04-27,Failed,DEL-KAR,KarolBagh,Delhi,UPI,White Ltd,Electronics
+90719ff9-0fe3-4ed5-a650-8e1a2f0aff9d,56500854-f2ea-434c-9fe0-da7871b2050b,9897.12,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,Garcia-Mejia,Home Decor
+,,14463.32,2025-04-21, pending,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Schneider-Moon,electronics
+,,14463.32,2025-04-21, pending,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Schneider-Moon,electronics
+112fc376-b8a7-417e-aaed-87d90614f005,1b99b85a-ad9f-4393-973c-1173f4c89661,5952.88,2025-04-23,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,Brown PLC,Clothing
+4f30d268-40ba-4eb8-b572-f0f5d92d0883,6fb975cd-7504-4b12-887d-79a59c91e8e5,8262.25,2025-04-26,Pending,DEL-KAR,KarolBagh,Delhi,,,Books
+1d5036a8-e990-482e-a9e1-050ae4e0401e,12ea2c7f-ba65-4cc0-aeac-9f8561e47a6e,1155.49,2025-04-27, pending,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Lee, Young and Parks",Books
+1d5036a8-e990-482e-a9e1-050ae4e0401e,12ea2c7f-ba65-4cc0-aeac-9f8561e47a6e,1155.49,2025-04-27, pending,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Lee, Young and Parks",Books
+a29c03db-bc14-41e5-9692-0f463b30a3e2,bd9a1954-1293-42d6-96cd-eb2ddaec4fee,7271.7,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,Credit Card,"Gillespie, Logan and Lynch",
+56511a10-d9a0-45a8-80a0-333e1ccb27cf,15c5292c-7afa-4121-865f-39b5396dc717,5423.56,2025-04-22,,DEL-KAR,KarolBagh,Delhi,Cash,Gillespie Inc,Clothing
+8f2968d4-e5d0-4f0f-8e3f-4b60ddab1a73,82cadb6e-2533-4913-a26c-01cb203c8303,254.37,2025-04-23,Success,DEL-KAR,KarolBagh,Delhi,UPI,"Ford, Goodman and White",Toys
+493c0253-50c8-401f-8ddc-303cc787021c,7db1e272-52fb-4682-8f45-dd4c9ed55243,5899.21,2025-04-27,Pending,DEL-KAR,KarolBagh,Delhi,Net Banking,"Small, Mccormick and Macdonald",electronics
+66756e5c-0fe8-4fff-a531-f1d5eefbf9a5,b16673b7-28a5-44a4-a695-f8e4318a3e65,5839.53,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,Cash,"Burgess, Johnson and Miller",electronics
+f9ddc52d-6be0-4cee-aadb-7302ff302e67,e6cb1d28-0d92-436a-8dac-08c793b12009,8400.32,2025-04-24,Success,DEL-KAR,KarolBagh,Delhi,CASH,Perry-Barnes,
+2329a529-52f4-4bbf-9460-004480d643f2,7db6bca4-454f-4c51-a18b-c945bd9b5899,7024.05,2025-04-25, pending,DEL-KAR,KarolBagh,Delhi,CASH,Kirk Group,Electronics
+04fad688-d269-4f57-b14e-ea2ed1877bc8,d48f842b-e2d8-4847-ad34-cd77a59040c7,9095.39,2025-04-24,,DEL-KAR,KarolBagh,Delhi,Credit Card,Moore-Burton,Electronics
+57b75676-ffd3-4f32-910a-b4cbeab471de,37af51d8-7606-4072-9c9e-15682d4845bc,8271.77,2025-04-26,Success,DEL-KAR,KarolBagh,Delhi,CASH,"Owens, King and Simpson",Electronics
+,039baa2c-42c8-44ee-894d-c226e7f8cdfa,7139.19,2025-04-26,FAILED,DEL-X-ERR,KAROLBAGH,delhi,UPI,Cochran Ltd,Home Decor
+516db78a-6aa4-4b3d-85c8-1af19b228a51,c682fc1a-7549-434e-b7d5-94677a825606,4485.51,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,Debit Card,Miller-Stein,electronics
+7429a202-9b4e-4fb0-8008-125583922b0f,8bb6a85b-2735-4bfc-abd8-fcfbf4184c80,8077.97,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,Ross Inc,Electronics
+833cffab-22e6-442f-9946-f64ccbaa2cfd,e4c1b6ef-2589-4340-bd28-ce09cbf12ed9,7942.62,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,,"Ball, Zimmerman and Campos",Groceries
+,06df5dba-7003-41ee-9e99-478141d51311,2160.93,2025-04-21,Pending,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,Gonzalez-Vasquez,Books
+6c9b568f-f106-4b87-8415-08a2a53dc4e3,ba87e001-631f-4d29-95ae-2b6b0884bc76,9118.44,2025-04-25,,DEL-KAR,KarolBagh,Delhi,,"Robertson, Norton and Jones",Clothing
+66c36a49-a429-4643-b6b4-b944d6de5438,78d1b7d5-ffdc-490c-8e3c-be6660c4891c,6432.13,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,CASH,"Brown, Owens and Mills",Clothing
+2c986218-e14f-4dd1-9f8a-bc27e5c6f349,4333c375-ff28-4d23-8302-2e17c2cee54c,7651.56,2025-04-22,Pending,DEL-KAR,KarolBagh,Delhi,CASH,"Cohen, Allen and Watson",Groceries
+d6a4fb2d-154c-4a54-8522-73e7af8842ec,15b19303-049c-4661-8ab3-9e59661eefe8,8265.49,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,,"Hawkins, Green and Smith",Groceries
+b3d3d8fe-ee53-4685-80b5-14b470a35228,b130088b-004c-4bd5-b8a5-e0ed1e5601e9,8694.64,2025-04-27,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,"Jennings, Tucker and Villanueva",clothng
+7ac307b6-0a16-4f21-aba9-2adc5df4f636,b97adf6c-1a7c-4479-a61b-f78577a38c0d,4033.64,2025-04-21,,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,Wilcox-Brown,Toys
+f99c58ae-6cb5-48f3-b995-5dd139e0f5bd,bb64f988-5f7c-474c-9438-1be58c47e1cc,46538.15,2025-04-26,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Gray, Lyons and Wong",Clothing
+ab70dcda-154f-4d60-a98b-6f944b2e0335,113f6606-f975-43aa-93d8-8d7d0dbfd841,8139.27,2025-04-22,,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,House PLC,
+ad210d5a-0d1e-4c3f-8021-040cecd6e2b0,1b2bae11-d0b3-43f2-8d0e-1789780f3182,8988.7,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Net Banking,"Mclaughlin, Johnson and Thompson",Toys
+59178c84-260a-486f-8c4e-00ec5f4a1286,793aec89-90ba-44d5-89ff-d40baa458d31,9822.58,2025-04-22,,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Farmer, Sims and Warner",Toys
+14f7f2c0-0863-40d1-acf5-c5b89e26696f,2c11ee6e-acb1-4b9b-bd60-bb05030f7e80,6716.08,2025-04-26,Failed,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Conway-Gibbs,Electronics
+75f13f4c-a5fe-4fcc-84df-2d21792ed7dc,a9e26bfc-a769-436a-b15c-9203aca80703,6833.58,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,Cash,"Hall, Greene and Morris",Toys
+7388b94e-fcde-4b81-bf9b-cd4addf82d38,d4d7b736-4120-4e49-8f29-d580bf87d026,6919.92,2025-04-23,,DEL-KAR,KarolBagh,Delhi,,Hernandez-Alvarado,Home Decor
+bdf370a1-c378-405f-9d93-615cae326c53,2a6f7a09-a600-4174-ab40-3ed74206b9be,8536.58,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,,Miller-Mitchell,
+36107e5b-b803-4157-874f-ba7859669b9f,f0efb72c-0a12-4ce6-8aae-35bc70d8d2c4,6162.77,2025-04-25, pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Lester and Sons,
+c7ee168b-effb-49b5-b565-e38f3d04dd10,3ad22bd9-c471-42c9-9cd3-ffddfbb97c38,560.69,2025-04-26,,DEL-KAR,KarolBagh,Delhi,Net Banking,Hogan-Foster,
+afcd57d7-c88a-48b7-857d-828e92cc391d,889840e8-611b-45fa-b281-82a59ba0f67b,14627.47,2025-04-22, success ,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,"Lowe, Bennett and Stark",Electronics
+afcd57d7-c88a-48b7-857d-828e92cc391d,889840e8-611b-45fa-b281-82a59ba0f67b,14627.47,2025-04-22, success ,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,"Lowe, Bennett and Stark",Electronics
+57eff244-51fa-4289-87ba-d3f1d6654397,ceef026d-16a1-4e43-844e-6e8a7f145d85,7121.76,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,UPI,George-Williams,clothng
+9d8958ce-4c5b-4a78-855d-f63b5cf8b709,8256fea7-8426-4a05-a417-9ff7b93d0525,-87.51,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,Debit Card,Nelson-Salazar,clothng
+f4bc95db-3620-4bd5-8eed-8a3b83f8560a,80d94d20-5660-42fe-8c05-d17bd1c9ebde,870.45,2025-04-25,,DEL-KAR,KarolBagh,Delhi,Net Banking,Campbell Inc,Toys
+4167e905-71b7-49b3-9b01-0c96ac80ced3,909fbd3f-06dc-4783-94a8-d26243f9fd9b,3413.1,2025-04-27, success ,DEL-KAR,KarolBagh,Delhi,Net Banking,Clark-Green,clothng
+25361fff-513d-4f10-be55-21ecc3cd61ab,97566c3a-bc94-4672-b0fd-c01cf958fff4,6467.58,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,upi,Valenzuela Inc,Home Decor
+e93a2edc-0e87-49c0-b679-ed15b104781e,ccf96b5b-5f37-4649-84a0-c59eb37d8da8,6646.13,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,,"Wright, Byrd and Prince",
+fed6d62d-ab16-4f5d-8dcc-967f9c148474,38ed6767-98b1-4a81-924e-48e5ba15dac8,5082.34,2025-04-23,Pending,DEL-KAR,KarolBagh,Delhi,,Sanchez PLC,
+aa7f8799-8005-4fcb-9e27-1f2b697c19e1,a8b9704c-d198-4172-8d64-897135ab45ef,6047.18,2025-04-26,,DEL-KAR,KarolBagh,Delhi,upi,"Benson, Curtis and Steele",Books
+e0a95f2f-0220-4fc6-8828-d9cdd9f6c0f7,27fc80ec-e27e-4596-8a35-c8fec26563b4,5463.93,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,CASH,"Garrison, Baker and Reed",Toys
+a9a68fe6-7ece-4b94-b2c1-e33df7c21c20,55bf0d58-0237-42d6-a25e-94fdeeb39169,8543.91,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,,Payne-Martin,
+e2661f5e-dea7-4968-845c-d76e930eea1a,caabdbd9-ebe0-4de0-bbf9-18f0ed5ef65e,2587.15,2025-04-27, pending,DEL-KAR,KarolBagh,Delhi,upi,Higgins and Sons,
+c239e970-da96-4847-9071-e211f7e81dd8,f8c422f9-7871-46b2-882b-a1a0cdeae45c,2455.27,2025-04-24,Success,DEL-KAR,KarolBagh,Delhi,Cash,"Daniel, Ramirez and Torres",Clothing
+9578ce6b-2cac-4acd-8b70-a26c01426da5,f55a67a2-74a6-4b3a-af7b-50ab3f76ceb7,5562.17,2025-04-22,,DEL-KAR,KarolBagh,Delhi,Credit Card,Griffith-Ellison,Electronics
+cb5de8a8-fc96-4f6f-b974-e151aea4320b,4322d917-14a2-47c2-ae24-0f8be12c1734,8715.69,2025-04-26,FAILED,DEL-KAR,KarolBagh,Delhi,upi,Ellis Group,Groceries
+,cf0523c5-0c23-4bb7-890b-bcd25600c174,8440.98,2025-04-24,,DEL-X-ERR,KAROLBAGH,delhi,UPI,Mcbride-Howell,Electronics
+722dfd1a-6c7f-4eb5-ae51-6039e5a5723f,6d8811ba-d6c3-478f-b157-6130dd40f619,5059.79,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Debit Card,"Banks, Gibson and Kaiser",clothng
+787bacc1-f0d2-421a-b605-ae29865523f8,5452dd67-475e-4bbe-8b0e-c40b54a5031f,-10.22,2025-04-27, success ,DEL-KAR,KarolBagh,Delhi,Net Banking,Stephenson-Blake,Groceries
+47131514-3c50-4abb-91bb-c208f76afb78,9c41a509-eb06-456e-9d94-77690117ee35,6524.37,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,UPI,"Walls, Ritter and Terrell",
+eabc8764-e3f9-40c6-bea6-08ae6a7b9fb8,f66a65bb-540b-46c0-b0f6-242e00d5b7fd,1568.83,2025-04-26,,DEL-KAR,KarolBagh,Delhi,,,clothng
+55370e6d-7424-4500-b204-63da2e973a61,fce52055-1062-4761-bdb5-36ada9da5dd7,4917.3,2025-04-23,,DEL-KAR,KarolBagh,Delhi,upi,Bennett-Wright,Clothing
+273789fe-1c62-4050-86f7-960c9a51cbea,fa3a6c5c-d76b-4449-875f-6ff7d71da75a,4021.49,2025-04-27,Failed,DEL-KAR,KarolBagh,Delhi,CASH,French-Mendoza,Electronics
+c9cf9646-b801-4c29-ac03-c1b13e0e0022,1e6b8a76-6839-4ff5-9977-0a37ab48cfb7,546.69,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,UPI,Ortiz-Pratt,Electronics
+b383d8aa-21df-423e-b48b-544c22d7a7cd,e5712b6d-de28-42ca-bd70-241cebedb454,9403.37,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,,Johnson-Barnes,Clothing
+07bedb4c-84b9-4c5a-8098-40ba9d00841e,3b68a68f-f7c1-4480-90ea-25b4ddcbab13,3370.41,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,Cash,Johnson-Mann,Clothing
+4caca04e-ec7e-4d49-a2ba-fbbe731321cb,3692f3ff-0d88-4247-bf81-e51c3dc40804,1050.1,2025-04-26, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,"Thompson, Dyer and Santos",
+11418142-7df7-42eb-a88f-823dc01ddf41,a61136cc-a2bf-4683-a9f2-7da18971ff47,2407.63,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,Evans-Brennan,electronics
+dc9056aa-3024-4e0b-ab1a-48b85a261a82,1aea71d2-ce75-4bc2-8cbf-bdc81008531e,5829.2,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,Cash,"Jones, Stephens and Smith",electronics
+8ebeeab5-2f9e-4955-98f1-8fca8b665e8b,c21fb20d-8a22-438d-bcff-43c6e771b626,6142.21,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,,Butler-Flores,Books
+9f6197b4-58c2-4f68-8c7e-a8c4e1cb0bae,837b40b2-54d1-4cea-82ba-6bebdc9cb3eb,8389.71,2025-04-25,Pending,DEL-KAR,KarolBagh,Delhi,,,electronics
+6ed9a39d-5a88-4ca4-bb4d-3447606ffff0,4be443a8-d558-4010-b56a-24a0537b8436,9419.58,2025-04-21, success ,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Conrad, Martin and Bond",
+56adbd1c-2d0f-4f7a-85b2-6663ae3fdd5f,2bddf9ef-f02a-4cc9-9376-78df23b6ea80,227.62,2025-04-27,Pending,DEL-KAR,KarolBagh,Delhi,UPI,"Fernandez, Reynolds and Williams",Books
+,,3673.88,2025-04-24,Pending,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,"Nelson, Lawrence and Espinoza",Books
+,,3673.88,2025-04-24,Pending,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,"Nelson, Lawrence and Espinoza",Books
+2cf4536a-4f66-4b36-82dc-aebe86a61c2f,28048757-e3fb-4382-8062-677e896f73b4,3615.32,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,Net Banking,Cole-Johnson,electronics
+14493be4-3e17-47b1-8b61-783d27741bc2,acaccdfe-d6f8-40d6-b860-4a9dab7b36aa,3669.69,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,CASH,"Fernandez, Camacho and Stevens",Books
+dd685f58-c12f-4cd3-bbcc-54c4caec6177,,31726.08,2025-04-23,,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Reese Inc,Books
+f1d444f2-6ebe-44ce-9e11-e863353e83e2,faebf24a-6fbd-42f9-85e0-550961b2d992,9612.33,2025-04-24,Pending,DEL-X-ERR,KAROLBAGH,delhi,,French Ltd,
+22dcf4cb-63a2-4b1d-8b8e-4c867b040680,b3d205ae-8aa4-4423-b1da-8d086d6f0d8e,4325.42,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,Ruiz PLC,Home Decor
+fb4757de-60f3-4b28-bd20-c06b7677fdd8,2648770f-3e42-4a8c-b8ed-954307707e0e,-51.05,2025-04-21,,DEL-KAR,KarolBagh,Delhi,,"Mcknight, Webb and Hoffman",Toys
+f84e9845-7008-4e88-84c5-6f4cd4c705a9,01db57c0-be4e-40cd-b4e2-f368147a7525,1638.29,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,Wade and Sons,
+a3420fdb-4415-40cb-b8cc-1827d2e9bc78,debdf53c-d032-4061-98d2-4990a21fa4ab,9904.68,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,UPI,Sanchez-Macdonald,Books
+a67eea7c-f43b-4412-b160-70c32c6976f1,d9f35979-cde1-4c3e-9bd8-e681210a6c4d,14442.55,2025-04-26, pending,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Newman-Wang,Books
+3684e8c0-54a1-47a8-8133-557c0e51bc13,b4a9fe0b-5b40-4ea1-87de-9cb556f3c0f6,7232.65,2025-04-26,Success,DEL-KAR,KarolBagh,Delhi,CASH,Brown and Sons,
+bed6bb8f-387a-4817-b658-1feec6a49a31,20667c02-d32d-4358-ab50-4c94a2d2c137,3886.31,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,,,
+eca9eb9d-d0d9-4b8b-982a-00f08cfe021d,e95e9a2c-ec3b-4e39-b2ba-c244cf6324b4,15585.43,2025-04-21,Pending,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Fletcher-Kramer,electronics
+f890be80-ba10-4ee6-8367-c59c0ab0b4ba,5676dc02-5799-4d77-94c0-d4f427033a33,5103.33,2025-04-24, success ,DEL-KAR,KarolBagh,Delhi,,Boyd-Barber,clothng
+fb29a19f-3912-4d91-af16-3e67b34aa7a0,e4728f88-732a-4f49-8bb7-2d0a942f5595,2581.54,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,Cash,"Johnson, Garcia and Perry",Electronics
+da9338f6-8995-491d-8ed3-afeff897c7d9,c9e93974-5c14-42ca-91b3-d913f44fa63b,1815.57,2025-04-26,,DEL-KAR,KarolBagh,Delhi,,"Mueller, Mitchell and Booth",clothng
+6416e20b-8713-43d5-bb9b-d6ef75d1f17b,dfae4ff6-fc8a-49bd-8969-cfacd76692bd,8247.46,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,Cash,Franklin-Phillips,Toys
+abd3f914-83d0-403a-874e-3b69f7210f63,bf023ce0-43b9-4cf4-a5d4-b443ed6c30e4,2301.78,2025-04-26,Success,DEL-X-ERR,KAROLBAGH,delhi,,Reese-Clark,
+,d91fc066-9fa4-4a62-ada6-1acfb6305d90,43790.78,2025-04-21,Failed,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,"Martin, Stephens and Rivera",Electronics
+b081391c-eb03-4822-b71a-4af388df6a45,,25523.87,2025-04-26,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Smith Group,Toys
+,,9795.21,2025-04-22,Failed,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,Byrd LLC,Electronics
+d71e3e81-952a-431c-9012-b9fdf0a4f07e,476fa6d5-d784-4939-ad6f-ee1b97c35afe,6459.84,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,Debit Card,Hill-Freeman,
+983a5121-8e1e-4f2b-a2dc-b2030626cb30,15cbf2d9-0f24-4803-b4d1-f9ee52b22802,8245.89,2025-04-22,,DEL-KAR,KarolBagh,Delhi,,"Williams, Villarreal and Sanchez",
+1e093961-b19d-48e3-8768-570c82fba3d1,,2906.2,2025-04-23,Success,DEL-X-ERR,KAROLBAGH,delhi,upi,,Toys
+7fb14b4b-812a-4c82-b200-a6f9b8a9c83c,603c5f4f-c25b-407d-9dfd-397517537864,1224.64,2025-04-22,,DEL-KAR,KarolBagh,Delhi,,"Walker, Kelly and Dunn",Groceries
+e33ac2d0-e41e-43ac-920a-38e00da7c237,1360d6b6-ff8a-4b6e-866a-60658c513a02,8780.97,2025-04-21,FAILED,DEL-KAR,KarolBagh,Delhi,upi,"Nunez, Potts and Diaz",
+47bb6aec-7500-431b-b4ea-b00137ecf916,5379ceb3-329e-4f4d-8ee0-b7f5d673d8e9,414.5,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,upi,Smith-Fields,
+82f1417e-2a6b-4dae-bdb2-517a73297c98,ff7be923-1225-4b77-b5f7-77b7c4569cb3,2383.69,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,Cash,Diaz-Reynolds,
+b263f2ae-7672-417d-9e3b-34419ef98613,e5e19ec1-aaf4-43ca-94d4-67b9eaa0f9a6,7563.82,2025-04-24,Success,DEL-KAR,KarolBagh,Delhi,Net Banking,Yu-Peterson,Electronics
+5ef04225-91ee-4bf8-9c92-2c0657dfde3b,e41ab161-0681-4c00-9e2b-0f96f9ec5842,718.61,2025-04-25,,DEL-KAR,KarolBagh,Delhi,Credit Card,Mosley-Allen,Clothing
+902a459a-224e-41ba-a300-423aa112d6a2,716fafaf-153e-4a00-a1ac-b03bb5c76204,9480.21,2025-04-22,,DEL-KAR,KarolBagh,Delhi,Net Banking,Palmer-Hutchinson,Electronics
+e5c72fe4-4946-4a43-96ff-d242f5027fda,9fcfdf54-3968-49ea-8f24-81571305c302,9592.22,2025-04-25, pending,DEL-KAR,KarolBagh,Delhi,Debit Card,Norris and Sons,Books
+e59a3a64-a9ad-4897-9a6d-f5cebd339897,eedaf619-cf1a-4575-a4b6-a91c5df1f49b,3396.64,2025-04-21,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,Shannon-Ayala,
+29fd9415-8028-4f6c-b9fd-0365a52e4cba,,931.8,2025-04-21, pending,DEL-X-ERR,KAROLBAGH,delhi,upi,Santos-Davis,electronics
+b5b334c4-a110-40ab-9c39-e4eb112d894b,d50d12c2-4ca3-4955-97b0-22c72f5a756e,5100.56,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,Phillips-Phillips,clothng
+345abbc9-cdc7-4ea3-8f5e-ed862620c92b,aa310ee0-ce8c-4c65-8a1c-25930a550b84,4560.03,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,Debit Card,Mccoy-Hubbard,Home Decor
+,33d5ceaf-7696-43d7-8317-7b8ee1b79c11,4304.98,2025-04-21,Failed,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Cross, Payne and Evans",
+ba9171ed-d291-4b85-b044-ffc40e82cf50,3df1e70e-dbb5-40f9-aee6-53755cc4adcb,8764.32,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,UPI,"Pineda, Floyd and Rojas",Books
+4925a8c1-fdc5-4c85-a0c8-1a4848d5de25,2c415f60-b3c5-43ba-bc9d-ea9702759964,9857.57,2025-04-23,Pending,DEL-KAR,KarolBagh,Delhi,,Hall-Schneider,Home Decor
+936c8334-05a5-430c-8936-70a9cb572bb6,cc16687d-2d10-4257-971a-e5ed4021b7c1,76.26,2025-04-22,,DEL-KAR,KarolBagh,Delhi,CASH,"Santana, Ward and Rivas",
+92593c47-7a6b-403f-9a84-58072a2e1a7b,0fa64182-9174-429d-953f-22115125e54e,1774.85,2025-04-21,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,Buckley-Mendoza,electronics
+22e44299-16aa-4954-80bc-c972e9c0cd03,3c96326a-a7c8-4e03-a930-8a4fccec13a7,9590.28,2025-04-22,Pending,DEL-KAR,KarolBagh,Delhi,Credit Card,Turner-Smith,Home Decor
+1643094d-9826-44a6-a669-4f3f8dbe81e1,1d257d3a-c81f-4bbd-b76e-e4c9f46e8c4d,7243.26,2025-04-23,Pending,DEL-KAR,KarolBagh,Delhi,Cash,,clothng
+f69669ee-bdb3-4ff5-8d77-7e4dccc74f10,431185aa-3bb4-47f7-ba36-80b5bad829e9,8541.25,2025-04-27,FAILED,DEL-KAR,KarolBagh,Delhi,,"Richardson, Jones and Lewis",
+,6eb21dcc-9f97-4a5b-af84-add6c463190a,34917.63,2025-04-23,,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Patterson-Perry,Books
+4a54a5f3-3d3d-4d08-be5a-86ad2f8611d5,c49bdcf1-1db0-41db-a0e0-463dd1c3516e,8859.37,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,UPI,Johnson and Sons,Groceries
+b2204f32-e202-4858-9618-91b09e86e4e8,1565b21b-80a3-446e-b42d-4e17b52f1129,5239.11,2025-04-23, success ,DEL-KAR,KarolBagh,Delhi,Net Banking,Davis PLC,Books
+08cc75d7-8f7b-4817-8e29-2617dbfaedfc,f366d756-8690-41e5-9e39-c62f29aab709,6697.63,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,Net Banking,"Gardner, Rice and Jones",Home Decor
+4d5116cd-6983-4150-ad6b-dc9b613d98d2,30318a12-2864-4c4b-9c47-581ecf3ff26a,3812.2,2025-04-22, success ,DEL-X-ERR,KAROLBAGH,delhi,upi,,Toys
+ad14ea20-1b91-4a8a-9280-e2aad3128947,093ddf52-9710-460b-9e6d-959193620975,6579.38,2025-04-27,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,Jones and Sons,Toys
+f6d77d91-647e-4d75-9228-b1af3133941a,b2398791-d10f-4d4a-ba20-9b9d8fc43937,7653.44,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,Cash,Ramos and Sons,Toys
+e18950ef-6e58-43cb-82a7-f5473bc6f4ba,7d32c7e6-6610-4404-a043-d992dcd1e2d9,854.96,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,UPI,Dickson-Dawson,Books
+e949e29c-11b7-464a-bd92-2b6fb21e2700,dbb6c4a3-02e7-4484-95c7-8ccb7bf80355,8598.45,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,Cash,"Kelley, Hart and Montgomery",clothng
+c3422f31-cb0e-42c4-8194-dbaae34a90b4,5230f39f-0927-405f-8a62-48e67aa88007,4970.23,2025-04-21,Pending,DEL-X-ERR,KAROLBAGH,delhi,upi,Allen and Sons,
+c370f6e7-05de-4ead-a8ac-e558c81ee77d,45be06f8-3fbf-4901-bc71-3b1be329a51f,9185.8,2025-04-24,Failed,DEL-KAR,KarolBagh,Delhi,upi,"Richardson, Johnson and Snyder",Toys
+79892ad6-84ec-42ae-a4f5-297c418fe315,0edb24f1-584e-44c3-a40e-2034c51b3ac7,7767.23,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Net Banking,Reed-Warner,Toys
+a72c3d57-dc12-454b-b51d-d1565bacd515,13430877-39e1-4601-a6eb-088f75901dc5,5602.56,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,,"Clark, Foster and Conley",Electronics
+a47a355e-f5ad-47db-bf59-be37a981cfc5,17c32ec6-13ab-4631-ba64-0f9080fae7b2,9969.6,2025-04-21,,DEL-KAR,KarolBagh,Delhi,Net Banking,Townsend-Vaughn,Books
+f8965e8c-d8cd-498c-b9ff-6d0b708292e7,c27b2f57-301e-4da2-b440-506807ee1ab4,5053.69,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,,"Gray, Ingram and Brown",
+05d0512a-762f-408a-9ea1-24706620c29e,9b8771ee-9803-4ca7-986a-2ad4037f806b,4761.29,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,,Sloan-Huffman,Groceries
+afb92571-65af-4237-a59b-6536f7c4e418,b738ff0a-dc7d-42cf-bedd-4f0e9ac6ce9f,9352.06,2025-04-22,,DEL-KAR,KarolBagh,Delhi,,Robinson Group,Clothing
+1bac1c4a-7e3f-4a28-877e-c64e0f2c0147,85ddc103-517a-4221-ae62-498fbe0020f6,5240.64,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,CASH,Carpenter Inc,
+8f370139-0c6e-4d47-a7ed-47d5463bb015,2ebf3f1f-3fe8-4098-b2a9-9f446bbd3b4e,2355.36,2025-04-23,Pending,DEL-KAR,KarolBagh,Delhi,upi,Lewis-Johnson,Books
+e3b9b408-566f-4b17-a7fe-1658c0acc371,4b0c0c53-7dac-40ee-873f-bace88d616e6,30593.59,2025-04-24,Success,DEL-X-ERR,KAROLBAGH,delhi,Cash,"Weaver, Fox and Lee",Electronics
+3e4fd83b-2bcd-4d80-a6ad-e006e011cc2b,bb7202dd-998b-483d-95c6-157777d6bb66,9841.95,2025-04-21,FAILED,DEL-KAR,KarolBagh,Delhi,UPI,"Vasquez, Thomas and Rosales",clothng
+d6a5cb00-8aaf-4cd7-a9d0-454a5334ac98,5fb39348-af96-4dce-a431-09e7b1448e3a,7420.65,2025-04-27,Failed,DEL-KAR,KarolBagh,Delhi,Credit Card,Newton-Kelly,clothng
+3629a4ef-1cd1-4e09-9ec9-cda8ffba47b9,e4e805bd-1d44-499b-84f0-94b29ec5d42a,788.37,2025-04-27,Pending,DEL-KAR,KarolBagh,Delhi,Cash,Harrington-Maynard,electronics
+dca78898-84f6-4a6e-8f91-820aeb59baa7,3c369380-c040-427a-873d-b7d22a438bbf,4939.34,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,UPI,Daniels-Stout,Home Decor
+3209256b-7d31-4a11-b5df-0c1e8c3ce434,d75816c6-9006-4c5a-a0c6-dd6365791c66,7030.61,2025-04-23,,DEL-KAR,KarolBagh,Delhi,UPI,Benton PLC,Electronics
+b1e22571-4212-4f7c-8854-a4ca0459b778,7060b699-415d-45e7-a944-0b9c3c423c26,5454.6,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,Credit Card,"Collins, Fisher and Marsh",
+7ac7979a-bcf1-4ff6-ae44-29cc846b31c4,1927e3d4-4408-4f94-b632-b54af1984c95,2656.07,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,Cash,Henry Inc,Electronics
+3a5d38cc-667b-4e90-89e1-1bb921595636,585f7f91-553a-419f-b516-191b1b0bd2c9,8140.27,2025-04-23,Pending,DEL-KAR,KarolBagh,Delhi,upi,"Ramos, Ross and Martinez",electronics
+013f37e4-4d49-4390-836d-3cf35bbcd799,bfd1e8f2-1c64-49c6-9a7a-f3f8834b8382,9973.29,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,upi,Lloyd-Wood,Clothing
+b4ec7e8e-1cdc-449a-8b46-de992da29e52,,9857.78,2025-04-24,,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,"Lewis, Gray and Jones",Clothing
+1e4677ae-6196-4c64-89fc-e20c6a00944f,eadce244-62ff-44f4-8e92-078b1a1b3228,1533.34,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,,Rich Inc,
+2a984495-9b89-4383-8432-986a16de10e9,,3550.14,2025-04-25,Failed,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,"Goodman, Patton and Peterson",Clothing
+610ba363-4505-41f8-a16e-8381b59331df,4219ae92-e8e6-4bc0-99c3-28fbf8aa3be3,8210.01,2025-04-23,,DEL-KAR,KarolBagh,Delhi,Net Banking,"Sanders, Booker and James",clothng
+d96b4d4e-ecc6-4423-8167-a8ccc0c88368,,3757.15,2025-04-23,Success,DEL-X-ERR,KAROLBAGH,delhi,upi,Hayes-Hinton,electronics
+4a41e22a-32ca-44c4-86fd-4d08ce9496ac,45cf161c-ad39-4e91-8c9e-a702e095c016,3892.65,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,upi,Braun-Abbott,Home Decor
+c9b5bbba-6907-4c49-acb0-6f5b5aab097d,3b1a1f9f-0245-46b6-8756-682b6c8ab284,9657.87,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,,Davis Group,Books
+26f5c6d5-233e-41ef-babb-2364a4be4e4b,f4daa45b-265b-43cd-8682-fe967f1d71b0,6883.15,2025-04-23, pending,DEL-KAR,KarolBagh,Delhi,UPI,,electronics
+ccc3be47-605c-49d8-85cd-00a4f7fb06b9,445dc28e-e837-43fc-b8b9-3e7f964893f0,312.31,2025-04-22,Failed,DEL-X-ERR,KAROLBAGH,delhi,,"Garcia, Vincent and Church",Groceries
+cd8c43ee-df4e-4131-be66-0c0571ece133,87c6c8f8-cc3f-4853-a3fc-f9fa35292a32,9234.56,2025-04-23, success ,DEL-KAR,KarolBagh,Delhi,Debit Card,"Richardson, Hartman and Brown",Books
+addec0fa-d675-4c5e-9328-fbb094b7d0cf,fad6d030-057f-44a4-b373-8569a187f6df,114.77,2025-04-23,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,Johnson-Moran,Clothing
+aed70096-6809-4364-95c4-c4cb92d6948b,087c46f9-5c57-4417-a829-8ac0eb315783,8624.48,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,UPI,Jones Group,
+427690d4-ca6c-4c03-b173-cfd8cdb405ea,c60d8dfa-c0ed-4afd-a43f-374bdb2b8060,8679.48,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,UPI,Hill PLC,clothng
+45a275bc-8fdd-4514-807b-0c89a0dc819e,f611b8d0-bed9-4c70-9f21-82e23056786c,31005.87,2025-04-26, pending,DEL-X-ERR,KAROLBAGH,delhi,,Johnson-Vazquez,Home Decor
+ed8e4c6d-7cac-4611-8f7b-05a72c3769be,a927fd46-b668-4f46-94aa-09c292068d57,3693.59,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,UPI,Walter-Martinez,Electronics
+f4644b99-980a-4ee9-ae65-e66bcfb16cfd,9cf148bd-48fb-40f1-814d-1f465afb7584,2834.5,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,Johnston-Carter,Electronics
+bdebc419-fb20-445e-95a4-a4ccd5d6ab99,d7b2a172-79d9-44a1-b25a-e1fac0671841,5741.03,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,Cash,Anderson-Cooper,
+03112d06-f79c-439a-81fc-0fc0802018a8,ee22cb37-f783-4f48-aa37-47f41cbc272c,4579.16,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,upi,"Haney, Harris and Torres",Electronics
+48d9548e-c87c-481d-a98a-221b9478259f,95c783cb-51a5-44c3-8052-aeb5b2764db8,4436.75,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,Credit Card,Edwards Inc,Books
+367de663-b62b-46d5-a8c7-d6d2d0ece448,298ce609-d2c4-44e1-ba5b-201d8d0169b3,3811.32,2025-04-26, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,Blankenship-Robertson,
+,,5912.96,2025-04-26,Success,DEL-X-ERR,KAROLBAGH,delhi,Cash,"Davis, Sosa and Phelps",electronics
+03443031-71e8-4350-972a-d6ea0d92c5bf,f2295380-f748-4005-8e62-2f6177125222,5591.1,2025-04-22,,DEL-KAR,KarolBagh,Delhi,UPI,Vega PLC,electronics
+567cbd94-a7f7-4868-a2e1-cd0c48abb1bb,132c22da-f3b8-405d-a7b0-6b7c72cf08f9,7659.32,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,CASH,Gates PLC,Toys
+17013558-4826-4678-8f37-47794d3e8ae0,49d5deec-da6a-4c2e-abc6-c400b2e7e413,9309.39,2025-04-23,,DEL-KAR,KarolBagh,Delhi,upi,"Thornton, Walsh and Preston",Books
+59c13918-b6b0-4726-9039-9f423ec6f665,,9419.59,2025-04-22, success ,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,"Harris, Lewis and Jackson",Groceries
+b6835a9d-78cc-49a6-8f47-0c3788ed944f,a88f311f-67c7-4503-9c04-9aec5bf488bc,2188.48,2025-04-26,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,"Chaney, Martinez and Clark",Clothing
+e2a06bd8-6a20-4781-a376-1e87eb15f832,a3206fba-461f-4bcc-a0dc-03175361d3d4,38453.11,2025-04-26,Failed,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Kennedy, Clayton and Peterson",electronics
+ba900186-e22f-4e2a-a140-c6918f7440d5,d5f67432-1093-48ff-bc0e-a433ba9c5a2a,4905.58,2025-04-27,Pending,DEL-KAR,KarolBagh,Delhi,Debit Card,Moyer-Leonard,clothng
+47107b23-9832-4d70-8a57-66558590ca75,ef9e4435-b8b6-4101-aeaf-248f12af19a8,154.57,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,,Luna-Martinez,electronics
+13791994-1e87-4756-aaa1-2d45fd24fa81,41fedc5f-66bd-4b2f-aeda-b4fe4cfa7687,9073.85,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Marquez-Miller,Books
+db33c44d-9520-43e2-bfd5-f52d1a62de3e,c21c930c-0f73-43a7-bdb9-df74813d0497,5863.35,2025-04-27,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,Cox-Turner,Clothing
+df8798f2-4d4e-4528-8477-5de9bb4099bf,f5a99ca1-367f-4d43-bd4e-15deeb168a10,6179.31,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,Credit Card,"Hodge, Cannon and Cordova",clothng
+ffff450c-7f3e-4f92-bdbd-ac3b2f4a1dab,f871ebed-7b9c-4c15-ab4a-7d5db8bb90a5,9399.83,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,CASH,"Leonard, Mata and Simpson",
+8f70f779-7800-47c0-8e77-2f0901361b8b,a1ed075b-1ef9-451f-a329-c5128f7d8e96,6077.97,2025-04-22,,DEL-KAR,KarolBagh,Delhi,Net Banking,Allen-Cook,Books
+c03f32ef-1627-43cf-a825-a04b1845421f,8e0fb501-c559-46f6-ba21-81f7a6596289,180.16,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,Cash,"Novak, Fischer and Sullivan",Books
+0f768f1d-95e6-4e6d-b8ba-1176925e4a2e,67e6da0f-aa74-444d-a8ba-bf809d502e63,1398.28,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,Net Banking,"Smith, Weaver and Ward",electronics
+8c9fd441-3409-466f-97f5-5b10b80b6efd,923302e5-d435-4914-b70a-bfbcfe24eaf8,571.55,2025-04-25,Pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Brown-Parker,Electronics
+87944b4c-ab2b-4291-9345-2c2cc20b04e3,c4bec5ca-1bc1-4d5e-b99f-975f22336d14,36951.38,2025-04-21,Failed,DEL-X-ERR,KAROLBAGH,delhi,CASH,Lopez Ltd,Groceries
+c1cb9833-d4fb-4391-8276-ddf078ee5359,fbddeba0-d7c0-4ab8-97fe-8547bfcfb715,5999.57,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,,Williams-Sanchez,
+87194c22-0f8e-4bce-86d6-9a44852afbbb,,1999.48,2025-04-27,Failed,DEL-X-ERR,KAROLBAGH,delhi,Cash,"Butler, Reeves and Gallagher",electronics
+947d8a39-f070-409e-8ebd-c3e3c05fb0c8,7fab7d8b-095d-494f-aa0a-697f398c3efc,6148.13,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,UPI,"Maynard, Wu and Young",Electronics
+2790a014-9807-48d5-8575-38a5812ded7e,6f68e05e-b10a-4f99-b1fb-8931ac218606,9665.82,2025-04-26,,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,"Torres, Alexander and Ortiz",electronics
+68eba848-9d9d-480a-ad0e-7e63af222448,798aa772-da38-462b-8f2c-00b258fd2d54,9256.38,2025-04-24,FAILED,DEL-KAR,KarolBagh,Delhi,upi,"Boyer, Burnett and Foster",
+788c5151-6d54-4e1c-a21b-789e710f6f83,46b383a6-ad4e-4ccc-9c46-7deb6529adf5,7839.5,2025-04-22,Success,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,"Hicks, Shaw and Griffin",Books
+7a045c43-7f97-4bd8-857d-80a99602bba0,dbee466a-00e4-40b0-999b-3cae93d02513,8701.4,2025-04-21,,DEL-KAR,KarolBagh,Delhi,,Parker and Sons,Home Decor
+2f975059-0f9e-4c14-a62f-b51dc13a5042,65af064a-2df7-41ce-b997-8a8d6ffd9855,28794.01,2025-04-23,Success,DEL-X-ERR,KAROLBAGH,delhi,CASH,Robinson Ltd,clothng
+e76e6aac-f3b8-4516-a9ce-2bf4639192ab,f3f9cbf6-2bfd-454f-9866-73414174d7e9,1829.86,2025-04-25,Pending,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,Walker-Smith,clothng
+08732efb-c249-49ed-b73b-35fee917ded1,c0e4712b-7621-4b47-be35-d237ffc4ab92,1474.26,2025-04-24,,DEL-KAR,KarolBagh,Delhi,Credit Card,Oconnor and Sons,Clothing
+83d32337-6ec4-46c1-9627-934255c34e89,,6326.73,2025-04-25,Pending,DEL-X-ERR,KAROLBAGH,delhi,CASH,Holland LLC,Toys
+7a87deb7-bea0-4dff-a653-87b277093625,57b480c6-2009-4646-9f46-a4555e3b89ce,2253.84,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,Credit Card,Olson Ltd,
+,,2596.14,2025-04-27,Failed,DEL-X-ERR,KAROLBAGH,delhi,upi,,Groceries
+0fd55224-0654-4239-bbc3-038797f33322,d72f1825-5bb0-4f00-8c6d-ffe7b859e840,5314.83,2025-04-23,,DEL-KAR,KarolBagh,Delhi,Cash,Cummings-Wang,Electronics
+31b203cb-3578-4e64-ae42-972299b90023,3b05344d-6f39-499c-be18-ddf422d117dc,5646.2,2025-04-23,,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Anderson-Patel,Groceries
+28ca9023-6676-43ab-b278-8e685ade290e,8506d4a7-c551-4713-b24b-c2c0c5f8fded,7198.38,2025-04-23,FAILED,DEL-KAR,KarolBagh,Delhi,upi,Taylor-Buchanan,
+7f4e8eeb-3817-4e8c-904e-1bd2dad83382,5646d9a9-2fad-4436-ad3d-1ee8ac965dc7,5057.97,2025-04-23,,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Johnson and Sons,clothng
+c44e7fd3-d315-493d-b8b6-8612b7ab81ef,e2a60fe3-b6e1-4a21-b2ef-1b61bbbcc3e6,939.8,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,UPI,Daniels PLC,
+352657bc-a7ac-4549-a47f-ca514febf360,08b625a3-e567-4cff-af83-d9e340407101,6128.33,2025-04-23,,DEL-X-ERR,KAROLBAGH,delhi,UPI,"Griffin, Adams and Lee",Home Decor
+aecbf7f1-3257-4849-82fc-5d79e30b2bb4,89937312-a072-4989-a1db-830f1fb0abc3,5443.45,2025-04-27, pending,DEL-KAR,KarolBagh,Delhi,,Ferguson LLC,
+f7e04b1e-c41b-4e70-a276-4813660c3366,a54a9c07-5c2c-407b-a0bc-eac5151e087b,3639.59,2025-04-26,,DEL-X-ERR,KAROLBAGH,delhi,UPI,"Garrett, Smith and Marshall",Clothing
+86157303-97aa-441c-99dc-f2a4709c82c0,a055298d-a447-4ae2-b5fb-3028cd0ad95c,3433.91,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,"Byrd, Woods and Fisher",Books
+043d70e7-8a54-4fd8-a2b9-75b9a8a2355d,a0b9b3c7-a70d-455d-ba2c-a0eee4c5f25c,8284.6,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,CASH,Wood-Mccarthy,Home Decor
+d4fddefd-ba58-432e-8d6d-7a144ea23f31,5e1e4023-188a-4893-a4e2-6426b0efea91,9377.5,2025-04-26,,DEL-KAR,KarolBagh,Delhi,Cash,"Horton, Moody and Ford",
+4a13de29-6f61-47a8-a847-9019ab310d48,b69a12af-34cd-4d6f-92bd-d07b07b5c69a,3453.82,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,Credit Card,"Holloway, Gonzalez and Booker",Toys
+85bba977-6dbd-4e0c-9a3f-b844f7e1f349,34450610-9de2-41e9-9cd7-417987817ad1,4639.15,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,Cash,"Nixon, Fox and Hawkins",Toys
+09bb6d1a-9279-4a73-8d83-9265a2ba9024,9d157d1a-74f1-4689-9a6d-4c4b3890135e,7620.31,2025-04-26, success ,DEL-X-ERR,KAROLBAGH,delhi,,"Powers, Huffman and Byrd",clothng
+05d9f92f-5f4e-406f-b181-ba83148eb702,9807663a-1837-48b9-aa3c-2f6b3cef0b0b,7220.65,2025-04-27,,DEL-KAR,KarolBagh,Delhi,CASH,Todd-Holloway,Home Decor
+cc4110a4-586f-4b20-b6c5-8ec66bacd409,ae51c73d-14a8-4212-8785-47295ce0cd25,265.67,2025-04-21, success ,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Rivera Group,electronics
+e958af86-e07f-4b55-af34-f0646f97ebe0,67a012f9-8625-4527-a63b-d45fbc8767f0,9391.84,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,upi,Lucas-Walker,electronics
+7895811e-6ae4-414f-be84-b2634c33bad3,d42ebd39-4c3f-4f87-9eee-e13617f78015,7958.37,2025-04-27,,DEL-KAR,KarolBagh,Delhi,CASH,,Home Decor
+,6db63fb6-882a-47c8-adb4-c94793b6ab2a,5987.55,2025-04-23, success ,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,,
+5bbe74c3-9565-4ccf-8f3c-4d61246f785c,e3fce367-16ca-47c8-9d9a-7088b9627c78,1238.45,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,,Toys
+,,23482.97,2025-04-23, success ,DEL-X-ERR,KAROLBAGH,delhi,,"Rogers, Collins and Gates",
+1a68ea20-2717-4b32-ab3c-ca346191f9b7,c2663c3f-90e4-48a6-9a3b-73ba5343debf,9178.11,2025-04-25,,DEL-KAR,KarolBagh,Delhi,Net Banking,Solomon Group,Groceries
+ad39e052-92a0-4688-b4b5-bf074b824317,98b8dd90-3a54-447a-aa25-5538fc5c960f,8267.6,2025-04-24,Pending,DEL-X-ERR,KAROLBAGH,delhi,,"Rogers, Carlson and Smith",
+,5204c1c8-590d-44bf-9019-0c4a8e6bbcf7,1231.04,2025-04-24,Failed,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Cox-Osborne,
+13118ab7-32c9-4319-9e35-534ea725a5e2,7d97fb59-8377-4c89-8ee6-b4f4784d57a5,77.79,2025-04-23,Success,DEL-KAR,KarolBagh,Delhi,upi,Brown Ltd,Groceries
+a9850f62-0404-4d5e-974e-6248da27f919,f1e57ccf-ce81-4acf-bc7e-3e70257f2598,1181.02,2025-04-26, success ,DEL-KAR,KarolBagh,Delhi,UPI,James Group,Electronics
+f914cc19-be2f-4645-aed2-4ab438b0c5af,63f93877-bc5f-4153-99d6-27e32af15324,9833.13,2025-04-26,FAILED,DEL-X-ERR,KAROLBAGH,delhi,UPI,Cortez and Sons,clothng
+345a7238-bace-46e7-b273-6a9e2b85e585,73b76c57-8147-4a1e-ab0a-2fb548fb11f0,549.38,2025-04-24,Failed,DEL-KAR,KarolBagh,Delhi,Cash,"Lewis, Petty and Simmons",
+,1895f5da-cc04-4d6b-814d-7938643536b3,2364.7,2025-04-22,FAILED,DEL-X-ERR,KAROLBAGH,delhi,CASH,Morrison LLC,Electronics
+6575e8af-6e48-482c-84f7-38848c789ee1,05dd2002-ba2d-435f-b85e-2283b851c114,7962.26,2025-04-26,Pending,DEL-KAR,KarolBagh,Delhi,CASH,Cherry Ltd,Home Decor
+4de07f10-4f3e-4166-a9d1-53e1277d0dc9,c607560f-7280-4d5c-8165-7c6eec899be4,28462.36,2025-04-27, success ,DEL-X-ERR,KAROLBAGH,delhi,,"Burton, Gonzalez and Harrison",Electronics
+a14e4b5f-5cf1-4a61-9d31-93505b7ed2ff,7bfdf54a-1763-4e41-8786-4f3df07f79b0,5275.88,2025-04-26,Pending,DEL-KAR,KarolBagh,Delhi,upi,Buchanan PLC,
+32a4d31a-9976-4fa0-85f1-0481abbfcb6f,6a3289a4-eb20-4237-98c3-21f47ee2d7aa,1310.41,2025-04-24,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,"Sandoval, Diaz and Herring",
+599e2787-491a-4b0c-83b4-e4d41b815737,3f3676d6-d08a-4229-bda7-d90ac0506c08,8952.73,2025-04-24,Failed,DEL-KAR,KarolBagh,Delhi,,Graham-Andrews,Toys
+7e66e53c-ea06-423a-8143-da2f4cd6701c,f5dcdf5f-b04c-4cda-b6a1-e8cccaf34ebb,8604.4,2025-04-23,Success,DEL-KAR,KarolBagh,Delhi,Net Banking,"Alexander, Dunn and Brown",Groceries
+,f1dbc1a3-e450-43e0-8950-247cc55fca61,36337.21,2025-04-24, success ,DEL-X-ERR,KAROLBAGH,delhi,Cash,Mason PLC,Toys
+6394eb4d-54ed-45c3-a8c0-145007adb729,fcc40681-eb1b-4989-9842-e17a6fce6669,6935.12,2025-04-22,Pending,DEL-KAR,KarolBagh,Delhi,Debit Card,"Lee, Daniels and Shannon",
+172fa76c-714a-492c-b309-40c6bd7a79e2,c0ef4f70-ec1f-4cbd-8756-996397ea0bf7,41302.93,2025-04-27, pending,DEL-X-ERR,KAROLBAGH,delhi,,"Young, Wallace and Sanchez",clothng
+9b31e68b-0b1c-4116-9ad1-904c4397028d,51a42ce7-8213-43f1-a73d-2405d1c4ede4,29858.33,2025-04-23, success ,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Williams, Moore and Morris",Toys
+,82f1ecf2-0b8a-48fb-bd5f-d7072659185b,41499.93,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,Cash,"Vargas, Nunez and Ramirez",Clothing
+a3c8a09b-f3ca-4e38-9bb6-eb7ecd5df7bc,38e815f2-ee2a-40b8-83e5-4ecf2a57a025,7239.53,2025-04-24,FAILED,DEL-KAR,KarolBagh,Delhi,,Howard PLC,Books
+2d4308b0-5479-494c-9849-0c6867dbfad4,d1fbc164-2fc9-41de-9cb2-7402ff2abdf7,1851.29,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,"Kelly, Johnson and Young",Home Decor
+8567a96b-014e-436c-9041-62d073adf9e6,54829427-35a6-45cc-8b85-91ff8bc035bb,6602.11,2025-04-24,,DEL-KAR,KarolBagh,Delhi,Credit Card,Howell-James,clothng
+96603485-4cb6-4fb0-a79b-186f002d55ff,7a18b38f-3641-4a2e-8f00-4b33cd68d6e0,6410.94,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,UPI,Alexander-Stevens,Home Decor
+1f5dd7ba-9534-4e6d-a9fc-4e25bc125ea2,14f89da1-e19f-4cc9-bdde-949ea835f6d1,32300.53,2025-04-26,Failed,DEL-X-ERR,KAROLBAGH,delhi,CASH,Lopez Inc,Clothing
+fc29cf3c-0b55-4a88-9689-1531cfff52ca,9315e61e-ba1e-47dc-bcdc-8310c12ac33f,8309.62,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,Net Banking,"Edwards, Bell and Kramer",Toys
+ed1b0f86-b601-47c8-80b1-8033b5cd1696,9022aab2-a373-41de-91f4-0812b3b056b8,576.35,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,CASH,French LLC,
+9a28538b-8569-4625-9058-dd611f643c0d,5f704528-3778-4394-b700-e36338bb7df4,2712.1,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,upi,"Perry, Espinoza and Morales",Books
+83fffeb5-3932-49ba-909e-c24e19b4f0b4,001536f0-bfcc-4b34-90ce-a9b75054e429,7068.64,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,,Willis Group,
+02f5b563-84c6-49e3-8a31-8a9c3169f269,e260039d-e03f-45f2-bdd4-22221b1e1933,4019.48,2025-04-21,Failed,DEL-KAR,KarolBagh,Delhi,Cash,Lopez LLC,clothng
+7737f7a7-db2c-4ffe-9a93-ffe7cf868c17,17b76c8d-8abf-44fc-b68e-46b1183cbeb2,451.12,2025-04-25,,DEL-KAR,KarolBagh,Delhi,upi,"Brown, Adkins and Valdez",Home Decor
+9b8ab8d6-4b92-46cb-9905-51c21732a2d6,1dadf788-9411-4ac6-854e-412c9175d729,3493.5,2025-04-23, success ,DEL-KAR,KarolBagh,Delhi,,Garrett-Ramsey,Groceries
+5606e905-5b32-4704-a088-c92b094339e0,abfde65e-184a-435b-9359-a8131eedacf0,4377.82,2025-04-23,Success,DEL-KAR,KarolBagh,Delhi,Net Banking,"Jenkins, Kim and Shaw",Groceries
+13a95b1e-7e11-4a37-a907-14a3cb821063,02ef934e-8948-4b22-81fe-513a7ba7ab23,22216.49,2025-04-24,Pending,DEL-X-ERR,KAROLBAGH,delhi,,"Gould, Harper and Harris",clothng
+f29e1b7e-d5e8-47a3-804f-885429b62f78,e83c70f3-8ef9-44ef-9980-0e46f5501bdf,367.48,2025-04-25,,DEL-KAR,KarolBagh,Delhi,,Henry Ltd,electronics
+156f4986-6c2d-4f00-99a4-410219f636ea,385221fc-974b-4906-b67c-9ca42758c48e,9333.1,2025-04-23,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Jones and Sons,Books
+29c70a8b-5a5f-4687-9394-af394789f077,900276b6-0ac6-4e0d-a280-3ae1f6335079,441.78,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,upi,Wade and Sons,
+12b2dd75-ad1c-4a98-9f6e-a5c67a5e3d52,7efb9b2b-789f-4ea5-adcd-7411ef85b1e2,8145.41,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,,"Peters, Cruz and Moran",clothng
+637f3654-01c4-4783-8a78-81fe41403fd8,b0c4ff67-117b-4b10-9b31-06316640d136,2835.2,2025-04-23, success ,DEL-X-ERR,KAROLBAGH,delhi,,Mccormick-Yang,
+637f3654-01c4-4783-8a78-81fe41403fd8,b0c4ff67-117b-4b10-9b31-06316640d136,2835.2,2025-04-23, success ,DEL-X-ERR,KAROLBAGH,delhi,,Mccormick-Yang,
+3ac3f6a9-a650-4bf4-8867-37c0b88751be,63699332-fea3-4c75-8f3e-60baeab6af14,3062.32,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,,Jordan Group,
+1c33eea2-2b03-4fe6-97e2-aa93ac7c77c5,0c4e127f-6e7e-41b2-8deb-04141e2d5c82,1952.4,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,Cash,"Miller, Martinez and Blair",Clothing
+a5234b3c-b5e0-4b0e-ab0d-7e8fdd0cffdf,adf6ce2f-dff2-4f43-bae2-be6dc7a869c8,510.91,2025-04-23,FAILED,DEL-KAR,KarolBagh,Delhi,Cash,Brown LLC,
+bedbb510-dff3-4bae-956e-71fb5b6ff793,94afe8b9-7ecd-415b-84dc-474e820a385a,5802.31,2025-04-22,Failed,DEL-KAR,KarolBagh,Delhi,Credit Card,Patterson and Sons,Toys
+48d4445d-ca6c-4829-9d72-16bf389e0e30,,4717.14,2025-04-25,FAILED,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Jordan, Barrett and Wagner",Groceries
+d0c1e1f7-d8a7-42fb-bf16-e0f09af50294,e1a83962-0529-459d-9887-8f1d1aff217f,3572.28,2025-04-25,,DEL-KAR,KarolBagh,Delhi,Net Banking,"Rodriguez, Farmer and Dalton",Electronics
+5bfbc0fe-49c7-4370-b785-e0070c641777,16cc39dd-29cc-4ab0-9801-f60407e53b1e,8977.25,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,,Webster and Sons,Clothing
+84d473cc-0181-4ad1-ac14-cf57cae842d3,462a729d-c938-43fe-a7aa-af941f58d3c5,5261.19,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,UPI,"Wu, Mack and King",Electronics
+6835b9c6-cea9-4194-8bd6-ce75bf454da8,8a868900-e05e-4dcd-8ae1-5addd6ff6a05,361.91,2025-04-21,,DEL-KAR,KarolBagh,Delhi,Credit Card,"Carr, Meadows and Scott",Toys
+d73d5f9a-8d43-49db-8640-6b52cdefeef2,905d41d8-6cc3-4b4a-85ee-ce4b3c701e2a,-42.14,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,CASH,Ramirez-Hutchinson,Books
+02f54282-6768-4dfb-91fa-64af07a367aa,d9824862-cfc2-4217-ae1b-545097330a45,7979.68,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,"Johnson, Carey and Schwartz",Clothing
+65fbe36d-5729-473b-8324-805c74ec7d15,386ea9a9-8eb8-4119-9818-50976ea48dc0,2544.87,2025-04-27, success ,DEL-KAR,KarolBagh,Delhi,,Duncan-Williams,Electronics
+fb98e9a5-9bbf-4afa-a443-cd7942052edf,24a09319-4e17-42ab-9403-36b04630a296,5822.65,2025-04-21,Failed,DEL-KAR,KarolBagh,Delhi,Debit Card,Oliver-Gibson,
+716c8cdd-a689-432c-bf2f-2142dc014a6b,50f23983-2ddc-4931-ae5b-285ae85f18bc,436.41,2025-04-23,Pending,DEL-KAR,KarolBagh,Delhi,upi,"Juarez, Ferguson and Gibson",Groceries
+15e8434a-9ad5-46cf-a3fa-103bc0b42d73,586be788-ce71-4df2-99be-f842e0cd99f1,6702.85,2025-04-23,FAILED,DEL-KAR,KarolBagh,Delhi,upi,,Home Decor
+f02aeb0c-6407-4fee-9881-836e0b7e51dd,7ed081dc-4923-4cf8-b799-def4db4f6aea,3970.62,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,Debit Card,"Baird, Morales and Harrison",electronics
+60154a17-b652-49ef-ac1b-984d4b225d64,951b769c-51f6-44cc-84cc-f931e3e004c5,2309.44,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,Credit Card,Church Ltd,clothng
+ce7fd550-9bd7-4f62-a125-6b1f632dfd91,15b59b61-6359-412c-b512-9698722c6cf7,2840.7,2025-04-22,,DEL-KAR,KarolBagh,Delhi,Debit Card,Hughes-Mack,clothng
+02044acf-6f75-493a-a626-02a28a46d480,98c58871-4ef6-45e0-b08c-4fb3c49b3bd6,2017.03,2025-04-27,Pending,DEL-X-ERR,KAROLBAGH,delhi,,Nelson Group,electronics
+eae097c7-9830-4432-8c63-64e8e04a01d2,acd4d717-c93d-41dd-bf77-cf14a19e9e81,4207.17,2025-04-26,Success,DEL-KAR,KarolBagh,Delhi,Cash,Santos-Martinez,
+d6d4f7ef-284b-43dd-a0e3-fe8d5e9ca5c3,d24f2357-7db6-4b75-befa-9c6d7f651d8a,3840.45,2025-04-24,,DEL-X-ERR,KAROLBAGH,delhi,CASH,Moore LLC,electronics
+,,4380.2,2025-04-27,Failed,DEL-X-ERR,KAROLBAGH,delhi,,Clark Ltd,electronics
+,,4380.2,2025-04-27,Failed,DEL-X-ERR,KAROLBAGH,delhi,,Clark Ltd,electronics
+,25e0a60e-5281-4ec0-a5c3-b79ef0146b37,14739.04,2025-04-24,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Woodward LLC,Home Decor
+be264712-d3ea-4226-9771-33e826c04950,002d111d-08aa-49da-94c5-be4f63e947bf,49976.52,2025-04-27,Failed,DEL-X-ERR,KAROLBAGH,delhi,,Mcgee-Mills,
+63f66d73-99a6-4e70-8f14-0eba9e8a8597,2e0447a7-73de-47c2-9001-3c45e0e9f830,3044.97,2025-04-22,,DEL-KAR,KarolBagh,Delhi,,Sosa-Brown,Electronics
+a03d6f69-021c-4acb-a673-6d23c5d0a0ac,e5a7f50b-bb6e-4ec1-a87f-50875c27af1c,5478.46,2025-04-23,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Gonzalez-Miller,Toys
+45ae9400-83d9-4e36-9e78-8e01b80fdca9,0443b766-69e8-43a4-ab25-92b95f1873b1,2029.96,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,CASH,"Yu, Hanson and Roberts",Electronics
+207ae784-2640-4626-be00-d86f263ff921,1fa2e8fc-b60b-499a-b7c3-9b3fb9c1035c,7592.88,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,"Miller, Thomas and Humphrey",electronics
+e39c71a8-4215-4a6e-aa9a-5102455791ab,1be79c70-b9bc-4304-b9e9-9b0bbe81f1b7,1557.34,2025-04-24,,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,"Davidson, Jones and Atkins",Toys
+ed1dedcd-89ca-469d-a741-c19dceb4c025,38f230b1-8312-44ff-bc48-4136ca3ea03d,6752.0,2025-04-24,,DEL-KAR,KarolBagh,Delhi,,"Meadows, Hodge and Becker",Books
+d5a00a4d-e03e-40b9-b730-01f3a29ad66a,8b430745-c316-4e09-977c-547f7b519270,923.56,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,,"Russo, Williams and Hernandez",Home Decor
+ee392fb7-6d55-421b-9d60-bb3aed8f75ba,17bd1f60-3a63-4868-a5b3-a57287e94db8,8050.18,2025-04-23,Success,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,Dean-Knight,
+845d0f4f-beef-4c30-a6b5-20f5ae73e215,a7346b26-1bea-475a-8093-576f14affcd7,847.71,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,Cash,Brock PLC,Books
+4f8c2675-dc8c-456b-a68d-f88762038741,580383d6-688c-4566-b932-520a29a1c842,1285.4,2025-04-26,FAILED,DEL-KAR,KarolBagh,Delhi,,"Barton, Fischer and Graham",
+,5c93408a-551e-466f-ade5-786b37903886,37302.35,2025-04-27, success ,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Hayes-Campbell,electronics
+dde957c7-58c9-4f23-9ef6-221af1b479b8,,7434.39,2025-04-22,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Lewis-Park,Electronics
+887ee883-f34a-46e4-85ce-41488094ad76,c1d78eda-bfbd-4269-b207-27ab24c9ec0e,-74.31,2025-04-26,,DEL-KAR,KarolBagh,Delhi,Net Banking,"Hernandez, Collins and Adkins",Electronics
+33dd88e6-5269-4d43-a3af-5ce520d5bf28,e6273e93-114e-495b-9de3-a9a053b20d16,6361.14,2025-04-26,Failed,DEL-KAR,KarolBagh,Delhi,,"Frazier, Todd and Spencer",
+3fe11115-fc22-49c7-8bca-bfe154c4321c,3afb9430-5d92-4083-961e-edeb4073b164,9810.29,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,Cash,"Rose, Dixon and Ruiz",Toys
+70fe5439-4312-47ec-bcac-c79501d24fa4,61336c44-6f65-4ef6-b90a-6959658ecb2a,775.01,2025-04-25,,DEL-KAR,KarolBagh,Delhi,Debit Card,"Williams, Anderson and Payne",Clothing
+b4eed443-5229-4835-8c9a-360d7ec1c04c,725df3ff-8024-4dc6-93ea-6a30b2408040,-79.2,2025-04-21,FAILED,DEL-KAR,KarolBagh,Delhi,,"Ortega, Brown and Kennedy",Clothing
+d78d917a-af1b-40b5-927f-51383525bedc,e94b5574-b77f-4264-b713-f2acd2512894,2110.85,2025-04-25,Pending,DEL-KAR,KarolBagh,Delhi,Cash,"Ward, Lopez and Watson",Clothing
+6568ef8d-22e2-44bf-b597-d341c004496a,a7a39446-a81b-440e-9864-630e20de77c5,678.01,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,,Skinner-Joseph,Groceries
+ca548687-41c5-4f55-950b-070af0c90c94,00f88e18-3849-406d-8369-77caf466e6de,3496.55,2025-04-22, success ,DEL-X-ERR,KAROLBAGH,delhi,CASH,Trujillo Inc,
+5b003696-4941-431c-ac06-959647014212,de0511ea-c9d8-49bf-9743-fafe24702c21,3613.62,2025-04-25,Success,DEL-KAR,KarolBagh,Delhi,Cash,Gomez-Murray,clothng
+36aa227d-3469-4389-ae7b-9958456ebc27,9cc1ad6c-cbb2-4634-985c-5a3111b25788,3039.44,2025-04-26,,DEL-KAR,KarolBagh,Delhi,Cash,Cochran Ltd,clothng
+3a22052f-3a0e-4cb8-9cc7-dbd1d9ee5b69,46d10e56-e31d-4e24-be37-cc97d1958680,39395.08,2025-04-26,Failed,DEL-X-ERR,KAROLBAGH,delhi,Cash,Dean PLC,Books
+0670443c-179c-44b9-874b-25ed77a7bc18,34bdd8b7-bf0e-489d-8bb3-86dbc0005895,4004.31,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Phillips PLC,Books
+bd281667-5d42-4a45-bf0f-c5c19982af3b,5b1f3387-b375-47a2-8af0-dd8db620e349,1368.64,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Net Banking,"Gutierrez, Jones and Schmidt",Books
+,eebe508e-d67e-4e34-97a2-4d7781afc5fe,3041.16,2025-04-26,Failed,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,"Powell, Gould and Ferrell",
+1d9832e1-217e-42e6-a1f5-6571cf1a7d16,2748433e-973c-45bb-929b-a6f85dc98246,5639.7,2025-04-27,Pending,DEL-KAR,KarolBagh,Delhi,,"Scott, Bryant and Levine",electronics
+7db512b3-20a8-41b8-83d5-0363383715bf,de1386dd-9557-4591-89d8-e8e0e72c7890,897.75,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,,Lewis and Sons,
+def62ab7-3aa7-41b5-afab-e6382ad95bc4,8e870678-4398-49a1-924d-5da79a220af4,2202.84,2025-04-21,,DEL-KAR,KarolBagh,Delhi,,Smith-Hayes,Toys
+4fec20b0-fb06-4272-9e1e-ece0af8e1eb7,bce0c907-e0dd-4aee-b119-dcd9bb5997d6,183.15,2025-04-27,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,Salinas PLC,Home Decor
+78bab052-75b7-47a4-8f45-7b51769c617f,417e9ecb-7f12-42f2-9bc6-d4a9b91a44cd,3594.89,2025-04-21,Failed,DEL-KAR,KarolBagh,Delhi,Debit Card,Smith-Powell,Clothing
+fb65558f-ff7e-4cbe-9c10-99a1693fd289,03349f81-66f7-4c98-9a6e-bd21c3276a76,8300.85,2025-04-21,,DEL-KAR,KarolBagh,Delhi,,"Rasmussen, Gray and Love",Clothing
+8cb42d42-fe12-45e9-9ad4-a6f3297c62fa,,7121.89,2025-04-22, pending,DEL-X-ERR,KAROLBAGH,delhi,upi,Grimes and Sons,electronics
+89ec92dc-a51f-4440-affc-140cc995e892,d438ebbe-94be-482c-9ef4-c29e2086f1d3,9911.27,2025-04-23,Pending,DEL-KAR,KarolBagh,Delhi,UPI,"Perry, Mullen and Martin",Electronics
+c336f8f3-42f7-414f-8a46-5dac8e3b9ad7,42ecf21c-6d39-4326-a237-c21470bbb114,8881.81,2025-04-23,FAILED,DEL-X-ERR,KAROLBAGH,delhi,CASH,"Harris, Jefferson and Escobar",
+,a4d327c3-5c32-4fcc-877c-c5e9b8cfea4e,136.82,2025-04-26,Pending,DEL-X-ERR,KAROLBAGH,delhi,UPI,"Martin, Hodges and Mccullough",Electronics
+65a7dc37-f774-4fd7-a8fe-781266a0826e,8b075443-45ee-45b3-a32f-8cf9084f664a,4602.92,2025-04-25,,DEL-KAR,KarolBagh,Delhi,,Davis and Sons,
+43be644f-ea05-4652-a747-4ee9409b9de5,85639b3f-570d-4126-bf9c-780534a126a6,2558.97,2025-04-24,,DEL-KAR,KarolBagh,Delhi,Net Banking,"Johns, Hart and Rodriguez",
+fb401b2d-4f2d-4d1e-a867-24808556bc95,59faddad-6ed8-4449-8c5f-d8d7dc36f51e,1349.23,2025-04-22,Pending,DEL-KAR,KarolBagh,Delhi,CASH,Rasmussen and Sons,Home Decor
+63884e94-df77-40c3-8772-650a1e4c4c48,8ead3242-77ba-4b10-bc2b-836cbfd6277e,7057.03,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,upi,Sherman-Smith,electronics
+f01e9c07-b9d0-432f-b5d7-9e8e8f21e8ec,409e9d63-6052-4329-8a0e-8e2239bbfd70,4893.81,2025-04-27,FAILED,DEL-KAR,KarolBagh,Delhi,,Miller Group,
+5980395c-9452-45ec-968a-7b62ba033475,fc204440-bcf4-4a3d-9c86-a717ecfbbed9,7586.57,2025-04-27,Pending,DEL-KAR,KarolBagh,Delhi,UPI,"Mckinney, Armstrong and Scott",Books
+7fe8730e-3f2a-4c49-9f66-f6b712c09c2f,ebe09d13-3284-43c2-8134-618f92e51992,3870.27,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,CASH,Hines Group,Clothing
+64d52043-b079-4390-a8da-e31a31840e0c,2d614f9c-7f1d-4e4b-9381-e15a5621d79f,1731.19,2025-04-26, success ,DEL-KAR,KarolBagh,Delhi,Cash,Murray-Stone,Clothing
+9165911e-5db9-4433-bcf5-2bcc79eaed2a,8f1a95c4-c9ce-4178-9c62-a24735a853a9,3477.65,2025-04-26,FAILED,DEL-KAR,KarolBagh,Delhi,Cash,Clark LLC,Clothing
+ff986fe4-41c0-4d97-bc4b-733616dc49eb,58967888-95b7-4a31-92ae-6855987a3e9a,23981.65,2025-04-23,,DEL-X-ERR,KAROLBAGH,delhi,,"Johnson, Kelley and Stephens",Clothing
+c9601d84-6eae-4002-addd-2e334c3b519e,31262a60-2159-4a73-9adf-01c57dcba8f8,7243.46,2025-04-23,,DEL-KAR,KarolBagh,Delhi,Credit Card,"Lawson, Frazier and Burns",
+ddaabd69-5d02-40d2-9d6f-6d4267f26386,1332ee00-180e-4e37-887d-08e1070eb935,4335.64,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,,Lynch LLC,Home Decor
+,000e96ac-f78e-4361-8693-9b964ed5b245,1515.94,2025-04-24,FAILED,DEL-X-ERR,KAROLBAGH,delhi,,White-Gonzalez,
+9e5459c5-7fd8-4ca0-8049-0600f8c93397,42f4d7c1-1318-4d78-8215-821f28023812,33138.77,2025-04-21, success ,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Smith Ltd,clothng
+18e54c3a-64ce-44ac-b365-1230864a832a,c6ff954a-626c-497f-af0b-7e66ccdbbda2,6594.46,2025-04-24,Failed,DEL-KAR,KarolBagh,Delhi,UPI,Padilla-Smith,Clothing
+ccfcc304-fb13-44ee-a0fb-b1e1d6d8cd81,f4aa1228-9218-47aa-9a50-3b59a89ed739,3764.67,2025-04-22,Failed,DEL-KAR,KarolBagh,Delhi,Debit Card,Zavala-Olson,
+06d9d2cf-ec11-446b-a956-ca1787c2c2e3,f0487fc2-9cf3-4ab8-b445-c12461a4c348,25928.54,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,Debit Card,Murray-Hall,clothng
+095c97fd-fa51-44d5-ae77-420b73bc35a3,1e407c23-64f7-4013-acf3-1b4d95833542,1411.14,2025-04-21,Pending,DEL-X-ERR,KAROLBAGH,delhi,upi,Gill Group,clothng
+3945c74b-4e38-42d4-aeae-629c2e63670b,5d242ff6-0ea0-43bb-ac67-494bacb456d3,2420.22,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Cash,Bradley-Gonzales,electronics
+e9428964-4457-41bc-a553-7c422881dc4f,780e9430-fbf3-43d8-9ed5-cdbb5cf24a2e,160.04,2025-04-22,Pending,DEL-KAR,KarolBagh,Delhi,Debit Card,"Richard, Brewer and Cox",Books
+320a45e3-9e39-4822-b1a5-7d0bae9921db,7d2811fa-e05e-4d2f-84aa-1dff282e4148,4834.0,2025-04-26,,DEL-X-ERR,KAROLBAGH,delhi,UPI,Wilson Ltd,Electronics
+9e5b075b-ad86-42d1-8ee9-c3bf55ecb00d,776f7ad6-f70e-4207-9562-ab4a188b425b,7376.99,2025-04-27,,DEL-KAR,KarolBagh,Delhi,,Garrett and Sons,electronics
+69e8d1d3-d99c-4917-9631-83b3baeb9934,9613bb63-f766-4361-9131-276b012d9ebf,9446.93,2025-04-26,Failed,DEL-KAR,KarolBagh,Delhi,,"Peterson, Romero and Watts",
+8ce043e7-afc9-4b0e-a40e-ced3de136a80,08f16514-1016-4de4-811b-6ce16b8bbd13,6977.78,2025-04-27, success ,DEL-KAR,KarolBagh,Delhi,,Nunez-Wells,clothng
+60e585ab-803e-4d5f-98c5-d8c0f11770f9,dcab893c-7a95-4f83-b7dd-b1c3fc7ed140,7810.29,2025-04-24,,DEL-KAR,KarolBagh,Delhi,CASH,Rush and Sons,clothng
+46183169-6925-4436-9afb-16a7fe2c0822,,2640.16,2025-04-24,FAILED,DEL-X-ERR,KAROLBAGH,delhi,Cash,Williams-Reyes,Electronics
+d6f3c4dc-6546-4a62-bd70-c952267f59bc,e290b957-6c9e-4bcd-a869-0c6d7e27ca2c,7061.61,2025-04-25,,DEL-KAR,KarolBagh,Delhi,,,
+df335e9a-cef8-4c01-a4ca-0dbb9832fcdc,55b40f5e-bc40-456e-838a-df44cc6a3edf,3752.01,2025-04-27,,DEL-KAR,KarolBagh,Delhi,CASH,Rios-Hughes,Toys
+,955791e6-d1bb-4622-8260-5e089e78209e,1828.44,2025-04-24,Failed,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Garner-Bailey,
+bcffb3ff-cf24-4b69-a0dc-036cd78aa4e9,717f8b70-da8a-494c-866b-654d3d15c4b2,880.27,2025-04-24,,DEL-KAR,KarolBagh,Delhi,upi,,
+093c7786-a5d4-4c65-91d8-ed0cdd1096b3,,709.76,2025-04-22,Failed,DEL-X-ERR,KAROLBAGH,delhi,,Johnson-Diaz,Groceries
+99bb6701-2b6e-4210-bec2-7a2f7153b57a,b997f6ec-8f24-4dd2-816c-639ba5bf82d8,3643.66,2025-04-24, pending,DEL-KAR,KarolBagh,Delhi,Debit Card,"Decker, Warren and Ross",Electronics
+9fada6f5-a445-4252-ba1c-0f77e0e50bc4,06e8868c-e0a5-4214-9530-29b3423a0c89,6303.96,2025-04-23,FAILED,DEL-KAR,KarolBagh,Delhi,Credit Card,,Books
+59721f8d-d092-47b5-8e02-c11770e08b47,f11d044a-dded-41d7-8dd0-b1214797a5e4,339.32,2025-04-21,,DEL-KAR,KarolBagh,Delhi,CASH,Warren-Brooks,electronics
+bab9c583-32df-4c31-b746-057788376d40,6725583d-ecc7-46cb-9f33-1961889f1e5f,9012.52,2025-04-23,Success,DEL-KAR,KarolBagh,Delhi,upi,Griffith Inc,electronics
+6138ecfd-99d0-4cf0-a836-82373f679b26,865d5589-bd86-454b-b9dc-4eae4d8dba8d,5340.74,2025-04-21,Pending,DEL-KAR,KarolBagh,Delhi,Debit Card,"Ellison, Shepherd and Johnson",Electronics
+0e2c3dc4-3583-4d71-b566-aeb838ae639b,465bae18-e01f-4928-8d8c-e6c9f7b3ffde,7618.62,2025-04-22,FAILED,DEL-KAR,KarolBagh,Delhi,UPI,Smith-Hobbs,Toys
+fd4ba09b-cf90-42f1-ad3a-c36b37ea98bf,078120d2-d6a3-4a7b-81ef-f71db4debf85,4861.2,2025-04-24,,DEL-KAR,KarolBagh,Delhi,Debit Card,Williams Ltd,clothng
+5c682594-6859-46ef-a422-8f6ce126e19a,887043d0-de8d-4ce1-baff-7d97843b0043,1503.91,2025-04-26, success ,DEL-KAR,KarolBagh,Delhi,,"Perkins, Harris and Macdonald",clothng
+47f84f47-779f-4a7b-a502-6ba0ecadb027,b1106dd8-4437-44d3-ad52-925ca5d0e64a,4321.95,2025-04-25,Pending,DEL-KAR,KarolBagh,Delhi,upi,Reese-Wright,Toys
+22f10bda-f39e-4624-9b6b-ac7ad9cbb4b4,d27e1047-3252-4675-bc56-56bfe7471ea0,3984.12,2025-04-27,Failed,DEL-X-ERR,KAROLBAGH,delhi,UPI,"Wells, Rodriguez and Wheeler",Electronics
+f4761ab5-b56e-4a21-8dbe-592fc855d334,d1730c9a-489f-40d2-9358-4c22c2061ef3,7419.78,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,UPI,Wiley Inc,Toys
+,6fab8011-7d3e-4058-a0d7-4e742dd58472,17802.97,2025-04-21,Pending,DEL-X-ERR,KAROLBAGH,delhi,CASH,Brock-Rodriguez,Clothing
+,1d6fa2e4-53f1-4e43-98a8-b8cfdfb4cac0,7321.3,2025-04-25, success ,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,Davila-Baker,Clothing
+90d70dfb-79cc-4e5e-b623-ce63e193310e,84b3df55-33c2-4e93-b826-2f74a243d59d,5591.85,2025-04-23,Pending,DEL-X-ERR,KAROLBAGH,delhi,Cash,Roy Inc,
+406996a0-437a-4b1c-9652-6a596d577ccc,727adc6c-5249-4f4b-a3b2-c3ab3707ce65,2297.82,2025-04-25,,DEL-KAR,KarolBagh,Delhi,upi,Mccarthy-Kennedy,Home Decor
+5765902a-dae2-41e8-b5db-0948970cfff7,e949f57a-cefd-4a3f-b222-611505de8976,3943.98,2025-04-25,Pending,DEL-KAR,KarolBagh,Delhi,Debit Card,"Todd, Davidson and White",Toys
+77a3bcba-c2b1-4abe-af8b-f7b6081dc650,dc57f9c8-674a-47eb-b9e8-3055076c1b3b,5532.04,2025-04-27,,DEL-X-ERR,KAROLBAGH,delhi,CASH,Cook-Avila,
+a2f23fba-15cf-4f1c-bb1b-4da90f7a7992,8ab03a04-b318-4fed-aa0f-bad5d89c8969,6646.61,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,Credit Card,Greene and Sons,Home Decor
+ec250fe8-662d-4cde-b801-ee08e20f50fd,91ea8f49-37ea-46ee-9cd9-9a8e18484650,2451.41,2025-04-22,Success,DEL-KAR,KarolBagh,Delhi,Debit Card,Lopez Group,Home Decor
+a50504a2-9925-4e14-9d29-915e40e8e3bc,4c2f3dec-f723-478f-855a-d5d596978820,289.25,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,UPI,"Doyle, Clark and Gentry",Home Decor
+8023f539-ef67-41b6-a946-1a1f7f8bf62b,eaaaa624-559f-423f-824c-9d9c7226206e,2577.33,2025-04-27,,DEL-KAR,KarolBagh,Delhi,,Burns Inc,Electronics
+cd7a1d02-a0c2-4b32-8b7c-9b74c22cb468,a4245d9f-d853-40e6-a78a-da38c0fb5d70,9445.54,2025-04-25, success ,DEL-X-ERR,KAROLBAGH,delhi,UPI,Tanner Group,
+092b041d-7ef7-4a10-8a73-c838446f9dd4,3479e48e-8718-45a3-b47f-61e7f732bc85,6808.91,2025-04-27,,DEL-KAR,KarolBagh,Delhi,Credit Card,"Brewer, Alexander and Cross",Electronics
+ce374129-323f-4127-b80f-6a8183257551,847dcdd6-411a-4578-ba5e-142b02b8a68f,4962.45,2025-04-25,,DEL-KAR,KarolBagh,Delhi,CASH,Lewis-Spears,Toys
+b0aa6363-48e5-433e-a8f1-71d5541cb88e,4a8283d5-de33-484d-81da-6805adab3072,6812.74,2025-04-24,,DEL-KAR,KarolBagh,Delhi,CASH,"Anderson, Lopez and Brown",Clothing
+ddeb478a-1e20-4b43-b06b-9fc4028835d6,d1b4f84d-de7f-411b-8dd8-410773a1b59e,4898.1,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,UPI,Conner Group,
+3ee67d5f-419e-443e-bc6c-5725cdb7fbff,6d92e45a-152c-4aad-b2be-c06dbd46825c,7403.42,2025-04-26, success ,DEL-KAR,KarolBagh,Delhi,Net Banking,"Stone, Reese and Shaw",Groceries
+fe6cc582-42d6-444c-b2ba-f6964458cce7,8d02ecf7-0aa9-404d-a385-9c44446405c6,1159.23,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,,"Armstrong, Stewart and Newton",Books
+feefe7f1-332c-4778-8621-e9e237325a7f,089ee15c-a028-4908-b8c2-7ebe2faa2bc3,3655.75,2025-04-26,Pending,DEL-KAR,KarolBagh,Delhi,upi,"Clay, Graham and Kirk",Electronics
+6c5f0fe7-278e-4cfc-979f-875dd3294a71,0dd884f1-c7ff-4521-9fff-a3f79e8b5907,7442.0,2025-04-22, success ,DEL-KAR,KarolBagh,Delhi,UPI,"Ward, Clark and Barr",Electronics
+9b67bd94-215d-46f9-a620-77b709aae95c,9f58ecde-a88c-4bba-991e-2baaf294ab2e,4190.88,2025-04-25,Success,DEL-X-ERR,KAROLBAGH,delhi,,Gonzalez-Smith,clothng
+9b67bd94-215d-46f9-a620-77b709aae95c,9f58ecde-a88c-4bba-991e-2baaf294ab2e,4190.88,2025-04-25,Success,DEL-X-ERR,KAROLBAGH,delhi,,Gonzalez-Smith,clothng
+2a461f1a-e43b-4fcc-9290-bb3199b3a18c,d985084a-5bb4-42ae-bef2-7f33e906705d,35954.41,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,,Baker-Smith,Home Decor
+98e4dc15-70ae-46f1-8783-96553eacdcd6,cda185a5-1e09-4522-97d9-e5c4a485d43c,7556.9,2025-04-25,Failed,DEL-KAR,KarolBagh,Delhi,UPI,Trujillo-Skinner,Books
+,76815950-aec0-4264-ae14-8440cde74c07,1957.99,2025-04-23,FAILED,DEL-X-ERR,KAROLBAGH,delhi,CASH,Johnson and Sons,Books
+9bf85468-a0c1-40af-b984-e1f8ddcb32bb,8ef504c8-17ea-4df9-b70a-5c575b76df60,4460.45,2025-04-24,Success,DEL-KAR,KarolBagh,Delhi,CASH,Johnson and Sons,Books
+f286e414-aa0f-4575-9411-1c2b33528551,09faba0b-b324-4fc8-a3d9-1acc881d7ecf,5189.42,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,,"Martinez, Kerr and Turner",clothng
+b17032b5-c821-4085-9fdb-af7adfde557b,e8f8e153-3ccd-44f3-910d-b5e508540fb5,3760.22,2025-04-21, pending,DEL-KAR,KarolBagh,Delhi,Debit Card,Evans-Roberts,Home Decor
+842607d2-ea4b-4a02-b7af-080872c2f792,d31602a3-c1a9-44bd-b186-ec575be1e450,2565.65,2025-04-26,FAILED,DEL-KAR,KarolBagh,Delhi,upi,"West, Harris and Shepherd",Electronics
+,45596414-267e-4dda-bf9b-acaef0f0a856,4233.88,2025-04-24, success ,DEL-X-ERR,KAROLBAGH,delhi,,"Frazier, Young and Gallegos",clothng
+892925f6-15ab-477d-9ba7-48a75fef77a4,dc0c4fc9-2534-4aaa-bc6b-c6712824f71e,31885.99,2025-04-23,,DEL-X-ERR,KAROLBAGH,delhi,,"Berg, Kim and Hill",Groceries
+de3a0eeb-5ae3-407a-963d-de7921aa4132,57e23139-8123-41dc-9935-1b6cf4e99572,3479.77,2025-04-23, pending,DEL-X-ERR,KAROLBAGH,delhi,UPI,Diaz-Owens,Electronics
+c88fafbc-8722-42c6-8625-34d36b36a78b,144ac376-b94c-49d0-a950-6bc286a4904d,6190.63,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,Credit Card,Vargas-Sanchez,Groceries
+933f7d2f-1fba-4b1b-8367-c2d1efd612b9,da365bc1-ba0a-4e55-ba59-aca86c58456e,7471.27,2025-04-24,Pending,DEL-KAR,KarolBagh,Delhi,,Green-Shaw,Home Decor
+cc98d84c-acda-4fcb-9a72-caee633f0965,b5674b5f-d316-4db9-83d0-066e56ad73c0,9231.72,2025-04-24,,DEL-KAR,KarolBagh,Delhi,,"Spencer, Richards and Wilson",Home Decor
+bcb234e2-5349-4e83-9866-05fbb686fd53,22dffd0a-9275-45b8-82aa-f3a707cb80ec,238.18,2025-04-24,,DEL-KAR,KarolBagh,Delhi,,Russell-Roberts,Groceries
+06d9e2ee-551a-4995-aade-01633cc177cc,69b89e5d-d9c5-40c4-aeca-710571910fd1,5310.78,2025-04-25,,DEL-KAR,KarolBagh,Delhi,,Bowers-Guzman,Home Decor
+35d83110-ef24-4299-8609-fe8dccc7c6c6,82202dad-5527-4a54-9c66-bdc15e46c3f8,4654.52,2025-04-27,Success,DEL-KAR,KarolBagh,Delhi,Credit Card,Trevino PLC,Electronics
+a9fefec0-2254-4932-b638-e439c1b2a715,c6a59693-704a-4a01-b256-c86f270d15be,9216.41,2025-04-25,,DEL-X-ERR,KAROLBAGH,delhi,UPI,West-Huff,Groceries
+7e3fbffa-ef0b-4a34-bf24-a43aa0a97004,dfb695fa-930d-421e-9f42-332a4581a3cf,8131.94,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,Debit Card,Campbell-Erickson,
+728752ed-83aa-4ba7-b781-d9a6204e0e2f,bc95cd43-49d8-432a-99fd-99b425fc8b3f,533.15,2025-04-24,Failed,DEL-KAR,KarolBagh,Delhi,upi,Carlson-Gilbert,Groceries
+b5f018e4-0fe7-4f7e-be53-61f0045bdf7d,e4887756-54b8-4613-9fc9-550d48f7407a,9913.56,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,,"Lucero, Kelley and Collins",
+763b7b46-6a82-4f3f-bcb9-e638b0200b6d,b8398731-ec09-42f2-83e0-f9f0e579b25e,5461.96,2025-04-22,Failed,DEL-KAR,KarolBagh,Delhi,Credit Card,Simmons-Gonzalez,electronics
+6bf95967-c9c0-47a7-9746-79fc904ab3a5,1e0ec4e9-7d13-428c-986f-b192a8b3a2d9,6487.15,2025-04-22, pending,DEL-KAR,KarolBagh,Delhi,Net Banking,Cox-Walker,
+2b3397f1-ee1c-42d2-87a5-b464e6d1bd92,725e4e45-6e51-46f1-b34d-9ed5c6ca3a1c,3777.39,2025-04-24,,DEL-KAR,KarolBagh,Delhi,,"Navarro, Smith and Turner",Home Decor
+c69b5d9e-e948-442a-a7a5-3571c840c79b,25c437d4-7da6-4190-a72d-dbc4fc58cd22,19993.22,2025-04-26,Pending,DEL-X-ERR,KAROLBAGH,delhi,Credit Card,Ward-Trujillo,Clothing
+5e29579d-d129-42f9-8874-7194f121434e,a0ab61c0-b184-4dd3-9cf9-159bf2ccad21,2126.03,2025-04-23,FAILED,DEL-KAR,KarolBagh,Delhi,UPI,Garcia-Escobar,Home Decor
+0e4e4b22-0ca7-4326-91b2-1b61a3106ed8,5d524c68-f5db-4cf0-886d-4aed56c7b5a2,3393.68,2025-04-25, success ,DEL-KAR,KarolBagh,Delhi,,"Allen, Roberts and Kelly",
+d4adf7b8-e342-48cf-9611-fb2ff6a314dd,,4877.03,2025-04-25, success ,DEL-X-ERR,KAROLBAGH,delhi,,Solis-Mullen,
+f4d0d392-8ee9-4d39-bdfa-71a36c88d143,341b05bb-36f5-462f-a9df-3155f848cd16,8712.99,2025-04-25,FAILED,DEL-KAR,KarolBagh,Delhi,,"Webb, Waller and Duran",clothng
+8f7c51cd-0dd0-4178-824c-29806a2dcadb,5b2ac524-9cdd-4f42-8846-1261d203e944,1028.48,2025-04-21, success ,DEL-KAR,KarolBagh,Delhi,UPI,Hinton-Manning,
+6ad91975-80b3-4454-87ac-11431776e2fe,4b302097-0d02-481a-b7b0-a8e4c2567f37,8210.57,2025-04-23,Failed,DEL-KAR,KarolBagh,Delhi,,Wells LLC,Books
+78b7720f-ae34-424e-9462-9075e924cb6b,289ef665-c415-4ec4-9230-fce98f24cf47,1507.54,2025-04-22,Pending,DEL-KAR,KarolBagh,Delhi,Credit Card,"Robbins, Bryant and Hall",Home Decor
+e31d5f0f-623b-4e73-8e55-3ae764168c11,9db646d9-f029-4048-8747-9b4f0bd57513,8916.91,2025-04-23,Pending,DEL-KAR,KarolBagh,Delhi,,Barnett Group,Electronics
+f4a66aae-9364-4895-8604-e4a9093a5d37,fbbb2051-8484-4d40-a223-6d87f6a918dd,2256.21,2025-04-27,,DEL-KAR,KarolBagh,Delhi,CASH,"Bell, Shelton and Petty",electronics
+ca41100c-5f2e-45ee-9e59-8b43088daf3d,98e33b15-3268-4535-8d47-37b9c33158b9,1025.83,2025-04-21,Success,DEL-KAR,KarolBagh,Delhi,Cash,Rodriguez and Sons,
+67e8e184-2969-439f-8b30-9c1b2c579797,9c705735-0871-4438-8c69-aef948f815a2,7703.95,2025-04-23,,DEL-KAR,KarolBagh,Delhi,Debit Card,"Byrd, Young and Robinson",Toys
+7ff13433-3e34-4705-aef5-357b921707d1,e8dea13d-2f58-4a94-8ae5-88a996622c87,2594.87,2025-04-21,,DEL-KAR,KarolBagh,Delhi,Debit Card,"Caldwell, Young and Castro",
+f1923179-2b68-43fa-84cd-740f729263c7,,1182.62,2025-04-21,,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,"Patel, Lewis and Phillips",Home Decor
+f1923179-2b68-43fa-84cd-740f729263c7,,1182.62,2025-04-21,,DEL-X-ERR,KAROLBAGH,delhi,Net Banking,"Patel, Lewis and Phillips",Home Decor
