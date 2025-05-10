@@ -1,0 +1,708 @@
+Transaction_ID,Customer_ID,Amount,Date,Status,Branch_ID,Branch_Name,City,Payment_Method,Merchant_Name,Product_Category
+850d3ae1-7325-4e9f-b06a-b6eaf3dd0af0,6986dd76-c184-4a08-80b0-5405196e5344,4735.59,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,,Powell-Adkins,electronics
+cdec28d1-d7e4-4d03-a174-1e1145e14de1,8b2e74a7-0205-4feb-bd38-d1a22296de7c,440.36,2025-04-23,FAILED,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Hunt-Davis,clothng
+c413a659-be2b-4ed6-afb4-7f294b400e8d,7b116d18-4ac7-42b4-af59-da81679e316b,407.33,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Luna Group,Books
+07ad2ae1-d925-40eb-865a-34144e948af0,8f0ddc0f-a5f3-440e-b68d-b93c41f5d233,9814.32,2025-04-23,Pending,DEL-CON,ConnaughtPlace,Delhi,UPI,"Hubbard, Gill and Greene",Toys
+713d6909-3d57-48e2-a80e-18666f20c7fa,53c76d24-a6b5-4d4c-88ee-eaad9808bb94,14823.83,2025-04-27,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Vega PLC,
+dad01446-d325-4c03-b191-86d479706932,9104b951-9c00-45bb-85ca-d3e94d66fcd2,8539.12,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,upi,Price-Griffin,Electronics
+f32ad9a1-eea8-4ac7-8e53-1789169b9f03,9c1fc7f1-d0c1-4a2a-a24f-479241dabbdc,7689.61,2025-04-23,FAILED,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Jensen, Rogers and Davis",Toys
+6fe9dfc5-cede-4d22-948d-4ee753b8a95d,24e8811a-a751-47d9-8f9a-936c67439b98,6252.41,2025-04-23,FAILED,DEL-CON,ConnaughtPlace,Delhi,,"Ramirez, David and Sims",Books
+c24e1ca5-9555-4207-8b3e-bc4ccad028bc,f051715a-8e36-439c-98cd-d1ea02d80d4c,9069.37,2025-04-27,Pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Adams-Friedman,electronics
+aaec8c0f-6b15-4c9c-a3f6-079c637b5a39,105a34a9-84f4-4276-8ecd-5c10fef9d5ce,15576.71,2025-04-22,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,"Downs, White and Taylor",Groceries
+3e34cde1-2559-406f-8a69-6526c81088d8,a151277e-a661-449f-85a9-106eaa3cb8dd,3506.0,2025-04-22, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Reyes-Henry,Groceries
+39ff99f5-0d6d-474b-a73f-b6222f8c9430,7c688e1d-3afb-4e4c-b531-a4ba77bbde6c,1099.07,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Brown-Hughes,
+83c224ac-3429-41d1-9077-6546b65932c8,4d01562a-eb7f-46f8-bdef-c46369e68584,1173.38,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,Net Banking,,
+805e9284-7eea-4075-93a7-fb02f6b280d6,43f780d6-eda1-49db-8d2c-55f13e9e998c,2617.07,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Silva-Parks,Groceries
+acffe2ed-5357-4c83-a3b4-8576e9d2310e,663eb777-a99f-470e-b308-f8c8c68af2bc,8129.76,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,,Shaw-Hoffman,clothng
+5a417c45-e2fe-45b4-8dda-442f008b8631,bc194683-d987-4067-912d-b7de565ae02f,8150.97,2025-04-22,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Walsh-Mendoza,electronics
+41650e8a-a39f-4d8a-82d9-f5386ca2243d,36ff7617-4393-4266-9a06-055bf0cdba27,8422.05,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Martin Inc,Books
+415f46ab-1b7c-48f3-a93c-fcff5e1dfc78,3160c612-5ae9-48bb-af34-623bf64e12e2,6612.87,2025-04-24,Failed,DEL-CON,ConnaughtPlace,Delhi,,,
+0ad4e43a-2d75-4509-80d1-6018ccb4f3fc,1678c235-26a3-4e64-8ab5-fb870fbb4d44,3318.99,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,Ramos-Bryant,Home Decor
+23254f28-5e60-49fe-9d8e-b663198958b3,1533d3e2-5367-40dd-bfe3-2f1f0cfb46d3,8227.55,2025-04-27, pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Armstrong PLC,Clothing
+a84b2e49-f1ad-4fad-abb1-052a58fc68de,68aa41cb-571f-45da-8df1-8511058e4470,912.2,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Garcia, Walker and Koch",Groceries
+8b1dc5fb-0cb6-4762-91cb-0c3f8c1dd40d,fd27f49d-435b-42e4-a03b-80ea166c57ad,7393.7,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Whitaker Ltd,Home Decor
+eddb5be5-de37-4167-802e-27a4900a2223,69275829-6c5e-4242-a627-aaf779cd96c1,8982.37,2025-04-23,Pending,DEL-CON,ConnaughtPlace,Delhi,upi,Dickerson Ltd,
+0c30daeb-b777-42e7-b11c-5f71974ea666,350b88e6-20fc-40e2-8776-5286c787c538,1846.93,2025-04-23, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Davis, Morales and Mora",Home Decor
+9d98235d-8162-4693-8ce7-0ab7be75cae2,,36.81,2025-04-21,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Colon, Williams and Cox",
+875bd28d-14de-4894-9a67-4f17207d269d,e6723a7f-7589-4aab-997d-887e446be3b3,5377.4,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,,"Decker, Russell and Montgomery",
+21f8fd19-d8e5-4756-9570-cb37055ba467,2e20f411-b40a-4877-84d9-9de7791bdf35,9189.66,2025-04-25,Pending,DEL-CON,ConnaughtPlace,Delhi,CASH,"Oliver, Davis and Wilson",Clothing
+e750184f-5108-4c61-b72f-84244a38f8a7,3198fb72-d256-49ed-80f9-0ca0fae89e86,4809.77,2025-04-21,Pending,DEL-CON,ConnaughtPlace,Delhi,,Dunlap-Smith,Toys
+e597f43b-bb48-428c-baa8-95097be61d18,1f9ddfb0-5dc4-4d40-b834-123bbdf480b7,389.19,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,CASH,Patterson Inc,Toys
+e5a9d49d-2734-4c84-804c-b7bf98681b01,1bd60de5-23d2-4143-ba75-aac4e3b2a723,433.64,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,,"Matthews, Roberts and Lara",electronics
+1c381ac3-75bc-4b27-92b7-1492337fa22c,3d3ca786-726f-45ac-bf93-602f4852fbcc,5035.99,2025-04-22, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Campbell Inc,electronics
+4831671b-7187-4b0f-a052-81cc9c0e086e,2dfb4382-1644-428f-8cc2-f6e03fb89d57,7801.44,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,Jenkins-Sanders,Electronics
+3384e0ed-38be-44c4-acef-c8bb0b117f72,69f03ffe-e782-4d38-9621-734266d63774,6893.36,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Dixon-Barnes,Books
+536bc614-7424-4902-8023-d44425427d14,6bc5c3ad-2658-4678-969f-8ded54ee04b5,238.57,2025-04-26,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Shannon Ltd,clothng
+e442fc9e-a109-4bab-a7ba-0a4d3df0b75f,24db70c4-0eb4-46ce-bf54-ef05791b1244,1568.57,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Edwards, Smith and Small",Clothing
+d86ffb9b-bf92-4057-a746-8f915b32fb79,ec5d9a24-af68-4431-aae1-9b20d78bf4df,2568.17,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,"Freeman, Simmons and Smith",Toys
+c5c93492-1375-4d91-b4f9-877f765d3fe8,154e807d-2d86-404b-b8b2-5711122cecb7,6076.22,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Atkinson Group,Toys
+33de3631-994c-4fba-b02a-feaede979511,3dad747d-f8ca-4ce7-ae23-7042cf68cdb3,8327.64,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,,Andrews and Sons,Clothing
+3b39854c-eb46-4d07-b23e-357bc29f222e,5ede07dd-dd73-41b5-a130-56910446521e,7575.1,2025-04-24,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Campbell, Aguilar and Flores",Clothing
+6b29981c-dee1-4785-9ef1-855014f770f7,0e5a4751-d154-40d5-b91b-cb2654b26492,5036.06,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,upi,"Phillips, Thomas and Rodriguez",
+25dd2524-0835-4e9c-ba29-eb47872bdc25,aef392c2-655c-43d1-ad38-1eb4457b1a07,1628.38,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,upi,Brady-Mueller,Groceries
+54b7045b-af21-41b6-adc9-4ff9a0c9da6a,0648e5d9-92d3-431e-9c41-2175bd3d3b54,30763.41,2025-04-22,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,,Electronics
+119e72eb-4df9-4cbb-88d6-62e0b882b001,e7ea49ee-a706-4c7e-865a-46dadb2f878d,6426.43,2025-04-21,Success,DEL-CON,ConnaughtPlace,Delhi,UPI,Mckinney-Stephens,
+19390455-50e9-4f96-8770-56270864155c,30bb8598-38aa-43d2-9b56-b3d80cc67b26,2284.11,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Hampton-Cummings,
+,,16567.45,2025-04-23, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Harris-Young,Electronics
+c5b1eac3-b56b-48cf-bb63-f44c50d25194,3189b9e0-4d7a-4d16-b32c-d2075e493434,2051.82,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Harrell, Smith and Weiss",
+67d6bd8d-1e98-4b1b-8824-97b1e653478a,3bb8b68d-4377-4ff2-bda8-9938c564c53e,4243.14,2025-04-26,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Johnson-Lucas,electronics
+02beced4-7661-4b81-894a-48a2188c62d5,45018605-bf27-42a1-b776-d3c0d4159588,7526.36,2025-04-26, pending,DEL-CON,ConnaughtPlace,Delhi,Cash,Rodriguez and Sons,electronics
+dfb2ecde-b337-4af6-b429-db31574c5e22,e60594dd-8d42-48e1-ab6c-04c69f558bb0,1058.25,2025-04-23, success ,DEL-CON,ConnaughtPlace,Delhi,,Knapp Ltd,Clothing
+787fd7de-beae-4e2c-90bd-e40ed1db8fed,d72f7093-a456-4dc5-b2f6-f59817b05872,768.77,2025-04-27,FAILED,DEL-CON,ConnaughtPlace,Delhi,Credit Card,James-Rodriguez,Groceries
+5ffe6918-71c7-46cb-9ae9-cec860eb59f9,182a3057-9ab3-4403-9ac7-74f5096c638a,9340.0,2025-04-26, success ,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Young, Norris and Hart",clothng
+11b66523-b391-44bc-8373-024d07d0977f,58df8fd5-af85-4796-8ea5-0157fb24e531,3946.45,2025-04-25,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,"Miller, Gray and Hammond",Home Decor
+a6848c88-b7ac-47d0-bf52-3ef4306fb4a4,363debee-96bf-460e-bcf5-d4ed12d9d030,615.87,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,,Schneider-Johnson,
+41f8a080-d10e-49a8-b6a0-943c9a270997,62bdb336-0b0c-4ee1-8ccb-534cb901bbda,48278.05,2025-04-25, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,"Love, Soto and Reilly",Electronics
+2634ba2a-d3fa-4479-9add-8fa5debfc02d,9228b90c-5584-4b6a-bd73-f845faa7676f,9007.17,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Mcdonald-Beck,Groceries
+61d7b2f2-fd8f-4627-b0c4-68fada3ce8a9,9398bc57-01b7-440d-9e61-3c40dd70ec6b,6341.26,2025-04-24,FAILED,DEL-CON,ConnaughtPlace,Delhi,Credit Card,,electronics
+03295e1c-de8d-4f3d-ae0f-ab6e64575551,a5e5754c-e177-4dcd-89b9-5ce8780eabae,5047.01,2025-04-24,Failed,DEL-CON,ConnaughtPlace,Delhi,Cash,Thomas-David,Home Decor
+94ba3bf2-1c54-4d78-b33e-21372eaa69c7,6921a9ef-28fd-4f15-919b-490fa9611c5d,4835.79,2025-04-21, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Spence Ltd,
+bd5787da-c9a2-4163-a20d-ecfca85b9ee6,1f0c4661-109a-4450-b59e-f621d1af623f,9705.16,2025-04-27,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Hunt-Grimes,electronics
+fd676ba1-06c1-472a-9e17-1c05bd501fad,c9b6ec87-f075-4e44-a2da-cd4b9b3aaa9e,2005.36,2025-04-23,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Roberson-Matthews,
+d82527b4-4741-4b10-96ed-e17e1168a8a6,8e45720c-d088-4d20-80e4-99b5925f9b67,2902.58,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Mcdonald, Williams and Gonzalez",Clothing
+67fdcb23-b0b7-4767-bfe5-66cc22cc920c,062cf05b-8702-4c22-ab07-d815aab18e54,7934.36,2025-04-25,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,"Estrada, Warren and Marshall",electronics
+67fdcb23-b0b7-4767-bfe5-66cc22cc920c,062cf05b-8702-4c22-ab07-d815aab18e54,7934.36,2025-04-25,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,"Estrada, Warren and Marshall",electronics
+c8eedd25-7eea-42a7-99e4-20197daebc3a,abc84455-470c-4863-95aa-1ab20cbc946d,6433.57,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Wolfe PLC,Toys
+19be15ad-f577-4042-a185-5e5321231f28,6d42ecf8-55fa-4e1b-902b-c9c11aed280a,960.8,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,upi,Hamilton-Maynard,Groceries
+51642de2-a2bf-49d0-b3c8-a51f7318dd3d,63ed8c86-5cad-4517-9839-6ae1f63594aa,20.07,2025-04-27, pending,DEL-CON,ConnaughtPlace,Delhi,,"Rodriguez, Watkins and Jackson",Books
+d0e265fc-dd85-4838-9aa6-5fb80973834e,f88f27d7-1ec0-4b51-9824-1de8e6cddd88,9026.9,2025-04-23, success ,DEL-CON,ConnaughtPlace,Delhi,upi,Morales-Foley,
+ef0a4c5b-91a5-434f-957b-07c2bab58fc2,cc0d791c-75a5-46e6-a9b3-8709bd10211e,5598.88,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,"Schmidt, Santiago and Thompson",
+5b5f6665-7ef9-4441-8c78-1edc0b7d80f9,bf3be31b-778b-464c-aca6-82701b185f76,38458.46,2025-04-24,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Warren, Fowler and Lopez",Clothing
+2176b70f-8d0e-4f23-9ee2-c3e88a954042,ba18a17b-7d74-4bf1-9ced-f027bb173535,9311.47,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Hicks-Acevedo,Books
+9b724c58-737d-4c5e-bfc6-ba54483b2d4e,fc22b51f-dd02-4db8-9fb2-66263d1f3fa8,5064.62,2025-04-25,Success,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Pierce, Robinson and Young",clothng
+971aee19-9424-4472-9aba-a4e662fa1757,2d6cf42e-1fcb-4adc-8071-1be0783cabe7,3563.77,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Mejia Inc,Clothing
+b270720f-0fc3-4695-b33c-d4359c940c89,6d004b97-4111-4646-a45d-f6d26145761c,8042.04,2025-04-22,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,James Group,
+b270720f-0fc3-4695-b33c-d4359c940c89,6d004b97-4111-4646-a45d-f6d26145761c,8042.04,2025-04-22,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,James Group,
+918f9792-16cb-43cb-93cb-f1601ca7d53d,,1819.38,2025-04-26, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Andrews, Clark and Allen",electronics
+13888341-a08a-4461-b67f-cbe0099e4cc2,7a77c757-8e1b-4390-83c0-75f13ecd0223,7588.44,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,,Williams Ltd,Home Decor
+83fe55a5-21f2-417d-87c6-49de64b04866,c86dec95-b944-44fb-bcf0-6ea7cc3f65cd,8744.12,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,Hall-Rivera,Books
+b0861535-6c6c-4ded-ad8d-370154dc0efa,99252305-22c0-4b7d-8da2-a9ba2bf2350e,4665.4,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,,"Blanchard, King and Gordon",Toys
+285b54bf-8efb-4b58-afb1-21851d1dd3c8,aa199d0f-dac0-4824-9744-95e1673a24f6,1004.45,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,UPI,Reese-Martinez,Home Decor
+2a4ab336-f93a-4e26-9211-e2f53b12f948,9439f14f-232f-46af-a0a6-1d1fccf6f9f0,1095.79,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,UPI,Alexander Group,
+e7d9b0ce-55ec-47e6-ae76-e13c82bc228e,3e8a1f48-cb10-40a2-8211-3207eec58bcc,2913.02,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Hill, Griffith and Anthony",electronics
+e7d9b0ce-55ec-47e6-ae76-e13c82bc228e,3e8a1f48-cb10-40a2-8211-3207eec58bcc,2913.02,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Hill, Griffith and Anthony",electronics
+a4e85719-c20e-4b78-9624-b7ef5f9f1db3,535e3dfe-50f6-4bfd-8e33-ff8ca5fbbedb,9583.51,2025-04-26, pending,DEL-CON,ConnaughtPlace,Delhi,CASH,"Keller, Hardy and Norman",Electronics
+4cf7c3c7-756c-4fcc-9431-528a9002e0d3,2023550b-ea25-44bc-92fc-6b3b342edbc9,30683.86,2025-04-24,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,,Toys
+4cf7c3c7-756c-4fcc-9431-528a9002e0d3,2023550b-ea25-44bc-92fc-6b3b342edbc9,30683.86,2025-04-24,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,,Toys
+51bb56fc-a407-495c-8d43-62533630d9fa,80be5601-3f65-4334-9988-b3f234d65ba0,4835.69,2025-04-21, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Vaughn Group,Books
+966da436-db67-4c19-881a-b64e5a0a3790,759d0660-f7fc-411d-a661-ea7e24066472,8070.5,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Montgomery PLC,Groceries
+3027015e-c987-48fa-bbaa-aa0008de2150,dac9e470-b3ab-48d9-976e-206c616abf8c,1302.75,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,,Schneider-Braun,Home Decor
+41af5cbf-9c9f-4aae-a1ce-b6862fbb6758,19b51f73-939d-4b36-b310-49663273c75e,4437.07,2025-04-25,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Gray, Serrano and Murray",Groceries
+897fda22-8556-437c-8e7c-759c01383406,66551495-043e-4beb-9313-4a3350bf95cd,1038.03,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Perez-Livingston,Toys
+441a0c41-45c8-4354-aa76-6e45a4a9d2a4,c92d6cde-0f79-4697-9b2c-fb83cd470e79,1529.07,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,,Evans Group,Toys
+795458bd-97cf-463a-bfa9-0e41c78ebdd5,594b763a-3165-4320-9f4a-b6ac42ac5cf3,5611.35,2025-04-24,FAILED,DEL-CON,ConnaughtPlace,Delhi,CASH,"Hernandez, Mccall and Smith",electronics
+122d4ad9-ccb8-456f-864a-512dd9ce129c,a3ef973c-e096-4a42-8bb2-d4e3814316e8,48875.55,2025-04-26,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"English, Dean and Wilson",Electronics
+d8f73f60-c33d-4d68-a7d6-f1f5f59a44f5,3ed3d722-9612-40f5-a0ae-1153dcd74458,5477.72,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,Credit Card,,Books
+522a6725-f407-43d7-b89c-03fd72c3ab3d,cbec5016-4e82-4d5e-8756-e05035cb8d41,4700.25,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Jones, Davis and Moran",Home Decor
+4cb07fa5-304b-4215-9ae7-4073099f163e,0d9f363b-6547-451d-9e93-0c917543212f,2365.57,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,upi,Mitchell-Fitzpatrick,Home Decor
+,2ff7e6a9-6264-45ff-a94f-a548afe6d7b6,5211.46,2025-04-24,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Kerr-Campbell,Clothing
+e97af873-00d4-4311-a9a4-8136fd38752d,d49d8b27-1f99-4e04-b625-b9702d88cdbf,4338.7,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,Cash,Fletcher-Mcguire,clothng
+2b6c07d4-b21d-41d5-b58d-d0fa9f7bd912,91d259b3-3ffd-48e4-a9e2-6ef724e2d243,343.2,2025-04-24,Success,DEL-CON,ConnaughtPlace,Delhi,,Henry Inc,Groceries
+aa99b6a3-3f01-499c-b1df-f6b1c03119e6,628a313c-46b4-4460-baa4-960b4b8becda,5095.21,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Hull PLC,Groceries
+ed1a4d54-d54c-4bed-972c-608bed08f881,0cb1c1f5-af67-4c6f-b8e7-a1da425a25d9,8849.25,2025-04-21,Pending,DEL-CON,ConnaughtPlace,Delhi,upi,Williams-Moody,clothng
+da6d7a6d-8686-4a77-9218-1d0ded247999,7105f092-0d2d-49cb-93b5-bb3cfc3b7a0b,6662.31,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Myers LLC,Electronics
+a1e56a67-427f-49ba-9316-4632222a8b0b,bd7e952d-15dd-4675-bcf6-b279c336250a,4111.5,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Gaines and Sons,Toys
+7cd3a605-1b50-4d43-a213-5d8c4a833f6b,620a4e58-113f-4d20-a63c-756c5684257e,5552.86,2025-04-27, pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Whitehead LLC,electronics
+d47af39b-aa19-440a-80ca-b1436fa5ba64,f44afe7d-bb5f-4868-875e-3ac715fd2682,7389.8,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Martinez-Robinson,
+5c127211-645e-4bd4-af4b-cfc3327272f0,23f664e2-0328-420c-8db9-f86dbb16f851,4113.35,2025-04-27,FAILED,DEL-CON,ConnaughtPlace,Delhi,Credit Card,,Electronics
+98e77da3-f0bc-42ad-bb03-9d53572de5e0,5428400d-113d-401c-abc8-2ea5ccd4f106,6461.33,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,UPI,"Blake, Flores and Wilson",Books
+aabf6175-1951-442e-9cd4-f11aa5947d31,8c7e6fb7-7933-4fa8-ba1e-73715f8ab644,7393.45,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,UPI,"Brown, Murphy and Rojas",electronics
+2b912d0f-2da3-4ab1-97b7-d3a84dd41b5e,dcdf9bbd-95bb-440b-907f-229b15ecc9c4,2502.25,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,UPI,"Jennings, Santos and Moore",Home Decor
+,4534a7d7-9b8b-442c-a915-c5509538b9e8,49150.35,2025-04-27, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,,,electronics
+,48c43201-1c33-4961-8a4a-199e1ce736df,556.62,2025-04-21,,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Robinson PLC,
+b409a852-b180-46c9-9ca0-0a43f6236412,94c1b7d4-93c6-4baf-a6ba-51826592d015,1354.51,2025-04-23, success ,DEL-CON,ConnaughtPlace,Delhi,UPI,"Martinez, Bond and Gutierrez",Groceries
+1ee69b68-e7e0-42b0-8176-f8102761cfcf,b5ea09cc-d21f-4add-a98b-d564d42f6bc7,4967.73,2025-04-21,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,Cole Inc,Electronics
+e6f4b2fd-9e89-4f45-8d38-5a4026f317f0,b3abd831-4d7f-4468-a587-b762818f0883,4324.71,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Montgomery-Gordon,Toys
+673b1a16-6418-4234-8544-3479f5d9e94e,8b33cc72-4c1b-4668-9fce-47725d2e4264,4755.38,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Cash,"Daniels, Ford and Ayers",Home Decor
+a97db3d8-3f4e-4743-9fe7-600699904924,ab03abc1-e30c-40d1-b502-061162b5b488,9778.13,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,Cash,"Lynn, Gentry and Collins",Books
+93a3897a-a3a6-4436-b1a0-116245ea94be,f77741eb-e8aa-445f-bf03-4bfc1fae5904,7188.61,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,CASH,Flynn Ltd,Home Decor
+06830022-a795-4d09-8f4b-8b0f1d1a123d,30d0ef78-192f-48f9-9858-af42e4765120,14458.85,2025-04-21,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,"Edwards, Taylor and Garcia",Clothing
+889b5619-e0b8-461c-942d-a28867138e6e,f6f2eec0-e320-4881-abbb-36adc47b0bfa,9575.44,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,White-King,
+ba2e1bde-032a-4ba2-b90c-6ecfb71ba2f8,b9fdb77d-e1a3-433c-a5c5-eecd20192edf,3430.79,2025-04-24,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Thompson-Long,
+3e2155a2-a136-4c27-94e8-878dd568d465,02912c35-2879-42f2-87c5-9195ffc32f83,-0.29,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,,Wright-Conley,Electronics
+28af5fb3-40cd-46c1-a192-fb23c1f04e29,70e61fa6-6c85-4cf1-8972-09e13de2c6df,7360.12,2025-04-21,Failed,DEL-CON,ConnaughtPlace,Delhi,Cash,Wells-Johnson,Clothing
+eb30ea1a-9e7b-4e5a-a276-2a35c5d376db,fe2bc3df-a6dd-441c-b2a9-c5efbb5361a1,7270.64,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,Cash,Bowman-Browning,Clothing
+e8f2d001-6527-4513-b555-00ad6d361110,f8a9cf5d-0d43-4a82-8d69-088378429374,2836.68,2025-04-27, success ,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Walter, Grimes and Tucker",electronics
+,72e5f422-0a2a-4846-9335-bd822253f43a,6563.97,2025-04-25, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Leon Ltd,
+d522a7c5-3db8-4bf6-853d-239c0d40148d,e1e9895e-0929-45b0-b2ee-e93737fa4b20,3271.06,2025-04-25,FAILED,DEL-CON,ConnaughtPlace,Delhi,Cash,Smith Ltd,Books
+992d3ece-c11b-4af2-8dcc-2676d07ae9fd,f76e7376-7e38-4ba4-9ce9-e1dfb6f59410,7498.09,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,upi,Yates-Brock,Electronics
+2ecf0d77-46c9-4074-983b-fc762337bbb8,e2a721e9-4a12-4a4b-98aa-bc346ea8a10d,1186.45,2025-04-21,Failed,DEL-CON,ConnaughtPlace,Delhi,,Mcgee-Estrada,Home Decor
+35160c70-abc0-4191-97b5-55ee88274a6e,ff82c549-7c42-4b39-ad89-a9e497f1705c,7663.3,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,,"Ashley, Mckinney and Young",Groceries
+2f6e8679-b306-404b-91ae-16968d084d94,1a784b9a-a856-427a-8e38-98b3383325b8,9757.34,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Pope PLC,Electronics
+619ea1df-e867-4aeb-b0d3-4f4293995122,abad9a7e-f862-409e-b113-81e9a5ea2820,2525.32,2025-04-23,FAILED,DEL-CON,ConnaughtPlace,Delhi,CASH,Dunn-Simmons,
+fbda3e64-e277-464e-ba65-06ee0576a6fd,,6716.98,2025-04-21,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,White-Walter,Toys
+74e44766-ea01-48c7-a75e-976a5a2f237b,143e24d6-3b21-44bf-a683-2723c5f5378c,3631.79,2025-04-27,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Guzman, Riley and Jones",clothng
+ae83606c-6d27-4712-b9b8-3ca914a50e55,aca98c87-2fe4-4437-97da-0ac2941efa01,2116.31,2025-04-21,Failed,DEL-CON,ConnaughtPlace,Delhi,UPI,"Lee, Wright and Mann",Clothing
+01c00a3e-589f-4072-8e99-6979b84c570d,dacbe6de-fbc0-47e4-b822-ed38d0aa1e0a,1153.57,2025-04-21,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Mendoza-Smith,Groceries
+c63a44b6-eb38-4d79-8d34-41828effbdef,48555e78-90fb-4067-8c2b-1f6fe702cea2,101.84,2025-04-25, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,Casey Group,Clothing
+b4503db2-6a88-470c-812b-6b4c60bd0ea8,c4c952d8-2010-4b24-aa23-7315f54c0df4,30077.86,2025-04-21,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Payne Inc,
+,,22397.29,2025-04-24, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Howard, Carr and Morrow",
+5be7237e-bd66-4e5c-878b-957a8d6d0872,29b2b901-2bdb-4b39-bf8d-7ae34724b718,4113.88,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Cook, Garcia and Montoya",
+08d98370-b53e-4f8e-b05d-9a2ad310517c,113bf124-9cc1-4691-93d0-e3eebe143804,1612.32,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,,Davis-Gutierrez,Clothing
+1c1784a6-5ab9-4fbd-b052-df0fa8d187a3,ec80c7f5-b439-4ce5-bf66-91dbebb43d16,909.91,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,upi,Carlson Group,Groceries
+ac2a8ede-1b75-4a76-97b6-43c64f01e194,ce830930-dc4d-4fcb-ba32-19ee3afb00f9,3265.47,2025-04-26, pending,DEL-CON,ConnaughtPlace,Delhi,,Morales LLC,
+f15a216f-0283-4424-9afb-e705bbf03f2c,07cad14e-bbe5-43d7-95ce-011dda7f1ca8,2183.98,2025-04-24,FAILED,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Henry Group,Books
+2471dee4-e7d6-4ad4-abec-9a01e205eabf,22620589-42c4-4311-bcbc-eeee2402bd52,3728.05,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Tucker, Shaw and Pacheco",Books
+0a1f2fcb-f531-4da6-b5e5-f982de4dd5df,e22e58d5-32df-4267-b599-46e2fe385254,8769.25,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,,Schultz PLC,Toys
+148690f7-8415-47ef-a3d2-4b8f1cae72f7,cade2081-e308-4448-9029-2c1270fc3404,4223.96,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Valdez, Hudson and Hall",Home Decor
+acbc1fa0-4ea5-458f-9c58-1b2ef1ccfa4a,da030e73-ae96-4c12-bde1-98a1717054c9,8966.95,2025-04-24,FAILED,DEL-CON,ConnaughtPlace,Delhi,CASH,Best Inc,Home Decor
+70f4d484-2946-4638-a735-5bf212133d64,94d2f8d0-f2af-4671-9132-4cb8bfcbdd99,9814.94,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,,Todd Group,Books
+120129ac-37ab-4b4f-9116-0c97e42242a7,d75cfde4-9b38-4672-8e49-c65416722a67,7353.67,2025-04-23,,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Mooney Inc,
+88f8516e-ff0e-46f4-8422-553ce5cd69f3,f95758a0-2977-4f73-a71a-9f0380fd884c,19127.1,2025-04-23,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Velasquez Ltd,Books
+f898d571-c80e-4430-9596-9a0ec4502a4c,ac5f7e72-4269-43a6-a37c-9c1094dae941,6081.69,2025-04-21, success ,DEL-CON,ConnaughtPlace,Delhi,CASH,Young PLC,clothng
+,04ca56c4-cd19-4f76-826a-17bb18744fe8,9135.76,2025-04-23, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Butler, Payne and Watson",
+eaee13de-0995-4f3d-ad71-4fa317b9d89e,80346aec-1156-4f5b-a105-6f8c0b667998,6497.61,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,UPI,Jones-King,electronics
+,,1392.28,2025-04-27, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,West and Sons,Toys
+6c333aea-f8f6-4f24-8304-b63a848e44dc,8cd6d040-a268-4532-acb3-5ce2100bdf50,9427.93,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,UPI,"Griffin, Sparks and Lee",
+91600f57-4813-45fa-9071-6f20c26dd30c,dca41a1f-7a6e-49fa-92ed-e27c9b48fb24,5517.17,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,,Ortega Inc,
+4fb71ca6-a4ec-4371-b00d-a02b47b4ea3d,368a2097-417c-42ed-bede-0a0aaa0f0335,6311.3,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,Credit Card,,clothng
+,1abec6a6-2134-40f4-8e31-031d4e8995c9,48547.28,2025-04-21,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,,
+deec0066-10fb-40fc-9c79-2053694ec9d5,4b5293e4-0553-4964-8e06-b0c50b841a34,4482.11,2025-04-25,FAILED,DEL-CON,ConnaughtPlace,Delhi,CASH,Jones Ltd,Books
+1f38afb0-3303-4ccc-9c4b-5f944ad3e848,557e4697-5dcb-4850-9613-0c513c027c08,3829.97,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Turner, Williams and Kennedy",
+af4413c8-2590-44fb-bf9e-1f08f9cc2915,3b65c1be-add3-41b4-a0be-43b6ae5361ac,33116.84,2025-04-25,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,Fischer-Cowan,
+15c83934-a82c-4f5f-a166-ee8276d946e6,c7f66ab7-cb7f-47c9-a0b5-b8dd7d370e28,1561.96,2025-04-21, success ,DEL-CON,ConnaughtPlace,Delhi,Cash,"Mills, Duran and Vance",clothng
+8de7a12d-9501-4a74-b0e1-aea08f2e6ee0,e7fe3bd4-8dc0-4a92-b71e-d6ef7f2f681e,20404.43,2025-04-26,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,Henderson-Moss,clothng
+1045f87d-dd61-430b-9efe-232ceaf68f57,76f7d7d1-7afa-410c-8006-9f8937bda64d,7074.29,2025-04-21,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Clarke PLC,Groceries
+f890ed18-8874-498d-9582-a275897bc49d,74db5194-9d5e-4f2c-b924-0e2392e1fbc0,9361.9,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Ramirez Group,Clothing
+5c7a9f00-4660-4cf5-89f1-14d3398e1c11,51af9035-40be-4298-9640-f5691dedc0fb,7248.41,2025-04-25, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Mason, Noble and Stokes",
+ca556921-bc8e-4ed7-a52b-db1c15a16bb6,,1221.84,2025-04-26,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,,,clothng
+47d2151e-392d-4cda-b964-9f94d40b6abc,e6199d55-8e36-48e8-89de-79641d0c5184,799.01,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Nixon-Riley,clothng
+ba5897ee-4fcb-47ab-8763-57856719f379,a05a582f-3f7b-4b3f-8a40-b93aad65e0fe,3868.58,2025-04-22,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,Walter-Ballard,Home Decor
+31552a42-9eac-4a15-94da-025a828f479a,c46946af-1b25-437e-9198-26eae83c77a1,6302.46,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Nguyen, Stanley and Cortez",Electronics
+4767cdc8-e688-4950-9c98-2e6d08709a73,30f35dc3-99d7-4738-8e40-2804d3c5eaa4,901.42,2025-04-23,FAILED,DEL-CON,ConnaughtPlace,Delhi,,"White, Miller and Elliott",Electronics
+691ba646-f172-40b2-87f5-f4cf406cf489,d8f1d3b3-5063-4ef1-843d-6a3b3a57e6fe,9859.79,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Smith-Rowland,electronics
+a287fc6d-f6aa-4893-b7df-f112bd275765,327cff9d-5ae8-492c-8489-d6d7131fc388,2205.67,2025-04-26,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,"Douglas, Lopez and Mcdaniel",
+a61d0ed9-aeb4-4cf3-9bea-228558ab65d0,c179981c-5629-4311-b80f-a0c559266a34,1403.89,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,upi,"Flores, Campbell and Malone",clothng
+f066891e-c243-4625-b33e-b51609380789,97ee66ea-b54d-43d4-8422-5042eb1be442,8148.54,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Mcdonald-Ponce,Toys
+f8d822ef-89bd-4c7b-868f-e763dfe105aa,e0712f7a-ed58-4d65-967b-35b8cd7038f4,822.0,2025-04-22,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Baldwin, Blair and Proctor",Groceries
+eccc1cc5-c325-4cec-9b19-3089cc8f01f1,749dbcd7-09e8-4067-bd82-26a6080233b1,14025.31,2025-04-22,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Wade, Frost and Smith",Groceries
+7e96e4fe-4f73-483a-9e59-50fec18f8d47,fcb6f55f-116b-491f-b84b-8619c2833293,6322.77,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Phillips Inc,electronics
+,,23699.48,2025-04-26,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Barnett-Medina,Groceries
+478c91ac-f18e-453e-a47b-303003fff16c,05e263c7-e341-43fc-b14e-f0fe184364f5,3505.93,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,,"Patterson, Webb and Boyd",Books
+26209882-45fe-422d-b377-1a8041d21a32,c503e904-2046-492d-aef3-8b2ff5bde84b,8218.89,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Colon-Woodward,clothng
+901d8dc2-423e-4c4c-b219-aa6d0f2de639,1508b722-7853-49a9-aa17-f5698c71f7ce,3672.73,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,,Petty PLC,Home Decor
+038711ad-c751-4f37-b758-f668769359d6,53885f74-2833-4130-be00-00003b1e4290,935.11,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Cash,,
+49072a0a-b164-44e8-8c08-9916c6cc82e1,c92c2bcb-3960-4241-8b33-b3f3a8dc6db2,7640.15,2025-04-21,FAILED,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Sanchez-Parker,Books
+c5ce3692-6c53-4408-a8ce-e611604f29c2,9d128e4b-fdeb-4076-90f8-b02087b564d7,8531.78,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,,"Mcclain, Burke and Cochran",Electronics
+,a39b3864-36ba-4aa4-8138-20b90f51cc53,1265.81,2025-04-21,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Yates-Perez,clothng
+76cb28e1-cd84-4c95-99e1-be61fb8c799f,e0db9308-9844-4343-9fd3-efc0713b4281,3766.99,2025-04-27, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Berry, Green and Skinner",
+05b7802b-7794-4ab7-889b-f679292d1002,1f07bf99-8703-42fe-9ae6-12b14852914b,5834.69,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,,"Lee, Davis and Simmons",Home Decor
+22ca4d6d-3ebc-4194-89d5-641dfa43c7bb,,38176.82,2025-04-24, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Cervantes LLC,Home Decor
+5f203b71-d0ca-4c48-a103-3940b07891e7,1fec3c82-c982-4c70-8296-364918ce43e5,7233.9,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Richardson-Miller,Books
+0585dedf-0e8e-4ff7-b981-5276d11f0522,e74da397-3df5-4eff-856f-25c03ee831ac,3531.7,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Gonzalez-Cameron,electronics
+ce5a4bf3-619f-4a24-a367-972a5aa6479c,0740ecda-4bc7-46aa-b810-21a1aec0df66,8712.79,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,UPI,James LLC,
+abf8106d-a63f-40af-a016-3b1c17669e7a,12b2b757-1f9b-4f4c-b49b-f73a27a351ff,3526.23,2025-04-25,Pending,DEL-CON,ConnaughtPlace,Delhi,,Rodriguez-Jones,electronics
+e6a697fc-eb8f-4af2-9601-f36b9784f6e6,071bcd2a-2333-4422-a3dc-221206eab78c,22.57,2025-04-25, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Burns and Sons,Toys
+9543431c-a64d-4f1c-a6ea-359ebcac6209,0875df32-c8b8-4d4e-8d81-8d843432f9ba,6794.82,2025-04-25,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Thompson Ltd,
+a59007bd-29f8-438e-83c8-83fe4f2dc250,ed6daec9-c8bf-4e4a-ac80-3a41dd57077a,6172.35,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,CASH,"Downs, Sanchez and Webster",Home Decor
+43f8bcc7-8f7f-4d81-b33e-1a4fd0f92d7b,c6637058-50e2-4229-a2d6-bd79ab765b40,9419.09,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,,Martinez Group,
+,,2032.29,2025-04-22,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,"Edwards, Duran and Duncan",Groceries
+bc0c025c-4527-4bc7-8fa3-230b9c71aebd,b3a79fe1-cac7-48cf-a9c0-137924446c8d,7188.99,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Hill, Wilcox and Edwards",
+ff2ba7e1-c623-4cc4-8360-557070475317,f8a248a9-890a-497b-9115-3d21e0bda058,7221.74,2025-04-22,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Moreno-Cortez,Groceries
+88aae39a-0f5d-42ac-9e66-01de9ff7386b,9caeb54f-d9fc-48b5-850b-d05b1b416186,4893.8,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,,White and Sons,
+8e1eff05-58eb-4b1c-b1e1-ed5e22316896,,1917.75,2025-04-25,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Hall, Bailey and Brown",Clothing
+bc9f8e93-ab6f-4a98-b2f2-117b34cd130a,e03aaa06-5550-4cf0-a0ea-b37eeed5da65,11173.58,2025-04-23,,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,"Holmes, Rogers and Howe",Toys
+df73a648-0baa-4cff-90ef-5abd7eef3275,822bc34c-aa68-47c0-b750-75587f404316,1248.28,2025-04-22, pending,DEL-CON,ConnaughtPlace,Delhi,upi,"Parks, Snow and Nicholson",Books
+425e03bc-5c57-4283-b639-be00ceec6f6d,4b70d3dd-d28b-42f4-8a39-04f7c9d22116,5960.02,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,CASH,White-Padilla,Clothing
+7b801e1b-7d18-4f80-be0a-096e792e3062,e8e52eba-c752-47b9-8907-bb4140cbf2c3,3888.75,2025-04-24,Failed,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Myers, Bauer and Sanchez",
+ce86055d-4845-4436-ad58-ea8a4e5dd2ed,023ac2b0-6f4c-4ffd-8c7e-bc710d88de48,7351.26,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,UPI,"Patel, Dixon and Taylor",Books
+203b5f17-6f34-4313-8bdc-b8d94c32e1a1,751d0be7-abed-4162-bde1-1274f5d50ba8,2742.76,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,CASH,Lang-Crawford,Books
+e2cec61b-c900-4271-ba55-af2097fc3fa2,5a04d51d-8ffe-4a70-bf5e-bfcbd0c980c4,3887.8,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,Cash,"Brock, Smith and Garcia",Groceries
+d8b08cf3-e2cd-404c-85aa-ebe71f0c6e13,283ba354-77c0-4c27-863c-47eb4110df55,7530.78,2025-04-25,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Pacheco-Gomez,electronics
+0b2459e5-6f60-48c3-9a61-a1c832b7b24f,0f796d34-6f23-400e-8173-550317b3502e,6084.66,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,UPI,"Dickerson, Olsen and Thomas",Groceries
+77feffa1-40bc-4d62-be40-97fea1da08a5,24b0e0ba-904c-4eaa-b0bb-727a07f4fe4b,5051.68,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,,Ward Inc,Clothing
+3387dc6b-4bf1-4c14-ba17-b2c5b4e7c5bc,c61b2165-64ed-48c9-af85-f3281fd70d6f,7321.29,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,,Anderson Inc,Toys
+bfe08061-3b2b-4045-9342-6658a62a6c10,c6e896dd-b14a-42de-ba80-e7d1ae2e8774,5101.82,2025-04-24,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,Craig PLC,Electronics
+423752b9-87fa-4903-af36-47a4822e12d0,2790e780-f015-4096-8476-c9fff29ec80c,6097.16,2025-04-26,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Berry, Moore and Middleton",Electronics
+d9e5d6e6-c94e-44e5-973f-05556d68c235,43bc84fa-e90b-46f3-976e-882a7fd71207,4029.78,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,Swanson-Rogers,Home Decor
+b2daadd1-9ac0-4fdf-8e69-4c1ecc6675fe,b614c52a-5ab6-4d5c-a556-7d9bbf9adb75,7323.63,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,Cash,Quinn-Liu,clothng
+316b70da-b9a2-4ca2-b2d9-1c832c5d6faa,b5aa591f-7e36-4082-9bf4-2da6b9c40e32,35739.83,2025-04-24,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Luna, Hopkins and Thomas",Books
+3a8455e5-8772-466c-9b41-a4c0bab68460,ee88d132-2523-4758-999a-067321fa1e52,5174.91,2025-04-24,Failed,DEL-CON,ConnaughtPlace,Delhi,,Martin PLC,Books
+dccc9a70-64e6-4f27-b56b-4d5ff709a3a5,79cdd554-211c-4a9e-aa0a-ba28aa68ba01,9825.84,2025-04-25, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Murray LLC,Groceries
+aa93913f-c435-46ad-87c8-3e89b5e2cf5d,4735d159-0a59-4187-ba7e-95c946da9696,3719.15,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,,Beck-Garcia,Electronics
+3b3d70f6-60b5-4d4d-8d6c-25a729d2a737,,1924.36,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Krueger Inc,Books
+22c78ae8-f00e-429d-81ad-3eb359a7b110,,9959.98,2025-04-22,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,"Higgins, Martin and Woods",electronics
+a2ed22e3-adde-459d-8abd-78b0a65c87d4,2b71fe06-5b44-4dac-9671-0d4f56a89706,5768.03,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,UPI,"Meza, Ramos and Velazquez",electronics
+cb6a3765-7b44-471e-bd88-c4456b850d90,9ffcbc21-34ce-42e9-aebc-473945dd4421,304.69,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Lyons-Robinson,
+a38531a9-d1e6-4fb7-baaf-4288c083a0e2,318af0c1-74f1-46e6-a157-c124fea9dfb9,9439.71,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,upi,"Alexander, Richmond and Franklin",Electronics
+2fe63cc8-9416-4854-bf05-c5ccc50d751e,583f1568-f561-4c4c-932a-cc65146e8acf,73.72,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,UPI,Smith Group,Books
+c1afe799-70e6-4b97-bd5e-19bb005cbeb8,3196fb2c-41e8-40b6-9155-96d02a46397b,8479.2,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,upi,"Boyd, Huber and Carroll",clothng
+ca4246fc-f8a3-4272-a1f5-da93c98c5249,37718796-57e0-4c29-94d1-1c55ed2b7c3e,6223.77,2025-04-27,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Ward LLC,Toys
+f8372e30-1c84-4012-bfa5-fa7f79f58664,0119e5df-2e77-471b-9b29-210e06be9567,6233.02,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,UPI,"Hansen, Jones and Chavez",Books
+917f06dc-cf55-4a94-aa4e-d9ce07c32150,79ef6c27-0d3e-4e41-9c81-8499fcf6f900,3483.88,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,CASH,Mcdonald and Sons,Home Decor
+9cbfbe47-2153-45f0-bb7e-ec4d1afecb03,e39b4a17-3159-40cb-bd28-d0ce79f10a21,35007.97,2025-04-24,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,,
+4fb40956-bdf8-4f0a-95ec-2c71f0fbc188,e4cb0f8d-0d3a-4465-9702-bc808466d7f3,43026.43,2025-04-22, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Vaughn, Santiago and Cuevas",Home Decor
+e526b402-d457-4206-a38f-06a69b460586,263d9cae-8686-4614-86dc-635bb25c5d17,8997.25,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,Cash,"Moran, Smith and Brown",
+8f8ef417-070b-4f77-ac3e-080f26971d75,15dc37a7-7a43-475b-a0d5-5ca2a7bbc538,42684.07,2025-04-22, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,Boyd LLC,Home Decor
+98a126a2-3ecc-4075-ae13-ac4b58e01b4f,52c70006-b31d-4c5e-a4a7-79dbfef7a254,3456.93,2025-04-27,Pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Barton-Anderson,electronics
+53ee246d-d017-4385-934c-835735af3a4e,c79eb033-e82c-4297-9ee4-f965cf8972f1,3258.92,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Marshall, Bell and Stevens",Electronics
+0790fd2a-9efd-46be-8a20-9861720af600,0385d098-3255-4d1e-aad7-71f7329c844e,7786.36,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Ryan, Bauer and Shields",Clothing
+f05f9dfc-4873-4df7-9ae1-da0ce2d033eb,03047d1c-5612-472b-b700-ddb411296037,5379.26,2025-04-23, success ,DEL-CON,ConnaughtPlace,Delhi,Cash,"Ramirez, Arroyo and Cantu",Toys
+a011eba5-8363-4de0-b196-71a50c0d640b,a64de2ac-7e5e-43b2-ac56-a1fd8bd7ab16,5673.74,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,Cash,,Electronics
+7c0e5e5d-c807-4e21-b35e-f82c84033bdc,8a8cb8fb-aeca-419c-9736-7c2b53152dbb,4120.03,2025-04-25,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Matthews PLC,clothng
+55d37793-4dbc-4679-98d2-c380c0c85610,d42f3073-9e5d-4bfe-8bf2-f5440b083785,3671.31,2025-04-26, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Valenzuela Group,Clothing
+ad5a0110-4a90-4514-9f3d-007c698c970f,2d903059-7200-48f3-a0c0-6aed64b25499,4728.09,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,CASH,Moses-Garcia,Groceries
+c465635c-49bc-4114-9ff5-8356e9491f6c,4ef78764-0a13-412d-a263-ad62b096a5b5,6782.6,2025-04-23,Pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Tran, Cannon and Nguyen",Clothing
+b0538ba8-f455-4bde-ae96-2d140bc5ab17,256fc29b-66bf-4d6f-a81b-3197425e3ac3,2946.41,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,UPI,Mcdowell-Green,clothng
+9ad27a44-4bbf-4795-add7-53fa3181464d,92f14a6e-dbba-48ff-b381-311ddeac7a4c,5608.28,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,,Simmons Ltd,Groceries
+72fa58b5-60ae-47df-a2fb-a491c08d5a89,710dfe8d-0894-428e-b7f9-953e41a4107b,20764.61,2025-04-27, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,"Castro, Wiley and Barnes",clothng
+dd695de9-d57d-453d-bc5b-ce3a82c00e3d,d5ff79dc-e5fb-4b5d-b24c-1363ef9dbfbc,5790.85,2025-04-25,FAILED,DEL-CON,ConnaughtPlace,Delhi,CASH,"Edwards, Nelson and Jones",Clothing
+6531d59c-0dfa-4b4d-9606-eb8fc05e45e3,6fcf21cb-efee-498d-8fa0-bb71a547f818,6457.24,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,,"Hernandez, Patterson and Herring",Home Decor
+3c7454b6-9ff3-4397-b295-dd6881066321,89b8bbc5-7334-4a58-943d-84e4a732ca9c,2561.3,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Gibson Inc,Groceries
+475b7b45-28fc-409a-b78e-505d128e004c,,7286.17,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,Koch Inc,Electronics
+5b3b5572-4416-4976-bd93-b67a6e608224,8583734d-98fe-4dc1-ab84-c64aad007b74,8050.44,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Hendrix-Downs,
+4539682f-03bc-4ae1-8bec-c960704424a5,0a0e17a0-4af0-4db1-80b3-c33c70bdc8a6,4313.41,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Lawrence, Price and Jones",Groceries
+5f8e9dc6-7272-4a33-9687-5a11824b4207,2dadddb9-9474-474a-894f-6cd164d76ec4,5434.87,2025-04-26,Failed,DEL-CON,ConnaughtPlace,Delhi,Cash,"Orr, Taylor and Williams",Home Decor
+f0c2e851-c705-4d41-8601-2ed5f883f532,f8123529-ab11-4442-b877-aa59f5bb0ff6,5453.16,2025-04-22,Failed,DEL-CON,ConnaughtPlace,Delhi,UPI,,electronics
+f6c225d2-3555-4415-b3ec-9d12783935b3,1e28c8dd-7f0e-47ab-86bc-8b3157a0491d,4240.31,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,CASH,Price-Webb,Electronics
+2780272c-1286-49bc-bd2f-96432f415f9d,06e08df5-013e-4bbe-bfc9-7ae8da464917,619.45,2025-04-27,FAILED,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Ellis-Hunter,Toys
+96442d1b-c9a4-4972-9953-3db5937bc3d1,24510912-3bef-4844-9e0e-98121d79be77,2875.6,2025-04-24,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Peterson Group,Home Decor
+9490c1a4-01c4-4bc4-850c-6ec86172c44c,daa4a023-b956-408d-88d3-b5888a26a416,4794.15,2025-04-21,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Rangel-Shepherd,Electronics
+9b125cc9-a742-438c-a842-7a42367dd28c,349e3a21-f427-47da-b2a1-f00f0bd24dda,5485.94,2025-04-21,FAILED,DEL-CON,ConnaughtPlace,Delhi,,Winters LLC,
+f9bcd06e-e903-4dd7-9237-203312bb954f,67d97c59-a30a-44a8-9262-6cfe3ef2a267,5899.85,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,UPI,,
+969b4652-2000-4583-b065-758ea77c0194,bb7675c8-6f05-48fb-92bb-bf4b83fd3b41,4398.33,2025-04-27,Pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Jensen-Frazier,clothng
+dda152ed-719d-4df5-9bee-fce0ff7aa960,d0fd6ecc-70f1-4f49-8d7d-d230b85a42ae,7176.24,2025-04-21, success ,DEL-CON,ConnaughtPlace,Delhi,upi,,
+,0b237056-cd1f-48a6-bf92-e22fbc828cc6,32119.77,2025-04-26,,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,Johnson LLC,electronics
+d4e1774e-196c-4643-a098-844cf04accdc,3f5d81db-3d57-4d80-8984-97f5472ac6c2,1113.36,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,UPI,Haney LLC,Home Decor
+bac538b6-144f-41ec-975c-5d37bbb6a450,fde8c42f-7cfa-4b47-a914-f7f2de209305,8214.26,2025-04-24,Pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Gonzalez-Castro,Groceries
+a30dd366-ba6b-441e-a90a-91f1151b5289,61af00e9-e739-40b2-98fc-4d39d36fdb5e,3930.2,2025-04-23, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Lozano, Ellis and Lopez",Groceries
+a30dd366-ba6b-441e-a90a-91f1151b5289,61af00e9-e739-40b2-98fc-4d39d36fdb5e,3930.2,2025-04-23, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Lozano, Ellis and Lopez",Groceries
+e45c69c5-5b97-4442-a813-5b18144f5955,cccc3146-7d63-4ec0-b537-284f7a5ed265,2208.87,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Stevenson LLC,
+8068684d-d555-460a-9fe9-798cf8e46f69,86059ad9-1f37-4681-add8-5a736fe7899b,6036.42,2025-04-22, pending,DEL-CON,ConnaughtPlace,Delhi,upi,Wolf-Ramsey,Home Decor
+2b9b65ba-4628-439e-912b-68564ebf474c,e1e391d1-5c8e-4358-8182-f5477d31417d,5835.54,2025-04-23,FAILED,DEL-CON,ConnaughtPlace,Delhi,upi,"Brown, Rodriguez and Gross",Books
+2c51a7a2-785a-4c89-8025-591380cc06cd,421bf29e-b574-4cf4-b50d-ac996b136830,8177.54,2025-04-27, pending,DEL-CON,ConnaughtPlace,Delhi,,Miller and Sons,Clothing
+3803753a-b6b8-4938-b477-e35b22e80727,d5a1a859-95d1-462d-9e98-cab293849550,712.42,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,UPI,Martinez PLC,Books
+7605cc50-03a9-414d-8618-706fc9153fb5,362cd88b-1f77-4c32-927b-c0e4b2dc77f1,6345.91,2025-04-22, pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Horton, Roberts and Nelson",Toys
+c7d32fbc-ec49-4f67-8231-7a9082eecd2f,ec750ed7-7410-4ace-ab7f-307659e21c5f,8150.61,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Cox Ltd,Groceries
+f35b811a-bbed-4411-9c47-4d5c44133d59,613f31b4-b21b-4c85-a660-138176f3eab6,971.76,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,UPI,Phillips Group,Books
+3b0d66e7-d67b-424d-96cf-072d8c4d6a49,19466804-e456-41c2-95a3-08fc93a4982f,568.07,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,,"Fuentes, Collins and Alexander",Groceries
+c972f545-ebae-4701-bdd6-3b5166926a49,733b08b8-f234-4a79-aad8-3bb4d1b9902d,220.36,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Velasquez-Ball,Books
+406fede0-dc7f-495c-a69f-76766286a2dc,0bff9a36-64e0-438a-b900-8cca7b0c65ef,1713.45,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,upi,Martinez-Porter,
+d990f664-578e-408c-ada6-bf2ebcc5b7da,6f8ff48e-960b-4aa4-a3c1-f549a408e3e3,1360.71,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,CASH,Gilmore-House,Groceries
+0fe0be39-5d1f-4a11-bdb2-ed191213792e,898b98d8-9f8a-4e11-92be-f5f6499ac9ab,2485.84,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Moreno-Watkins,Home Decor
+24c265e9-fefe-421b-bcd6-aaf98053d634,bd8ae53c-4c90-4aa5-9c4f-cfbd77d02303,2162.74,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,,Jackson Group,clothng
+8dd3a2b5-b328-499e-afdb-3cae13b6994c,6a06007d-0a64-41df-b13d-4d755c9feea8,7943.28,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,CASH,"Serrano, Mcdonald and Shelton",Clothing
+c8fdc2a3-6e8a-4666-86b4-2911a535f86c,0fcbcc69-08e2-4b14-868f-a3cfaf81968c,3914.52,2025-04-25,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Taylor-Perry,Clothing
+958b43b3-33c1-4d26-ae89-f080f5c8a1c7,ccd36138-2987-4708-bee9-bb3809948df1,2703.32,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,,Wright-Lee,clothng
+fff48179-309e-4f64-b240-90918b42a745,3d33639e-e5d3-49ef-921d-66d9911152f4,3821.06,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,,Prince Inc,
+de6d4f39-cd0c-4586-9cae-8ac7ebf9c85b,057de4d0-ab28-40b0-8349-d14f82209e8e,4593.0,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,Cash,King-Schmidt,Clothing
+51dd453a-7f86-4ee9-85e7-eddc57d7e6de,4a1fed52-b24f-42c4-a228-73755f1ca27f,6787.5,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,,Hudson Inc,Books
+315f190d-46c7-469f-9327-62c657f65a8c,efb81576-751c-49a8-9bce-0c31697d4c42,5109.34,2025-04-24,FAILED,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Gibson-Mckay,Books
+effd5610-12a6-41bb-913f-e5be360c0575,e133af3b-9266-44e6-b528-47f573fc2ea8,6442.34,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Cash,Santos Group,Electronics
+a81f82c2-16c8-42bd-ace8-de0ab66e35ac,,9327.32,2025-04-23, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Bailey-Sanders,Books
+6e994472-9e1c-4f79-a9f3-36426c994926,a8346f29-3f58-49d3-a073-ddcef92f38cd,6049.84,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Joseph, Andrews and Page",
+aa0f3486-6ff7-4724-8985-d26cbe9acfb5,a74064f6-76c7-4549-917b-917a401605b6,9258.85,2025-04-27, success ,DEL-CON,ConnaughtPlace,Delhi,,Murphy Ltd,
+b147b822-0bc0-4638-a769-c88d631750bd,bffe2cba-9d5e-4e04-9999-fb5c1f6718e1,3518.03,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Reynolds, Baker and Coleman",Groceries
+78747404-a242-413f-8e78-04ea9a4e4d76,2b09f48e-f2f0-4734-b424-73b76bc07026,156.02,2025-04-23, success ,DEL-CON,ConnaughtPlace,Delhi,CASH,Solis-Sutton,Electronics
+6e7e4484-232b-4f0d-88b1-6c2a8963e074,d6258411-5ca4-4a08-9c29-585086743542,6674.67,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Burch-Ellis,
+ba153066-9088-4e65-bb3c-24e66f21a4c7,fc92089c-e2ee-4603-9b30-1c38d6a5228f,6718.47,2025-04-21, pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Hess Inc,electronics
+ee38649d-fcf0-4b3d-a7ac-b3132190d471,d02d3bff-7e94-4c16-9964-f170d1162d4a,7769.02,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Cash,"Blake, Frazier and Shea",Books
+bdbfac47-b865-42f8-9b26-dacc50142ffe,d630f2c6-2090-4056-9d26-e1f6ad14b326,34566.23,2025-04-21, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Fernandez Ltd,Books
+ea447359-19d1-4957-a8aa-184c744639ea,dc46cf1d-c69d-406e-9fcb-92b020ec540a,5638.78,2025-04-25,FAILED,DEL-CON,ConnaughtPlace,Delhi,upi,"Jones, Williams and Hill",Clothing
+61f80665-cbe8-4fbe-bb23-73595a126037,d0c5389f-4e03-4532-9385-c38c2be8db63,2933.81,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,UPI,Barker-Hernandez,clothng
+6cce4d29-562a-47f9-a404-00be180695cb,cabfe4ec-a1d5-4f33-b791-a7546874eff1,6800.8,2025-04-23,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Lewis, Gregory and Johnson",Books
+bb56cca6-3048-4863-89b7-042227d9429a,52b24455-20d3-47ac-a21d-623521a87293,7944.13,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Ryan, Best and Smith",Electronics
+505a5c25-7e98-49b5-a4a9-15260dbc48fe,,7131.45,2025-04-24,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Sherman, Massey and Jones",Groceries
+0fb09708-28dd-4e89-a4db-1d95460e372b,877aef52-4878-4777-a257-5b992421f817,1385.46,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,UPI,Mullins LLC,
+,5e7b8a46-47af-4161-bce4-56bb0c9cf9e4,6714.92,2025-04-21,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Burke, Mclaughlin and Wright",Toys
+dadf3a15-0dda-458a-83f7-3e432f20f074,,2638.71,2025-04-27, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,,Electronics
+0641edd0-7733-4180-8a8d-373d9bac88c7,0100364b-4513-4034-83d6-ec3523c449e1,8250.12,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,,Miller PLC,Clothing
+18a0141e-7bf5-4c6a-b7d2-9a3a03140be3,3c50e9ab-2c84-424a-8ea8-bc81ab5594ff,9865.32,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,,,electronics
+f04ed19c-3dd4-486e-b080-6d90b3dddfb4,deae4d81-c1a9-4306-a114-7929edb9c5f9,13590.33,2025-04-26,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,Soto-Walker,
+41db7842-57d8-446b-9ac6-fff46fa88542,7004a82a-109b-4cbe-a5d8-a43f70daa13e,4994.85,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,Cash,Kelly-Arroyo,Clothing
+8eb2d52f-4f5b-4740-920b-acdc5669e397,77d8db4d-49c0-4523-9b53-4472ed3fa2a2,8541.05,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,Cash,Stout Group,Groceries
+e42d3cd4-56ef-4586-9b12-9d366d90cc36,379785a0-9481-48e4-bf3f-87bbaeef749f,5045.17,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,Cash,"Adams, Ford and Williams",clothng
+,5882cb5d-11a8-49e8-b633-40a4238ac003,666.83,2025-04-21,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Garcia, Dyer and Rivas",electronics
+91c3ce8c-3fe3-4974-a2f7-691338fb3a54,78f9053d-2858-4f50-afc9-370f0cf022d5,4046.71,2025-04-27,Pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Schneider, Rivera and White",
+7920a373-724b-4827-8ff6-92bf49bbc6bb,e272e218-b471-4f2a-b718-8d41305e9f5b,2732.3,2025-04-27, pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Guerra PLC,
+0b1c56c8-dd53-46f9-9a8a-506fdd680173,1ca6edcc-eb40-42bc-b32e-1a5138968e31,8765.83,2025-04-22,Failed,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Downs LLC,Toys
+b262a22a-913e-451e-be0f-43659975d748,7642faa5-50a7-4813-9cd5-6c6dc99a68bc,3875.39,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,,Pham-Miller,Groceries
+f0bedf9a-6be2-46dd-96ee-34e9bd490412,2d61ea88-fba7-48b9-afdd-77cdac600af0,5874.88,2025-04-21,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Myers, Valdez and Chambers",Home Decor
+00fca8da-0bbd-4c33-96be-62f29919263a,405da416-d58b-467a-86ae-e430b796949f,376.07,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,Net Banking,King-Lewis,Toys
+35d3f255-4040-4ae4-8a44-15cc445d1ae3,c7340099-bfad-4ebe-a90d-e1fcd2deccdc,2961.82,2025-04-27, pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Chapman-King,Toys
+fb07407f-c299-4524-b0a5-07552803f0ba,a1aca513-01e8-4a9a-b521-9376ec5b9593,48295.46,2025-04-21,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Soto-Martin,
+fb07407f-c299-4524-b0a5-07552803f0ba,a1aca513-01e8-4a9a-b521-9376ec5b9593,48295.46,2025-04-21,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Soto-Martin,
+65e196a8-7101-4ee2-b527-ed6ae3a202fd,,5968.13,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Flores Group,Home Decor
+a0902bd4-d8e0-40b4-8c05-650682346b44,eb8aa6e4-e1eb-40d7-a707-90b081dc81e0,5670.38,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Flores, Olson and Brown",Electronics
+8a581d55-3038-48c8-b7e2-7671ea7f17d1,0a1c2aa6-37d1-4352-9f44-1ba8c027f798,8525.65,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Chapman Inc,
+a256c145-3632-43fa-ac49-70c3aa64dbf0,83b4e4b4-5794-4a79-a3f8-8146f9b86035,2168.08,2025-04-26, pending,DEL-CON,ConnaughtPlace,Delhi,CASH,"Bernard, Frederick and Dyer",electronics
+8d30fe8b-5ea3-482c-a709-672f489faa3a,2a6b379c-7abc-433c-9edf-593b69c6ae47,3189.96,2025-04-27,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,"Parker, Ford and Johnson",Books
+6bd0f844-cdad-48ac-8633-216e4a0f3b41,2f0e346b-3860-4b38-b772-f988a341c5f8,4000.37,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,UPI,Gomez-Mccormick,Books
+db0d3bdf-69c1-4577-ab8f-225ac2be527d,f032c127-48f8-410c-8742-ba4fdd2623e4,2868.98,2025-04-21,Success,DEL-CON,ConnaughtPlace,Delhi,CASH,Phillips-Jenkins,
+772d96f3-1eff-463e-9538-bb913360d07d,5046ebbc-343a-4200-bebd-95eb50071ef6,362.35,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Cash,"Richardson, Cobb and Cameron",Toys
+acb3d8ac-91a2-4603-a558-9bb97fec2d67,d127c032-b421-472e-9be5-cfe762f88815,7639.94,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,,Gentry-Ortiz,clothng
+0ab1c494-033a-4740-a96e-6a62ca006fa9,ebea8fee-a3fc-4bfa-adb9-610ac91fc5af,7817.63,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,,"Robinson, Manning and Hernandez",electronics
+bc9c87a7-6529-4e63-97cf-578691c228ff,a32e74f3-419c-47f3-840d-e63d45a4e538,1108.98,2025-04-22,Failed,DEL-CON,ConnaughtPlace,Delhi,,Smith and Sons,clothng
+20bce07b-e326-44ee-b883-dac32f1b621c,43fc1535-bb7b-474f-97b3-66a753792c28,2351.77,2025-04-25,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Castillo-Matthews,Groceries
+32ad8396-b868-4987-96d4-70545e46b06e,3ad797f3-2165-410a-a423-fb5774023cc7,6760.67,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Gutierrez-Nelson,
+6dfd2176-ef8a-4fd8-a4d8-0f7e48e4bba1,2f54a7a4-0eb2-4c4a-b6c8-f3964e90030f,9996.53,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,UPI,,Groceries
+387e6f2a-13d5-400d-8b8d-32f00bd648c2,2dcedef0-27be-4417-bc97-b3bbca425e86,2290.54,2025-04-27, success ,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Martinez PLC,Clothing
+a36c7e7d-5c98-4c01-b347-ea22c7773dac,,10409.41,2025-04-22,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Stafford-Lambert,
+9b7ba733-2a8b-4b41-a71f-cdb39b2a142e,16424dd0-086e-44a7-9e89-2d9aa3516fb0,5095.02,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,,"Long, Anderson and Green",clothng
+ad476c1e-6eb9-4e26-8e25-932175fb4469,cf5b71c2-9776-4ab7-aae8-ccdba57b3694,31121.76,2025-04-24, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Morrison PLC,Home Decor
+366100f8-ef0f-4a44-89da-f06b77c43664,4b47624a-a801-40c6-bfac-340ba8c35a5f,9802.23,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,,clothng
+9faaf465-afe1-49e3-b539-6a006722c765,fa1c0356-f36d-42ad-8ce0-4aeb0627f5ac,3787.29,2025-04-26, pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Moore, Turner and Jordan",Groceries
+4f00e9a8-9b89-45be-a095-cd5e6462c289,6e722b84-38d3-4f9e-8fdf-c543b015d2cb,6531.97,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,,"Faulkner, Schultz and Clark",Electronics
+e0f8cd08-28a5-47bf-816c-50656891cc18,e7c9ba3e-5b21-4203-be4f-aa6caea9abff,2372.32,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,UPI,"Murphy, Riley and Cook",Groceries
+92242628-2a48-487c-ad5b-408da21a28bb,60834ecd-2f32-4b13-8af2-1dec7a0a97c1,30256.97,2025-04-25,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Potter, Thomas and Aguirre",
+72ab4599-53d0-4efa-a48b-7d4fc72f0838,7ce3304c-28a9-4672-908a-c854bc023376,9913.05,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Dougherty, Robbins and Macias",Books
+b7b58b6b-d1ed-4caa-8a50-eb5debfbddbf,793c5151-2a67-45d1-b62b-b5c79b11ad70,33490.76,2025-04-21,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Fleming, Mcdonald and Lee",
+40d945ad-3daf-4664-ae10-5c7fac067d97,e0b79d4f-e00f-428c-805c-1d50a3562ae7,9973.06,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Sanders-Williams,Clothing
+4c5ae8f2-f4d7-4cb1-aff5-95ef19a2205c,62e6dc71-be5f-491a-ba97-127c997886b2,707.65,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Williams, Gray and Palmer",Home Decor
+8c848b87-d052-47cc-808d-21ad2b36e4fa,bf079afb-bd23-4109-81fb-fe6062d85378,6577.25,2025-04-27,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Boyd, Ruiz and Whitney",electronics
+f8cc0912-4597-4fea-ab5e-7d28f78b4911,fc27a40a-e4e5-4ec5-9aa4-63a940260562,7922.3,2025-04-24,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Molina Ltd,Electronics
+a667171e-c25d-42c2-8bdb-3d33ef65665f,5c37cf51-9f69-4eb3-a8b9-4e79ad038ee8,8995.19,2025-04-22,,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Krueger, Howell and Nguyen",Home Decor
+aacefec5-3ac3-4702-9630-80bdccccef95,d99fc8bc-0c0b-478d-85e8-177b4cb8db29,5221.8,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,,"Perez, Rios and Melton",Clothing
+0714ae2c-8b61-4fd3-bf61-01dc8b61f2e7,bdbf633c-944d-4520-a521-797d1f0dda22,1092.55,2025-04-23,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Harrison-Richards,electronics
+d523e33f-a539-464f-a29d-c738cdf3c682,7e7422ad-3417-4d86-ab1e-53d0ca3c8020,9571.45,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,,"Montes, Wright and Booker",
+174fa387-009a-412f-8e9b-05f68d109648,2862763d-e06c-44a0-ac67-2016c6a11860,48050.19,2025-04-22,,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Jones and Sons,Books
+5df7e09e-c3ae-4ce6-804c-f40018865cd0,a08f1019-0182-4a71-87f4-d1b32e2d6b83,3493.16,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,Cash,Carpenter LLC,Groceries
+ed9d3f55-12bc-4bca-b75c-19d226e31522,d372c755-d04d-468d-be0b-b12b31e184c1,8019.36,2025-04-25,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Wolf, Robinson and Jones",Home Decor
+8da5eeec-97f9-4128-813f-34a6c49d2d2f,7c2b3233-2aff-4703-945d-5af32d6c4277,7580.19,2025-04-21, pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Sanchez PLC,Books
+7be14c6e-6d2b-440e-aa46-91299845187a,1cc60b2e-d570-4cb3-88f3-6be02ff2bee9,3668.64,2025-04-23,FAILED,DEL-CON,ConnaughtPlace,Delhi,CASH,"Bailey, Smith and Charles",
+c5f5e449-a9c0-4ba4-9901-c43b3eb0c6ae,,566.16,2025-04-26,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Reid-Ross,Clothing
+03848bb1-b073-466e-b28e-90e293468a46,b0b4f9ca-0175-434a-b2fb-e76e01ff5912,2581.06,2025-04-22, pending,DEL-CON,ConnaughtPlace,Delhi,Cash,"Perkins, Cuevas and Goodman",
+de6af3d3-604f-44ae-b681-80b9f382fd30,e231f54b-f5a0-48ca-97c7-fb2857beb416,7955.72,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Crosby LLC,Electronics
+fdbe7b27-41d6-45fa-bd0b-950b8793cfe4,82a3df65-dd26-4ae5-88be-93a637fdefa4,2263.0,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,Watson Inc,electronics
+7e28fecf-b802-4430-88e0-abb450079cce,1d8243a1-9e6a-49b8-af73-f6194df01adb,6440.28,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Bray-Brown,clothng
+,73c31f07-8d6d-45bf-b0a0-95feb72d114f,8809.49,2025-04-21,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Webb PLC,Clothing
+,087e66ee-e7f7-4fa9-afb6-4e19f7a50ed9,8406.89,2025-04-24,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Williams and Sons,Books
+b80ff022-bb97-45d9-bdc3-74f1a8234f22,de9c25f6-dc6d-4ce2-8279-c042850964b8,9561.28,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,upi,"Harris, Burton and Bradley",Electronics
+34740344-d65e-4e58-adc0-ac551d31350d,aa8346f4-6164-4c5c-9cfe-57922af06f48,7781.71,2025-04-21,Pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Brooks PLC,
+2d8e0785-36f6-4ffb-b5ce-eed1ded4cdb1,8bdfda2c-1379-47fb-b2a9-2e7343ea9c5b,2800.65,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,CASH,Vega LLC,Groceries
+6266c153-736c-4975-b61e-3c082fd8d346,a7d18255-25c6-416c-9c66-f44b29016181,4691.29,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,,Davis Inc,Electronics
+9062459f-77a2-41ae-afc8-7d0019463fc9,2a665ac5-4a46-4ec7-b9bd-6cd858a895b0,7663.85,2025-04-27, success ,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Lewis, Zamora and Snyder",
+c1e8c0fe-bfd2-4f5b-99fc-d17006cd7193,816ad9ff-7228-4d1e-a6a0-d0af155c6768,83.09,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Pratt Group,Books
+8979fc5a-bdf1-4452-944f-6578cb6f3282,f3fd6005-22bd-41e5-bca2-85746953c586,9915.96,2025-04-21, success ,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Flores LLC,electronics
+dfea8fa7-65a0-4803-81d7-ecfd3055549c,6eabe256-2b56-43ac-8106-f51741afda69,7254.44,2025-04-26,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Chan and Sons,Toys
+92c886e3-9d62-4d81-8a71-99262bce4a13,af8e966f-7bbb-48e1-956b-5afe4c8281db,5614.32,2025-04-25,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Davidson Inc,
+030d8eee-ac78-4213-b207-4bcb486d00d2,13ddd5b2-3287-4958-8abc-a3205c6b69e9,15554.32,2025-04-27, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Maxwell-Brown,
+5285a7db-7286-49db-8708-2f9757bc5663,8711f4ed-00ac-47dd-91d9-c0f4cb9d138f,5709.25,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Flores, Kelley and Gutierrez",Electronics
+3b913c6b-0ff1-44a2-b253-21827d488d20,4020fcf1-8113-4043-bf1f-6e27c81b77a4,1036.04,2025-04-26,Failed,DEL-CON,ConnaughtPlace,Delhi,,Bishop-Williams,
+b9e02fb5-a7b1-4a59-8f23-4f2401c6a550,a6815fd9-0610-48a3-bf06-38b23a2b3540,4332.59,2025-04-26,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Nelson-Phillips,
+828b39ae-ef0b-471f-96f9-5d200a538f38,b7c76342-53e2-4216-926a-0ccb3b778820,4345.17,2025-04-21,Failed,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Jimenez and Sons,Clothing
+a4285cc0-745e-43fd-aac0-6056711e20c3,3e0c4383-7154-40a9-bb5d-db14984e2ee1,72.61,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,Cash,"Lopez, Johnson and Bradford",Books
+2164429b-3c7b-49d2-a863-f06e8c11989e,1709a4cc-1ba1-457c-9c6a-ec8502c92c8c,4794.42,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Mckenzie LLC,
+3208cf27-e538-4ac1-ad5b-83b00716961d,07f1d9bf-88be-4030-a223-5617d98e9514,6835.8,2025-04-21, pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Carlson, Cox and White",Books
+1070750e-5096-4bc4-a6b6-fe310a9cf3f4,a35661d2-7814-4f86-aca6-01d110eec3d2,1926.21,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Pham-Ball,clothng
+64939646-ab15-463d-8c8c-d3c675fcc658,f06cd00c-5a05-429b-8a6f-d8d145821b5f,8892.79,2025-04-26, success ,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Graham, Dixon and Sullivan",Electronics
+16edb919-a848-4e9c-a179-2d9f31fb6b84,c911d46c-f490-4869-a4ec-88e629dcf1ed,5773.63,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,West Ltd,Groceries
+a27d01a9-4ed2-4679-8676-1e489aaa8e2f,148b42fa-af4b-4ed3-8b03-ab6e4c3a2b4e,1213.39,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,Cash,"Mcgrath, Boyd and Ray",Electronics
+ff2dea4b-198c-43e5-9fd1-ee4fe9f64460,463d6c0f-d832-42c3-b2e6-9479c0c8c6f2,6281.85,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Russell, Flynn and Morales",Groceries
+123be95b-e6f1-48b6-aa85-105e7060debd,21164937-569c-49ec-9c4a-7ef6959feb91,2030.11,2025-04-24,Pending,DEL-CON,ConnaughtPlace,Delhi,,"Ross, Johnson and Webb",Books
+1834e9cf-ca47-447c-a73d-432d91787529,54c35fcd-4e71-476a-ac13-0b4c7329666b,269.43,2025-04-21, pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Berg-Owens,Clothing
+e26224bb-2101-487d-8a45-6ebbcc6cb94e,8e1c4473-34a4-4af8-aa5c-f0fa270edaaa,6576.72,2025-04-21,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Padilla-Bell,clothng
+813aad18-73bd-428f-8e2a-592a3ae179a6,75dff95a-70bf-417b-a983-8000dfbcddde,3538.69,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,,Atkins-Chandler,electronics
+5a72bd95-eadb-40ec-9e05-51950f2f82a9,,8567.39,2025-04-23,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,"Adams, Elliott and Wells",Books
+80851f87-b570-4fb7-9c5a-d3a43c582c70,,6148.38,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,Good and Sons,
+f319a236-e05c-4e2f-9b91-2cbb9e90f178,b9897050-a0ed-474e-b707-a3ac30af44d0,7717.24,2025-04-25,Pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Kennedy, Cohen and Smith",Home Decor
+07aeec23-4143-4d71-a6b1-37b4b335049f,3e202d68-9cc6-42dc-90c9-ae4ee4ef8583,8758.83,2025-04-27,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,"Morales, Henderson and Reeves",
+c40add0d-4eef-476d-874c-5653ccc6e826,493724a0-88a1-43a4-8943-36076255f721,1499.83,2025-04-24, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Byrd and Sons,electronics
+51b037db-3b86-47f9-8ea7-116295e5b29d,cbcadfe9-6495-4116-8240-702db90bcf55,8780.27,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,CASH,Mckinney PLC,Books
+8d8809a0-bba8-4ff1-8d96-3c7f13d328fe,67bf324a-7437-40b0-a958-f1e96a932844,4676.75,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,upi,,Groceries
+,792b9356-27d0-47b7-b8a1-8c04c9fe2250,32796.45,2025-04-24,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Mcpherson-Delacruz,Toys
+4fce0d18-db5c-4c43-bc13-9d84d4977284,63f328b4-f067-4391-80c2-d62ce51bb6fc,4469.42,2025-04-22,Failed,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Christian Group,Clothing
+4529d779-3eef-44c6-b1c6-46556c93929d,43058924-1ddf-4494-8f21-385dc790396a,9743.54,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,Cash,Brooks Ltd,Books
+b0649c85-e1da-474a-8163-9896323d1faf,f8e824d3-2d53-42d4-97e7-00aafc25a15f,9288.37,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,CASH,Morales PLC,
+e30b7fcc-2e94-4a91-ab6a-41dd8e7da640,75994722-5d4b-401e-b1e8-c91437971892,8447.45,2025-04-21, pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Hill-Cox,Books
+bd7d84f1-1e00-41dd-b773-369ccc9932b7,f17bd0e1-a704-47ed-a24f-b5b4e862f7bc,5634.55,2025-04-24,Failed,DEL-CON,ConnaughtPlace,Delhi,upi,Nelson LLC,electronics
+13d6c9f7-1584-4ab5-a5b5-554aef1ba0ea,,28807.95,2025-04-22, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,Morgan-Preston,
+,915023ba-fddb-4f2b-8b03-ded943d582db,8099.99,2025-04-25,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,May-Jackson,Home Decor
+,8de0f010-a1bc-4a16-94bf-e87ed01d91f7,2452.08,2025-04-27,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,"Evans, Chase and Tate",Home Decor
+1c12b874-8173-4635-bcd5-c7e560e9a9ad,2952d269-1318-4d8d-9df9-7218e634075f,1550.66,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Irwin Group,
+a4453aba-7db9-4cff-809f-531245ea95d4,406dcb60-e6ee-4ade-ac73-81ab9c46808d,9197.77,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,Cash,Thompson-Carlson,Toys
+2c6c6cf9-7131-4c9c-bd9e-54ce8048a0be,344cd663-ba7b-4a7f-b0e0-997e40d0cd24,963.59,2025-04-24,FAILED,DEL-CON,ConnaughtPlace,Delhi,upi,Pearson PLC,Toys
+7eef8777-e1d4-4def-873f-77499e4a4adf,91e63e52-a528-4f17-83c1-a61a5fe98889,865.11,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,CASH,Allen-Smith,
+1e85d0fe-cf3c-4565-90ea-e82376f7bd95,f1a172e3-fb48-4114-9e5b-841e42d6d4e0,1083.83,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,,"Robinson, Ramirez and Stephenson",Electronics
+e5ceac23-aff7-488d-aada-d07f2d6b89e7,f5365ad2-56f0-4f7d-8c78-b2063c0f4a5e,9335.91,2025-04-26, success ,DEL-CON,ConnaughtPlace,Delhi,UPI,"Jackson, Nguyen and Gonzalez",Books
+80cfe3a8-b966-4b76-8695-003113832214,678d70a3-4041-4587-a3eb-9ee2177f8df0,5962.28,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,CASH,Newton PLC,clothng
+,,6542.0,2025-04-25,,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,Parker Ltd,Groceries
+a2bc8858-d166-4c65-bcdf-8b990c2568f9,a1c47bd1-44c6-41e0-abc1-298e122dce9f,1382.05,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,UPI,Simmons Ltd,Toys
+1d3e4ce4-63a6-4fff-9720-6453be527a1f,cf1acb4a-60ab-4251-86c7-b7ceb9b36884,3933.36,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Brady LLC,Home Decor
+cfe28e64-e186-4212-9a39-7f619b6d4286,cbb9a251-dbb9-4911-8c89-edf225a41845,59.47,2025-04-21,Success,DEL-CON,ConnaughtPlace,Delhi,UPI,"Durham, Harper and Graves",
+024ad2d0-5692-4179-a2c1-00a009772224,c5d280a3-d979-4ce3-93d8-c83a6cbbcd70,537.05,2025-04-24,Success,DEL-CON,ConnaughtPlace,Delhi,,Miller-Perkins,Toys
+2a291ea2-e680-459b-9b83-e18b1a3543b5,ba26519b-2387-4287-8091-d90c51840bab,3486.81,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,Perry Inc,
+0d7df548-c2f4-46f4-811b-1399e8e6f528,7b0874cd-fb9b-471b-a90d-a5742fef617c,1642.0,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Hebert, Oliver and Perry",
+82ed9064-dc2c-47b7-b655-5f0ffeba4f18,2237d235-a38d-488b-ba11-e6edf640a7f7,2179.72,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,upi,,
+,,8170.62,2025-04-23, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Spencer Inc,clothng
+9dfa37af-b3b7-45ca-bf5e-4ff443a76d69,5f368532-2419-49f4-8b9c-80b58c49767d,12720.13,2025-04-21,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Montgomery-Hines,Books
+a2fb82ac-d07d-4f25-9ac1-39819e2dcf10,81586381-73e1-4f75-b703-8debc0a0b284,9463.51,2025-04-24,Failed,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Johnson Inc,Groceries
+15b3f743-4931-4526-9144-5386a5b78134,22ec1704-450a-4bd4-9690-d790473c58b7,5968.35,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,,Smith-Alvarez,Toys
+3f272313-2b69-46a5-bd03-b18ad799aa72,ead7dce2-8883-4ccb-980c-800cb49f5b16,40229.19,2025-04-26,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Higgins LLC,Books
+84d152f0-2b6e-477f-9e43-46e0942d3c49,52725ab5-d7d2-4399-ad36-1cfdb462ad76,3036.69,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,Cash,Hester-Keller,Electronics
+e53859fe-369d-4496-afd3-3a32b2914526,,4320.11,2025-04-26,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Hubbard, Gordon and Watkins",
+7fb8baba-507b-47d5-970b-2c060759d9d3,a8fad545-781f-4259-9324-e1457a550fe5,8501.42,2025-04-27, success ,DEL-CON,ConnaughtPlace,Delhi,,Price Group,electronics
+b84ac398-4fd7-4fe5-b813-6d65040ffef4,5e74efd0-0a55-4c67-9986-4475a03025d8,1302.61,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,UPI,"Nelson, Chambers and Garcia",
+d13b1782-47de-4b59-8599-fa1b01231ab5,0e40b45c-91de-4297-bad9-c5c5d8d36103,2594.26,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,Cash,Dudley-Hamilton,Books
+87de82bf-2224-4593-9fe3-fe670681b46b,a1f6e1f8-8d31-434a-847a-cb1c5b064923,450.57,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Chen, Reyes and Moran",Electronics
+36237d90-6b4d-41ff-9e0e-0838dac6b768,77cf0adf-ad2f-48f1-8ea8-356c5b732fb9,458.01,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,UPI,Knox LLC,
+2be1bb09-cc15-4371-94f6-95edd862fe2f,801ac91b-16ae-49bb-8e93-a664164a634c,7990.63,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,,,Electronics
+a9cd164e-2a4a-4149-a3b1-05a82128eb08,d6a55625-4f90-4f63-a133-565c2303e156,8696.95,2025-04-24,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Fox and Sons,clothng
+9519fd53-5861-46fe-8705-3269dac76b00,595aad49-8070-4506-8f96-2dde4b1be774,6043.37,2025-04-23,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Sullivan-Allen,electronics
+a412a983-46c3-42fe-8d15-191f28507334,74021562-c5db-4032-b87b-2cae3e820f4d,341.52,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,upi,Morrow Ltd,
+ae8ab2c4-ebd0-4c43-aad7-dd07e4fe920f,c6295554-c600-4c28-9cce-35b5ed317a02,7509.58,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,upi,Kemp-Tucker,
+cffa9d71-8f64-4bc3-8083-8c1fdc1638d7,5a454a59-ba0c-4750-8c84-e414bfde37e0,2957.59,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Jones-Jackson,electronics
+be959b22-d159-49b5-b02e-9e7154b9a61d,6b57d09a-4a5a-4355-9456-d1c78d01d74f,375.3,2025-04-26, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,"Singleton, Williams and Keller",Clothing
+2b7e65f2-c5da-4a55-931a-5956ce30f80d,7af497d1-da17-4b37-a865-7abeda233c03,4611.8,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Hill, Jennings and Abbott",
+297ff1b9-e09b-462b-93e7-c5c46d984594,65bc9033-9fc9-4ed7-895a-90973582b335,7641.85,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,,Gregory-Richards,Electronics
+0d80107d-9dd6-4a31-9051-3cfcef8186dd,395cafab-d1e7-4b50-8f6a-9d0b2467d181,1644.34,2025-04-27, success ,DEL-CON,ConnaughtPlace,Delhi,Cash,Adams-Kim,Electronics
+c275add5-4321-4314-8f6d-e5ab0f10ca9f,b6e962b3-9202-4568-97ad-564d16f505ac,3343.68,2025-04-21,Success,DEL-CON,ConnaughtPlace,Delhi,,Campbell Group,Toys
+7843ddd8-51e3-442f-bd63-40269071800f,d64fe4e2-38ac-4bcc-91f6-3ceae391bb7f,1439.34,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Jones-Kaiser,
+dee94590-9bb7-4369-b10b-f194acfba745,3f667fc4-b497-4f68-a007-9b3d7b6939aa,9639.11,2025-04-25,Pending,DEL-CON,ConnaughtPlace,Delhi,upi,Gilbert Group,Books
+b9179626-217e-4b9e-8ff2-6dc71200b1ef,05926d6a-2ae6-44ae-bf72-407f6f33ee6b,3202.17,2025-04-24,Pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Dixon and Sons,Electronics
+3efe4d6b-ca64-4d81-a5da-f73e05bd72f7,68599322-e298-4b77-8372-33533459a938,4221.79,2025-04-21,Failed,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Rose Group,clothng
+72e619ec-3058-4484-befb-93f5868c3779,a694bbcf-2df7-4554-8572-917324d823b3,4165.99,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Barajas-Orozco,
+b108fffa-37f0-47e3-a8b4-fd7d3047af91,1a37846a-496f-4b15-8a83-5b6d81f15677,1873.02,2025-04-21,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Miller-Wilkerson,
+3ec60206-fe0c-4fed-8c5b-672d62749e7b,bcec9729-d409-42d2-bc44-347f33cc0e85,2287.96,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,Wagner LLC,Home Decor
+8775c84a-163a-4696-8807-f4b64ab859cf,6b6d7981-3ff2-459b-8d26-0cb8a66d4843,1511.54,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,upi,Ortega Ltd,Toys
+eb040943-9ada-4cfa-a165-e72a041191dc,78a240a9-38f6-429b-9650-3cab32ffdacb,4319.61,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Williams, Moore and Kerr",Groceries
+ee075a69-3d83-4f76-9491-f0b6080ad1f4,f9f8078e-b990-40e2-bc4b-3a5d6a5e7b6d,19893.38,2025-04-26,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Ayers-Logan,Toys
+6a8173fd-da72-420a-bd7b-a80674759919,74c59b86-f442-49b1-83e7-13295791c5ee,5330.14,2025-04-25,Pending,DEL-CON,ConnaughtPlace,Delhi,upi,Kelly-Evans,Books
+35414748-0ee4-45de-a2b8-55de9e132b4f,,28862.6,2025-04-24, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,"Rodriguez, Rivera and Valencia",Books
+c582330d-5bb4-47bf-b3b9-0c474007c07a,1b9defd3-1c6d-41e2-b8cf-8a35bd344352,5952.78,2025-04-21,Pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Reyes and Sons,Electronics
+3496a311-5f18-40a9-90ac-a19b92fea908,89902d72-0c9f-4dca-9294-f2903c2b8927,4061.2,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,CASH,Vazquez and Sons,electronics
+150e0203-e0f7-4b39-b239-f182a71df9ab,bec5e361-adc0-43cc-9d7f-489334adab8e,6322.11,2025-04-21, success ,DEL-CON,ConnaughtPlace,Delhi,Cash,,clothng
+8520214b-a7a2-401e-b94b-43fb4fb3105f,c9144b12-bf28-4350-961b-c402509d59c4,9078.29,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,upi,Johnson-Bennett,Electronics
+ccdf321b-237c-4e70-aea2-57c20471f6f8,62b099a5-03a2-4cda-ac2e-9bfacbaf30dc,9284.68,2025-04-26, success ,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Love-Flores,Books
+d32c9257-bf10-4b99-9f90-54bbffc35d02,81cdb300-d0a1-44af-8e42-fce04c052884,1405.59,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,CASH,Moore-Cantu,
+f58d1036-6b89-4a2a-ba84-38aee78b4bb7,3ea392ca-fbec-4c6b-8fff-270649204e3e,9991.55,2025-04-24,Success,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Taylor, Terry and Conley",
+0df5cb67-3fce-4aad-b41f-e5479432b7c9,0dbdfa9d-4828-4e3e-9548-28932c9c9fbd,7424.42,2025-04-26,Failed,DEL-CON,ConnaughtPlace,Delhi,,"Murphy, Woods and Jackson",clothng
+285debd6-0898-4462-aaac-9b8e2af0461c,c6654dc8-cc2f-481f-bd93-2d553a9885a4,5109.21,2025-04-25,Pending,DEL-CON,ConnaughtPlace,Delhi,,"Harvey, Gibson and Tate",
+2e44c25f-8bd3-418c-9fce-2822292ab70f,fc8258b2-87dd-419e-83b4-25918979ae2a,9356.83,2025-04-27,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,"Shannon, Vargas and Zamora",Electronics
+f5fb1202-f426-4ced-96e7-6c80b7e42489,5bb56304-9a75-4bfd-9484-cc454cd704db,2176.07,2025-04-22, pending,DEL-CON,ConnaughtPlace,Delhi,upi,Shelton-Cook,Groceries
+b4f560bd-bfc7-4533-9135-4e889516af25,5045f270-46bb-4fc7-957f-8096b34cd20f,8713.11,2025-04-25,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,"Cooke, Murillo and Reynolds",clothng
+3cfe61bc-24f6-406b-9249-3784c477f2be,07b95f1f-0182-4e50-958c-bdacd31d5681,7297.6,2025-04-24,Pending,DEL-CON,ConnaughtPlace,Delhi,,Schmitt and Sons,Groceries
+fa716cac-27fd-41c9-9f7e-65404d9bd420,bcc7281e-da93-4145-a0fc-c819e044911a,3626.65,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Simpson-Diaz,Toys
+0263cf5f-e3fd-430a-be63-cfbe4172020e,968215e6-808a-4c8a-91b2-4601c9972cff,2802.72,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,upi,George-Reed,Groceries
+af52b383-e4ae-4c27-9ffb-bdcc0b888619,,8068.25,2025-04-24,,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Hayes-Williams,Groceries
+c0e06982-add7-48f4-9db6-787feeedf607,24ac36be-7d76-4497-ac6b-be963a7fa0af,2601.57,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,UPI,Paul PLC,clothng
+cc26219c-0eaa-4f12-8721-c240b29b13d4,13a3c73e-aa81-47f0-8f41-1f39b0f1fa70,4236.19,2025-04-26, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Mccullough-Johnson,clothng
+4514deee-3dc6-486e-becb-2144a29f76cd,0afb0781-6c61-4b10-99c1-ef9db3783d65,3692.2,2025-04-24,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Gutierrez and Sons,
+bf1c67c6-0338-4c8a-8c4e-7e58a9e32c17,20a403ea-9e3a-4dfd-9660-34227cc17b10,1306.95,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,,Mcclure-Bell,
+7ce02e4c-2d6f-48b6-97d0-ece952d85832,2ddee2cf-a5c8-4b37-89e0-767a58664c20,8271.23,2025-04-27,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,"Dorsey, Sawyer and Booth",Toys
+664d0285-c123-4fa6-8fc1-a32fc2a1c1bc,808b2611-e62c-45cf-aff0-a89f7d692958,6989.18,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,upi,Chung Ltd,Electronics
+e26f60c9-e842-42ed-ac43-7ffe0d5ee78a,821234cf-ef7f-4900-8564-c1336429b70b,10107.48,2025-04-21,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Howard-Mcdonald,clothng
+d5fa5142-5d63-477a-9339-d570b14c2e0f,14b931f2-6a99-426d-ad66-5a016a771a9a,9590.99,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,Cash,Castro-Aguilar,clothng
+90cff4d2-0b0b-4cd9-baf8-75054d302957,bf0b7aae-ef29-4e5d-abaa-fc703d50c7aa,1589.19,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,,King-Fowler,Books
+5ed8d093-e1f2-4d69-9194-a2fd57756632,69cf6200-b213-4031-9e92-36cf50470347,2634.09,2025-04-22,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Robinson PLC,
+3018e214-fbf1-4ea9-aa52-cfdc558f8562,e80339dc-42c3-4adb-a1b7-043c2ff7306a,8549.45,2025-04-25,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,Dixon LLC,
+113f8d7d-6772-4fb4-9b63-cb406519e771,f2e4400d-14de-44ee-a0ef-d02297ecec56,1081.81,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,CASH,"Fletcher, Berger and Hayes",electronics
+8edbe792-4fd8-46d8-a458-e273bd341081,e09a5dea-b320-4670-8282-fd05d6e9e765,5783.75,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,Cash,"Tucker, Torres and Olson",Books
+a0a21284-81e9-484e-93c8-7150c0f02458,bd518fef-6889-4a28-bd8a-fdc99b44b13e,2958.16,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Armstrong and Sons,clothng
+7ea21411-297b-4699-98f6-0e100ef6ea60,b5683693-4286-4402-8d0b-1341a081662d,3470.1,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,,Duncan-Rivas,Home Decor
+58f8af4e-c30d-4b0d-ae30-b8bb2ee65b00,141de4d1-bb55-4617-903a-e711d04ee137,3536.63,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,upi,Anderson-Smith,Home Decor
+4814ce7c-7b90-45dc-a257-33981ed92dca,b7eef510-eaad-4a47-961e-f83b67c61987,7058.82,2025-04-21,Success,DEL-CON,ConnaughtPlace,Delhi,,Freeman and Sons,Electronics
+9b1ecc2d-c0ce-49b9-9ba0-9720f918455b,809de93b-d353-4992-9217-4d2f17297cc3,4300.23,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,CASH,Owens Ltd,Home Decor
+862fb417-d63c-4eaf-8458-c132a6ce504d,39e9b2a9-588c-4e05-aad7-e7d35ce1d22a,5639.82,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Fisher and Sons,Clothing
+69c94fc0-0317-4354-b151-64082c7ca24c,786f67f8-6acc-49c9-992a-0eeb3045ac44,2710.79,2025-04-23,Pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Doyle, Henry and Brooks",Books
+2a8c2b0a-4a11-4d95-bb3d-b96a9eceb743,4f340d8e-8555-47bc-9ba4-f510c42f9691,634.91,2025-04-21,FAILED,DEL-CON,ConnaughtPlace,Delhi,Cash,Lloyd Inc,electronics
+090bb275-b5be-41a8-b96e-8963d68d746b,28cafb6b-be97-40e5-9aea-c80d379313d4,2484.07,2025-04-26,Failed,DEL-CON,ConnaughtPlace,Delhi,UPI,Smith and Sons,
+2c92c826-8615-430c-8459-6b6d4efc5845,dd685774-4dfa-483c-b1ca-0be9b59e67cc,8791.11,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,,Goodman LLC,Electronics
+3ab1534d-b981-4055-aefa-8e4e20985aac,69c4b61f-d6cc-498d-976f-3527c97be1ad,4103.97,2025-04-21,Pending,DEL-CON,ConnaughtPlace,Delhi,UPI,,
+b0c4bb27-83cd-478a-8e89-bf1c1dadf961,f720a35d-034b-4b25-a6b8-1db9c0b739f3,4908.03,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Smith, Cameron and Vincent",Groceries
+952b4799-b849-4cf1-b41d-12c5ac2f746a,fc26e00b-aa8b-4afb-816d-6a1a545b1bc0,2952.05,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Stanley PLC,Clothing
+a6418f79-eb21-48f1-b32a-ba4755b820c4,1067374b-dfe7-4d18-aa24-eb01f7bff429,2459.91,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Rios and Sons,Clothing
+77753e37-141f-43f1-8319-8c1380a4ed6d,07af644a-9a57-4b3c-8b90-2e507c03625f,614.59,2025-04-23, pending,DEL-CON,ConnaughtPlace,Delhi,upi,,Books
+628b4844-6c84-40fb-a42c-b185a336565c,a6a374d9-646c-46f3-ba81-481e64aba2d7,970.62,2025-04-24,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Thompson-Jones,electronics
+f39fcb52-6a05-4569-a88a-a28e3f0b1c87,83f2ab3f-94de-40b5-938c-ef33d95b572d,9574.73,2025-04-24,FAILED,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Smith-Harris,Books
+0c9b8a6d-9c71-4d46-bdc8-2ba2af12011a,,2746.19,2025-04-23,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,"Beck, Ramirez and Kaiser",electronics
+5c795f86-7d95-4b0d-b994-0503d52577e0,b04137d5-a208-49ba-9854-4a1737fd3976,5636.24,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,Cash,"Newton, Keller and Moore",Books
+204affea-57cb-40a8-bd59-0275403d2d9f,f3ee3fee-72be-42b6-b074-3f1bd86db68a,3020.93,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Hayes-Garcia,Groceries
+d033e058-0c24-481f-97a1-3562a1a0c5de,bb48ee3c-c89e-47e9-940d-a43dce659f82,9760.42,2025-04-24,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Wood PLC,Home Decor
+74c1be74-0fc4-450e-8e31-e669746c1f35,b37550bb-2034-49a8-912a-c680ca28e2e8,4767.93,2025-04-25,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Hernandez-Sweeney,Home Decor
+8ab41c5b-cba4-4938-8ac7-b72f9f61c06a,5b04ab99-8020-482d-927e-e8b19a87a83d,5215.31,2025-04-22,Failed,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Greene, Wagner and Romero",Books
+0104af2b-e8c9-4331-ab53-db56e643134e,,16109.0,2025-04-21,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Martinez-Matthews,electronics
+44abd1aa-69e5-4ab5-bf24-9179711461c3,6663b1fd-3eff-40de-96d9-539c930838c1,31295.84,2025-04-22, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Vincent-Alexander,Electronics
+8215b86a-233e-4589-98ac-4a0ed6d234b4,f5745d4a-2aa1-4851-bec0-2849e6f8498c,9094.01,2025-04-22, pending,DEL-CON,ConnaughtPlace,Delhi,,"Arroyo, Potter and Rodriguez",Groceries
+a8139699-53ea-4387-a7cf-a32b914778f2,90450a45-edd0-430f-b55b-f7df44d635b5,5900.47,2025-04-21,FAILED,DEL-CON,ConnaughtPlace,Delhi,,Hart PLC,Clothing
+c758a01d-9495-4c71-8377-61e0db191a23,da3aa25e-abc0-4be6-b090-f5384be7982f,4288.66,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,Cash,"Garrison, Ellis and Bass",
+,65247b14-dd0a-4bc4-a8c6-85eefc9bca74,5728.14,2025-04-21,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Keith, Sellers and Herrera",
+57061281-a015-429e-97df-f89e6fda9a90,f4e4c5cb-bc9e-4cc5-86e5-c9a504367209,8810.46,2025-04-21, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Jacobson, Rosales and Terry",
+6678b006-b863-4715-98bf-f12f98268773,300087dc-83fc-4936-b18f-c456beac2657,2365.05,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,,Elliott Ltd,Groceries
+,c395a5ac-c8c8-4153-bdc2-61b4f914d262,27278.63,2025-04-25,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Sherman, Reyes and Smith",Books
+48e724e4-c7bb-4252-9444-b5f81df52cb0,75ad3c06-a31a-45c4-a77b-e5e216430826,7825.04,2025-04-21, success ,DEL-CON,ConnaughtPlace,Delhi,UPI,Reyes-Hoffman,Home Decor
+68e633a6-3ad0-482a-abdd-e79c53c20592,7e231150-87f3-4566-b499-e4e808ca5a76,2918.95,2025-04-27,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,Carney Group,electronics
+,23cd83af-ab3f-4c5d-802e-fe4422c495ce,7388.72,2025-04-21,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,House Ltd,Toys
+8c93f3f7-f097-4270-8cf2-d92e36f43a3d,286ef90a-1112-40f8-b189-683d19a6914f,1453.63,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Williamson, Foster and Woods",
+,29f4cfba-7160-4819-b847-6730fa7f14d6,5890.95,2025-04-21,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Lucas and Sons,
+80d76c46-400e-48a4-863b-75c14b94b930,6015f8e4-e554-47c1-bca7-4018394a38c5,4189.14,2025-04-25,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Webb-Stevens,
+b24f195c-a101-44b5-944d-58b219c392b5,a8cb54c3-67d7-4d7a-98f6-359000a484e8,3564.24,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,upi,Trujillo-Combs,Clothing
+68753423-96c5-43c7-b19c-016cd8b51dca,51514c47-08b2-4461-ba72-ee507d36df8e,31610.17,2025-04-24,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Cardenas-Harris,Groceries
+40526aad-6478-4b55-936d-d4ff3e760bb2,9720c1ba-0171-471f-98d4-7d41b9ce3c5e,5346.43,2025-04-25,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Huerta-Shannon,
+bf0b24c8-7ec2-4db7-885d-b755a75f98b2,a93ca126-b7fb-46e0-bdb7-dd9bf7881d98,35086.69,2025-04-21,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Holmes-Shaw,Electronics
+d98ec79f-0ee1-4330-9fe0-03e188a71b2a,fb2427c0-365c-4100-949c-afee292c05f0,195.22,2025-04-22,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Ponce and Sons,Electronics
+6b692546-e1d7-4508-96d0-95326c23d304,fc042db2-45a9-497d-90f4-e18b20b62ec4,24393.99,2025-04-27,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Kline, Parks and Elliott",Electronics
+039dfa20-4e4c-4439-8d3f-69818403a4dc,4b3bcc25-c792-4699-9733-1a6bd973552a,8797.49,2025-04-25,FAILED,DEL-CON,ConnaughtPlace,Delhi,upi,Collier PLC,Home Decor
+bbba9254-c4c0-4601-b783-3414c997175c,1201c616-068c-4bff-8a77-75af0353b678,6726.55,2025-04-21,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Hayes PLC,Home Decor
+41f43f35-51fa-44ee-b02c-ddd281a7e180,c21e65ac-eaec-4c66-b0e7-34ce647a1cb1,9138.29,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,upi,"Parker, Crawford and Sanchez",electronics
+3b62da24-928c-4aba-80d4-2bd166e1ed47,f82bb285-a2df-4b1e-92e0-75f2d1fdf3a6,3802.87,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Munoz, Garcia and Rodriguez",electronics
+9342f3eb-f241-4a41-9165-9f1b87f815f6,860f9df6-1153-45bf-bf70-881b60c23031,13.34,2025-04-23, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Rodriguez Inc,Clothing
+eeb94773-2037-410a-8b36-056559a39d2e,40cc69ef-a32c-476a-8aa3-f160a9091f18,8449.09,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,,Mccoy-Garcia,Groceries
+a7fdbdd1-953a-4bfb-a72a-6c39f76ae8a4,5a76a315-c175-4cf3-b241-f4f00ab6a7ed,5350.21,2025-04-24,FAILED,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Smith, Carter and Stanley",Toys
+2e72efd7-d360-45f9-9024-4401485e2f0c,9f1730cd-72cf-4214-9091-4ba150426c91,6499.44,2025-04-21, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Vega, Wolf and Taylor",clothng
+7299bb11-b5af-4736-8ad0-55ae8ecd6d69,77dfe63b-fcbc-4cb9-ab32-648fadebefda,8129.76,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,UPI,Johnson-Chen,Groceries
+ba587f10-d76f-42d6-aa52-52c8d4d608b4,51f76592-f01b-4963-93c5-e8ca8609e0dd,8434.67,2025-04-21,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Norman LLC,Home Decor
+906dc63b-3663-4891-a5cd-6b4b044621ae,786b203e-f949-41a0-916f-68179ca516d6,7095.52,2025-04-27,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,Ferguson LLC,Books
+,,6363.11,2025-04-24,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,"Lyons, Lee and Rice",Toys
+3d2331be-684f-4293-b251-4a4682b251f1,91878942-c198-4ea6-b0c9-eab0293c8915,8298.85,2025-04-23,Pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Hanson, Sutton and West",Home Decor
+c08a5124-6284-4fe8-ae2c-1b81022e983f,2ab64bad-8282-46bc-be0b-087a61c2d66b,8782.61,2025-04-21,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Martinez-Mahoney,Electronics
+53615570-8d09-4751-9470-b6248f2a61c0,d32cdaf0-3927-42d8-b8f3-44d11e021d08,41488.88,2025-04-22,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Hess PLC,clothng
+700e0065-5753-4760-8e75-7fbe6a3ae864,d79b788e-67ef-4243-b2f6-ab54d446ff77,4817.98,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Jones-Taylor,
+d0134e67-dfb4-40bd-8840-8d88b44ffb05,9b559dd2-8d7b-455d-8f05-d5d9aa366c3a,6318.72,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Baxter Inc,Toys
+f85a0197-87d9-4b93-a7f5-37f6ebff7ffb,51d0a242-71a4-468e-bdb0-59d1fb897092,2948.06,2025-04-26, pending,DEL-CON,ConnaughtPlace,Delhi,,Johnson-Gordon,electronics
+3cfc7354-2f8a-42c0-a87c-4905c09d62be,358f0fc8-034f-4ced-9601-83c2adf8a9c2,3819.88,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,CASH,Gray Group,Groceries
+9839e643-1c5b-4b3f-bb6f-c9b487a53205,442b7a2c-2b74-4593-a4b6-614fdf35bb44,2924.39,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Mcfarland, Gray and Peterson",Electronics
+3078c642-106b-43b2-b720-2dd8e164d172,938107e2-4824-4d07-a7a5-e874ec65d11e,6327.85,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Gould-Wolfe,electronics
+4f261681-bebe-4a42-b1c3-26c01841305e,5b3cf9fe-73de-4685-ba97-d80450fca476,8746.11,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,upi,Ramos-Turner,Home Decor
+cf958494-ad8c-4971-8c13-66e8ce87f4f5,8826e7b4-84a9-4794-92d7-6444f2fa7c48,3225.97,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,upi,Taylor-Barnes,Toys
+92cd4a06-9a81-473f-b2b9-5927d7f86146,1cccec5d-b50a-4ebf-8c6c-810df79691bb,385.73,2025-04-27, success ,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Vaughan-Gill,Books
+508e7f13-1cba-4396-91a5-b29a1a5fe46b,e4a5c9c4-79f0-41d3-aeca-b5d0bc5e4371,7339.4,2025-04-24,Pending,DEL-CON,ConnaughtPlace,Delhi,,Stephens LLC,Groceries
+6d85efcc-75bf-469d-91dc-3fb51316de55,7e93f9de-6ba3-414c-bc6c-5e7c496ef277,2370.32,2025-04-21,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,"Richardson, Guerrero and Potter",
+025de8b8-8834-4d4c-bd6a-6562d8af0727,33c83423-8b6a-4701-9bc7-f652f8764c84,6177.15,2025-04-27, pending,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Clark, Jones and Aguilar",Home Decor
+b3da2bee-52d8-4a77-af15-3e8f42596a86,7c204d12-c268-4e39-ad6f-29a60f7f0d86,3479.32,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,,"Benton, Williams and Dorsey",
+e663074d-bedc-440f-bf1e-2b914c980eec,b02aa367-33e7-4548-a077-6e1558171b35,8382.68,2025-04-23,Pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Waters PLC,Electronics
+,9fa8b479-4cf7-4d96-be84-897c26963ba4,11997.47,2025-04-25,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,Ramirez LLC,
+13bed02f-56c8-4221-8db8-80a473bae147,dfb0aef2-e171-4e4d-9d13-475151194e38,1698.25,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,upi,"Ruiz, Moreno and Cisneros",
+8910ec5c-313f-471e-a705-8dfa222b88d5,a3cc4e45-d2ea-488d-81ef-34ff8b3e13a9,3967.17,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Ali Ltd,Clothing
+25354142-e872-4d9e-9fb5-0929bd2e2920,1c2f9ffb-60a6-4432-96b3-49cf76c7de99,4731.9,2025-04-27,Success,DEL-CON,ConnaughtPlace,Delhi,upi,"Powers, Mejia and Espinoza",Books
+a1c6a354-e8c6-4677-82e1-3537b02214a6,76730d11-ef7e-401b-947b-3f4a60b9b40c,9569.59,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,UPI,Butler-Trujillo,electronics
+37318eda-ff66-4f94-a46b-a2a0f3e27bb3,3588bdf7-064b-4b81-b82a-22a2a1f1c440,8554.48,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,UPI,Curtis-Ramirez,
+c0899405-71a3-450c-81e6-911f8f6d9e14,69c80208-2f77-4d64-b1ef-ba3fdec96bd4,9610.28,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Duncan and Sons,Clothing
+9c577fdd-cbe9-4838-9f73-440aeb027c2f,9268c73d-b951-45ec-adc9-510727af31ec,5299.41,2025-04-24,Pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Ingram Ltd,
+f6682131-eee3-4535-acfa-bcd0f687f303,82ab748e-23b6-42c3-b911-4cb2b3a2776e,4510.92,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Lopez-Allen,Toys
+bb7aeef7-de17-41e3-802e-4222946b835d,5c4bbec1-8075-490e-a953-dea618445d16,5955.12,2025-04-24,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Richardson-Brown,Groceries
+517bf372-2a08-421f-9ce8-12828a062575,e347f95a-87a3-478d-a5c5-3ed089ecfa0c,8021.25,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,CASH,Green Inc,Groceries
+58df3df6-3b74-4d05-a3fa-72650d19364d,33f9776b-072a-4b8c-b983-2fbf66ff8fe3,1768.09,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Hernandez, Wells and Nguyen",Toys
+025283ce-9cc4-4dd8-9eff-00844d81faed,945ed3ef-725f-4d6f-bbdd-d9cf4ef022e1,566.48,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,,
+716a569f-5c3b-4ecf-a15b-8f41f3835772,cb0f88af-d40c-4c1e-ad37-c6a719aac0a6,2349.9,2025-04-27,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,"Reeves, Pena and Davis",Clothing
+cb339b05-bd38-4791-878a-bc0f25d38ae0,6af6a9a5-8646-49ae-8f47-5b4b5ddf22d6,3089.29,2025-04-23,Pending,DEL-CON,ConnaughtPlace,Delhi,CASH,"Russell, Herrera and Cruz",Groceries
+4c4d6aa7-35d7-4e5d-a007-0063f5ddcc01,af6abe30-0cf0-4d6d-a2f8-4ed870316939,3373.89,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Thompson, Smith and Jackson",
+2d55fd64-707a-4a47-8b5c-27f15c8b4dd8,a6ac512e-ca9a-489d-9915-8a3d854a518c,9999.28,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,,Owens-Golden,
+13fa0b22-3597-4f2f-a497-2ae136a5ddd5,0435d25f-3e7c-4c21-b3cd-b1a96589433f,30487.05,2025-04-27, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Hughes-Garcia,Groceries
+f7aaa07e-64e5-4dc7-be85-300c285edb02,c4fd264e-839f-4d7a-a6f9-c85de464a4f2,1287.1,2025-04-21,Pending,DEL-CON,ConnaughtPlace,Delhi,,Duffy Ltd,Electronics
+9bd179d6-4fc4-4893-a7bc-de05e3fb18a3,cf584f82-d34b-49eb-83fc-2d740c91ea34,9068.47,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,,"Porter, Duncan and Welch",Books
+3d52a49b-ffad-496d-8e98-7f1c6ee01d27,b515d58c-a6e9-4577-9a6d-8271410e78b0,1471.05,2025-04-23, success ,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Johnson, Bender and Brown",
+63605db5-1911-4f3f-b08e-7345f364516f,6016a380-c4c3-41e2-bc20-575d697c04e3,446.23,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,,Rollins and Sons,Clothing
+d64b40b8-5ce2-41cf-862c-d446862f72ea,4a444657-1286-4001-8e57-ca0151728688,6368.1,2025-04-21,Pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Reid, Chavez and Mcintyre",clothng
+26fabe7d-60dc-4ceb-b389-c5d1da815f02,5a1c5da7-932f-4565-a522-f2ae29aff7f5,8844.26,2025-04-21,Failed,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Schultz PLC,clothng
+146db200-6d4f-4f52-86ec-a9ed4fec41b2,fb807727-bb2a-4f05-a1f5-5560095088b5,5768.34,2025-04-26, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Williams, Keller and Brown",Groceries
+,01918e38-e419-4e52-a3b4-0bb1ddc62b2a,2280.47,2025-04-24,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Garza-Walsh,electronics
+a8fdc8ef-9ccb-426b-8308-62517133dbef,d44dbeca-82d8-426f-b302-278c55e35bb6,8726.0,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"James, Hoover and Valenzuela",electronics
+061ead52-f6e3-4b43-9295-594c47075ff2,7dd9ec07-a061-4b25-a38c-6d8e6a9a0de2,4325.09,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Roberts, Hatfield and Russo",Clothing
+25c2a5a6-d3e4-4de1-992e-c68938898d3e,59619f38-6e3a-4031-937e-c367e8bfdd70,4746.29,2025-04-21, pending,DEL-CON,ConnaughtPlace,Delhi,,Pruitt LLC,clothng
+c6311c59-3622-433e-a59b-e1f32722e695,58b72ea4-31ee-4847-927e-0655865b611b,5752.78,2025-04-24,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,"King, Houston and Murray",Clothing
+eccd1c0e-a469-4801-9152-ea7accdd5f94,c185e76b-76cc-4aa5-afe0-558c03eb7741,7032.98,2025-04-23,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,"Black, Johnson and Sanchez",Clothing
+58972feb-fd8f-4988-8689-6c9ba8a5c8c3,07ca5902-bfc0-4ea7-ae1d-1945a38172d5,8076.16,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,,Wallace-King,Toys
+38ed96c5-ee1a-4dcd-bbe6-704956fe51c2,1f3f3f05-c6b5-415e-b2fe-cd85a834f687,1016.17,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,,Scott PLC,clothng
+41665491-5b59-434d-9119-1c04c2a6b7be,2bb34bc0-10e4-4202-8f74-f43cbc4c8151,6251.29,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,upi,"Neal, Carter and Chang",
+d218b876-017b-4a09-a817-dd6b2d828a37,f54d1238-81f5-4ad5-ae0e-1a69c872dee0,1287.8,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,,Kelly Ltd,clothng
+,962582cd-824e-4c95-8c2c-cde92e55dbfb,16678.65,2025-04-25, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Rodriguez Group,Home Decor
+00eaf991-8c2b-4b77-a479-4eeadf78f5e3,286d9f37-d0ba-4fba-b8e1-66401ec54f22,5651.99,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,upi,"Jordan, Cook and Williams",Home Decor
+7a2b83aa-0e9a-4ee6-825d-c90c53de3bdf,b6637a23-fca2-42b1-ba5c-7106bc96646a,7921.08,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,CASH,Brady-Greene,Toys
+4b9bd1da-99cd-4467-a32c-b8233b4fa15d,d17e739e-3f3f-4472-8dde-8a723d1587e3,3917.9,2025-04-23,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Williams-Campos,electronics
+65be2ecd-99b0-4e35-8027-7ba57c810923,f921f178-c9cf-4efb-a6e6-d3f6d067cc1b,9883.97,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,"Hall, Horne and Phillips",electronics
+f2e51838-ee7e-4fec-a99f-a644c239064b,d6fc4e68-adde-4b86-b82e-d407f910ae91,8298.34,2025-04-23,,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Day-Kelly,
+9784dbb8-9583-4ef9-989b-982235e274e1,bb393f33-d7cd-42cd-a784-20664419b399,5734.26,2025-04-27, pending,DEL-CON,ConnaughtPlace,Delhi,Net Banking,,Clothing
+864896a5-bcc4-42a6-9b3a-910cc1ec8152,fc3f3a32-398a-4b0d-b0ea-717504e784eb,3162.34,2025-04-21,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Jenkins, Scott and Davis",
+,3eec3946-a7c5-4775-a955-c00b8e7efbc3,2879.09,2025-04-22, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,"Banks, Robertson and Burnett",Books
+c102caf7-0ea6-4f18-b97f-3594552bd285,abcb482f-eff6-4bdd-85ba-d376d47299d3,7147.08,2025-04-27,FAILED,DEL-CON,ConnaughtPlace,Delhi,upi,Guerrero-Cook,clothng
+1e2fe733-50a0-43f0-9615-a47c07196de9,361e8d10-e94b-4e51-a010-dd308e9db261,8049.36,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,Cash,Jackson-Brown,electronics
+49f7fdc5-40cd-4029-bbb9-b6910d4ef0a3,b0dd04bc-9288-42db-b874-047f41d4f2ec,3865.43,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,,"Rodriguez, Jones and Martinez",
+b6d98418-daa6-4481-805d-5951f08d3f0b,b5c436ac-334e-4614-8791-6b950287df88,26913.24,2025-04-24,,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Foster-Frazier,Clothing
+b6d98418-daa6-4481-805d-5951f08d3f0b,b5c436ac-334e-4614-8791-6b950287df88,26913.24,2025-04-24,,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Foster-Frazier,Clothing
+ea54d0f3-46ec-4a4d-b014-0b92810e541c,545da504-6568-450b-87ab-47a5f2b4e112,7238.95,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,Cash,Mendoza LLC,clothng
+6085811b-67a4-4db6-a0dc-3d2b994fe7dc,2295f29d-7146-4676-8141-eaf2f214b9e1,4794.68,2025-04-23,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Gray-Brown,clothng
+cb80671c-e1b3-4e0d-99e8-54864acc99ea,25e20097-1a81-4525-8368-b649784f8644,5695.22,2025-04-21,Success,DEL-CON,ConnaughtPlace,Delhi,,"Garcia, Smith and Graham",Books
+a3b039f4-8046-4b16-b5f0-d2f0981e4818,db8ae0c4-d716-43e2-9b07-f5212762be9f,4441.52,2025-04-22,Failed,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Gregory, Richards and Campbell",clothng
+3f3fc276-94b3-4271-b748-2c594e5ef01f,66f38d43-1df1-47a9-9d71-aa22c6122daa,4757.35,2025-04-21,Pending,DEL-CON,ConnaughtPlace,Delhi,,Foster Ltd,clothng
+,70efa8ad-f969-4c96-bbaf-cbcc541fbb00,4385.83,2025-04-25, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Vaughn Group,
+f2784f7d-4a27-40dd-8f86-04af6b324323,378f2cc8-0d23-4a55-af71-374c8f155a09,9944.97,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Gonzalez-Harrison,Electronics
+2643a4f5-50aa-4283-b5be-2f9211ca971a,8db09292-a5c4-48cc-958f-ed9442f9d857,6825.3,2025-04-21, success ,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Morgan Group,Clothing
+,281f972c-4483-4692-a2eb-81c462ae6745,1210.27,2025-04-27, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Campos and Sons,Toys
+9fc63a31-f4d1-495a-b58d-a99502ecaffd,3d8639ff-5b9f-45c8-ba63-4f76c34ba458,5101.59,2025-04-25,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Yang Group,Toys
+898c6d6f-a749-4098-859c-75870ab138b6,2e4b8f13-302e-450c-9881-7e4efb4fae54,2800.72,2025-04-27,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Hobbs-Roberts,
+1586bdb7-17ce-4517-87ba-df43dd75a365,9a379476-cf47-4066-9e91-151941037286,9176.01,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,Cash,"Torres, Good and Nelson",electronics
+de92da06-ac05-47a8-b3a2-f3d57d4c360f,76951a0c-db30-4425-b314-4300a779e09f,155.87,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Hodges-Cisneros,Groceries
+6ac13bd4-fba1-4595-936f-b9d50a33afc8,9a6857c1-115e-421b-88b4-d79075754a82,3089.82,2025-04-24,Pending,DEL-CON,ConnaughtPlace,Delhi,,Carson-Price,Toys
+7ab1c0df-9330-4983-961d-c95edc3541e7,9c0eacba-3ba6-447a-b362-5ee8f220781e,5842.73,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Chan Inc,Toys
+,afea34bb-c5f7-48ab-b358-98aca9cf92d4,33291.61,2025-04-24,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Cooper and Sons,Clothing
+8a9b7814-66c6-46f2-a5a2-e7d0e89501e5,949f6597-bab3-4acd-9952-b5e1e7688132,4519.92,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,,Stone Ltd,
+1c088b33-cf73-4f31-8b18-31ee052a6bca,f7646baf-7f35-4dcc-aca7-55e7b4accc15,120.23,2025-04-24,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Weber-Ramirez,Home Decor
+db01333c-794b-4099-881d-4b7936ee84a5,ce1c230c-295b-460d-a972-c663b6a20397,4984.46,2025-04-22,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,"Shaw, Mcguire and Bryant",Home Decor
+ad6c0f4c-117f-4d58-8d47-c86674345150,ec56a6c0-f3f0-408f-aca1-c3c1b80a6a0d,5954.56,2025-04-27,Pending,DEL-CON,ConnaughtPlace,Delhi,,,Books
+,51fd8598-631f-4702-99d2-76679693db4e,6120.37,2025-04-27, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,,White-Ortiz,electronics
+1e6416a3-11f4-4aad-8360-e99e4ee660ec,dbe82e35-89bc-4f0d-8381-351408346697,2156.31,2025-04-25,Failed,DEL-CON,ConnaughtPlace,Delhi,upi,Barajas-Stark,Electronics
+e9b479c5-eedc-42e9-b302-4b6e6b698c27,6291a989-2538-4255-b0de-1e161c41a136,43202.31,2025-04-24,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Benson-Dunn,Home Decor
+24c10baa-f803-46ad-8da0-4aed1111ab48,d70e9627-963b-433b-852b-bfb4d74cdbc6,1053.94,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Atkinson PLC,clothng
+88b60f2e-d90d-4377-a42e-bd3f9fb0e105,a605a224-e96b-49f7-9df5-c6d48246b144,47193.51,2025-04-22,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Net Banking,Ray-Nunez,clothng
+678278cc-e112-40d4-9fe0-953f10611433,4acdd84c-87a2-4227-a35f-7e9f069cfdf5,5993.34,2025-04-22,Failed,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Dominguez, Byrd and Castro",Books
+317c2dbe-5e2f-4749-a02b-c40655b129a5,,3630.66,2025-04-26, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,"Perez, Mccarthy and Ramirez",Groceries
+340508d4-6a94-4bbe-a632-0dfc74aaed03,5e501f3d-5224-4406-8794-abfa1fbd1027,3898.52,2025-04-27, pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,Maddox-Johnson,electronics
+c05a2e08-6f69-4cd4-9f8d-cc0ad2531897,41594f66-4165-406c-95a8-f2bc9f4c028e,3986.85,2025-04-27,Pending,DEL-CON,ConnaughtPlace,Delhi,,"Weeks, Davis and Brady",
+bf108a53-0f21-427a-8139-209900948a5a,,9367.12,2025-04-24,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Debit Card,Mueller LLC,Books
+3d0a841d-2624-4dfc-8b8e-03c26909417e,1f7f5fa4-feae-406e-9c88-1d5fc633a2df,5275.22,2025-04-21,FAILED,DEL-CON,ConnaughtPlace,Delhi,Cash,"Henderson, Novak and Williams",Books
+7c7c0478-9b75-4c50-bde9-f342c4cb8ec6,86287169-693f-4dd8-9595-7d5428ae1f98,5338.83,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,upi,Quinn PLC,Toys
+bfc8d3f7-5487-4092-a5fb-f0c5a966afd1,7415701a-2763-4236-8e35-843dcac26e32,128.71,2025-04-23,Pending,DEL-CON,ConnaughtPlace,Delhi,,"Adams, Cooley and Dawson",Electronics
+9965af8e-bda8-4216-92a5-332a9362986e,5ff51e59-dd21-49f1-a568-bdb726321884,4307.98,2025-04-22, success ,DEL-CON,ConnaughtPlace,Delhi,Cash,"Gillespie, Castillo and Lee",clothng
+d2f24dc6-a18d-47f4-a869-ded3693a6afd,469eb6ca-fde5-4e6c-925b-1e00e085bca6,8208.0,2025-04-26,Failed,DEL-CON,ConnaughtPlace,Delhi,UPI,"Ayers, Hicks and Houston",
+fa76bb7b-b3c6-4ba1-8f6f-4f87d618c273,ba1f353a-f7af-4cf0-aac0-41bbf0a52b57,8304.84,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,upi,"Washington, Jones and Brown",clothng
+f952bef4-3000-4eb1-9296-dd5db36b025b,24937816-b223-4f38-beae-e31396439d03,9889.66,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,,"Klein, Brown and Jordan",Clothing
+1ed0b632-75a7-4b40-bedd-5cbfce7c5015,b6f795b2-31ee-4c34-92e5-614a8ee929ef,1863.43,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,,Tate Inc,
+397239c3-edaa-4ee1-8a1b-157f79b8007e,0faf3a7a-41d6-4077-8520-11e3b35d250c,6353.69,2025-04-22,Failed,DEL-CON,ConnaughtPlace,Delhi,CASH,Bennett-Mcguire,clothng
+33734dcd-1ef4-4373-8b23-f06e0bf73e36,ae9c9f02-68b4-4c5f-997f-8e8ee67f4bfa,8174.94,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Marshall-Hernandez,Toys
+7014e029-0027-4d19-bfe9-c994c6c2df28,e19fec32-27df-4395-bd98-ca211c49ac9b,6660.6,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,,"Haney, Moss and Harrison",clothng
+bdc52126-3686-4069-ae12-ceb2706773cb,691241d1-025f-4ed3-9367-516bf51dbce3,3248.79,2025-04-24,Success,DEL-CON,ConnaughtPlace,Delhi,,Key Group,
+9b846e70-b87f-4d14-91c8-c6992843c651,4b4ac13a-b003-4c52-8605-0b82eab1b5d1,9283.88,2025-04-23,Success,DEL-CON,ConnaughtPlace,Delhi,upi,"Kelley, Garcia and Kerr",electronics
+22afb202-65cb-4014-b63c-2109683e68eb,d922ba02-2afe-4565-9d57-065beed4035b,8937.85,2025-04-26, pending,DEL-CON,ConnaughtPlace,Delhi,,Thomas LLC,
+12659624-f364-4e2c-bf1f-84a24fdff06e,fdc6ddd7-fbe8-4c52-a3ed-f3b36571bc7f,6541.51,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,CASH,"Jones, Dixon and Forbes",Toys
+2048ca3e-7b84-4c2e-a2c3-240a45d04448,d37f4be6-0dde-4bcc-ab25-8cbb55e0eeee,1838.05,2025-04-24,Success,DEL-CON,ConnaughtPlace,Delhi,,Roman-Zhang,clothng
+a7435d59-fb28-4cf7-a856-d926832addf4,6f9301f6-3444-4e35-ae9b-0c2a0b7838e4,4343.95,2025-04-21, pending,DEL-CON,ConnaughtPlace,Delhi,,Steele-Rodriguez,Books
+59d5f7a1-b3f3-4850-8ba8-7493b5c47919,2f4df410-d02a-471b-a9c2-778108668820,4962.39,2025-04-25, pending,DEL-CON,ConnaughtPlace,Delhi,Cash,Young Inc,Clothing
+fd9e5c8a-deef-402d-9fb3-7fefb39a32be,dd79a641-17f5-43a1-b9f7-a64278a4cc9c,47724.3,2025-04-22,Pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Mcguire Ltd,electronics
+b6539908-d05e-4ff8-90c7-0cd20e303118,6f782265-7065-4010-a245-d3c96e94e823,565.9,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Mitchell-Smith,
+2dc3369b-a28a-4fea-bc62-dcd33bfbda6a,f8bd0f02-a090-43f8-a822-398447186814,15610.02,2025-04-22, success ,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Huffman, Levine and Ramirez",Home Decor
+2aaa86b9-b386-460f-b942-042b55bea17e,bed3751e-8025-4356-b760-94b9f1eea326,1581.25,2025-04-26,,DEL-CON,ConnaughtPlace,Delhi,Cash,Owens Ltd,Clothing
+e3b41fe7-8dd4-4a0f-9d9e-0ef703142c2b,f78e5f10-f9da-4c66-bd60-f0c4115a2848,4497.66,2025-04-27, pending,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Mckay Group,clothng
+393c68a1-1da1-4f4f-afd1-8781396f1701,718e9264-ce73-4c4e-8698-a36460cf5a89,7143.22,2025-04-27, success ,DEL-CON,ConnaughtPlace,Delhi,,"Castro, Phillips and Cook",Home Decor
+1c36f45c-68a4-4e85-a225-65155f4e616b,70c279c7-07b9-406b-9e80-204a50b7b048,8875.9,2025-04-21,FAILED,DEL-CON,ConnaughtPlace,Delhi,Cash,"Bailey, Diaz and Jimenez",
+280c6ba2-f4fa-43ed-b6c9-ff0f5d3a4089,093f05cd-5f9c-4cec-b23e-80fa9f760319,10.81,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,upi,Schmidt-Preston,clothng
+206fe4d0-17b5-47d7-8a0f-28244455f3bd,edaab92d-57fa-413d-b0e2-370cc5bea40b,153.84,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,UPI,"Hamilton, Thompson and Peck",electronics
+268524de-98c1-4152-a5ab-5f598fb26e2e,504acfd6-3f1b-49b8-a62f-dfe9dfcf3e2e,2053.66,2025-04-26,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Johnson Ltd,clothng
+5888dee6-aa5e-4fcc-95b0-9d8f2fe4e324,7b899d97-165f-4ad9-9dbf-93ba101ac752,4476.09,2025-04-26,Pending,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Crane, Jones and Richards",electronics
+401e694d-855f-409a-a0a3-7d367980d363,11217948-37c6-4502-95a6-bd119684a6be,9112.87,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,CASH,Lang-Adams,electronics
+,de3d26dc-cea6-4ee3-804d-3597de4908b0,9897.12,2025-04-25,,DEL-X-ERR,CONNAUGHTPLACE,delhi,upi,"Lucas, Caldwell and Weber",electronics
+28d53a79-b00e-454a-ac50-f6d77e15559b,44d2fce4-f01b-4b84-b286-2a8c1cabef17,3599.66,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Sanders Ltd,Home Decor
+2611019a-51e1-458d-93b2-ad0f606fdeea,ea7b306f-cdf5-42c0-b32d-788af042166b,5318.19,2025-04-26,FAILED,DEL-CON,ConnaughtPlace,Delhi,Cash,Wright-Burnett,Books
+ca7626cc-acd6-4d3e-98cb-58df20a44284,c6167a53-e0f5-4246-a727-935c42ff6cfe,8160.34,2025-04-26,Success,DEL-CON,ConnaughtPlace,Delhi,Net Banking,,
+829328ab-ad2f-4fd4-bdd0-747b0a042b4e,009e0369-fd54-4176-baf0-0443184387ec,94.16,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,CASH,Rice-Rodriguez,clothng
+12825d71-7156-47c8-b875-640495363cd4,45c090e9-8905-4183-8ef1-56c19d8c65d1,1159.32,2025-04-21,Failed,DEL-CON,ConnaughtPlace,Delhi,,"Burke, Ponce and King",Home Decor
+,f2ca735f-ca7a-4539-849f-318d728b3f9e,3427.4,2025-04-24,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,"Wade, Lowery and Wong",Groceries
+1e90125b-e1b7-40d1-bbb7-b790d198f66f,66dfa3f5-e4ed-43eb-a2c1-282ecf3b37bd,3521.77,2025-04-27,Failed,DEL-CON,ConnaughtPlace,Delhi,UPI,Freeman PLC,electronics
+03a2f0fd-ba52-42ed-821f-07843feee611,52d97328-04a3-4675-9a07-8649856d13d5,5175.7,2025-04-27,,DEL-CON,ConnaughtPlace,Delhi,,"Drake, Franklin and Smith",Books
+fd3f9dff-e8b9-4d69-a785-bd5eda4eb8b0,1ee8b36b-8be7-41c7-8ab3-70188203a29d,370.81,2025-04-24, pending,DEL-CON,ConnaughtPlace,Delhi,UPI,Lee LLC,clothng
+,,102.42,2025-04-21,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,Cash,Mcknight-Tran,Groceries
+b8c2282e-b1e3-48e1-9cc0-14e3bdb7189b,606c74d1-56cf-4658-8c58-73d0e4a7baf9,4186.61,2025-04-23,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Krueger-Holmes,Groceries
+cf73ab6f-6e9f-4766-a844-3d5dd2d79252,09bcc25a-971d-451e-9760-0586cd50aeee,9580.18,2025-04-23,Pending,DEL-CON,ConnaughtPlace,Delhi,,Strickland Inc,Home Decor
+6a330766-b39f-4f31-a932-d92a18e2f947,05a4702b-6b03-468b-8daf-99919182608f,1556.48,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,upi,"Jones, Gaines and Beard",clothng
+72b14022-f679-43c3-ae1f-42b8e7dd1c75,421e8ebf-c699-4fc4-ac09-db7cd4577e83,9305.33,2025-04-22,FAILED,DEL-CON,ConnaughtPlace,Delhi,Net Banking,"Wilson, Thornton and Ramsey",electronics
+dd2bd468-8610-4f8c-90e4-329958c267b7,28a01441-c6fe-4175-a583-941130ad67d0,7530.21,2025-04-21, success ,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Meyers-Adams,Electronics
+c88e4c47-8f5c-40e9-92d6-6eaa825e1815,e6c5a9fa-95b4-4962-8372-1a34d6d58607,7071.6,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Jones, Jackson and Smith",Groceries
+3ea41945-001f-452b-a60c-f9019427502c,d7eaf3b5-b957-46e9-943b-a27c395e16d5,7691.07,2025-04-24, success ,DEL-CON,ConnaughtPlace,Delhi,,"Reynolds, Butler and Mcdaniel",
+df27ecff-e6c9-421d-b726-ad6a7ed4e93a,6407bda9-6b68-4c5c-824e-a4b21eb738ef,4904.65,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,Credit Card,Jefferson-Ellison,Clothing
+05cfa3fa-3609-4490-98b7-9247a1b84c54,,4401.34,2025-04-24,,DEL-X-ERR,CONNAUGHTPLACE,delhi,Credit Card,"Hanson, Atkinson and Turner",
+ace7d0ba-91df-4b1d-8055-d068ed579550,a634f02e-4a6b-4dcf-a566-58a7c0f9243d,8281.6,2025-04-22,,DEL-CON,ConnaughtPlace,Delhi,UPI,Nelson-Williams,Toys
+b95f45e0-e029-4295-a4e8-315162b7f150,e0a45961-9044-475b-ae9c-33d1b4d96a28,3536.6,2025-04-24,Failed,DEL-CON,ConnaughtPlace,Delhi,,Bauer and Sons,electronics
+39e25623-d8d6-4b60-a088-3181c4d439da,,6300.85,2025-04-21,,DEL-X-ERR,CONNAUGHTPLACE,delhi,,Ferrell-Kaiser,Groceries
+fb69d228-fa9e-4060-ba3b-5666e4b24b71,,8922.63,2025-04-27,,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,,electronics
+41324262-62b3-4855-bd3c-0b88eade9a61,69c8d7fa-2fb4-4586-aab6-f29d18120844,8050.14,2025-04-22,Success,DEL-CON,ConnaughtPlace,Delhi,CASH,Caldwell PLC,Clothing
+eeb42aee-d6fb-45ea-9093-03785d33fc9f,4054e5b0-7d71-40b3-9cf0-1b14c77ee0ee,9994.79,2025-04-24,Success,DEL-CON,ConnaughtPlace,Delhi,Credit Card,"Sanders, Gordon and Smith",clothng
+33384921-8106-48ec-9af1-0b0d52aa5cbf,e26f6587-4ff2-4f79-bed2-8bad939ca12e,5272.08,2025-04-21,,DEL-CON,ConnaughtPlace,Delhi,Debit Card,"Robinson, Nelson and Ochoa",electronics
+ace25aec-2408-49ff-9724-67f0477d2a2a,87c85686-83d4-4c94-b94c-aaeca399dc47,3332.86,2025-04-25, success ,DEL-CON,ConnaughtPlace,Delhi,,"Gardner, Hicks and Lawrence",electronics
+62111f63-9ca6-4d0e-aef1-607203e2aeb7,3236873f-9cfc-4b98-a182-09e95f75b5a1,769.3,2025-04-23,Success,DEL-X-ERR,CONNAUGHTPLACE,delhi,CASH,Beck-Harper,clothng
+755f34f4-f3ad-4a7d-a45e-ceeccf6b9550,,23590.35,2025-04-26,FAILED,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,"Martin, Allen and Ryan",Home Decor
+7852a230-2c8c-4428-8e63-27b315396ff6,411ae887-e7e0-4d88-bb0e-e3a057282336,7668.18,2025-04-22,Pending,DEL-CON,ConnaughtPlace,Delhi,,"Harris, Stevenson and Padilla",electronics
+56d6c1eb-f71a-4049-9829-c75fffdc3e24,d5c45f4e-7865-4c08-bd78-a7daa280fd55,782.21,2025-04-27,Pending,DEL-CON,ConnaughtPlace,Delhi,,"Maxwell, Johnson and Stein",Books
+d9a6a33c-d268-43b2-ada5-e4c5c88e84aa,83906265-e4de-4cb0-a25b-0556d82ac958,27122.89,2025-04-21,Failed,DEL-X-ERR,CONNAUGHTPLACE,delhi,UPI,Valencia Group,Home Decor
+06d827c7-f921-40a7-ad8d-bb7a14a68201,4bd3ccd0-9064-4a4e-a144-05156ba58bb6,6951.13,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,Net Banking,Anderson Group,Home Decor
+49489011-9246-4cab-8226-88e0a91929b2,c6e5de42-3924-4773-b46f-d34244780494,2066.45,2025-04-25,,DEL-CON,ConnaughtPlace,Delhi,UPI,"Lewis, Davis and Beard",Toys
+3f2848c9-b24e-4544-8828-eb85a47d657e,be34363a-07d8-4a72-92be-c5969f0c86ec,7203.28,2025-04-23,Failed,DEL-CON,ConnaughtPlace,Delhi,upi,Dodson Ltd,Home Decor

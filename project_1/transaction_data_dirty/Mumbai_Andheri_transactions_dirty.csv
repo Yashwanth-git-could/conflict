@@ -1,0 +1,708 @@
+Transaction_ID,Customer_ID,Amount,Date,Status,Branch_ID,Branch_Name,City,Payment_Method,Merchant_Name,Product_Category
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,23b8c1e9-3924-46de-beb1-3b9046685257,975.82,2025-04-22,Success,MUM-AND,Andheri,Mumbai,UPI,"Yang, Gardner and Garza",
+37f8a88b-17fc-495a-87a0-ca6e0822e8f3,06cb0fb3-9a1d-4644-815e-f6d13b8faa18,2253.19,2025-04-27,,MUM-AND,Andheri,Mumbai,Credit Card,Baldwin Ltd,Electronics
+72ff5d2a-386e-4be0-ab65-a6a48b8148f6,de8a774b-cf36-458b-8737-819096da1dac,5323.13,2025-04-21,,MUM-AND,Andheri,Mumbai,,Wolfe LLC,Toys
+f50bea63-371e-4d7b-a7cd-813047229389,17be3111-1a2a-43ed-962b-0f79c37459ee,2906.77,2025-04-25,FAILED,MUM-AND,Andheri,Mumbai,,Howard LLC,Books
+0b1f9163-ce9f-457f-83b7-a3a69a8dca03,1ff49b78-8946-4e85-b59c-de66bacfb3d0,2446.2,2025-04-25, success ,MUM-AND,Andheri,Mumbai,Credit Card,Arnold Ltd,Books
+5c941cf0-dc98-42c1-a2ac-f72f9e574f7a,11ce5dd2-b45e-41f0-b139-d32c93cd59bf,2554.3,2025-04-21,,MUM-X-ERR,ANDHERI,mumbai,Net Banking,"Perez, Roberts and Miller",
+614ff3d7-19db-4ad0-9dd1-dfb23b982ef8,d58842de-a2bc-472f-b412-b29347294739,2600.85,2025-04-25, pending,MUM-AND,Andheri,Mumbai,,Wood and Sons,Home Decor
+efc89849-b3aa-4efe-8458-a885ab9099a4,9bf00273-1247-4f57-a5e5-a5abaefcfad8,6229.36,2025-04-23,,MUM-X-ERR,ANDHERI,mumbai,,"Daniel, Martin and Gray",Toys
+efc89849-b3aa-4efe-8458-a885ab9099a4,9bf00273-1247-4f57-a5e5-a5abaefcfad8,6229.36,2025-04-23,,MUM-X-ERR,ANDHERI,mumbai,,"Daniel, Martin and Gray",Toys
+b02b61c4-a3d7-4628-ace6-6fa2fd5166e6,5304317f-af42-412f-b838-b3268e944239,8354.4,2025-04-21, pending,MUM-AND,Andheri,Mumbai,Net Banking,Underwood LLC,Toys
+3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,e059a0ee-9132-463e-b162-87e4e9c349e0,1610.48,2025-04-24,,MUM-AND,Andheri,Mumbai,UPI,Rios Group,Clothing
+757750a9-a491-40b2-aa1f-ca65e27a984d,3f22faf8-23be-401d-83cf-2fde24933b83,4615.87,2025-04-27, success ,MUM-AND,Andheri,Mumbai,CASH,"Baker, Richards and Hurst",Electronics
+ff50bde4-3825-47b8-9cab-cc97663f1c97,7e570ddf-8270-40a8-a369-b584ff5e9ff0,963.54,2025-04-22,,MUM-AND,Andheri,Mumbai,Net Banking,Callahan and Sons,
+ae340454-cac5-468c-a8f4-9481a0a04dc4,62801c45-1043-4a10-98ae-43346c12ace8,7831.14,2025-04-25,Failed,MUM-X-ERR,ANDHERI,mumbai,Net Banking,"Ferrell, Rice and Maddox",clothng
+ae270da7-02f0-4b90-b143-262fdc5c0eed,e2817efd-ae84-4217-9d53-434bb88139b9,8661.83,2025-04-27, pending,MUM-AND,Andheri,Mumbai,Debit Card,Mack-Peterson,Home Decor
+74273ca3-287d-46ca-af4c-c69a4b22d308,,124.64,2025-04-21, pending,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"Liu, Baker and Mason",electronics
+1b3dbd5c-e9a1-4a6f-81f7-6d1c2dbc2134,d777a477-4c66-40a8-a013-ac6ededa4e16,2050.1,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"Gonzalez, Brooks and Martin",
+87c5421e-ec24-43c5-8754-108ff4188f3f,52fbe43b-9954-4eb4-8025-7ad1eb2263dd,4823.64,2025-04-26, success ,MUM-AND,Andheri,Mumbai,CASH,,
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82,ce88cb2d-d4e8-4839-bc3e-058be0f3eab0,6510.92,2025-04-24,,MUM-AND,Andheri,Mumbai,Debit Card,Brown PLC,
+bb5e4bcf-15ed-4269-9429-6c07f26b4776,fa5d3100-11b7-4948-90e6-e6607c69dee1,8392.62,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,,Anderson Group,Electronics
+,43dac043-2a45-42ab-8cbf-edb0f264accc,21382.36,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,Debit Card,"Henderson, Lewis and Ryan",clothng
+b683d2e6-337e-42df-b09b-2a5cbadcc32a,abf3ad39-fec2-4bbe-a624-5bfa4fcca39a,6687.24,2025-04-25,,MUM-AND,Andheri,Mumbai,Cash,Lam-Hayes,Clothing
+568cc69b-1064-405c-b985-c3cf3f76be1d,3ae8cc93-8dcd-4d03-969b-666205628059,25.59,2025-04-23,Pending,MUM-AND,Andheri,Mumbai,upi,Jones Ltd,
+e7c99b26-1141-45c6-ba9b-edd40f1259e0,1223b513-5496-463c-9c11-10c1080aadfb,8404.52,2025-04-27,Success,MUM-AND,Andheri,Mumbai,,Ramirez Group,Books
+b92da22b-21df-406f-8a0b-3c3336d8393a,93829b43-922f-415a-a1e3-db63ef7ddc76,8753.07,2025-04-26,FAILED,MUM-AND,Andheri,Mumbai,CASH,Mueller Group,Toys
+a8b317fa-18d0-452b-9825-bc5430beb45f,693dffbc-6c6f-4611-9ab3-3edf6e595ed3,9054.33,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,Net Banking,"Brown, Valdez and Lucas",Home Decor
+56dc8907-ba6c-44ab-a712-303a0f844fef,3fa7f104-1bf9-4e27-9c96-925eccf3a171,688.3,2025-04-23, success ,MUM-AND,Andheri,Mumbai,Credit Card,Herrera and Sons,Clothing
+766ecb15-474e-4c19-aef9-12766c006f61,134c6c92-ec5b-427c-9fde-4fbf3ff350bf,7675.51,2025-04-26, pending,MUM-AND,Andheri,Mumbai,Net Banking,"Garcia, Pearson and Fernandez",
+ed2662e9-17e0-41b7-b810-238303c72ba8,2a935d62-3c83-4dc0-9944-1fa5c0e9ab30,8791.13,2025-04-25,,MUM-AND,Andheri,Mumbai,Net Banking,Olson-Hancock,Home Decor
+610461e3-2a25-4888-8f02-bad0e7067ef4,43e458fc-63f2-4e24-bc3d-3348008d4127,5002.37,2025-04-26,,MUM-AND,Andheri,Mumbai,Debit Card,Henderson-Bernard,
+a97065e1-8e46-4534-888a-618efed4057d,309d258c-27a0-43d7-bc96-7f79b7e99aca,2261.35,2025-04-24, success ,MUM-AND,Andheri,Mumbai,CASH,Novak PLC,Electronics
+bf7b539b-0f9a-4a4b-8acd-4e10bc594585,958ca9ba-0cd6-40c2-8ea2-622b504867ba,5203.2,2025-04-26, pending,MUM-AND,Andheri,Mumbai,Net Banking,"Calhoun, Schmidt and Brown",electronics
+2f923996-d9f1-45d0-9482-2f5382010c62,acdabacc-1165-4210-9854-3881118a9d29,9862.4,2025-04-23,,MUM-AND,Andheri,Mumbai,Net Banking,Wilson-Zamora,
+0a2c827e-9832-4856-9434-0a033f07f814,a8499b92-6b52-42e3-94fc-dd549e8fc965,1667.05,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,Credit Card,"Stewart, Green and Santiago",Home Decor
+655238a6-43ff-4011-bd1a-85dd506e5a9a,4ccc9bc2-a53f-4a28-abf3-e3fc21813d25,4602.62,2025-04-26,,MUM-AND,Andheri,Mumbai,UPI,Hickman-Walls,
+ff9ab5c2-9f04-4aed-b552-332702627f73,12c136e0-1998-4f15-bf00-2d4d902059e4,6670.34,2025-04-27,Success,MUM-AND,Andheri,Mumbai,Cash,Wagner and Sons,
+119c4ea3-e180-4081-9958-a499eeea163e,48f4ef12-5e99-43d2-be89-6c64e117dac3,5477.25,2025-04-22,,MUM-X-ERR,ANDHERI,mumbai,Cash,Bass-Warner,
+ce9e1a11-fcbb-4e59-bbdd-cf7c9c96e9ec,aaf91531-0200-41f0-8768-a84fa76afde6,6113.82,2025-04-27,,MUM-AND,Andheri,Mumbai,upi,Huynh-Garcia,
+1d8cbbac-43b4-49ef-a260-e70fe0ccedc5,8da01097-be0f-451b-9b66-b5a9e3c43657,4397.82,2025-04-22,,MUM-AND,Andheri,Mumbai,,Campbell-Clark,Groceries
+a25d6b29-afff-4fd2-b41e-f40b57c700aa,7d106c60-8162-4cf1-8394-72e6da587e8a,8935.27,2025-04-24, pending,MUM-AND,Andheri,Mumbai,Credit Card,Davis Group,clothng
+00e85ece-0b49-452d-86d4-83f3d450281c,a319dcb4-217d-45a0-8568-11cd5563f616,8094.51,2025-04-24,,MUM-AND,Andheri,Mumbai,,Figueroa PLC,Clothing
+,0279b6a6-8f97-47b0-ad7c-e3c9b4a69f3c,6726.49,2025-04-22, pending,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Landry Ltd,Toys
+093923de-8bab-4e3b-a628-6bfbe767dcea,8d7248e2-951f-48d0-9e84-f058d5a804eb,-17.59,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,upi,Anderson-Parker,Toys
+f8e1daa7-cbce-4bde-aede-db07e623a689,5b9962c6-e61f-4cc0-8a36-8ce7dc570131,3785.97,2025-04-23,,MUM-AND,Andheri,Mumbai,Cash,"Wright, Garcia and Deleon",Electronics
+f94d6204-6808-493f-9fed-2c43e256a6dc,ecfedb99-2790-4ebd-bfdd-c3d99ee3ac2a,31.15,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,,Cherry and Sons,Home Decor
+,2dea9493-0658-463a-a98c-206fe1a47e10,17174.7,2025-04-25,,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Pham-Shields,Electronics
+28c13091-444d-410b-bf87-e362cf8d446a,61ee411a-1bac-47a7-b386-f7a4c991603f,945.27,2025-04-21,,MUM-X-ERR,ANDHERI,mumbai,UPI,Walker-Velasquez,
+d20eac17-4e20-4d1a-9983-36e375d66ed4,39118497-3a43-42ba-9f0f-06cbcb9bc326,2028.12,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,,"Lee, Murphy and Lin",Clothing
+59e4b671-4774-4c58-85f8-bc16f7860b50,adf4e62d-6651-429e-8268-690ba43825b5,9662.54,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Crosby-Wilson,Clothing
+94a1875d-2db6-4edb-82de-ffccf86c2ca2,09cb3942-43f5-4a85-bbc9-f87af668a617,7.88,2025-04-22, success ,MUM-AND,Andheri,Mumbai,upi,"Hamilton, Chandler and Edwards",clothng
+1d9af659-82ec-4f2d-bbf6-e16f9b3080d5,30a900ad-939b-462d-a645-f129629c2ae3,7880.16,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,Net Banking,Fletcher Inc,Toys
+89d7fd6c-ce77-4f00-acf2-7e7685197ff4,bdf070aa-f0b5-456b-b82c-9074afd5dea5,1206.66,2025-04-23,,MUM-AND,Andheri,Mumbai,Cash,Reynolds-Rush,Groceries
+505cc686-9f87-4ce7-9487-fd4febb7a385,b841d0a0-1fe7-41d6-9917-8793a9d3c2e6,5608.55,2025-04-24,,MUM-AND,Andheri,Mumbai,,"Parker, Ortiz and Powell",electronics
+311c6eb6-2095-4ef6-8ded-f9fb4bb00f20,610faa3f-f0bb-4c67-aa38-d0a16ba25efe,6180.41,2025-04-23,Pending,MUM-AND,Andheri,Mumbai,,"Carroll, Sullivan and Bass",Clothing
+6e0d2648-35ce-4841-8973-2d6c4dcabfb7,a79ac9aa-9b4e-4c24-9479-e1e6c9277d9b,2988.52,2025-04-24, success ,MUM-AND,Andheri,Mumbai,,,Clothing
+acf5e81e-7131-4269-b118-e36477097749,cb323e35-7922-4ac2-82dc-4c8e36b5229a,1224.56,2025-04-23,Success,MUM-AND,Andheri,Mumbai,UPI,"Miller, Robertson and Schultz",Toys
+f3b63fe1-d184-4324-97e8-392a55cee5db,4f77a665-ac3c-4640-bc20-592fc04a96c4,9329.81,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,,Hernandez Inc,electronics
+9c7c7377-79a2-4903-bbe3-3b243eae0032,74962764-12a4-4ef0-84bb-b7a9d98868dd,907.06,2025-04-26,,MUM-AND,Andheri,Mumbai,Net Banking,"Johnston, Higgins and Cruz",Home Decor
+a7f36ae9-25c7-4c44-be75-c3b4664fa663,,4487.42,2025-04-21,FAILED,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Osborne and Sons,clothng
+b227462c-f53d-4330-8dda-24ba2d06e8cf,8eb22579-0cdb-4ca4-b6ec-bdd68498e113,4203.76,2025-04-24,Failed,MUM-AND,Andheri,Mumbai,upi,Bryant Group,
+8f15ba58-fce6-4504-87f8-424daae65fc1,c1581092-f335-4ba3-913a-7052986f9025,5455.17,2025-04-26, pending,MUM-AND,Andheri,Mumbai,UPI,"Briggs, Mcclain and Simmons",
+e5af6e39-7227-44e6-8c41-561be827a1b9,79844388-dc8a-4e30-be60-33f728be9288,1548.88,2025-04-26,,MUM-AND,Andheri,Mumbai,,Walton-Larsen,electronics
+,8573e793-c715-42b9-840c-5d9146fde062,41961.02,2025-04-26,,MUM-X-ERR,ANDHERI,mumbai,,"Allen, Gonzales and Reeves",clothng
+,51d87c64-55fa-4ab8-858f-1f193c07c574,9967.04,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,Net Banking,,Clothing
+3b33f3d8-269c-4696-a36c-7b8714a0bccb,b4d7e28e-271e-4ee2-b1a6-b1f1620e99d3,6119.13,2025-04-23, success ,MUM-AND,Andheri,Mumbai,upi,Perry LLC,Electronics
+0ff0a55c-6a70-4e2f-b746-d0ba8ae8905b,63b4c08b-6b8e-469f-9538-5b0e34f3193c,2021.36,2025-04-21,Pending,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"James, Smith and Bell",clothng
+e4429ebb-da7b-4095-a3d6-2a39c0e3befd,89c8d2ab-6b44-4a8d-95f2-5073f41402b1,20215.34,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"Hurst, Freeman and Nelson",Home Decor
+560c95ee-638c-454c-876e-2bba7c5308bf,67814c1f-cc53-4e36-addc-3e13ab3b4d37,5621.8,2025-04-23,,MUM-AND,Andheri,Mumbai,Cash,Calhoun-Hooper,Groceries
+64de82e6-e82c-4d7b-86e7-45f988bc539c,06f028ff-a9ba-4a27-907b-fe36978648f8,3662.44,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,CASH,"Patterson, Camacho and White",Groceries
+362f5e5c-53cd-4268-a10c-f37342999aa4,c2dff335-5666-4f9f-93ac-2ab974672cd9,7094.11,2025-04-25, success ,MUM-AND,Andheri,Mumbai,,Walton-Decker,Clothing
+78660765-14f7-4e8d-95bc-b8d04094dded,0d557b61-8a17-4dfe-bfc0-0dc804f64d86,8055.92,2025-04-25,,MUM-AND,Andheri,Mumbai,Credit Card,Santos Ltd,Toys
+f319c125-07f1-44f9-8115-6d6d0a4e5b70,05379ff6-d6d7-43b8-b309-4d353f4df561,45510.87,2025-04-22,FAILED,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Martinez Ltd,Home Decor
+37cc863b-f2a0-4459-9060-4f621d48a071,c4536f1d-4199-4fdf-b310-22f0770c7798,6054.92,2025-04-25,,MUM-AND,Andheri,Mumbai,,Obrien Ltd,Electronics
+d1bdb8c0-c71d-4e60-9d52-06abb7e6427c,1bac5c15-4fa0-4f26-b6f7-f0cc29ec8e49,3255.93,2025-04-21, pending,MUM-AND,Andheri,Mumbai,,Johnston-Odonnell,
+b70b3420-f104-4785-a58b-252360141de9,,1444.63,2025-04-23,,MUM-X-ERR,ANDHERI,mumbai,UPI,Vargas Ltd,Clothing
+c5c14eb4-b27b-4d90-9a16-342c3e2b6091,99b49350-af2b-49b4-99ac-d1584d3485c5,2054.04,2025-04-22,Success,MUM-X-ERR,ANDHERI,mumbai,UPI,"Patton, Reed and Patterson",Groceries
+a5c5650c-8186-4576-91a7-26095eddbbbf,6b88f83d-d97d-49cd-833d-2bce575aed2c,1993.71,2025-04-26, pending,MUM-AND,Andheri,Mumbai,,Hamilton LLC,Groceries
+75b17a55-d426-4982-a43e-4288a2b5b498,2d174fc9-6f7c-45ea-a72a-6d8eb5122df8,9142.82,2025-04-27, success ,MUM-AND,Andheri,Mumbai,Cash,"Nelson, Morton and Medina",Books
+d36357b6-6f81-4f4f-b701-f7bb7bc67e1f,52828d80-44b5-41f7-97ac-6aa8bb2488a3,8602.04,2025-04-23,,MUM-AND,Andheri,Mumbai,Credit Card,Ramirez Group,Toys
+91e1aa96-76f7-4255-801f-36bf3e6dd58b,561e16d1-6105-416b-ab0e-664e9c3eb2d5,1203.8,2025-04-21,FAILED,MUM-AND,Andheri,Mumbai,Credit Card,Rosales-White,Clothing
+4223623b-cc3e-4dde-9ad5-cf06364d7c87,989d9d4a-e15c-4666-8797-b2c957207246,9199.56,2025-04-24,,MUM-X-ERR,ANDHERI,mumbai,,"Smith, Vaughan and Miller",Clothing
+8e200724-7d13-4018-a80b-ac63b856d035,79e13cea-b0cb-461f-bd85-de89c2171429,3620.01,2025-04-26,FAILED,MUM-AND,Andheri,Mumbai,UPI,Mcguire-Davis,Home Decor
+3e493f43-b118-468d-a786-d50638ba8abc,5e781fd7-94e0-43ba-a9f9-48b24e6384bb,2629.67,2025-04-26,,MUM-AND,Andheri,Mumbai,,"Schmidt, Coleman and Reese",Home Decor
+7428a656-b3ee-4d3b-9a10-412954aebd1b,3b048a8b-405b-4dc9-8e7e-d827455ac762,6920.37,2025-04-22, pending,MUM-AND,Andheri,Mumbai,Cash,"Lee, Wilson and Herrera",Books
+3108d448-2f65-4afa-b0ae-8f08c31edbbc,46c8adfe-7bf4-4042-bd15-31c83764fbda,5333.56,2025-04-27,FAILED,MUM-AND,Andheri,Mumbai,Cash,"Campbell, Garcia and Lee",electronics
+4d6168bd-2def-4193-9c62-b3a23a3c563e,2067bdac-88bd-43d1-b540-b30e039f3a25,8477.54,2025-04-24,,MUM-AND,Andheri,Mumbai,Cash,Mccann PLC,electronics
+2053da42-f1af-4b65-b289-f2244ac9778d,7daa39f0-c0b6-4ce2-9e53-790aa34b6cf6,5057.16,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,UPI,Andrews Group,Books
+2f32751e-5738-411d-b0c2-903f7a8d03aa,f0e98b3b-40a2-4c60-8d27-0659f72ada9b,1468.81,2025-04-26, success ,MUM-X-ERR,ANDHERI,mumbai,upi,Short Group,
+,a1235a8c-93b7-4886-92f7-0c977de31a51,5500.56,2025-04-21,FAILED,MUM-X-ERR,ANDHERI,mumbai,,Hernandez PLC,Books
+fe716b14-15ce-4a66-8dc8-2a1ef2f9e5fa,c3b290d0-8edd-4fcd-9e52-d7703f897142,3639.82,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,Net Banking,"Carlson, Montgomery and Rowe",Home Decor
+715629ee-e893-4e3d-b354-ea6f61607459,fd72b050-96a9-454f-9c33-e1f94c1f55ab,694.96,2025-04-26,Success,MUM-AND,Andheri,Mumbai,CASH,Carroll-Brown,clothng
+f295456e-1967-4f06-bd76-7e35f5c9b047,3605bf54-a021-40ca-b531-968dc342bd2b,2631.63,2025-04-24,Pending,MUM-X-ERR,ANDHERI,mumbai,Debit Card,"Miller, Allen and Arnold",
+,735435ea-6894-4b8d-80af-5b3a2812859a,32664.33,2025-04-26,FAILED,MUM-X-ERR,ANDHERI,mumbai,upi,Johnson-Roberts,electronics
+,743b65a2-dc0f-4fcf-b3f6-fe0d48603b32,20710.34,2025-04-21,Pending,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"Hall, Baker and Moody",Electronics
+,ef04e57d-cdcc-433a-a943-4aa096fc734d,6045.56,2025-04-23,Pending,MUM-X-ERR,ANDHERI,mumbai,Cash,Wilson-Walker,
+d39e198b-4400-4d5a-a88d-a71926242b40,2a79ea68-0f44-404f-9247-ea4e246998e8,9565.74,2025-04-24,,MUM-AND,Andheri,Mumbai,Net Banking,"Curry, Carroll and Roberts",
+4dd8eb85-b04d-4376-b7fc-97031fd5a423,45b1ed25-f153-4ae8-a70a-cc5cb321bf21,4669.8,2025-04-27,Success,MUM-AND,Andheri,Mumbai,upi,"Snyder, Miller and Williams",Books
+9a8cfa3c-5283-4ac7-bc0a-6a5d6e996e3e,3a9aca5e-1761-42ed-869f-14f140181c6e,5570.38,2025-04-27,,MUM-AND,Andheri,Mumbai,Debit Card,"Sampson, Key and Chambers",Groceries
+c35b1c8c-0a4c-4f7f-9384-ec2b44feacae,84dad06a-7872-4deb-acd9-4cbbc19ad58c,48164.04,2025-04-26,Pending,MUM-X-ERR,ANDHERI,mumbai,UPI,White-Richards,electronics
+f8140102-7de1-4dfe-9072-5b5ca2814044,6889803e-5913-49d3-b852-99f4175ba98d,5536.56,2025-04-25, success ,MUM-AND,Andheri,Mumbai,Net Banking,Santiago-Hodge,clothng
+7ed70ed7-b194-490b-a961-929e546e035a,668409e3-f1f8-443e-a99f-131849c8a43f,9142.12,2025-04-27, pending,MUM-AND,Andheri,Mumbai,Credit Card,Gibson LLC,Toys
+f85e06a1-1dad-49b2-92c2-1221409d3602,83bc9478-dd6a-47b8-a778-043bc5c5b37a,4340.72,2025-04-21,,MUM-AND,Andheri,Mumbai,Debit Card,"Booth, Murray and Brown",Home Decor
+c1a6423b-9f64-4eed-9c9d-927d84b871bb,c28ebd70-7129-4889-a01a-c9927f9d3e64,5807.97,2025-04-21,Failed,MUM-AND,Andheri,Mumbai,Debit Card,Adams and Sons,Electronics
+,,739.66,2025-04-24,Pending,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Gilmore-Washington,Electronics
+9bdf0377-a149-43c2-b920-264c0763fcd0,288b78b5-b5b4-43ca-bd42-993ccc9fd334,8867.58,2025-04-24, pending,MUM-X-ERR,ANDHERI,mumbai,UPI,"Smith, Russell and Walker",Groceries
+762172ed-1d0b-49bd-a9b5-c5cfd7665cda,d50755d9-a5d0-4d53-9e12-42e3f27292b6,7894.99,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,Credit Card,Cantu-Carter,Books
+d5b077e0-6a5d-432b-85ff-2c83b495db4e,3e652603-78e3-454b-baf1-4ff07b85179a,4779.76,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,,"Thomas, Lee and Greene",Toys
+dd30de89-22f2-45f2-a11b-868dbf0d073d,ca3dd859-c5ce-499c-86b8-265911df12d7,8576.04,2025-04-26, pending,MUM-AND,Andheri,Mumbai,Credit Card,Villa-Romero,electronics
+b9de7a3a-4868-42b9-80a8-1de9d20f87d0,9475dbc9-9641-4ced-9664-d2644c6e27ff,7911.14,2025-04-26,Failed,MUM-X-ERR,ANDHERI,mumbai,CASH,Griffin Group,electronics
+c34b9fbb-8d4a-45b8-951a-c8ea585a0afa,eecf67d2-7491-46f4-a090-d6978b1e3b9d,2288.84,2025-04-24,Success,MUM-AND,Andheri,Mumbai,Credit Card,Pollard and Sons,Clothing
+db23aa8c-3bca-4f85-a20a-60ac9261549d,517400f8-0b2c-482a-a928-8e92c68a152f,5237.7,2025-04-26,,MUM-AND,Andheri,Mumbai,Debit Card,"Mcintyre, James and Mcneil",electronics
+fb16e5db-a6ea-479e-921c-82f8cada4f80,097a1e10-f6fe-4c0e-becd-dbaf26f05fcf,6830.39,2025-04-22,,MUM-AND,Andheri,Mumbai,CASH,"Sanford, Rivera and Garcia",Groceries
+86a4bae4-1986-44b2-b0b7-e868d85480f0,b8f21423-03ed-41f8-b4f9-3d17e912b4bf,2818.62,2025-04-22,Success,MUM-AND,Andheri,Mumbai,upi,Pitts-Booker,Toys
+f81dbaa1-c812-4a8e-b830-89301327f1bc,b15516bc-9f8d-4d97-96ab-f2f143d88870,6658.84,2025-04-25, pending,MUM-AND,Andheri,Mumbai,Net Banking,"Miller, Murphy and Craig",electronics
+5110b492-f442-4e0b-a148-4bb3889b78d5,c268283e-e32f-4e63-b7fd-dd71a075e927,5751.02,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,Cash,"Johnson, Jones and Welch",Toys
+3a3c8a71-ff57-4e2b-8991-ab9bebc2026f,fa745761-6f18-4108-9723-199dbf2c14a0,8056.77,2025-04-22,,MUM-AND,Andheri,Mumbai,Debit Card,"Padilla, Garcia and Jackson",Groceries
+0bc61066-0769-465f-a746-ccb94ca9cf07,4b1a269b-0e5d-4462-8bd0-0ef2530a37df,9189.87,2025-04-25, pending,MUM-AND,Andheri,Mumbai,Credit Card,Jordan-Sanchez,
+cae28e66-ae8a-4813-90e0-a95b697c3923,14374509-2cd1-486a-ab84-0c672e183554,3651.42,2025-04-25, pending,MUM-AND,Andheri,Mumbai,Cash,"Vega, Jimenez and Aguilar",Toys
+4104a8b5-a34d-47c5-b60d-ebbb3b70b3a1,0267deb3-aab6-42c9-815d-174a75a66981,9887.67,2025-04-26,,MUM-AND,Andheri,Mumbai,Net Banking,Byrd-Moore,Toys
+fcd6bdca-5876-4d09-b1fa-f665711533f3,f6478986-a391-4c99-8c95-5f6a966b1964,9594.42,2025-04-26,,MUM-AND,Andheri,Mumbai,CASH,,clothng
+d865d69a-74f3-4103-8006-6ff2b0b862ef,627b41a1-ffd6-4232-b2ff-e2944d57d880,1109.95,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,upi,,
+92698698-61a1-4729-bcb9-83501b4da0fe,fe2110d0-4bbe-4aff-9326-dffd5be4bf51,144.56,2025-04-24,Failed,MUM-AND,Andheri,Mumbai,CASH,Spence Ltd,electronics
+90e0b95f-0212-4554-8644-58b46553867d,bea29dfe-c73f-4e1b-af90-8e3cdd750e98,6524.62,2025-04-21, pending,MUM-X-ERR,ANDHERI,mumbai,Net Banking,"Mcgee, Wall and Leach",Books
+9b689c88-3ae9-49fe-8c82-18dac696f5e6,a2f963a3-3810-4e66-9a31-b4cccd4b69a9,7555.3,2025-04-23, pending,MUM-AND,Andheri,Mumbai,Debit Card,"King, Campos and Saunders",Toys
+a0d4de3d-2303-46c6-969d-42f1ae4c84ff,a5769411-a0a1-4839-a745-770418dfbc3c,78.78,2025-04-21,,MUM-AND,Andheri,Mumbai,Debit Card,Kramer-Johnson,Electronics
+1712fb16-21a4-444f-bb7b-ee035d678bb1,bf5ae7e6-53a3-4d5a-8b8c-5bdce8dd5e5a,2682.49,2025-04-26,,MUM-AND,Andheri,Mumbai,Cash,Gonzalez PLC,
+87e5f0fe-5da8-46d2-b8b3-8a8be05fb8bc,d499da99-45c4-4a3e-a9da-484a80759f1f,8145.3,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,,Sloan-Raymond,Clothing
+bf1e8366-4b8e-43d4-8e76-07adf7a67b94,1d7bc313-cde2-4f1c-96b6-0afcded255d0,9136.46,2025-04-26, success ,MUM-X-ERR,ANDHERI,mumbai,,Taylor and Sons,
+aca5e2fd-b966-442a-ad23-8d36dc322c97,d882b5c1-f79e-4d70-a5bc-c272fadd7ea3,3887.78,2025-04-27,FAILED,MUM-AND,Andheri,Mumbai,,Davis-Foster,clothng
+746cdb77-1fa3-42e8-895c-cd9943b38eb4,ac1e86d8-bfbf-497b-ac3e-7b0d5e5ba13d,7165.07,2025-04-24,Failed,MUM-AND,Andheri,Mumbai,Net Banking,"James, Little and Watson",Groceries
+,066803ee-78b2-4549-bbdb-c09eacc216a0,33918.88,2025-04-27,Failed,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Herman-Walker,
+76da3ca0-d2e8-4f38-a2a9-d4d8102efde5,a6348e78-4d5c-45c7-b379-cb1ee8cda0cc,467.96,2025-04-25,Pending,MUM-AND,Andheri,Mumbai,CASH,Taylor Inc,electronics
+1dba1267-7e1c-45a1-bef5-18a64dead645,899ca782-e323-4d1a-bc1b-dacc18e19331,4012.96,2025-04-22,,MUM-AND,Andheri,Mumbai,CASH,Chavez-Santiago,
+8a4a0e2d-f22b-4b98-b24c-c64fbe3e6e57,ba0266ef-be05-4787-965b-efdf6b4be411,4103.29,2025-04-22,Success,MUM-AND,Andheri,Mumbai,CASH,Pena-Bass,
+f396ea37-f065-4817-a87a-48509d9b6231,5edb0d3c-b0b6-4bcf-8860-1833479d0cda,1036.41,2025-04-23,,MUM-AND,Andheri,Mumbai,upi,Wallace-Young,Toys
+af88bdec-fb1e-443b-996f-4dfa5cd8fe1a,fa53e34d-e6d5-401d-8b62-1d415e09a9ee,4168.76,2025-04-25,,MUM-AND,Andheri,Mumbai,CASH,Sanders and Sons,electronics
+d918b3e5-f2f2-4eef-9f45-dbfdf7dc67e0,a9ab364a-1777-48cb-b468-5b98d2fe2fde,39455.77,2025-04-23,,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"Fowler, Maddox and Williams",Books
+203c8c25-fd23-4def-be5a-87e35560db22,11906f50-3488-4a46-9088-2eafc9776598,5594.04,2025-04-27, success ,MUM-AND,Andheri,Mumbai,Debit Card,Willis and Sons,electronics
+c9e48e8c-25c6-4c45-863d-04ee541c7a86,46fb7bf3-00b9-44a3-9892-40ace68933a9,9081.0,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,CASH,Fernandez and Sons,Home Decor
+06998731-ddcf-4766-a93b-12cd1c24220e,ca3c6f5f-5bb5-440c-83cd-e2e321bddb41,5006.69,2025-04-23,,MUM-X-ERR,ANDHERI,mumbai,Net Banking,"Morris, Thompson and Williams",Home Decor
+1d181ee9-86ad-4a8c-abc4-123ebde13c1b,72c22a16-79eb-4168-9045-56e5bee3eb79,628.26,2025-04-25, pending,MUM-AND,Andheri,Mumbai,Credit Card,"Wheeler, Hayes and Walker",clothng
+,c8819065-ba2c-48ce-8b19-f88e9d77a45e,7814.68,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Ellis-Maynard,Clothing
+d8e88ebb-7a9e-4eef-bfa3-61be0f9240e1,1ba362e7-afa4-45e5-ad20-449666d06371,7421.18,2025-04-26,,MUM-AND,Andheri,Mumbai,upi,"Browning, Jones and Miller",Home Decor
+204e178c-10d0-4d11-a5f9-34bf9bb96155,95da75c1-a211-40f9-9fd3-4579466772ce,2829.96,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,Cash,"Nguyen, Vang and Schmidt",
+6e218b09-9afd-4015-816b-cb9f7426b193,1d4a3d81-b3a7-40e0-8b08-587d1963c26d,8854.34,2025-04-27,,MUM-AND,Andheri,Mumbai,UPI,"Glenn, Jordan and Beasley",Clothing
+74188109-d3d1-4f0f-96c4-38e469efafb1,18578baf-bac7-42b9-aa7e-4c3666132e69,854.49,2025-04-24,,MUM-AND,Andheri,Mumbai,,Edwards-Scott,Clothing
+,,1261.38,2025-04-22,Success,MUM-X-ERR,ANDHERI,mumbai,Credit Card,,
+112fa612-7969-4ed2-ac48-bf55afd380c4,17dded81-15da-405c-94ef-00aa175a81ec,5993.16,2025-04-26, pending,MUM-AND,Andheri,Mumbai,upi,Garner LLC,Books
+0f5ae9d3-8e6e-4003-a14f-3f12cfd01cbd,8fca7b6a-8fc4-4092-b4e5-59e596229348,4430.71,2025-04-25,,MUM-AND,Andheri,Mumbai,upi,"Martinez, Gomez and Ortega",Toys
+ea74bb18-de3b-496f-ac45-96f6c012a0ff,49a214ae-f7e8-48e5-8d2b-91efb8976ec5,1902.66,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,Net Banking,Garcia-Romero,Electronics
+39681c81-7b70-43b8-a81f-dec3279c658a,d86a6460-59a1-420e-9bb4-3332d8e7012f,35940.41,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Wilson-Ramirez,Clothing
+d85c16bd-6dda-4f8d-8ea6-0f4c39e58ff0,d1846c39-c476-4556-b97b-e2dd8f9b72ae,5401.84,2025-04-27, pending,MUM-AND,Andheri,Mumbai,UPI,Lynch Ltd,Groceries
+076979d6-4477-4442-b187-53e6d4578ad9,c32d4526-b3e4-410a-85f5-0c522e2fbf77,7152.55,2025-04-24,Success,MUM-AND,Andheri,Mumbai,,Bell-White,electronics
+6699cd99-a847-4ce7-90fa-6b5724ac2130,a2178f84-bdb0-45ff-a451-e5a411d059b2,5345.48,2025-04-21, success ,MUM-AND,Andheri,Mumbai,Credit Card,Reese and Sons,Clothing
+5744f596-7422-4167-ab7a-2460604e46cb,,92.11,2025-04-22,FAILED,MUM-X-ERR,ANDHERI,mumbai,upi,Collins-Nguyen,Home Decor
+15bfbe97-98a2-4f1c-914d-cfaef10013a7,284c03d2-27d4-45b6-8d77-c5a0e222b6a6,237.36,2025-04-21,FAILED,MUM-AND,Andheri,Mumbai,CASH,"Miller, Ramos and Coleman",Groceries
+45ee432d-6a07-4213-b129-cec79b69554d,1d2324e6-8329-40b7-8143-f426372f871a,30420.1,2025-04-25, pending,MUM-X-ERR,ANDHERI,mumbai,,Rodriguez-Gregory,Groceries
+aac93316-86e5-4753-bc93-f6cc97d7a560,652ffb49-3873-457f-8ba0-78e84ef492c1,38942.24,2025-04-21,Success,MUM-X-ERR,ANDHERI,mumbai,Cash,Harris and Sons,Electronics
+,4169b9fc-c3a0-4c6f-a321-d1e1c47104c0,7582.65,2025-04-24, pending,MUM-X-ERR,ANDHERI,mumbai,,Wilson-Jimenez,Books
+61554667-2112-407c-acfa-55b06e3f683a,8011316b-3ae8-4926-b423-ccde88575117,4532.37,2025-04-27,Failed,MUM-AND,Andheri,Mumbai,upi,"Drake, Jones and Hensley",electronics
+75b27455-04cc-4ede-afac-16730ad45230,5024bdc6-dcb3-4df3-93ee-cdc6ebd14d2c,7.1,2025-04-27,,MUM-AND,Andheri,Mumbai,CASH,Berry-Mckinney,Home Decor
+67b03283-1d7c-4098-8a1d-ab326aedfdc7,2bffe17b-5324-41fc-b758-dce20556daea,3936.04,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,Debit Card,"Gillespie, Davis and Richard",electronics
+6683e107-96c0-44d0-af88-7f283e49fd09,dedab027-6550-474a-9422-373f862268d1,3230.22,2025-04-24,Failed,MUM-AND,Andheri,Mumbai,CASH,"Morgan, Cook and Jackson",Books
+87d5b7be-1d30-4990-a21b-030782af085c,c6b6e4ad-e7ea-4d5a-b1a3-ac4d828c37e7,5552.93,2025-04-25,Failed,MUM-AND,Andheri,Mumbai,Net Banking,Luna-Fuentes,Home Decor
+1a5165ca-3c7c-4d85-a5cf-0041d0a643fe,2c6a6e9a-3280-47a1-8187-222b257d5e52,2318.35,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,Cash,"Jones, Bean and Burton",
+c2874f06-9050-47ef-8123-5c9176c5a0dc,ec955f87-ae5e-4365-b2eb-74749458054e,8485.39,2025-04-27,,MUM-AND,Andheri,Mumbai,UPI,"Reid, Weber and Lin",
+70944bdb-26a5-44e3-90ee-7a92a09151e0,a1a27485-7134-4c2a-b80b-3657117b355b,7039.37,2025-04-24,,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Vargas-Bell,Electronics
+73b0a091-7634-4169-8f76-e38812fe28bf,d4ea120a-5e65-4654-8e90-58b609a0a0f6,35645.41,2025-04-24, success ,MUM-X-ERR,ANDHERI,mumbai,UPI,Newman Inc,electronics
+626d719d-81cf-4252-9815-9d6c9d713084,f4488385-8de7-4d6c-9490-77c27674456f,7005.73,2025-04-21,Failed,MUM-X-ERR,ANDHERI,mumbai,upi,Stout-Armstrong,Toys
+79c2d2e4-9ae1-4991-924f-93ff30307633,0fd6f47e-f52d-4af2-a69e-d4c980599b93,27520.37,2025-04-26,Pending,MUM-X-ERR,ANDHERI,mumbai,,Shepherd LLC,Groceries
+,,4386.08,2025-04-22,Failed,MUM-X-ERR,ANDHERI,mumbai,Net Banking,"Lucas, Williams and Zimmerman",Groceries
+85d2d0a6-8629-4b5d-b07d-f251fdb1429e,5f733a3e-5d28-4aa4-a8a3-97799c1c3517,5509.53,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,Debit Card,Ortiz-Morgan,Groceries
+a181c85e-ca0a-46ac-8d67-d38e990f0c5b,54669d19-10df-4974-95ab-946da5b5cdc2,1604.32,2025-04-22,Success,MUM-AND,Andheri,Mumbai,,"Gregory, Mitchell and Cummings",Electronics
+9a4a99b2-e806-433c-b6e3-9356a8149562,,25561.77,2025-04-22,,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Miller-Alvarado,Home Decor
+f7baf55e-4f6b-48c8-998d-daeceaafe543,64575bc4-a981-4098-b2cf-952da7f333b3,7623.35,2025-04-22,Success,MUM-AND,Andheri,Mumbai,,"Fletcher, Miller and Hansen",Groceries
+d02ce0c1-5417-4a17-8aaa-5bbea4bbf962,d436a7a8-b3ec-4951-ab8c-bf9720b71785,4624.04,2025-04-27, pending,MUM-AND,Andheri,Mumbai,CASH,Lucas Group,
+5cd33369-04aa-41b7-9ca0-c428822c4d32,36d55494-f37f-450d-ae25-b5ee4f11d8dc,13914.82,2025-04-25,Failed,MUM-X-ERR,ANDHERI,mumbai,UPI,Lee-Cooke,electronics
+d82c7565-4bb9-47ec-93c1-175427aa7cbc,c5580bb2-81f7-43fb-99e4-5c6ac9c23e69,842.01,2025-04-27,Failed,MUM-AND,Andheri,Mumbai,Net Banking,"Stephenson, Johnson and Rogers",Groceries
+98e52499-218c-4e1c-9e37-4f7ac42cbc39,2e4bebc4-2989-4880-a77d-1be96070b6a1,2045.67,2025-04-23,,MUM-AND,Andheri,Mumbai,,"Kim, Jenkins and Rhodes",Groceries
+9c4ffb46-71b7-41aa-b836-f5713ccec76c,c8a723e9-bfa0-46c2-809c-b50648f1096d,40742.55,2025-04-26, pending,MUM-X-ERR,ANDHERI,mumbai,Debit Card,,Books
+4f3949a8-3d3a-4582-88b4-f4743be79df4,78116802-c8cc-4cfe-8f01-f944f7315749,42604.08,2025-04-23, success ,MUM-X-ERR,ANDHERI,mumbai,,Gregory-Hudson,clothng
+48223120-c4f9-4ccd-b630-a8a770cafdd8,87079ad4-80be-4e35-a1c2-645ac7332304,7894.75,2025-04-26,Success,MUM-AND,Andheri,Mumbai,,Montoya PLC,Home Decor
+0d5ba7cd-4000-45f0-9f7d-0dd7236e1608,5f07c1a5-dfc6-40ce-bb07-fd31a4244f23,31586.07,2025-04-27,Pending,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Dawson PLC,Toys
+1578d709-48f9-43d0-9fea-e1e0d9e604b3,73069588-45d5-468d-a90a-3abbc35b9fea,628.32,2025-04-27,Success,MUM-AND,Andheri,Mumbai,CASH,Guerra Inc,Home Decor
+d11376e0-38d7-4b9a-a916-da57f24823ab,ee33688d-597e-4845-a277-18c5737d1fb6,2420.02,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,upi,Brown-Shaw,
+14e4180c-fe99-46a3-a2db-c8503c5bf3a7,519554e3-0737-4c86-b97b-5f515ffa46ef,7304.4,2025-04-22,Success,MUM-AND,Andheri,Mumbai,Cash,"Santos, Moody and Taylor",Electronics
+78f2ce6b-d46b-415d-aada-79a34970ed9a,c24369e7-2387-4af6-94c3-a832b231c60b,3567.2,2025-04-26,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,Gilbert-Bullock,Clothing
+d5c0244d-3735-462d-8184-3b0304dd7054,ba2c0f19-f0b2-45d1-8c7e-6f422646eaf9,2742.61,2025-04-27,,MUM-AND,Andheri,Mumbai,,Rodriguez-Roberts,Toys
+3d0a5f0c-0c39-4ec7-9f31-74054d183eba,9f708368-cb3c-48ca-a392-57316b79afcc,7240.02,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,CASH,Rodriguez Group,Clothing
+a1c7cc8a-0435-4b64-893a-d23298c3e3ca,b7f28572-3def-4849-9336-4f7e83efa9f3,2639.54,2025-04-22,Success,MUM-AND,Andheri,Mumbai,Debit Card,Patterson-Mendez,
+2ff3cde4-6aa4-4c9f-9217-04753d959e3f,8603156a-15ea-4bcf-ab10-21ceaa143cd8,677.65,2025-04-25, pending,MUM-AND,Andheri,Mumbai,,Ashley PLC,Toys
+81f38dd4-fd03-4ada-8952-518581e03a5e,df92a621-63f4-469d-8534-a1018ddce719,8455.28,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,UPI,Reid LLC,Home Decor
+5b6a8102-0428-4378-bf50-23f440ef3935,3dba6da8-5844-49fc-914b-9547c9dc72b8,3971.97,2025-04-22,,MUM-AND,Andheri,Mumbai,UPI,"Moss, Cook and Williams",Electronics
+,a48e40f1-d042-4dfa-96ab-087a8bc78e81,1134.48,2025-04-23,,MUM-X-ERR,ANDHERI,mumbai,UPI,"Marshall, Dominguez and Welch",clothng
+b74eba93-1027-4b53-a285-b2efcfbe4fe9,0977c513-752a-4d25-b190-1b7ec6b469ef,4738.71,2025-04-24,,MUM-AND,Andheri,Mumbai,,Williams and Sons,Home Decor
+eef16694-50ca-432d-8aba-590ee2c328aa,fd372539-65f2-42f9-83f0-2dc74f612217,1226.85,2025-04-27,Success,MUM-AND,Andheri,Mumbai,,,Clothing
+c0d7ac73-095f-4a81-80d9-2bce7930ba20,5b62a8df-493e-404d-b0ec-2796a59b457f,5310.13,2025-04-21, pending,MUM-AND,Andheri,Mumbai,,"Rivera, Martinez and Richardson",electronics
+7092947d-be49-49ec-a667-d3bbe3b56360,56cb1ab0-62fb-46d7-b4db-ca07e506f670,1645.22,2025-04-23, success ,MUM-AND,Andheri,Mumbai,Credit Card,Holt-Richardson,Clothing
+cd180a82-4447-4eab-84ef-4324cc1b4157,14348f62-6cac-428c-ba22-006515260718,4008.76,2025-04-26,,MUM-AND,Andheri,Mumbai,Debit Card,"Carney, White and Carter",
+a9320094-53f2-4f11-947f-65701a43db54,9a45693d-7227-490e-8e76-833a4baf0f5e,2564.85,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,Cash,Norris LLC,
+debac186-ba10-4217-8ad7-c9a2727716ec,ff86cc31-9d66-4815-9a41-53b3e95f176c,3015.86,2025-04-26,FAILED,MUM-X-ERR,ANDHERI,mumbai,UPI,Fowler-Moody,electronics
+a334058a-abd2-4512-9335-e5db0eaf04b5,cd14a03e-8359-4af6-9d01-f55f67fd64c4,1391.87,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,Credit Card,Thomas PLC,Toys
+,08e895d7-702c-4821-8804-0fb7ad973b67,9390.78,2025-04-22,Success,MUM-X-ERR,ANDHERI,mumbai,Cash,Young Ltd,Electronics
+f31046dc-6202-4ee6-9cb5-e69c5dc7b3e6,2747b93c-9ae7-4eab-884a-67809136f1f8,2476.59,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,Net Banking,Watson-Hines,Books
+5df06e8c-878a-4ed9-a33f-fc8292ec89af,,2705.32,2025-04-25, success ,MUM-X-ERR,ANDHERI,mumbai,,Banks-Wright,
+2fa0d842-bc55-400b-86a2-41af1d0af7f7,e9ddebf5-6311-4aca-848a-f4407fc15858,6722.69,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,,Green LLC,Clothing
+,ff11c8ba-36ee-4640-b23e-f466b43bd27f,9671.09,2025-04-24, success ,MUM-X-ERR,ANDHERI,mumbai,CASH,"Hendricks, Henry and Martinez",Groceries
+2c33350c-73b9-41d8-92f5-131ada52d2ee,ff4c96d6-71f2-4e8f-b69f-68c3e60fd420,4856.68,2025-04-22, pending,MUM-AND,Andheri,Mumbai,Debit Card,"Ponce, Downs and Contreras",Home Decor
+8acbbe09-8ccc-4cea-909f-d8eeb5a47200,d9f2dd0d-4cc9-45f2-a42e-50374a552ea0,7302.62,2025-04-22,Success,MUM-AND,Andheri,Mumbai,UPI,"Mckinney, Graves and Thompson",Books
+1f119c0f-3967-460a-823d-d1075c8ac066,238d6f44-cac4-40eb-b373-730efc31a597,3389.91,2025-04-23,FAILED,MUM-AND,Andheri,Mumbai,Debit Card,Johnson-Spencer,electronics
+fba6abf7-cdbc-4653-b7a7-e8b75e70f65f,e25df9a8-9ca8-45c4-a138-afe08d38bbd8,1351.14,2025-04-22, pending,MUM-AND,Andheri,Mumbai,CASH,Parker Ltd,
+6929de73-8693-4d9d-ba89-cbebb807d78a,932cae01-d2c6-4ee4-a8d0-a2a8c4e7f7dd,5158.94,2025-04-21,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,Compton Ltd,
+ae1b9f69-7740-4831-b331-874912fc7a87,e0c1ff1e-20da-4972-9832-1ee48471b4b0,3713.7,2025-04-27,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,"Matthews, Saunders and Anderson",
+0e2f8958-de43-4e06-a924-706980bbae52,272c0588-84a2-476c-9fc9-05f8d4d60735,6021.35,2025-04-24,Success,MUM-AND,Andheri,Mumbai,,Martin Ltd,Home Decor
+f0df1684-f28e-4122-9894-f7f139b86bb2,d88f1c94-48b7-43d5-a519-dd7e84d67c4f,978.08,2025-04-21,,MUM-AND,Andheri,Mumbai,CASH,Gonzalez-Huber,Books
+4d85e9c7-a001-4720-a00b-290346426c45,80a8a23d-17ea-4c83-8892-042f9d4b2bf9,9789.97,2025-04-23, success ,MUM-AND,Andheri,Mumbai,Credit Card,"David, Moore and Hopkins",Electronics
+566e3cbe-9aea-422f-a6e9-87cab87b6384,0a8bb5b4-9049-4583-ac86-a890d7b00bdc,2125.68,2025-04-21,,MUM-AND,Andheri,Mumbai,Credit Card,Williams Ltd,
+a6b07458-43c0-4d43-93a7-4792c561b8dc,6aa56e6d-9277-4574-8457-6cc335f789bc,5522.12,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,CASH,Small-Gardner,Toys
+7ba24588-4d56-4a3d-b4e7-069aa4540937,af5b8f47-ceae-41cf-8e00-0af03eb05181,636.73,2025-04-25, pending,MUM-AND,Andheri,Mumbai,,Chavez-Barker,Books
+7bf7e1d3-6a66-4fce-b089-fc6d2877f5d9,9b4e164b-5716-4c2e-b43a-da2a76e5ae78,265.54,2025-04-22,,MUM-AND,Andheri,Mumbai,Net Banking,Hensley-Flores,clothng
+f9b21e6e-586a-446a-9c5b-e7d1fcef1972,5edbb8ee-c2ba-40e0-a179-e3f066124ab4,233.72,2025-04-27,,MUM-AND,Andheri,Mumbai,,"Rodriguez, Allen and Martinez",electronics
+18c8a616-2410-4e9a-bf77-9cae7318b96d,6257a4a2-f204-4e89-8a4b-55630cf477ef,9363.9,2025-04-26,Success,MUM-AND,Andheri,Mumbai,,Estes and Sons,electronics
+93e34c35-ef0a-473d-93d2-d56dd0401587,c35bec2c-3098-47b2-900e-15c0b89bdf7f,3625.07,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,,Ferrell-Owens,Clothing
+05eee1d4-7f53-488e-8efc-8248e10b1a47,8164ceec-64ab-451b-b1fa-c6e7170d7507,3340.23,2025-04-26, success ,MUM-AND,Andheri,Mumbai,Debit Card,Lewis LLC,Electronics
+7eb162f1-4806-4804-8cf0-374c0c74dc0f,a77d95f1-d7c4-4e9c-a1e0-fffc98f6fd7f,1554.52,2025-04-26,,MUM-AND,Andheri,Mumbai,upi,Herrera-Boone,clothng
+43b47ee5-e1e8-4e7e-a249-8f666e51484d,673ba8bd-c38c-4dec-9da3-9a73ba3df7ff,16731.57,2025-04-25,,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Morales PLC,
+8da00495-5cce-4ba9-b1d4-ee098fd33afc,8116e3fc-62e7-41a6-92d2-fa0649e1cd13,4903.67,2025-04-26,,MUM-AND,Andheri,Mumbai,Debit Card,"Ramirez, Hays and Becker",Books
+18c01e2b-f99f-4704-a0f0-156a1e6a6628,fc9e1dcb-cb7e-4268-9f89-ed1264d6dfbf,1220.25,2025-04-25,FAILED,MUM-AND,Andheri,Mumbai,upi,"Mcmillan, Fischer and Gonzalez",Home Decor
+0a4e2552-8005-4b10-a6c1-4dca8255da61,b6adf48b-2314-40c8-89f6-44050b990034,9804.19,2025-04-25, pending,MUM-X-ERR,ANDHERI,mumbai,upi,Stone-Hernandez,electronics
+53f591dc-23c8-4fdb-83f8-2f16e4a4474c,2999bbef-518b-4f21-9cf2-0859ee6e2e72,2711.73,2025-04-25,,MUM-AND,Andheri,Mumbai,,"Stevenson, Evans and Rogers",
+,7d66971e-8847-4c56-827c-9f8cd40ac5e9,4510.03,2025-04-27,Failed,MUM-X-ERR,ANDHERI,mumbai,,Wells-Smith,Toys
+fada98f5-1c0f-4bdc-ac7e-937c54cc1e2a,cbf81f86-4ec3-4970-956d-80e46aa26216,1610.88,2025-04-21,,MUM-AND,Andheri,Mumbai,,"Wells, Coffey and Patton",
+3a4045dd-93df-4907-9416-e4dcc6b28def,,29205.37,2025-04-21,FAILED,MUM-X-ERR,ANDHERI,mumbai,CASH,"Castillo, Warren and Griffith",Groceries
+25d4a0fc-6154-4765-9756-ba9cc64c9647,08150147-3e00-480e-ae44-1e21d25864f2,4603.93,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,,"Rodriguez, Smith and Edwards",Toys
+34323ec6-b0c4-401c-a9b7-c0fa26c432f6,9c89d374-c664-45a7-8077-3e33690e7e62,25735.71,2025-04-26,Pending,MUM-X-ERR,ANDHERI,mumbai,Debit Card,"Luna, Thornton and Stone",
+a987b218-ff84-4aef-9336-723b8f964685,50521700-6077-46a3-8685-abaa7a768555,380.48,2025-04-23,Pending,MUM-AND,Andheri,Mumbai,Credit Card,Barr-Peterson,Books
+de1e994a-c5a1-4f5c-ad05-b9125ab28d4a,cdbc2c1c-a4af-47bd-ae45-5cc6b88e830f,5905.01,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,UPI,"Washington, Bernard and Ramirez",Electronics
+f910abb3-f105-4252-b990-e2c94c6a70f4,49fc2cd8-c56b-4d4c-8c30-77c4fb756923,8973.28,2025-04-23,Success,MUM-AND,Andheri,Mumbai,Credit Card,"Bush, Stewart and Bailey",Home Decor
+b8beff3d-cb9f-4f6d-af3a-6f27ef06fccb,92cf6021-1f33-442d-89ac-908746015028,8979.58,2025-04-27, pending,MUM-AND,Andheri,Mumbai,UPI,,electronics
+65001423-faeb-4d19-a550-8ea26133a34d,c5e78b23-f461-4f09-985a-befbd1812f77,779.3,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,,Williams-Moses,Books
+713f8f8c-ec8b-4537-98ab-4778143b45e3,7aa4f052-bf51-4362-81a6-4feda7edc8d8,3729.48,2025-04-23,,MUM-AND,Andheri,Mumbai,,Clayton LLC,
+4588fc1b-b238-4849-8fe0-69b6eedaa802,bdab07e7-9d9d-428e-9bf6-45f623245211,9310.5,2025-04-23,Success,MUM-AND,Andheri,Mumbai,upi,Williams PLC,Home Decor
+0d700ea4-3b9b-4d45-a350-55e439c59df9,b7a4c719-548e-4f6b-a9ce-1e4e19a692c9,1380.33,2025-04-26,,MUM-AND,Andheri,Mumbai,upi,Maldonado and Sons,Home Decor
+fa585b27-8ce3-47c3-b6ea-b3a001539221,a723fb72-682b-463a-a86e-d390edd97a1a,2082.93,2025-04-26,,MUM-AND,Andheri,Mumbai,upi,Santos-Avila,
+a55990e7-4910-4ade-9238-0bf24988e418,16e6e5c0-c4cb-494f-a86e-8e630f25477d,8537.76,2025-04-27,Success,MUM-AND,Andheri,Mumbai,,Nichols Ltd,Groceries
+e9c96c52-098c-40b3-afc9-909ed9af6e09,e1dace6a-6afa-428c-acd1-0b9febe5841f,2742.17,2025-04-23,Pending,MUM-AND,Andheri,Mumbai,Cash,Osborn Group,Books
+efc59738-2fb2-4e66-bed1-7aabc9b7c9bc,ed10f004-df4e-413e-b64e-3dfcbfbeac7a,6411.94,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,Debit Card,Smith PLC,Clothing
+fba57cc8-edaf-4766-9b78-0ede9a4ffc0c,fd359f6a-7450-4887-88d9-084655c551fc,5105.64,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,Debit Card,"Snyder, Mays and Rosales",Home Decor
+cf0e6d2b-315c-467a-85d8-a6ad77d0359e,bb2aa146-2999-494c-94a7-b69b1cd66b09,8046.64,2025-04-26, success ,MUM-AND,Andheri,Mumbai,Cash,"Scott, Lopez and Doyle",electronics
+aca58d95-915a-4c30-8b86-b5a1ca6fbff8,9c678393-2ced-4c0d-b173-04b5c1dd484a,2857.57,2025-04-25,Success,MUM-AND,Andheri,Mumbai,Cash,Robertson-Miller,Clothing
+fb4fb88a-2f4d-4219-986b-2880ab545a15,ef9240b6-52d7-4f10-ba3a-6e9623ff23d3,508.25,2025-04-24,,MUM-AND,Andheri,Mumbai,Debit Card,Green and Sons,electronics
+f43ba052-4459-4d6e-80f6-3229725d4259,b90ed44b-951c-45d5-8d4c-5280546252e7,6321.0,2025-04-27,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,Green LLC,Books
+aaf407f7-0fe7-4149-bc7e-5368b1594847,28e333b6-4e8a-4c4b-b724-20411e43fbd2,4308.66,2025-04-25,Pending,MUM-AND,Andheri,Mumbai,,,Home Decor
+e5267a2b-ec50-4ce4-80a5-2e65afa28559,4f9c4027-c514-4d98-b41c-504fe346f415,8452.96,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,upi,"Hendricks, Phillips and Mendez",Groceries
+7a6a2107-2231-4050-b515-94943818cfd3,,6745.55,2025-04-22,Pending,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Adkins-Obrien,Electronics
+e9ad0e9b-8c9a-41e9-b3b2-63376a74dbb7,cd4f8b2b-899a-4252-81e1-b94a78883058,2222.5,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,,Becker PLC,electronics
+86879aa9-14f5-43d0-8991-2032df85c777,5c9deee0-b42a-4456-8736-5a84725e134d,9654.5,2025-04-21,,MUM-X-ERR,ANDHERI,mumbai,,"Rodriguez, Poole and Leach",Electronics
+265cb9d9-8962-4f6e-929c-93b333c08bf1,85351a69-dabf-484e-93ff-84612a1f1b61,9802.27,2025-04-26, success ,MUM-AND,Andheri,Mumbai,Cash,Frazier Ltd,Electronics
+e61d9cde-1747-4387-bd23-d47995492a82,0e3e25f2-cf06-41c7-b20b-274b82a7f586,449.66,2025-04-26,Success,MUM-AND,Andheri,Mumbai,CASH,Palmer Group,clothng
+765e6cb5-8f0d-4540-8ec7-d662905c7bdd,b928e23f-4ee4-434e-8e92-0136ac3a812f,-32.07,2025-04-21,,MUM-AND,Andheri,Mumbai,Net Banking,Scott-Smith,electronics
+0b981ccd-12b2-402d-940c-350337c86152,105291d3-b34c-4c73-9833-0b306c776e95,6782.13,2025-04-27,Success,MUM-AND,Andheri,Mumbai,Net Banking,Michael Inc,
+081fc6dc-78d9-488a-af0b-ea4ffc737d92,c4db5a62-2e13-418d-a8ab-80ea497ec6d1,6155.83,2025-04-22, pending,MUM-AND,Andheri,Mumbai,UPI,,
+bab2b77d-fa74-4cc8-a43a-fb7ac40d4874,5fdcabbf-6b9c-471c-b6ba-745ba55871e3,5444.06,2025-04-25,Pending,MUM-AND,Andheri,Mumbai,Cash,Kane-Knox,Electronics
+f6d22a7b-aec7-4a82-948b-4376602a4e57,220b9ea9-8a0f-4508-9fe2-c0a0a96b3c42,19163.07,2025-04-25,,MUM-X-ERR,ANDHERI,mumbai,upi,White PLC,Toys
+ba54e920-2099-4180-8762-3997649f7d88,00e3a026-d5b6-4e85-b902-39d9fa8dae42,2443.95,2025-04-21,,MUM-AND,Andheri,Mumbai,,Ford-Ball,
+d2c7bffb-6118-433b-882c-cd1e6c93a791,589decb0-75eb-49c2-bf5c-f2f33acb43a3,553.05,2025-04-22,Success,MUM-AND,Andheri,Mumbai,CASH,Lopez-Golden,Home Decor
+cf39f648-083f-44c3-9ce3-62f8c3f725fe,c41c147e-9d6b-4b62-ab53-5a19a902b73f,598.76,2025-04-21,Success,MUM-AND,Andheri,Mumbai,,Harris Inc,Groceries
+99086e47-7249-462c-8898-7462980cb95c,0c760d28-df49-4037-b40a-9181ac09bdb7,2415.1,2025-04-23, pending,MUM-AND,Andheri,Mumbai,,"Williams, Gonzales and Fernandez",Toys
+0e731dd7-c6ac-4b04-9d1d-6cd1c11f6bf5,4a0d2b73-fe54-4e4b-80ff-517323dfecd7,9782.91,2025-04-23,Pending,MUM-X-ERR,ANDHERI,mumbai,,"Johnston, Ray and Barton",Books
+4d406f1b-3ca5-4e29-9217-1bf3d18183d1,a903ae67-fc56-4b53-a4ac-b722e0527739,599.41,2025-04-27, pending,MUM-AND,Andheri,Mumbai,,Gutierrez LLC,
+97777f10-f2d2-493f-8e85-140d0f9aeb70,2cd58759-e95d-4761-bc36-dc59e134edfc,414.37,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,CASH,"Simpson, Compton and David",Books
+86433603-c92a-4d7c-a193-5990abdd1a8f,6883ac6e-6a94-4054-b241-4482519894d8,666.74,2025-04-22,Pending,MUM-X-ERR,ANDHERI,mumbai,Cash,Bennett-Webster,Books
+86433603-c92a-4d7c-a193-5990abdd1a8f,6883ac6e-6a94-4054-b241-4482519894d8,666.74,2025-04-22,Pending,MUM-X-ERR,ANDHERI,mumbai,Cash,Bennett-Webster,Books
+39b02e2a-d96e-484f-bdb0-174e7938878a,24f43c62-b523-40de-9b87-d29c4cfd0fc1,7475.87,2025-04-26,,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Hart Group,electronics
+636f6e5c-2253-4706-87ad-8b268eaa5841,548c1d84-340d-4049-8147-65063e2bf9c9,8620.79,2025-04-21, pending,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Boone-Davis,Toys
+0d31812e-30c3-4756-9453-f867b97e6224,9adf4709-ac75-4344-a08e-149e44b9e602,3075.75,2025-04-21,,MUM-AND,Andheri,Mumbai,Credit Card,Lopez PLC,electronics
+378e6510-8f10-433e-abe4-2e7db96c1163,e8334da5-de95-4695-b579-c1437ab99428,5818.0,2025-04-25,Failed,MUM-AND,Andheri,Mumbai,Net Banking,Krueger-Smith,Home Decor
+bdd151b0-f64a-46ec-b0a5-648eefe9b3d0,c11bd1c4-ffe3-4366-bf33-7a151e086f20,4499.96,2025-04-26,,MUM-AND,Andheri,Mumbai,Net Banking,Dominguez Ltd,Books
+3d44cb2c-ea45-4a41-a589-ada1345af934,48769153-c688-43fe-9255-5c758d55119e,893.51,2025-04-25,FAILED,MUM-AND,Andheri,Mumbai,Credit Card,Ferguson-Howard,Electronics
+e1fff6c0-8347-41da-9c11-ab6d42f5b3f5,cd8563ca-193e-438d-b74c-0afa7f4d908c,7008.01,2025-04-26,Failed,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Rocha-Wood,clothng
+dd34aa18-9001-4ed4-8bb4-01e769f753f1,0426fcc9-255b-40e2-bdc2-b74b38a56b49,9820.52,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,Credit Card,"Donovan, Riley and Butler",Groceries
+3ae28023-5472-4d2d-b239-9ffb27046f25,3ee82983-d557-4241-91dd-b9bf613d2de9,9273.2,2025-04-27,,MUM-AND,Andheri,Mumbai,Debit Card,"Pena, Cohen and Scott",electronics
+,,3247.15,2025-04-26,,MUM-X-ERR,ANDHERI,mumbai,Net Banking,"May, Henry and Jackson",Groceries
+23d4526b-2b54-4f7a-9a28-37b2cb8383f2,2f1dc121-7d02-4c6d-8bea-75c1b86677aa,8291.03,2025-04-27,,MUM-AND,Andheri,Mumbai,upi,"Bernard, Warren and Combs",Electronics
+ab102c9b-d168-4e09-b1f7-d90413075157,6992896e-01a2-4ed1-83ab-b5f10c6b7074,20.4,2025-04-22, success ,MUM-AND,Andheri,Mumbai,,"Hall, Mann and Smith",Groceries
+0f79a8a7-5f8a-44bd-b4bd-0c938177b661,ef145064-aab0-4015-a342-2e509e2a7324,3758.59,2025-04-26,,MUM-AND,Andheri,Mumbai,Cash,"Freeman, Smith and Arnold",
+b8e19f56-8787-4a21-8448-2a220308aa5e,49646b96-fa3c-4628-8926-21df465568b7,6170.65,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,CASH,"Li, Craig and Drake",Toys
+eb053fc4-1b65-4dab-ade4-6e91e8e6e840,3db02235-261e-4555-863e-1f2a18a806ef,2949.06,2025-04-23,,MUM-AND,Andheri,Mumbai,UPI,"Fox, Ochoa and Adams",Clothing
+f5948a54-5f80-4eeb-943a-9aff659b0105,,2937.07,2025-04-25,FAILED,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Cunningham-Branch,Toys
+d3fbe043-af1d-4a1a-8ccb-235539d1c7ff,fdde64af-a75b-495a-94a3-4f7fd90dd19b,9541.08,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,Credit Card,Sullivan Group,
+a301ec03-0e5d-4c6a-b9db-78628d7dd772,152aeaec-2bdf-4b41-b3ed-a8f1026b5383,8767.25,2025-04-27,Failed,MUM-AND,Andheri,Mumbai,,,clothng
+c8cce2c2-a518-4418-af14-b3f6d867888b,dba3496f-fa32-4f69-90db-fad654ce26be,9259.62,2025-04-22,Success,MUM-AND,Andheri,Mumbai,UPI,"Ellison, Hall and Valenzuela",
+79ba630a-9118-4400-a336-c243b139c476,13087974-ec95-43ac-8beb-7c3445667c48,5858.78,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,Cash,"Elliott, Johnson and Mcfarland",Toys
+3508507a-f622-4842-8402-2b3c508211a5,d218c9d6-c093-4fb0-a4e9-bcfd9647ff9f,4110.81,2025-04-25, success ,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Evans PLC,Toys
+d9750f00-d5ab-48ae-9112-fbc03d8f95f4,8a624cbd-e582-4678-ad52-29dd639fc471,2531.02,2025-04-25,FAILED,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Campos-Taylor,Groceries
+d9750f00-d5ab-48ae-9112-fbc03d8f95f4,8a624cbd-e582-4678-ad52-29dd639fc471,2531.02,2025-04-25,FAILED,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Campos-Taylor,Groceries
+1413d64d-b962-48a7-b076-a7dcfd0ce433,588a3f87-f96d-40f8-bed6-3da08033f5c2,1044.56,2025-04-21,,MUM-AND,Andheri,Mumbai,,Kim Inc,
+9d264599-c4dd-4df5-9aec-56a857311609,f80b2cea-658e-44a2-9879-cf35f4719986,4677.3,2025-04-24, success ,MUM-AND,Andheri,Mumbai,,Walters Group,Groceries
+8d93e14a-5b16-4158-ba67-470c7d98302f,2f8c83e5-6e8d-4644-a01b-fbcbf0eebcce,25088.11,2025-04-25,,MUM-X-ERR,ANDHERI,mumbai,,Barton LLC,Electronics
+12d15585-b68e-47fa-bf17-5534cc4d5819,6147adeb-277b-4667-8499-d0a615007170,5649.65,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,upi,"Price, Ward and Davis",clothng
+5c238d8d-71da-45b9-8eea-9db8f165d779,21ebfaa9-1a2b-469c-850f-69eec2e79a98,49779.18,2025-04-22, success ,MUM-X-ERR,ANDHERI,mumbai,,Jordan PLC,electronics
+1a7167c7-6875-4545-832f-52c48e0370cf,8de1596c-5a9a-406a-96f1-42a206b919aa,7882.12,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,,"George, Nguyen and Cruz",Groceries
+c777a07f-6346-44ef-a9ef-74e34ab6821c,8f3dc97f-e6b0-4a0a-b98f-5dbe15aede0f,6538.74,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,,"Meyer, Jennings and Jackson",Books
+7e3d5ee4-44b6-4ec1-8d16-f04944d7df9a,6f46f1b1-2ace-4aa9-9032-46b3255bfc1c,795.56,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,Debit Card,,Books
+c85cd714-7bf6-4552-8cbc-90446bcd5ce7,f1b88d65-406f-44d6-9c72-aebd13b11e59,5130.81,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,Net Banking,"Weber, Wheeler and Gonzalez",clothng
+01bb819c-4dfe-4117-a2af-711f1b628a9d,,29425.52,2025-04-25,,MUM-X-ERR,ANDHERI,mumbai,UPI,,electronics
+614077d3-9ec4-4a48-9773-f98d550c2fe9,70b27304-545c-488d-9cb9-075ecdd7f460,36080.87,2025-04-25,Pending,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Ochoa-Villarreal,Clothing
+4ce953a7-22d9-4db3-982a-2277f966d59f,b1fead13-f280-4f1d-9a6c-0db952171c88,8551.59,2025-04-23,,MUM-AND,Andheri,Mumbai,upi,Edwards-Oconnell,electronics
+bc20b9f2-4a9c-489e-91b3-0182f7fe604f,f7bf5244-7db2-47aa-a205-e54fb1e8c09d,2720.13,2025-04-27,Success,MUM-AND,Andheri,Mumbai,Cash,Nguyen LLC,Clothing
+5d71a898-6497-4593-892e-8c93d105c8d6,33261887-9058-41df-ae9b-f3e11d27c09a,8270.93,2025-04-27, success ,MUM-AND,Andheri,Mumbai,Cash,Maldonado PLC,Toys
+762cdfbc-ba2a-47ba-b3f8-1c3106e3f949,703e957f-35ab-4466-b557-8b00f166cdcf,7432.81,2025-04-24,,MUM-AND,Andheri,Mumbai,,"Jones, Abbott and Pope",Electronics
+a2224f96-23a1-4e20-bfd2-55eeac484366,a89e22f2-40af-4f3f-bdf5-19674d8670bd,3245.24,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,Credit Card,"Henderson, Bennett and Cole",Toys
+669b29b8-950d-41a0-baaf-20019912316a,eb9ed274-ec6a-47ad-81b1-5db988cc4d49,1719.89,2025-04-26, pending,MUM-AND,Andheri,Mumbai,,"Johnson, Schmitt and Miles",Electronics
+a35fc9c1-9804-4562-8972-abbdcff2b1c4,c4da2c2e-1bff-4279-95c1-604fea163354,3455.35,2025-04-24, success ,MUM-AND,Andheri,Mumbai,Debit Card,"Ortega, Jackson and Salazar",Clothing
+ad6ecc57-a520-43d0-bbcd-bf5e902f3465,c0afd193-f780-4f2f-a64d-5922a590fd3c,693.3,2025-04-25,Failed,MUM-AND,Andheri,Mumbai,Debit Card,Rodriguez-Garcia,Groceries
+84cfee39-bf31-429f-82bb-ad8438d5101f,9342a09f-b00a-464c-949c-d8d48ed8a80d,2141.07,2025-04-23,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,Brooks-Ford,electronics
+801e8690-b0c0-4fcc-96ad-d4dfadf75924,0649bcf6-ff69-423d-984f-c85b2697384d,44378.07,2025-04-26,Success,MUM-X-ERR,ANDHERI,mumbai,UPI,Phillips Inc,
+baeb286b-f0d0-470f-94d1-3d551db6b844,57d337d3-4fd8-4bbb-992c-11072444d301,296.27,2025-04-26,Success,MUM-AND,Andheri,Mumbai,Cash,Boyd LLC,electronics
+b8d49848-702b-449f-98fd-d2b979e5c9aa,1132567c-51a4-4d2a-b3d3-9457b25f13df,61.61,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,UPI,Patrick Inc,clothng
+a5e15b55-57d3-44dd-9963-dc7205c8234b,2a131c1f-ccd0-45c1-ad59-00dd1bff3142,2094.15,2025-04-23,,MUM-AND,Andheri,Mumbai,CASH,"Thompson, Moore and Castro",Groceries
+cc39b925-3b5a-4288-b649-2e64f55dce6d,,5542.04,2025-04-25,FAILED,MUM-X-ERR,ANDHERI,mumbai,Debit Card,"Lopez, Davidson and Reynolds",Clothing
+e212ab7c-9d36-4cb6-bcc5-7be00779250a,6df72cd3-979a-4051-b317-591a3283daa4,2058.87,2025-04-25,Success,MUM-AND,Andheri,Mumbai,upi,Bush and Sons,Electronics
+cf08ea54-b429-4924-8098-675047419b48,1a0c6c04-93cd-4291-9004-2d82cbc72f1a,1468.84,2025-04-27,Success,MUM-AND,Andheri,Mumbai,Debit Card,Diaz and Sons,clothng
+abb316a7-4329-4780-9d2c-272175220646,f7464c02-8718-44c1-bd4e-d26edcd5bfae,203.0,2025-04-24, pending,MUM-AND,Andheri,Mumbai,CASH,"Price, Long and Wilson",Groceries
+9e0b7b01-7536-49ef-9873-dad95a1baf0e,b4bba73f-ac70-41d1-9051-267f2c2ac34b,7864.32,2025-04-24,,MUM-AND,Andheri,Mumbai,Cash,"Lawrence, Powers and Edwards",Electronics
+2edc017e-1df0-4d18-8e2d-62553d131a3d,82c56b21-2430-42da-b185-0eb85f90fc87,5578.8,2025-04-25,Failed,MUM-X-ERR,ANDHERI,mumbai,,Carlson-Andrews,Groceries
+a2b03c4b-7c96-4b55-af8d-8ded6c4c450b,a52fc3ec-eb4e-4281-b184-d1fc8991b01a,6212.04,2025-04-23,,MUM-AND,Andheri,Mumbai,UPI,"Jackson, Roberts and Lopez",Home Decor
+0db977a9-9e91-471c-b374-ccbfd78c57d3,02740f73-f3ab-4a0d-9be9-fdb3dd92dd7c,7599.99,2025-04-26,Success,MUM-AND,Andheri,Mumbai,upi,Lee Group,Clothing
+a72f947d-8164-42cb-8fc3-d7d3f6bd80c7,7de1bf5d-af48-47f0-a8bd-075b7eb6581e,5808.21,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,,"Larsen, Burns and Miller",Clothing
+38749f3c-c2d4-4b56-8bbe-d98007e67cb0,398f569b-465c-42cb-885e-b4894ac66780,2445.18,2025-04-27,,MUM-AND,Andheri,Mumbai,Debit Card,Jackson-Ellis,Home Decor
+7eccdaf4-c413-4dc2-85c5-ae8abe15ad12,929d6377-1cfb-455f-82c4-2e488cbadae5,2349.41,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,Debit Card,Hampton-Morrow,clothng
+c1bcbe59-d296-412d-8ac3-5ac45deaa737,70fd6672-b80f-46c5-828f-a16b0aa6fcb9,6074.55,2025-04-27,FAILED,MUM-AND,Andheri,Mumbai,,Fritz Inc,clothng
+c0582da5-a757-475b-947f-83b1bc69c155,ffd2f491-dff3-49aa-8c36-a70c3f5e3b8c,19354.48,2025-04-21,Pending,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Baker-Atkins,Clothing
+fe7402cd-dd83-4d03-b066-e289164484a0,3ca87f31-cfd7-43b9-868f-cba51e0d02b5,2227.7,2025-04-23,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,"Matthews, Bell and Page",Books
+9dbc15c0-2a7d-457c-ad9c-5b50a1fd4187,d0437e4c-34e5-4699-88eb-e27a23a4e70e,9960.17,2025-04-23, pending,MUM-AND,Andheri,Mumbai,UPI,Hudson PLC,electronics
+2b1ac76c-89ec-4c51-98cb-aa5247f53019,4aea1b8f-b43c-4e0a-ba9f-c10e52daf681,6224.94,2025-04-24,,MUM-AND,Andheri,Mumbai,Debit Card,"Adams, Hodge and Duke",
+22b5f457-1860-4d28-90af-b235ade68f51,695e5ea9-c923-4c64-8006-2b5bf67839b2,1152.14,2025-04-21, pending,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Camacho-Martinez,Books
+257035db-3fea-490a-a1f8-072dddb7570e,3f5fbf4f-d417-4230-9274-ee11b61df906,22923.64,2025-04-25,Pending,MUM-X-ERR,ANDHERI,mumbai,upi,Thomas-Chen,electronics
+73b5bad5-600b-4b35-aa0a-a7d5a0b85755,e14fe093-cb6a-40c7-a235-6dd4135508d0,9646.19,2025-04-22, success ,MUM-AND,Andheri,Mumbai,Cash,Robertson-Ramirez,Books
+7466ef02-5e7b-42c8-a097-dedbefb3b939,,8322.07,2025-04-26,,MUM-X-ERR,ANDHERI,mumbai,,Perkins-Melton,Groceries
+7466ef02-5e7b-42c8-a097-dedbefb3b939,,8322.07,2025-04-26,,MUM-X-ERR,ANDHERI,mumbai,,Perkins-Melton,Groceries
+bb1e5ae8-17d8-41b8-bb93-cd40d8dff535,aa055442-a284-48fd-b55c-ee2af8ded777,3177.84,2025-04-25,Pending,MUM-AND,Andheri,Mumbai,upi,Flynn Group,Electronics
+d3293724-6dfd-471a-b7d7-465d37c3b3c9,52a74a41-44be-4486-bea5-a387363be5cb,2755.96,2025-04-24,,MUM-AND,Andheri,Mumbai,,Kelley-Anderson,Groceries
+57ff51d9-c9ce-44bd-bc3f-1addda385db5,0c648ca2-c323-4466-aebb-b90ee4e751de,4039.12,2025-04-21, success ,MUM-AND,Andheri,Mumbai,UPI,Sims Group,Toys
+db8f0e32-edef-4003-9fce-01e3042b03ca,002c4c22-74de-4f70-b0f8-1dba28719b9b,9310.65,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,Debit Card,Forbes and Sons,Groceries
+28b2bf21-4d47-4ed6-a666-3769e1d46f82,462623be-e068-4849-aec7-1a30dfda35b2,2467.91,2025-04-22, success ,MUM-AND,Andheri,Mumbai,UPI,,Electronics
+1519830c-4019-4303-9c45-7e4da79313b8,a61f0b96-e75f-445a-aa1d-3fc65f31273d,9444.99,2025-04-23,,MUM-AND,Andheri,Mumbai,Cash,Sanders LLC,Home Decor
+3bf0d9c1-c156-4501-b30e-96e8b9da5f8c,b4258e19-1758-447e-a7cd-e1436de21429,7160.72,2025-04-22,Success,MUM-AND,Andheri,Mumbai,upi,Lewis Inc,Books
+84fa4c72-39e7-44f1-97fb-613a21f89d06,02106371-0260-4123-b1ef-e72aae13591e,7432.35,2025-04-25,Success,MUM-X-ERR,ANDHERI,mumbai,,Mcneil Group,
+1221cddf-7a4a-402f-a1d6-3b0fb1ac040d,bb134f02-16de-46c9-a210-def63a9c4308,5391.4,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,CASH,Edwards LLC,Clothing
+d038e153-c601-418b-a1fa-01ba231ae7c7,a43e558c-2215-4f00-9fdf-0e05c0cef31b,569.61,2025-04-22, success ,MUM-AND,Andheri,Mumbai,Credit Card,Moreno Inc,electronics
+70aa5b0d-2a03-4ad4-a667-b9829c3de1b0,a0c9da72-368a-4d40-b8f1-4e3c59e7703a,2799.5,2025-04-22,,MUM-X-ERR,ANDHERI,mumbai,CASH,Jensen-Ramos,Clothing
+19b814fc-e587-4d89-9631-2fc6379d58f9,96ee50e5-1f87-4b46-80a0-473a23d7e6a1,7347.46,2025-04-25,,MUM-AND,Andheri,Mumbai,UPI,Richmond-Edwards,electronics
+a505da9c-46e7-4a2c-bf6e-ed9d23cbe943,99db1302-8dab-46d3-bf87-dfc2159152f2,9842.58,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,Debit Card,"Johnson, Boone and Liu",Toys
+82701238-9b5f-4f39-848b-34f034981735,4ba8a4ca-6449-4b6f-bf72-ae52304b2370,1366.15,2025-04-21,,MUM-AND,Andheri,Mumbai,UPI,Simpson Inc,Toys
+980bc81e-a359-4d1f-bfe4-a42e3db788a6,fa4a58ef-e383-4348-873d-c8bd122dd7be,4314.7,2025-04-21, pending,MUM-AND,Andheri,Mumbai,,,Electronics
+51045a16-ef15-4b72-9c70-ee97fca45567,,4715.85,2025-04-22, pending,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Valencia-Carroll,Home Decor
+2c3aacdc-aed5-4a46-8bde-005b5d8babd7,fcc4091b-f457-47c6-b894-6a15c34201db,496.72,2025-04-21,FAILED,MUM-AND,Andheri,Mumbai,,Matthews Inc,Toys
+ec2e2815-0a32-47d2-b73a-edf8431e930f,65e1b0f5-ca0e-48c4-b2dc-b12b0f7ae302,48998.86,2025-04-27,Failed,MUM-X-ERR,ANDHERI,mumbai,Debit Card,,Home Decor
+8044beb2-b66e-4bf4-a0ea-0251495743a2,b3a9dcaa-6c6f-4d2e-aa59-c043c4615234,5867.83,2025-04-25,,MUM-X-ERR,ANDHERI,mumbai,UPI,,Toys
+89a3c811-895c-4fde-a3fa-40691519fd38,15669e36-4708-403b-a716-10c19db54283,9244.86,2025-04-24,,MUM-AND,Andheri,Mumbai,Credit Card,Dixon and Sons,Groceries
+8950ddd6-27c6-4bb1-8edd-069df96c9a0a,a2611b8d-9620-4ee6-a406-face53a5e850,5606.98,2025-04-21,,MUM-AND,Andheri,Mumbai,,Hale-Blair,Clothing
+3e9639ba-0ed2-4c9d-bd17-5712d8b22277,,48251.55,2025-04-22,Pending,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Wilson-Salazar,
+bddfa03a-aa84-40f8-8f2d-a2330e165b12,1e93d127-2cf7-4140-bd9b-c648a8761e85,8202.89,2025-04-21,Failed,MUM-AND,Andheri,Mumbai,CASH,"Taylor, Smith and Crawford",Clothing
+c871d7b3-8468-474d-85e3-ade558c1aad6,2abe1585-425e-4259-b884-16d2d28fcf68,2386.76,2025-04-25,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,Brady LLC,Electronics
+c57c7498-1e38-4711-a2ec-13f4bba1aed9,ce9e9ebd-55c3-4853-8783-e43ce65fad87,6276.32,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,Debit Card,Warren-Baker,Books
+13badc91-a0a5-4de6-939f-71a2f99cea5c,5c311464-82c2-49f0-b487-d7727f0386fa,9071.73,2025-04-21,Failed,MUM-AND,Andheri,Mumbai,Credit Card,Villarreal-Jackson,Groceries
+1a57f9e4-c5f8-42f8-814f-499428457780,b90800f3-ac93-481a-92eb-eab0e4eec67c,5445.89,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,Cash,Yang Inc,Clothing
+03254fbd-dce8-41c5-9bd3-0aec0b461173,5d2d904f-78c5-4073-8bc5-72073e9aec86,5041.95,2025-04-25,,MUM-AND,Andheri,Mumbai,Debit Card,White Inc,electronics
+b6ca1127-e9f8-4970-8d98-f9e28d888beb,,13869.84,2025-04-26,,MUM-X-ERR,ANDHERI,mumbai,UPI,Morris Group,Electronics
+b6ca1127-e9f8-4970-8d98-f9e28d888beb,,13869.84,2025-04-26,,MUM-X-ERR,ANDHERI,mumbai,UPI,Morris Group,Electronics
+45712959-51e7-44e4-b864-ca08ea75752d,5f705b25-9250-4e59-93f0-6822d3748a11,3647.03,2025-04-22, success ,MUM-AND,Andheri,Mumbai,Credit Card,"Nunez, Williams and Walker",Home Decor
+f43e8c48-0bc1-49e5-bb3d-f0638409c5ea,77106966-e082-4f76-91a5-29b466a302d6,2918.1,2025-04-24,,MUM-AND,Andheri,Mumbai,Credit Card,,Clothing
+53c9fe59-4f89-43b2-9847-dc53c605e58a,020a4497-74ed-4145-8d97-65c7161d5c87,2404.17,2025-04-25,Success,MUM-AND,Andheri,Mumbai,UPI,Carter LLC,Books
+76c3e642-3e19-4c1d-9f6a-6a65bd54da04,7e4ce29f-f8cb-4b4c-9779-0e845e472e22,3623.99,2025-04-23,,MUM-AND,Andheri,Mumbai,Credit Card,"Mccullough, Hodges and Sanchez",Home Decor
+061efb95-68f8-4063-aeb1-9ad201a1fb0f,a2cd1590-58af-493c-8aa2-b4c93ba5bd76,9345.54,2025-04-21, success ,MUM-AND,Andheri,Mumbai,,Smith-Sandoval,Books
+4eb9047d-ba2a-43d9-bcf2-fc3bd95874c2,fbad793f-87a1-4c02-b487-9e411a9c672a,5094.33,2025-04-23,,MUM-AND,Andheri,Mumbai,Net Banking,Vasquez-Brown,electronics
+47a2a10b-b62e-4b49-a472-96a4ff38b918,3b41c943-ebd8-43b1-8b3d-0c3617d09810,9277.54,2025-04-27,FAILED,MUM-AND,Andheri,Mumbai,Credit Card,Haynes-Watson,Electronics
+94ad6252-15bc-4a3e-bf76-55d7f97c6c3c,a3209116-222d-46a4-8163-b6ce1877bc06,9958.77,2025-04-25, pending,MUM-AND,Andheri,Mumbai,,Vargas Inc,clothng
+21761930-f6d7-4248-a995-ecc36f5b09a6,d9d57b02-42d0-4d55-8aab-47b23c9d128a,9231.6,2025-04-24,Failed,MUM-X-ERR,ANDHERI,mumbai,,Haynes-Moss,
+3bcdf203-459e-4674-b3e7-f042516c3b0a,22d839d3-33e4-4986-b18c-ccdc131eb723,8361.56,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,Cash,Garcia Group,
+1ee89a4c-6811-44e2-9064-7c59774f6354,c534ca08-f6f2-4d1c-9bb8-b9c8893259f3,7472.62,2025-04-23,,MUM-AND,Andheri,Mumbai,Credit Card,Parker-Baker,clothng
+cebeabaa-2859-4b34-9725-d2c71eb2a7b8,b46788bd-d38e-43e4-8de1-087bafa14a55,6894.93,2025-04-21,Success,MUM-AND,Andheri,Mumbai,,,
+53ea4919-db48-42c2-95ff-2a1f370b9a29,3f8b4433-b60e-495c-9759-ba9625f88c74,7685.29,2025-04-25,,MUM-AND,Andheri,Mumbai,Cash,Palmer-Byrd,Electronics
+2c82989f-fd9c-4bb0-91f1-6485429a4a7c,dac726b6-6786-4fb3-b3bc-9a7107f4fee5,7921.71,2025-04-26,FAILED,MUM-AND,Andheri,Mumbai,,"Adkins, Wright and Murray",clothng
+1f178f93-23c9-4a1e-8b37-1d97cdcc2d6a,c7ecfe71-d493-47fc-8fc9-8d2e030f9be9,9120.59,2025-04-23,Failed,MUM-X-ERR,ANDHERI,mumbai,upi,Gonzalez Group,
+f004e897-a15b-4e18-afb0-64065f4b1a97,,16685.87,2025-04-22, pending,MUM-X-ERR,ANDHERI,mumbai,upi,"Willis, Lowery and Jones",
+e709fba6-329f-4417-9081-3d45ff45f8a2,20f87ba2-cf2e-4296-b184-b713a55f65b7,7099.36,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,Debit Card,Martinez-Dunlap,Groceries
+92ea1324-ec93-4596-ab01-57230cf697a5,651ea252-b974-4cde-9259-f9606ee35607,1392.78,2025-04-27,Success,MUM-AND,Andheri,Mumbai,UPI,Reyes Group,Books
+e886a011-36f7-426c-9a9c-06792c3d17e2,722dce13-47a4-4c42-8665-34972fe922aa,1372.32,2025-04-22, success ,MUM-AND,Andheri,Mumbai,,Mendez PLC,Books
+7fb75c57-4b8c-431f-a5b4-09833eebc04a,7aa1c567-8cf9-4ea9-a1fd-c6d169785221,1731.75,2025-04-21, success ,MUM-AND,Andheri,Mumbai,CASH,Ramirez and Sons,Clothing
+,e2789642-a484-4035-b30f-aaa36b52f93c,25677.62,2025-04-27,Failed,MUM-X-ERR,ANDHERI,mumbai,,Mccoy PLC,Groceries
+61eb64e6-fd49-4e20-84ff-eab2cb7b0b3a,7acc9970-5bee-4570-b69f-75c5c82ba1be,659.7,2025-04-27,,MUM-AND,Andheri,Mumbai,Cash,Cooper-Cunningham,Books
+2e0869c1-453b-45fe-a36c-f4995254aad3,3811b519-98dc-4e0b-91a1-f5df06ac1010,215.51,2025-04-21,Failed,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Brown-Frey,Groceries
+95804c2a-c44f-44b8-9b80-b8d18788dfed,28dd2bfd-f956-4e95-bb96-4c74ffe62994,6014.47,2025-04-22, success ,MUM-AND,Andheri,Mumbai,Cash,Sandoval LLC,Books
+ead18464-ca8e-458c-90f8-1063889fe107,ff138c80-c398-4332-8e50-0785bcaff931,38770.0,2025-04-23,Success,MUM-X-ERR,ANDHERI,mumbai,upi,"Bradford, Salinas and Kelly",clothng
+2c78644f-d860-45a2-bdd5-b0f8d6d744fd,5168bbf2-97af-4bde-bc8e-9d782d14e9f4,1562.1,2025-04-25,Failed,MUM-AND,Andheri,Mumbai,Cash,"Johnson, Haynes and Meza",Books
+f2c84743-9027-4770-a460-d0d2904883c1,cf767343-fced-4994-9631-c383303014d0,4619.09,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,Cash,"Parker, Henry and Davis",Books
+051a0039-3803-4cee-9a06-92953b8d3447,,7919.37,2025-04-27, success ,MUM-X-ERR,ANDHERI,mumbai,,Smith-Hardin,
+573bfc17-2167-435e-8e73-34f233932b6c,cd6bb03b-eb35-47a0-ad6e-0291b7893986,3341.79,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,UPI,Johnson PLC,
+c63ce21d-2443-4958-aacf-33a9b466fab6,dc54d59b-86bb-42c7-98b2-f8b61c654aa2,9199.48,2025-04-25,,MUM-AND,Andheri,Mumbai,CASH,Brooks Ltd,Clothing
+5628ddcd-19dd-4e8c-9605-30356545c030,f9d2014a-22ee-4f07-9296-1fb34d407b28,6016.97,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,upi,"Fry, Conner and Yu",Clothing
+b509f08a-2c98-4bca-9139-7c06a630ad9d,e3bcd6f3-b18d-4c8c-8fdd-bebcf7ff88d4,1266.92,2025-04-25,Success,MUM-AND,Andheri,Mumbai,CASH,Wade and Sons,Home Decor
+b0416f19-bbe7-4835-8e8b-f78a60ddc7f1,ba94aa66-2d7e-4a45-a099-e71f4b657bcc,15104.62,2025-04-21,Failed,MUM-X-ERR,ANDHERI,mumbai,upi,"Fry, Myers and Gamble",Electronics
+2e9ce8ff-084a-4c4b-9146-8cdcf7164b73,cf0df860-ebc9-4914-9176-a9d19a3624d6,1719.1,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,Debit Card,"Cunningham, Zuniga and Taylor",Clothing
+58c88c48-3ced-4d1f-93eb-22c9beced21a,a2dd22d5-2afa-4b7b-91cb-f9e5fb7d3ba1,14.71,2025-04-22, success ,MUM-AND,Andheri,Mumbai,Credit Card,"Santiago, Daniel and Rogers",Books
+3fe1e8f3-35ad-4e88-83e4-f66802ead2df,41b455b8-59b9-422c-915a-ffacb173fcdf,3699.28,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,upi,"Smith, Cruz and Oconnor",electronics
+69fd28e6-e271-4ff9-aa95-27f6f8170ebf,59ea4936-60f3-4ebc-a1bb-b8cd7e3a9f07,8820.82,2025-04-27,,MUM-AND,Andheri,Mumbai,upi,Garcia-Mendoza,Toys
+c21c3fb3-a6a5-40ff-93fb-71d0dd326d9c,7387928a-29a3-4b6d-b9bf-ca38afe9be90,9390.55,2025-04-21,Pending,MUM-X-ERR,ANDHERI,mumbai,Cash,Phillips LLC,Home Decor
+,12fecc2b-1acf-42c5-b3a0-212042d943ee,7090.6,2025-04-25,Failed,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Barron and Sons,Toys
+f11c0ac5-8c0b-493a-9333-5bc9bb635ff5,5683ede0-17d5-4563-ba60-ede1e5eb772d,611.41,2025-04-26,Success,MUM-AND,Andheri,Mumbai,CASH,"Johnson, Dunlap and Martin",
+0db5d441-2837-4418-af27-c1b9e3c6dedb,f9722cc1-349e-44a9-94c2-9d5c19ec0829,2012.37,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,CASH,Terry-Bowen,Toys
+a91cf192-43e8-444b-8a45-a905badf9397,188df23b-3ccf-46eb-8c22-72f34811e562,8536.93,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,upi,Armstrong-Larsen,electronics
+00fa0eb4-5c5f-48d4-8df4-07b82751ab86,d2eaef18-4b67-47a1-966e-cfe36d779595,4602.65,2025-04-26,,MUM-AND,Andheri,Mumbai,UPI,Davis and Sons,
+fa207403-4ab4-47e3-a360-76812bbba89d,1d91fe39-d801-4004-b93b-ed1b14f9c394,17754.01,2025-04-24,FAILED,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Ruiz-Jacobson,Toys
+8b4bd7e7-a451-4ae0-9754-bf0843d75413,e2afa629-5efb-436e-af54-60336334fa2a,2022.04,2025-04-25, pending,MUM-AND,Andheri,Mumbai,,Lopez-Williams,Books
+39eb038a-436e-4c49-b70e-09db7092d401,0fc79913-9072-46ea-84c0-7a9ad64acb1f,7110.59,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,UPI,"Contreras, Miller and Cooper",electronics
+c1a72883-f880-4878-a9fb-07638a9c66f7,0f9ca17b-8db8-4adf-ba3e-46b096f84ff7,470.62,2025-04-25,,MUM-AND,Andheri,Mumbai,Cash,"Barnes, Nichols and Camacho",Electronics
+3c53090e-e1b4-4171-929d-674d798e175f,6511e61a-1436-45f5-8c81-926079ec533c,362.31,2025-04-21, success ,MUM-AND,Andheri,Mumbai,upi,"Duncan, Black and Duncan",Electronics
+1ecacae9-25bf-413d-9eca-381bfb95d0fc,2c41cbd3-72f4-44ab-81d7-1f4af3025d16,307.49,2025-04-23, success ,MUM-AND,Andheri,Mumbai,UPI,Stokes and Sons,
+fcffe9e3-140f-4589-ac62-4c2c0aeccec7,ff4d0930-33b0-4b53-af75-ee8aaee14f87,2217.42,2025-04-22,,MUM-AND,Andheri,Mumbai,Credit Card,"Scott, Bartlett and Sloan",Books
+8e6de263-635a-475d-9647-6e3f1127b207,db4bb8eb-537d-4bd1-8d53-6c7565b90e94,9245.99,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,upi,"Ellis, Marks and Buchanan",Books
+c81c8d31-85c6-4fbf-966b-62ea9f80b96b,264ef59d-6a18-45af-9cce-08e96b6a8061,8774.05,2025-04-22,Success,MUM-AND,Andheri,Mumbai,CASH,"Matthews, Chang and Ayers",Groceries
+c7903dc5-900c-4af7-9b0a-e22eecc817a6,de12dbf1-493d-4196-8926-a02119da8262,9.5,2025-04-27,Failed,MUM-AND,Andheri,Mumbai,Credit Card,Humphrey-Baker,Books
+9be4f19f-9270-4d60-bc4f-48e4a7a02a3d,46818a88-2c15-4804-8997-59a37919955c,4686.87,2025-04-25,,MUM-AND,Andheri,Mumbai,,Montgomery Ltd,
+6552ac53-09ed-46f5-a6d7-1d97b193c8b8,b0c58278-54dc-4ba5-a103-5e1ce3bb22ae,9751.12,2025-04-23,Pending,MUM-AND,Andheri,Mumbai,CASH,,Clothing
+ebbbd763-79a7-463b-bee9-75da0c9e5550,052dfb9a-5f58-4603-a5a3-d8e944c1f1b5,2355.41,2025-04-25,FAILED,MUM-AND,Andheri,Mumbai,upi,Collins-Cameron,Home Decor
+1924c644-af52-4666-b239-09f4dbb54645,226716e3-3a5b-4ac5-9e70-3b72f8f58a26,8531.77,2025-04-24,Success,MUM-AND,Andheri,Mumbai,,"Ramos, Petersen and Adams",
+16db80db-a543-448e-9adf-e9816ab19e15,e9d6bb7e-361d-4014-b114-56de301c8db3,450.37,2025-04-25, pending,MUM-AND,Andheri,Mumbai,,"Washington, Black and Brooks",
+28b26b1b-ca9f-4d59-83e8-b7000e63813e,,19674.4,2025-04-21,Success,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Mckinney-Powell,Home Decor
+e11bf0d4-8637-4f04-99ee-7dc9c7cfeca8,3158f1fb-2c7a-4d31-8769-25839194821e,499.59,2025-04-23,,MUM-AND,Andheri,Mumbai,Debit Card,Wright Group,
+b462e3e8-5c41-4a83-ab04-159c0cf173f9,d2d14ef5-5e4c-4fd1-8623-63a932f8dbab,1418.64,2025-04-26, success ,MUM-AND,Andheri,Mumbai,Credit Card,"Sanders, Leblanc and Maldonado",Groceries
+98133da1-7d21-40ad-9f59-fb4d3defa7ba,ded7d3ef-f5e4-49c1-ad76-1ffa7233d5af,2881.45,2025-04-26,,MUM-AND,Andheri,Mumbai,Cash,"Arnold, Cooper and Monroe",Toys
+b0588256-d4b3-48cf-bfbb-eab342378962,62f5f7c2-0706-4ec2-88fa-4e981723ecdb,8029.45,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,,Nash and Sons,
+39a0f145-a5ba-4050-b8aa-76dfdb6ba39b,a6ce6d7a-44e2-494b-b4ec-5264ad7d6f81,7337.66,2025-04-25,Pending,MUM-X-ERR,ANDHERI,mumbai,Debit Card,"Smith, Deleon and Saunders",
+21df5609-e959-437f-b95e-6f2b02472360,cd0579e2-99e4-404c-ac56-e0cda5ba2472,9270.2,2025-04-21,FAILED,MUM-AND,Andheri,Mumbai,Debit Card,King LLC,Groceries
+a48aa108-b599-477f-b78e-e9e8b676291d,6060b1eb-e53e-4f4c-ac7e-9a2c467f358b,7284.66,2025-04-25,Pending,MUM-AND,Andheri,Mumbai,CASH,King-Owens,electronics
+9fa4a627-d306-48be-8548-867bad5cba24,01e187d8-1a31-4044-95a0-f35665abc9ff,9034.19,2025-04-27, pending,MUM-AND,Andheri,Mumbai,CASH,"Levy, Franco and Hoffman",Home Decor
+4c68eb17-485d-431c-9bea-b52998017a2f,1057a002-7b53-459e-9bac-bd0daf35b30b,9871.36,2025-04-25,FAILED,MUM-X-ERR,ANDHERI,mumbai,UPI,Davidson-Hensley,electronics
+f3c2944a-b60a-4dcc-a7f7-745142da8609,30385dd7-4c7d-4313-a6c6-81b0e4729be5,1999.55,2025-04-22,,MUM-AND,Andheri,Mumbai,,"Cannon, Yoder and Trujillo",
+6772fe9f-999b-4859-8f5e-0f0bcd67b5df,23d26b8d-ae46-424d-91d0-5ef3a91883fc,3040.69,2025-04-21,,MUM-AND,Andheri,Mumbai,upi,"Jimenez, Phillips and Meadows",electronics
+090aaa93-bc9a-4998-a365-fc2a6793cb09,92715f6e-fea8-4e3a-b544-01cb95410a9d,3918.19,2025-04-23,,MUM-AND,Andheri,Mumbai,Net Banking,Barber-Walker,Clothing
+79c9c839-c8ef-4377-a368-84f588ddd880,5bc677ca-abff-4286-b0cf-9d73e8121ef0,6498.89,2025-04-27, success ,MUM-AND,Andheri,Mumbai,CASH,Bruce-Pittman,Clothing
+4b356e9a-2e5e-4b6a-8ee9-581ae061f65f,bdacdc5e-20c0-4275-b885-187d18fc83b7,3879.99,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,Debit Card,"Stokes, Hines and White",clothng
+a7890770-55ec-424a-a64b-9b37ae01a122,392c04da-5af3-4a5a-b8e5-9b2716dc5a6e,8468.07,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,CASH,French-Rivera,
+76b90436-4b46-4f33-95e7-f61442b40281,0dbdc5da-7875-45b9-9e26-ed31d9e92758,6535.33,2025-04-21,FAILED,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Preston-Mason,Home Decor
+87a37f10-61b5-42ed-ae42-3568de14553b,deeff82a-0dd7-4158-a9c1-65ae4c610ae8,7226.43,2025-04-22,,MUM-AND,Andheri,Mumbai,,Gay LLC,Clothing
+e4917f7d-91c4-4efc-bcb8-96bb68c0cbef,24aa5685-7523-46ce-bc95-0bbae8184f34,1915.26,2025-04-24,Success,MUM-AND,Andheri,Mumbai,UPI,"White, Miller and Cook",clothng
+a26e865b-503b-4788-ad44-5af8fc9476b1,4605ec0e-73b9-42ac-8134-e76b0ed9fa95,6764.3,2025-04-23, success ,MUM-AND,Andheri,Mumbai,UPI,Johnston and Sons,Groceries
+c79ddb62-c379-44c1-8903-94ea7d54ec82,6f07b60f-9d4e-4b5d-a120-bfba1689e0b8,6678.46,2025-04-26, success ,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Patterson-Woods,Toys
+330ccff5-88a5-4a0d-89a8-5dc50131ff3b,039a8ed5-f337-4261-9f83-92d5bb0c7919,2200.68,2025-04-24,Failed,MUM-X-ERR,ANDHERI,mumbai,CASH,"Lee, Rhodes and Sims",Clothing
+e0821918-b18a-467d-b9ec-8ca13fb2df47,1a4b1606-2101-4bff-8fe5-474558274e80,1594.19,2025-04-25, success ,MUM-AND,Andheri,Mumbai,Cash,"Chapman, Jackson and Colon",Clothing
+74b79620-4a73-40bf-b2ce-7eeb4c56fb8f,862c92fd-98ab-42e7-8531-9f0fba533122,7792.92,2025-04-25,Success,MUM-AND,Andheri,Mumbai,upi,,Home Decor
+fed747be-afd0-42f7-a352-44446f04af36,e6c11650-ff02-45b0-97bd-56c92240063b,6645.7,2025-04-26,FAILED,MUM-AND,Andheri,Mumbai,upi,Christensen-Martin,Groceries
+6744acd4-cfdf-46f9-ab0f-827ce82a3879,ba27bc64-396d-4ffb-ba79-9efa04e55bd5,8847.71,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,UPI,Gross PLC,
+5dd8effc-1f87-4b32-ab42-9596812faa38,0990a647-cac8-487e-a689-d07fb60b4f87,6531.18,2025-04-25, pending,MUM-AND,Andheri,Mumbai,Cash,"Scott, Nichols and Williams",Home Decor
+1bad52a8-a976-4c4d-8c47-2187fea35d37,0c5921f8-050d-4bfe-960b-f603a750350e,40023.37,2025-04-22, pending,MUM-X-ERR,ANDHERI,mumbai,,Wallace-Martinez,Home Decor
+27335670-b3ad-42ba-b972-09c040b374f8,a15c159a-af8c-4888-b1f8-1ad9349b5089,289.75,2025-04-21,,MUM-AND,Andheri,Mumbai,,Fisher-Garcia,Toys
+9b0ada0b-9f6f-4cc1-851d-38fe8532fc74,d4a5a81e-6b38-4a0a-a31d-260bb362cd55,3971.31,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,,"Higgins, Wilson and Wilson",Clothing
+9be78aec-32da-41f0-bf6b-d3c61b341937,d4dd1b56-4353-41b2-8728-50c13322c68b,1885.85,2025-04-27,,MUM-AND,Andheri,Mumbai,Cash,Howard Group,Books
+8c52d271-0a16-4e18-a90e-3e894b9c22f4,b02e21aa-352b-4ec8-a90d-21cb7f111a36,5259.0,2025-04-26, pending,MUM-AND,Andheri,Mumbai,UPI,Young-Smith,Home Decor
+,d5d1c669-1c45-4357-a829-4a6716c8e3d7,3964.95,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,upi,"Snyder, Herring and Chan",Books
+,,9765.79,2025-04-21,Pending,MUM-X-ERR,ANDHERI,mumbai,Cash,"Cummings, Conway and Newman",Home Decor
+4bc81c16-fa2f-4d74-bd19-35cc74eda60e,198d13a4-0cd2-4e43-b6da-e194439db29d,8932.21,2025-04-23, success ,MUM-X-ERR,ANDHERI,mumbai,upi,Phelps LLC,Books
+6d0e0597-500d-42a7-ad40-9244cd3566ef,d9eb404c-1851-41cf-9dab-b10abd10f87c,1863.18,2025-04-21,,MUM-AND,Andheri,Mumbai,UPI,Christian Ltd,Books
+5b86ea69-5423-4dbe-aba6-b158a5aecf37,9f2ebefc-f480-491e-b00e-0efce4ffc31a,8853.74,2025-04-24, success ,MUM-AND,Andheri,Mumbai,Debit Card,"Davis, Briggs and White",electronics
+74dfb83f-f659-4188-a676-cc7566995af5,b09d721b-62be-4009-95f0-fb6a4596da75,9721.66,2025-04-26,,MUM-AND,Andheri,Mumbai,Cash,Banks-Robles,Groceries
+b9f6143b-b238-4056-a1ec-47541cf14654,d8274fc3-f145-4426-bb48-1ded0f037337,3992.49,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,,Perry PLC,clothng
+adab2c2f-91a6-46da-8d61-39887b90942f,613758c3-9c7f-4ca6-ae67-1784702b7014,8393.53,2025-04-25,Failed,MUM-X-ERR,ANDHERI,mumbai,upi,"Johnson, Cohen and Roberson",clothng
+7bab1baa-2172-40aa-a44a-913af933a9fa,e3395b1a-1ce9-4871-bcf5-9d5feb9f33cb,2101.22,2025-04-25,Pending,MUM-AND,Andheri,Mumbai,Debit Card,Williams-Green,Toys
+de4b061e-b45e-4463-832a-09e05071e5f0,be5e215e-c47c-430b-865a-7766ad8cbfea,7968.0,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,upi,"Cunningham, Levine and Santiago",Books
+b0309aaf-85ea-46e0-84e3-b774569adef0,6ecf1ed2-1861-49f3-9e44-e98cb359390e,2540.28,2025-04-24,,MUM-AND,Andheri,Mumbai,CASH,Reed-Rhodes,
+d3916dcf-d6ca-4e2c-a60e-37cc62874624,,8195.2,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,,"Brown, Schneider and Moore",Clothing
+7eef09ab-da14-4a47-b823-51d9d94df188,c05db774-132a-4e58-aa57-e880de9205ea,6724.33,2025-04-26, pending,MUM-AND,Andheri,Mumbai,Debit Card,Allen-Cordova,Home Decor
+8ced4707-3903-4b65-81c6-1eeb0ce3c8c8,d12daea8-673d-4920-a0ee-64baa4b0718e,7124.28,2025-04-23, pending,MUM-AND,Andheri,Mumbai,,Stevens PLC,electronics
+7f9ad277-db49-4e6d-9688-782f72b696ca,fb0d3cda-1e63-4261-90e9-688872730e7b,8554.05,2025-04-27,,MUM-AND,Andheri,Mumbai,UPI,"Valdez, Garcia and Gutierrez",
+d36ec1bd-000b-4f5e-8c91-bd138ea02346,f692641a-9aad-40ce-8ab2-4f241744ee3f,-29.08,2025-04-24, pending,MUM-X-ERR,ANDHERI,mumbai,Cash,"Hart, Pena and Bryant",Clothing
+0de4faf4-d347-44cc-9d04-032d57423882,74577d47-d825-4010-b911-2943d10bf4dc,9802.78,2025-04-25,Failed,MUM-AND,Andheri,Mumbai,,"Saunders, Greene and Moran",clothng
+1d30a290-73d9-4ace-b746-1b725d00df1b,38c46b38-a8ae-47b9-8262-cad018f1a1e4,8651.84,2025-04-21, success ,MUM-AND,Andheri,Mumbai,Credit Card,Kelly-Schultz,Clothing
+85a0d089-8c35-4321-8abf-6f5cccc7147f,0bb81d38-1b37-4f19-b3bc-912f5fb7474e,4437.24,2025-04-22, pending,MUM-AND,Andheri,Mumbai,Credit Card,Taylor-Love,Groceries
+41191aa7-1b61-4453-a8c2-094db8b818cf,1ee93260-3002-4831-b227-e8d89c60c81b,5070.51,2025-04-25,Pending,MUM-AND,Andheri,Mumbai,Credit Card,Bryant and Sons,Clothing
+c1d48a10-1b96-4925-9682-d038b77f69b9,a21c0c06-ed37-4567-8be7-728e6a1aba9d,5304.56,2025-04-22, success ,MUM-AND,Andheri,Mumbai,Net Banking,Ellis-Lawrence,Toys
+7fb33be5-f6bf-4f72-a277-8161811317a8,0c6f3051-bc78-4423-87c5-f526011c4544,8750.71,2025-04-27,,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Roberson-Webb,Electronics
+e901a768-ebd1-4b0c-87f4-f4f982221ad3,2c745800-941c-43fa-b11a-f7262d5d2395,5161.96,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,CASH,Hughes PLC,electronics
+810d5c57-5264-4a59-a1f8-5b339b2d5a2a,fac08fc4-6b2d-4ccc-a279-403ce1a2cfe7,8423.94,2025-04-24,Failed,MUM-AND,Andheri,Mumbai,Credit Card,,Clothing
+57c5982c-f6ae-40e8-a5da-ced0460a6125,ce072a52-73ed-4223-8b4e-f503f8722413,1866.95,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,UPI,Gutierrez Ltd,Home Decor
+4c859233-8325-4d9e-bf98-e734e2ed8686,dc57546d-8c3d-431a-b395-2193d7d3b9d9,6961.72,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,Debit Card,"Doyle, Spencer and Robinson",clothng
+4a636af5-b6e1-47ac-9fc9-726435afbb2d,ac20af11-ebd3-4927-9865-28e6afc5c20e,8511.76,2025-04-22, success ,MUM-AND,Andheri,Mumbai,,"Santos, Mullen and Gordon",Clothing
+b5d9ad36-5287-464d-a30a-6658b1be6df2,8ff19886-5a2c-41bc-82c2-26ff1d8b32d9,7997.71,2025-04-26,,MUM-AND,Andheri,Mumbai,UPI,"Duncan, Contreras and Butler",Clothing
+88addab1-d765-4a18-a4d4-66ebbf74531c,6c21835d-d8e8-497c-a0a2-59014932936e,364.57,2025-04-21,,MUM-AND,Andheri,Mumbai,Debit Card,"Rodriguez, James and Brown",Toys
+c00c200c-4458-4006-b32c-ce0a0e7da698,495fa2fc-fbc8-477e-a933-0fc4c918a346,7472.06,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,upi,Franco Ltd,Electronics
+c0eb8875-3439-4729-8b8e-5509c8cba592,d06405a8-5bd2-4cb1-8845-3b2f8a8a4105,2525.93,2025-04-26,FAILED,MUM-AND,Andheri,Mumbai,,Jensen Ltd,Books
+396c357b-dd66-4071-8fd7-b1a1bd4f6118,638e1388-8faf-4d4a-a5a9-9ebcbe0ec2da,4151.63,2025-04-23, pending,MUM-AND,Andheri,Mumbai,Debit Card,"Mueller, Lindsey and Roberts",Books
+61af663c-ed2e-4bcd-8c06-df90aa1c4023,c9c1ad45-f4ea-4b97-aaa4-15b56336c815,6880.04,2025-04-24,,MUM-AND,Andheri,Mumbai,CASH,"Brown, Manning and Harris",Toys
+dec00f3a-dc46-4b34-87ea-b19bde6cf36b,e9572bc2-39bd-4bd6-9479-cc36716ca1f2,1355.59,2025-04-25,Failed,MUM-AND,Andheri,Mumbai,UPI,"Payne, Morrison and Parsons",Books
+72e588e9-4b4f-4b2e-b189-10ecf6dbb2b6,13106665-aec2-4b19-bbc3-98d82d6bc882,4831.26,2025-04-23,FAILED,MUM-AND,Andheri,Mumbai,,Moss Inc,clothng
+4773e66a-6db2-4020-8a67-01436090103c,,4393.32,2025-04-27,Success,MUM-X-ERR,ANDHERI,mumbai,,Anderson-Silva,Groceries
+4773e66a-6db2-4020-8a67-01436090103c,,4393.32,2025-04-27,Success,MUM-X-ERR,ANDHERI,mumbai,,Anderson-Silva,Groceries
+77617d80-549f-434c-8171-f5a74148bd11,0a398bf7-27a1-48a0-afff-a2f4b5ae329d,1790.07,2025-04-22, success ,MUM-X-ERR,ANDHERI,mumbai,CASH,Carlson-Ayala,Groceries
+a971a31f-d7d8-4594-9d98-87bca0180791,929af586-ca37-4c36-bd94-bf104d187b75,8654.74,2025-04-27,Success,MUM-AND,Andheri,Mumbai,CASH,Jones-Zimmerman,Toys
+2f120b9e-f4fd-45b7-b84f-6e3b86804a8a,,4970.66,2025-04-27, pending,MUM-X-ERR,ANDHERI,mumbai,,Hartman and Sons,Books
+67465743-897b-403d-8b07-4d1a6a7a7841,e22649ee-38a0-4ffe-9972-78c51789be63,1303.29,2025-04-23,Success,MUM-AND,Andheri,Mumbai,CASH,"Rivera, Ward and Robinson",Clothing
+79903d96-87ce-469d-9e47-a339c0ae0b1a,c08bd674-d2dd-4e26-8fb3-a134ff2336e9,7197.73,2025-04-21,Success,MUM-AND,Andheri,Mumbai,,Caldwell Group,Books
+9d1b83df-a46b-4fce-a78d-147c3d877034,f57a431e-3e6b-44fd-9f02-7cbfeb29d912,4837.78,2025-04-21,,MUM-AND,Andheri,Mumbai,Debit Card,"Blackwell, James and Hogan",
+,8a4cfe1f-41af-4b2a-a2c8-c3f41d06149e,39386.65,2025-04-24, success ,MUM-X-ERR,ANDHERI,mumbai,CASH,Pruitt LLC,electronics
+7210045a-823c-4ef9-8d85-65ce83a9c235,e5f5c891-4be3-48a8-8b39-dccf7c9f3bc3,8380.8,2025-04-23, success ,MUM-AND,Andheri,Mumbai,UPI,Palmer-Vaughan,electronics
+c5f833cf-f4ce-4477-b8bc-a9ac2ada62ce,a07eafb1-01e0-4ad8-8880-2d4d89b8b7ee,6425.57,2025-04-21,,MUM-AND,Andheri,Mumbai,Credit Card,Santiago and Sons,Electronics
+d5ee2587-6c98-4d9b-af76-b6c2dd6d6b41,d428df6c-89aa-4293-b4a0-dcd41a9af29e,3348.31,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,Cash,"Montoya, Jones and Parks",clothng
+54eb4c91-b784-4e08-b58f-c8fa0614ac41,0de4833e-12c0-420c-9667-c51809b2eae6,5175.3,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,Net Banking,Grant-Andrews,Clothing
+685a9f2b-4236-40bf-a936-6a853a46fbe3,6789e7d0-a155-4b2c-b37c-f8b563561add,5249.25,2025-04-26,Success,MUM-AND,Andheri,Mumbai,Cash,Smith-Nunez,Groceries
+b864a47b-a434-47fb-8182-978288eae7d4,bef6a59a-c186-4221-9030-56b79e4c24dd,1368.51,2025-04-21,,MUM-AND,Andheri,Mumbai,Credit Card,"Charles, Howard and Shaw",Electronics
+4d2551eb-af95-4e79-8971-bf514a32bb22,c3e90323-4811-46e9-9625-34ca9b47e639,7536.13,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,Debit Card,Foster-Guerrero,Toys
+38491ecc-8891-47fd-a804-d0ac795741bb,cbf925b5-6418-46b7-bf2b-43b422e9e527,3848.32,2025-04-27, success ,MUM-AND,Andheri,Mumbai,,,
+24e2226c-a250-4133-b5cb-5be44b83b570,ea06f94b-e310-4f72-ad62-d0944c4d6e40,6046.69,2025-04-25,Success,MUM-AND,Andheri,Mumbai,Cash,Spencer PLC,clothng
+0149a2af-0ab1-4504-9f8c-56e0243113fd,8982cbf8-64e2-49c0-98be-5ff0929daf9f,4766.99,2025-04-27,,MUM-AND,Andheri,Mumbai,Debit Card,,clothng
+35c606b5-4e00-4d55-95ca-dfaff26d3dd3,b9d707a9-e74e-40b3-bdce-635fbf905d6a,3095.16,2025-04-25,Failed,MUM-AND,Andheri,Mumbai,upi,Gutierrez Ltd,Home Decor
+29344e15-2477-4047-8336-a758d9f93502,d5b211a9-9dec-4b83-b885-8f7e2f1a25a8,9259.49,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,,Wilson Ltd,
+0dec644c-da2d-4156-913a-1734ccb68571,fd75a5f3-eeaf-4a83-8044-46bfd9f48bbd,7180.47,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,CASH,Newman-Jones,
+1923cafc-402d-405b-913e-af84abf39096,,8949.86,2025-04-23, pending,MUM-X-ERR,ANDHERI,mumbai,,"Carpenter, Lynn and Howard",electronics
+,199c8d94-3c0a-484e-a7cd-13cbabda06b2,1847.54,2025-04-24,Pending,MUM-X-ERR,ANDHERI,mumbai,,"Jones, Lee and Tucker",
+4e40bfba-a8cf-4589-9dc8-9e1a540e7d01,90c80420-2703-4b27-958c-2936b18678ce,9084.34,2025-04-27,,MUM-AND,Andheri,Mumbai,upi,,Home Decor
+f56aabc0-50fb-45b0-8ec5-69695d4f7107,502ed818-013c-4998-ab2b-f58c6da58dad,7881.78,2025-04-23,Success,MUM-AND,Andheri,Mumbai,CASH,Joseph Ltd,Groceries
+5c074653-d711-43e4-86d4-7d416fa5d3b0,54e14f3a-bba4-4ae0-adf8-f7672261ddef,4863.39,2025-04-26,FAILED,MUM-AND,Andheri,Mumbai,CASH,Griffin-Hampton,Toys
+2cff45f8-1bdc-44a9-8d3a-5d767caa281b,d77fbeeb-14fc-4a5d-9b4b-f377a542deb9,6315.0,2025-04-24,,MUM-AND,Andheri,Mumbai,Net Banking,Vance and Sons,clothng
+a06a187d-e2e6-47a6-bbc9-94734363589c,e4610160-134d-495a-ba38-8c8f139309d1,6619.39,2025-04-21,Success,MUM-AND,Andheri,Mumbai,UPI,"Welch, Hess and Riley",
+e80382eb-3677-4be4-970c-9eb4c4ea4ece,8b20ce3e-42b7-4048-8d35-43be09624ec9,6033.7,2025-04-27, pending,MUM-AND,Andheri,Mumbai,UPI,Valdez-Hernandez,Electronics
+c5ab48da-e435-4021-b92a-9fc4647ac591,4a7eebc2-db6f-4c33-bbb4-c0ce96f01335,9249.17,2025-04-22, success ,MUM-AND,Andheri,Mumbai,UPI,Mason-Davis,Home Decor
+a9a54c24-02b6-42e9-808e-08d25d264b1b,ce7968b7-f6c8-48b9-9915-56643d274ad5,8520.34,2025-04-23,Success,MUM-X-ERR,ANDHERI,mumbai,Debit Card,"Taylor, Moore and Knight",
+f7bd8499-df48-4e7c-a8cf-4f6290d9170c,7bc6e121-bb64-4525-bc65-3d94256d4d11,3182.28,2025-04-25,FAILED,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Robinson Group,Toys
+5e934de0-43ac-4875-9017-ab443b53f64b,34ef2552-ab28-4d09-8af5-7e603be8a5df,5823.62,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,Cash,Hughes-Hardin,Clothing
+fb07ee93-0a37-41ab-8be3-534ae1ad640c,b4280f0d-1a6c-4459-92f6-531fa605b7c9,5512.36,2025-04-27,,MUM-AND,Andheri,Mumbai,upi,"Gallegos, Davenport and Baker",clothng
+606cc2f5-2c81-4bf0-91f6-04068b5a8683,96721e98-5d84-46e0-a0e6-96ffa75743f9,7485.94,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,Net Banking,"King, Kaufman and Walker",Electronics
+de22dc3f-d136-4db1-9a57-860767e54646,7b6b911e-caeb-4959-bca2-f582585409d9,7693.96,2025-04-21,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,"Macias, Gonzales and Hall",Books
+3625fc20-47e3-41c2-a4ba-e8bf83b8fa05,5cbaa496-2848-4240-afd9-0ce1267627ca,4207.34,2025-04-22, pending,MUM-AND,Andheri,Mumbai,CASH,"Hall, Shepherd and Cortez",electronics
+7aa1219a-7a93-48bb-acdb-d5f27b44acd0,a5b2c7ea-2947-4f54-973e-129c35f0b1be,5561.36,2025-04-25,,MUM-AND,Andheri,Mumbai,,Sanchez and Sons,electronics
+227d4660-293f-4266-97a4-18b892d00319,e40b50e4-0a08-4989-833c-8f55a1298fa2,1411.12,2025-04-27,,MUM-AND,Andheri,Mumbai,,Brown LLC,Clothing
+f54f1b92-8442-406f-ae16-f0b6ec257a75,904865c6-f820-4aa7-996f-7e8867cbfc39,9821.92,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,Net Banking,"Luna, Nicholson and Valentine",Electronics
+fe268e77-9b45-47e0-b2fe-fdc23772aa97,2baa43c9-7b4e-4ecd-9e07-87b178ae8d5d,6506.56,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,Credit Card,Burke-Norton,
+9f8acdeb-2e8f-45a8-847a-3b7ed209383b,2aefcf3b-43b7-40ef-82c4-1c54a8debd88,9665.86,2025-04-25, success ,MUM-AND,Andheri,Mumbai,upi,Carlson-Jones,Clothing
+1bcb404c-21d8-496a-a2ad-a15760d2759a,dc0e3375-85d0-491c-b3cd-1d56043d72db,2538.78,2025-04-27,FAILED,MUM-AND,Andheri,Mumbai,upi,"Barnes, Hernandez and Davis",
+998d65ba-9d60-42c5-a6cf-cbd879d29001,880bcb0e-c8ab-46ac-a0b4-659a09fe4cdd,4494.44,2025-04-27,,MUM-AND,Andheri,Mumbai,Credit Card,Davis Ltd,
+8a0ea57a-9a7d-409d-a6e8-790b215d3b1f,f00f63ef-e59f-41c2-804e-a81ad3d877a8,9894.17,2025-04-26, success ,MUM-AND,Andheri,Mumbai,Credit Card,,electronics
+dff47c51-5ed1-4e7f-abb1-f2bc85a4b0cb,6dd013f3-87a2-4e22-b298-b8110b1ec578,9084.0,2025-04-23, success ,MUM-AND,Andheri,Mumbai,UPI,Clarke-James,electronics
+e869707c-bdcb-4ffc-8dfb-a4e996cbdafb,937ca77c-b25b-4de7-9652-1e08c2f43c10,2103.16,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,upi,Anderson-Woods,clothng
+157511ad-dbea-49f8-a8fb-5a963b85f6e1,8b31f4d8-e073-41d0-9929-afeb48842a14,8520.56,2025-04-25,,MUM-AND,Andheri,Mumbai,Cash,Lopez-Fletcher,
+85c53910-93f6-4723-81d2-3a76ca179780,6001f54d-01d7-4831-850f-1cdc1e2a03f1,3641.52,2025-04-23, pending,MUM-AND,Andheri,Mumbai,Net Banking,"Brock, Ortiz and Rodriguez",Toys
+40ee131d-95da-4216-a6cd-ae3c6d130705,6c6e8796-893e-4b89-9adf-c49942e4bf01,9198.31,2025-04-27, pending,MUM-AND,Andheri,Mumbai,UPI,Carr-Braun,
+69c9520f-3425-449c-8145-d6ba65bf8e04,7b8301cf-8ebc-4d7e-88a6-5b858d56bff6,3021.04,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,CASH,Hansen-Webb,Toys
+5827bc1d-93e0-4235-8e80-d10bfd0ee0b6,bc5c3cd8-65eb-44dc-b49b-4b72c6319c16,4351.6,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,,"Wilson, Hall and Logan",Books
+36e6ba85-19ab-4c15-a96b-67bff301bb6c,56a3dccc-c93c-4cc6-a68b-28da8222cd7f,8778.47,2025-04-27,,MUM-AND,Andheri,Mumbai,Credit Card,"Terry, Mann and Martin",
+cdeb2696-015a-4a1d-a2c8-cf62f6ee137d,78bf46fa-2534-4e85-92c0-dec2175194d7,5383.17,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,upi,Brown and Sons,Toys
+09aa5570-9be9-40c7-947d-7bfc5eef0d1e,fc04ca7a-ee41-4f16-a263-307cb9787c4b,1076.56,2025-04-25, pending,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"Douglas, Mitchell and Stuart",Toys
+09aa5570-9be9-40c7-947d-7bfc5eef0d1e,fc04ca7a-ee41-4f16-a263-307cb9787c4b,1076.56,2025-04-25, pending,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"Douglas, Mitchell and Stuart",Toys
+d1fa82a6-c60b-440c-b21a-6f380eb5e5a7,706078eb-7e8e-4d12-a3ea-21a22cde9187,3656.04,2025-04-21, pending,MUM-X-ERR,ANDHERI,mumbai,UPI,Jefferson PLC,electronics
+c8b190e1-089a-4f4f-b1da-e8174937b90f,b2cd9a0a-840c-4cb0-82b3-43849979cf26,8467.84,2025-04-23, pending,MUM-AND,Andheri,Mumbai,UPI,"Jackson, Johnson and Allen",Electronics
+163b5481-284e-4cd4-b9c3-ee050012d399,66414954-c798-4445-86a3-cc71ff2f6883,3663.45,2025-04-25,FAILED,MUM-X-ERR,ANDHERI,mumbai,UPI,"Foster, Willis and Holmes",
+eb4f3638-1190-4515-b420-9103bca726eb,b9e439ef-48d4-45a4-8cb2-1aa217151c03,5116.0,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,,"Bailey, Richmond and Hill",electronics
+746b161a-31cc-4738-b68a-e9b79b3aa1d1,0130d66b-932d-4648-a769-b0f1ee01b9e0,7941.88,2025-04-24,Success,MUM-AND,Andheri,Mumbai,Debit Card,Russell Inc,Books
+4b541670-80cf-41db-9287-e3138f026c2c,cd8d9f75-1df4-4d3e-b26f-9b195708013e,3634.42,2025-04-27, pending,MUM-AND,Andheri,Mumbai,CASH,Walter-Li,Books
+71594914-b1b6-4ecd-8009-45ce932c3ec9,7bcf2b31-902b-4154-a088-5550f74f6900,184.51,2025-04-23,Pending,MUM-AND,Andheri,Mumbai,Debit Card,Ali-Ellis,
+dcad8ec2-963a-4333-a582-95dc75f1c654,420079f5-1dc3-426e-bb62-659e0700749a,9794.37,2025-04-21, success ,MUM-AND,Andheri,Mumbai,,Schultz-Gamble,Books
+ccd7608f-3adc-438c-b380-46efad4a2b3c,5a64845e-f498-46ad-a994-bf8450d3ba03,811.21,2025-04-27,Failed,MUM-AND,Andheri,Mumbai,,"Smith, Collier and Wright",electronics
+bfb0942c-ac77-4762-a620-516717cf775f,8df71647-1376-4ff9-978c-d875d231f372,7030.27,2025-04-23,Pending,MUM-AND,Andheri,Mumbai,,Edwards-Robinson,Home Decor
+f2765513-2eca-4629-84e2-269192ded495,e8f10194-ee25-456a-aee0-1ec9bf0418a9,27251.41,2025-04-23,Failed,MUM-X-ERR,ANDHERI,mumbai,upi,Mclaughlin-Young,Toys
+34ef71df-43f1-4b58-9f6c-0d603df76a69,3fec0a37-d5be-48dc-b3e8-82493aad5840,3018.38,2025-04-25,,MUM-AND,Andheri,Mumbai,Cash,Maxwell Inc,Home Decor
+f4adfa22-ad02-45f5-9417-c2f9eb91731a,01b216cf-9d23-43cf-be1f-48c4a9d6290d,4134.36,2025-04-27,Pending,MUM-AND,Andheri,Mumbai,UPI,Charles LLC,Electronics
+e5eb4549-7e0a-44c2-90bf-29959ee4105d,9313b3a7-e5a1-46e4-a188-6146fc40a3d4,5682.39,2025-04-24, pending,MUM-AND,Andheri,Mumbai,,White-Duran,Clothing
+38db128d-65db-4e43-87bf-8db782d9a774,0ddca788-20d4-4a18-93a0-5478c00b19de,1666.83,2025-04-27,,MUM-AND,Andheri,Mumbai,,,Books
+f08d312e-7a73-4f35-ac55-40f0cc9cf41c,58e7edf8-80a2-4721-8856-06848a6fc4b3,7103.9,2025-04-25,Pending,MUM-X-ERR,ANDHERI,mumbai,Net Banking,"Parsons, Bryant and Martinez",Groceries
+b0701a53-50ce-457f-b5c7-2fb684a91789,35f3de4a-ac92-44b4-8306-a2580227b8d5,3186.65,2025-04-25,Success,MUM-AND,Andheri,Mumbai,Credit Card,"Garcia, Ward and Hensley",Clothing
+3cb526d7-434a-430e-8c6e-a6ad2fe938e4,9cf3137e-f562-437b-b8aa-16ea44f7f01a,9370.17,2025-04-25,,MUM-AND,Andheri,Mumbai,,White-Coleman,
+,,41064.26,2025-04-26,,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"Goodwin, Diaz and Morales",Groceries
+21925613-9247-4851-ae0d-38607362f9b7,3a8359b6-af9e-4a0e-936d-b4a7fab1996a,4589.67,2025-04-22, pending,MUM-AND,Andheri,Mumbai,,"Nelson, Young and Reynolds",
+cccf4130-2556-43d4-b231-32fa618192de,7915ad7e-2648-4819-bd11-16eef58ab7c7,565.17,2025-04-21, pending,MUM-AND,Andheri,Mumbai,Net Banking,Fisher and Sons,electronics
+a1726883-d971-4e00-a4ad-5e9bfedd22d9,50d3802d-b876-4455-88b3-152d845a91b8,5537.67,2025-04-26,Pending,MUM-X-ERR,ANDHERI,mumbai,Cash,King-Garrison,Toys
+,,30891.83,2025-04-21, success ,MUM-X-ERR,ANDHERI,mumbai,,Garcia-Martin,
+79fe7ccc-4119-40f6-9056-61993728ddc2,7329af6e-18a7-4d94-a13e-a66dd6c6d997,9597.08,2025-04-25,,MUM-AND,Andheri,Mumbai,CASH,Ward-Castro,clothng
+581993cc-41f9-494a-8f5d-337fee8d5daa,59e110eb-1f09-4b9d-a969-29b20513eda8,3840.32,2025-04-23,Failed,MUM-X-ERR,ANDHERI,mumbai,Debit Card,"Johnston, Banks and Thompson",Groceries
+53391df4-5ae8-4d18-88dc-1e26c7c2564a,c655a597-7ccc-43de-82ac-7e1dac565da6,3128.65,2025-04-26,FAILED,MUM-AND,Andheri,Mumbai,Cash,James LLC,Groceries
+2514c7ce-f4e3-4f7b-a1b7-e3d876b874d3,cec68cfe-a3fd-47f0-aae6-3af6de46222e,7457.36,2025-04-25,FAILED,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Welch-Duncan,Clothing
+1440adec-1243-4b0f-a835-f080d9518f98,50405c43-3a6c-4da6-97f7-d71f2978cc73,4705.64,2025-04-24,,MUM-AND,Andheri,Mumbai,Cash,"Carter, Adams and Newman",clothng
+c7edea02-71e4-4c42-a33f-c52c457083e4,bf761449-5cf8-4eeb-b053-3851dce0e2bb,3632.57,2025-04-27, success ,MUM-AND,Andheri,Mumbai,Cash,Gutierrez-White,Home Decor
+,,1092.43,2025-04-21, success ,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Luna Ltd,Toys
+b360dfaa-be6e-4d47-b0c0-804b406bf02d,2abaa4f9-35e8-4364-947f-1f67bfeef19d,5022.94,2025-04-25,,MUM-AND,Andheri,Mumbai,UPI,Davis Group,Electronics
+c55be95d-06bf-49c4-8dc7-81048c662766,fefac198-c3d6-4d54-8623-bc7465a29cc8,1505.46,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,UPI,Baker and Sons,clothng
+e2ae3f87-ee7c-4782-a7a3-1d2515956c42,3f5560cd-3ab7-427e-8f32-ea5463ccf604,3926.73,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,CASH,Sims-Anderson,Books
+08ffeab0-0750-42d6-abac-f712d6a919e8,ea4f4a80-dc41-4176-9b59-f28ea9de5b26,7486.54,2025-04-24,Failed,MUM-AND,Andheri,Mumbai,,Mcdonald-Pitts,Books
+71e15b9f-8c6d-468e-85bc-f3baef52d36e,b29769b2-f2cf-4cae-b833-ebfb2296e3f1,9416.74,2025-04-27,FAILED,MUM-X-ERR,ANDHERI,mumbai,Net Banking,Garza Group,
+e096521e-a2c7-43d4-bfb8-abb9a18c5492,a3c90c6a-8601-4633-af5a-ad529061498f,2730.41,2025-04-27,,MUM-AND,Andheri,Mumbai,UPI,Stout-Olson,
+711dc1dd-16ed-4330-8e01-54133a2516fe,4282b6e4-6986-405a-9da3-f9cf4ed0730d,4647.08,2025-04-22,FAILED,MUM-X-ERR,ANDHERI,mumbai,UPI,Smith-Mills,Books
+5808d790-22e4-4628-9913-057dc21f84fc,022111e5-88fc-4da1-b81d-5b6c49694032,4669.72,2025-04-26, pending,MUM-AND,Andheri,Mumbai,Debit Card,Evans-Cannon,Home Decor
+3b30ee97-98d5-4cf5-8afc-f9e8cc476b72,5fa72012-8c57-4277-81d9-09b4cbf8f29e,8287.07,2025-04-23,Pending,MUM-AND,Andheri,Mumbai,Net Banking,Khan-Kim,Toys
+bcb3c168-b706-4cfa-a9cc-07893ff93134,,4657.54,2025-04-25, success ,MUM-X-ERR,ANDHERI,mumbai,,Walker-Miller,Home Decor
+c3b8c80f-8440-4e98-bd53-ec43a0152b5b,cebd3b2b-9cfb-4ce7-a8f2-c584ccca1e14,697.52,2025-04-24,Success,MUM-AND,Andheri,Mumbai,Cash,Wong-Patel,clothng
+da7dcc53-3020-4f06-a9b4-119444d18524,4a22eae9-22f9-4afe-aeb2-3ca31186da93,6787.12,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,UPI,"Gibson, Chavez and Graves",Electronics
+,04f718c8-5215-4503-b012-f8197df37378,35319.28,2025-04-22, success ,MUM-X-ERR,ANDHERI,mumbai,,Booker Inc,clothng
+4838a888-1a2e-4864-b8ea-ca362f999b2a,703c1286-b717-44cd-a002-91bb44e9f8fb,5136.06,2025-04-21,Success,MUM-AND,Andheri,Mumbai,upi,Davis Inc,Toys
+6b950c1d-5787-49d9-b799-a3767e5b3ac9,7f96dd35-cca9-4089-8925-4bb54fc37d4e,4828.81,2025-04-25,Success,MUM-AND,Andheri,Mumbai,Credit Card,Terry-Johnson,Electronics
+f39ef1be-c025-43ea-97f2-a67814898025,c6913069-4439-440d-8e58-877025660316,6582.85,2025-04-25, success ,MUM-AND,Andheri,Mumbai,,Daniels and Sons,Clothing
+4005353d-d76f-4e65-a54c-87393133839e,033ac4d6-d408-4391-a1af-0e8ed13757e1,1386.7,2025-04-22, pending,MUM-AND,Andheri,Mumbai,Debit Card,"Wright, Wise and Ramos",
+,32fd73c5-0894-4176-be99-df69bcd49975,7954.55,2025-04-26,Failed,MUM-X-ERR,ANDHERI,mumbai,Net Banking,"Wise, Boyd and Hendrix",electronics
+f6121d2c-ae73-40eb-a39d-8fe7790b185c,289ac251-52b4-44e8-afab-cd734fe66636,8997.77,2025-04-21,,MUM-AND,Andheri,Mumbai,CASH,"Pineda, Meyer and King",Home Decor
+5c44ebd1-32df-4d45-8c7f-03bba3760c2d,aaac826e-dd18-4b28-8d55-9b64e3347bac,4710.72,2025-04-23, success ,MUM-AND,Andheri,Mumbai,Net Banking,Young Group,Toys
+cb5d2b59-2ad8-40ca-83db-7a2e531350e0,6553b15f-1ea1-4b0f-95ae-b18b46ae7e06,1992.17,2025-04-23, pending,MUM-AND,Andheri,Mumbai,Credit Card,,electronics
+94c176b9-0ac0-43d5-b805-90f002493a09,b03b6934-79ab-46d1-b0d5-15abc891d55d,2052.62,2025-04-22,,MUM-X-ERR,ANDHERI,mumbai,,Townsend-Wright,Home Decor
+9e5f8273-af9a-4168-9766-17957ffab493,ff39a117-f83b-4806-ae4c-1b1856a2d49d,8761.23,2025-04-21, success ,MUM-AND,Andheri,Mumbai,Net Banking,Kelly and Sons,Electronics
+1b7e0502-ca9d-4831-894e-7397b38a3db1,5115d7ee-3b90-408e-bce3-456320363a73,9895.85,2025-04-27,,MUM-AND,Andheri,Mumbai,,"Sherman, Trujillo and Gonzales",Electronics
+60b57717-b072-4fc8-8577-610831662c94,402da0fa-227d-4ecc-b972-393a5bb0dd76,5854.45,2025-04-21,,MUM-AND,Andheri,Mumbai,Cash,Mann-Hansen,
+30952621-7d76-4b58-b271-115b8af09ec3,59008d65-8b2a-4759-afc6-c4e691135d7e,6379.7,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,UPI,"Mcdonald, Dillon and George",
+11a1e557-290c-4414-8df5-0b01dc4db762,4bb13407-730a-47de-a7af-bff987f89f62,362.19,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,,"Richardson, Smith and Little",Electronics
+e207db20-2f7f-4cd7-bbd0-fe6c6108ffcc,5d340833-db59-4a19-9ea6-ed4a04cad30a,4318.37,2025-04-23,,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Le-Barrett,Electronics
+309b48dd-6332-4992-91ad-3e5189f90de9,c4072654-7f5f-41aa-aee7-c7a586296fbe,7690.8,2025-04-27, success ,MUM-AND,Andheri,Mumbai,Debit Card,Austin LLC,Home Decor
+1c4760a5-5270-4b29-a412-47a268e8f311,1111ee29-a8ad-4539-85f0-786a18a440bd,1834.8,2025-04-21,Failed,MUM-AND,Andheri,Mumbai,Debit Card,White Inc,Home Decor
+310dc9d1-7c41-4a2a-9b67-f7bb33bb7382,a449d64f-922d-4ab6-8825-2b391947ea42,5484.03,2025-04-25,Success,MUM-AND,Andheri,Mumbai,Cash,"Burns, Hanson and Garza",
+9b1fc6d1-3881-49dc-9dc9-60970c90e028,ee224f70-0359-4c6d-9224-cbd2b7c4b3ee,2547.39,2025-04-23,,MUM-AND,Andheri,Mumbai,Credit Card,"Henry, Preston and Miller",electronics
+5c65a65c-0f8a-4c2c-a390-0bc0cd0fa4a6,,5873.88,2025-04-27,FAILED,MUM-X-ERR,ANDHERI,mumbai,,"Hurley, Perry and Wood",Home Decor
+,9def57b4-d2da-43ec-8eec-c013b55beaaa,24426.26,2025-04-24,,MUM-X-ERR,ANDHERI,mumbai,Debit Card,"Williams, Jones and Torres",Clothing
+84fcfcb0-f5e9-4352-b745-39f2f1d188b9,3b23feed-b9a4-4e2b-99e9-e3a418dcceb6,8237.01,2025-04-27,Failed,MUM-AND,Andheri,Mumbai,upi,Lopez-Fox,Clothing
+f28f9444-a015-4d65-91ed-554a3faeef01,8ee25e54-bfcb-4388-8ef4-d74b2dcc4095,2109.17,2025-04-26, pending,MUM-X-ERR,ANDHERI,mumbai,UPI,"Garcia, Fowler and Howard",Books
+6d54c95a-aa4d-42a8-b3da-5808756eb67d,cadec379-2ab4-43f6-9aa6-7474e200c157,1706.4,2025-04-23, success ,MUM-AND,Andheri,Mumbai,UPI,"Morales, Morgan and Moore",Electronics
+eefb2a24-7169-4ed5-9994-13ccff9957a8,8cd2216f-50ad-4f63-a709-41535a31e916,9964.83,2025-04-24, pending,MUM-AND,Andheri,Mumbai,Debit Card,Gutierrez-Schultz,Books
+9bc0fa93-52cd-4def-b9d2-76f4d37ee471,,1579.62,2025-04-23,Failed,MUM-X-ERR,ANDHERI,mumbai,Credit Card,"Gardner, Brooks and Pierce",clothng
+f62ecf88-5c29-450b-810b-fc29be9cafcf,65a7ba30-f5b7-4dd9-b28f-589773d0b6c7,4098.21,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,Cash,"Johnson, Mitchell and Smith",
+4d457ea5-e3ec-4f6a-be50-3fdc2294fa0a,38cd9122-fc01-45e1-8ce2-afa201ae7eb1,4640.47,2025-04-23,Pending,MUM-AND,Andheri,Mumbai,,Smith-Short,electronics
+eb4aede6-46a5-4064-9284-b528b0916fb7,92174fb0-8e6b-4085-82e2-b02d8dbcde5a,9363.57,2025-04-27,FAILED,MUM-AND,Andheri,Mumbai,Debit Card,Davis Group,
+43d643ed-236e-4832-a7f6-a2ac5b0c4170,3ff69f41-9508-4801-a3be-7ca05df924fb,7220.51,2025-04-23, success ,MUM-AND,Andheri,Mumbai,,Shepherd-Davis,Home Decor
+37a9f824-eafa-4d5b-91ae-3d4c66592d83,531f04af-b93c-42d5-93c3-7b5dbbf8da91,6461.72,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,,Freeman Ltd,
+e85c1ec9-d1cb-4092-9383-f86db3edd6ed,4ce6928b-a46a-4c9a-9861-12601869c755,6596.5,2025-04-21,,MUM-AND,Andheri,Mumbai,Net Banking,"Stokes, James and Deleon",electronics
+5911f42e-559a-4f54-8559-cd0febffc53f,6aa12abd-6f2e-42b9-9130-32dbe13a14ca,8859.34,2025-04-22,,MUM-AND,Andheri,Mumbai,Net Banking,Adkins PLC,
+c704e80e-a246-4cd7-82ed-5d15edbc36d8,,282.03,2025-04-25,,MUM-X-ERR,ANDHERI,mumbai,,Torres Inc,Home Decor
+264ae04f-909e-41ba-8a38-d5aa51beba8e,388629ff-b2a0-4778-809d-644453ab3cce,6789.03,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,,Nunez Group,Groceries
+985a9548-c0ba-42a4-b213-e7ccf89617fa,38da9a90-170f-4d32-8135-f15a9343e6ea,9190.82,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,CASH,Hartman-Hernandez,Groceries
+9249ee3a-79d1-4c4e-9521-ad35560f1e2d,,1148.65,2025-04-21,,MUM-X-ERR,ANDHERI,mumbai,Net Banking,"Ross, Miller and Shaw",Electronics
+c31496ea-2160-446e-b2a7-a475c6196773,32b73d80-8f2e-48d3-bb1d-bca32286e3f8,3015.67,2025-04-26, success ,MUM-AND,Andheri,Mumbai,Credit Card,Pearson-Gonzalez,
+86351a54-bc54-48c1-bf40-8dcc9db1f7f9,44296ca2-1257-429e-be08-5cb73f09f7a6,1366.48,2025-04-26, pending,MUM-AND,Andheri,Mumbai,CASH,Cohen-Johnston,Toys
+6c6d282b-69e0-4370-abf7-a5d01ccec1ef,521be8c2-30c3-4f8a-992a-b43d5d822e3a,7417.73,2025-04-25,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,"Rios, Carrillo and Jackson",Electronics
+fd7b1279-d253-4515-9dc0-a8b55987038a,25545c1a-9f88-4da3-b134-ae6ecd840a47,1719.76,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,,Glass and Sons,
+27ef0a4b-5fb2-4838-af73-b3cf331e91f2,15f7ef61-da4e-404c-ba7e-1b86c1fad753,8502.97,2025-04-22,Success,MUM-AND,Andheri,Mumbai,Debit Card,"Brown, Rush and Mcintosh",
+49a5baeb-d1f4-4c8d-951b-1974de668dd0,cde55848-b19c-405e-97e0-a1f103840661,7002.38,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,,Cole-Johnson,electronics
+363d75f1-89ba-49c8-bd71-7da33581a632,c017466e-85f4-40a2-8be2-7516342c5348,9369.35,2025-04-24,Success,MUM-AND,Andheri,Mumbai,upi,"Webb, Blair and Thomas",Toys
+60694b6d-04b5-4c12-ab13-2032b2e19f66,,7850.43,2025-04-27,FAILED,MUM-X-ERR,ANDHERI,mumbai,Cash,Scott Inc,Books
+b24f92b9-ca08-41de-b360-d11548b51c88,7707ac0e-0d96-4eb3-8572-b3859e32f085,7.12,2025-04-21,Pending,MUM-AND,Andheri,Mumbai,Debit Card,Price LLC,Home Decor
+a8fc5690-e9b1-44a1-9a22-1b85a9b92a1d,04e25132-1b9e-45f9-9d41-9a675c375254,147.2,2025-04-24, pending,MUM-AND,Andheri,Mumbai,UPI,"Hughes, Whitney and Romero",
+50c1b8f7-e764-48c4-997f-a0fdb5ae2a56,88145bde-98db-4732-9de4-d1947c12d198,1061.1,2025-04-22, success ,MUM-AND,Andheri,Mumbai,UPI,Gonzalez Group,Home Decor
+05804493-b664-4199-ad25-459e8f8937fa,8787c3f4-ec19-44eb-bf55-17400a2d36a6,7928.54,2025-04-24,Success,MUM-AND,Andheri,Mumbai,Credit Card,Burns-Garner,electronics
+5a16f9d9-af2f-4773-98c6-915804b40ac9,3c77ea4a-4d65-4036-a00f-230b5afa0fb3,3863.68,2025-04-27,Pending,MUM-X-ERR,ANDHERI,mumbai,,,Electronics
+a033edad-0fdf-4e19-8fd8-35fc469ff562,e3f16406-631d-4c8b-a0f0-fe7941f74651,815.07,2025-04-21, success ,MUM-AND,Andheri,Mumbai,Credit Card,"Avery, Perez and Peterson",
+,,2222.33,2025-04-25,Pending,MUM-X-ERR,ANDHERI,mumbai,Cash,,
+bada0c94-1679-4be0-a323-8416a82cae18,ad9112c5-f5ea-4128-854d-c3bf61d85365,1811.34,2025-04-23,,MUM-AND,Andheri,Mumbai,Credit Card,,
+271a919f-92a9-4acd-bd88-49386ad65b8c,e8e46b31-4ff8-4111-b875-1fd46d2ccf42,8074.88,2025-04-24, pending,MUM-AND,Andheri,Mumbai,upi,Daniels-Clark,
+af1dcfb8-8a96-4a11-94be-6d9f2379c05f,235b275b-dcd2-4b97-b3ca-9a6bccd3af7c,5458.46,2025-04-24,Success,MUM-AND,Andheri,Mumbai,,"Thornton, Mills and Taylor",Books
+c521ff2e-f9cc-43ed-a8b4-5c6afee543b3,9099a283-eedb-4ce5-a7fe-cdcd2528b516,6048.77,2025-04-22,FAILED,MUM-AND,Andheri,Mumbai,UPI,Jones-Patel,Books
+514e1353-2f23-4c4d-9e4e-a133b82d40de,ba21e269-2540-4bfe-a12f-f6cdd6eaf269,3535.52,2025-04-21, pending,MUM-AND,Andheri,Mumbai,CASH,Beard-Gutierrez,Clothing
+bee04762-7168-4dec-8da8-38b76947cbac,a3086e48-e4e5-45b0-925a-d576ef0b743e,2465.02,2025-04-24,,MUM-AND,Andheri,Mumbai,Net Banking,Maxwell Inc,Home Decor
+c32fc21b-06b4-4d27-af4b-8be821acfdb5,44511ba0-9df0-44d3-9caa-d37cfc6795e2,981.42,2025-04-27,Success,MUM-AND,Andheri,Mumbai,,"Hall, Hall and Mcdaniel",
+c7a2b171-b02a-46ee-9458-80635bf88d1d,d89c83f6-8098-480d-a253-80407a029a6d,9828.91,2025-04-26, success ,MUM-AND,Andheri,Mumbai,,"Banks, White and Hughes",
+317979f9-29ed-4760-a334-08ba794e0838,c3b8d179-6899-4c84-8840-323439ed0800,8723.8,2025-04-21,FAILED,MUM-AND,Andheri,Mumbai,Net Banking,Clements-Walker,
+c1fda581-33ec-46b1-bcfd-8547abdce0da,ed56a2a0-2d54-4f2b-90ee-4f77345e2eaf,9789.73,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,CASH,"Burns, Nguyen and Ellis",Toys
+c6b6020a-67a5-4936-ad74-4a0b3f2d39c8,d3073198-bc3e-4402-9ba1-4c350ab5207f,3953.0,2025-04-25, success ,MUM-AND,Andheri,Mumbai,Net Banking,"Edwards, Carr and Newton",Home Decor
+a43262b3-8675-420e-8941-bdd39803a82e,09dbebb5-c973-4495-b440-b852e033500e,870.3,2025-04-27,Failed,MUM-AND,Andheri,Mumbai,Net Banking,Hayes Inc,
+84c9b276-3ee7-4d31-beef-21f8e0b62f90,bc341b4f-fbdc-432e-a546-c66d89b1cad1,6894.91,2025-04-21, success ,MUM-AND,Andheri,Mumbai,Net Banking,"Hughes, Hubbard and Estes",Electronics
+65e5f13f-7086-4a45-8a8a-bb17309a083a,d3def87c-c60f-4252-8df7-42aee267e12b,7001.63,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,Cash,Jackson-Phillips,Books
+84581f73-b0a0-41cd-8df6-c527eb45bc38,d473e687-76ad-4c33-a469-d0c2e7574997,40.05,2025-04-26,FAILED,MUM-AND,Andheri,Mumbai,Cash,Sharp Inc,Toys
+f016716b-95df-46cb-875a-ec942e057f79,22a37556-8be1-4610-b234-8948e4f2ae4c,9951.27,2025-04-25, success ,MUM-AND,Andheri,Mumbai,upi,Morris-Johnson,electronics
+b66f3507-e588-4999-971e-ea3974246baa,74661e6f-e1ee-41f1-b3b1-d0dce552d0a8,8540.9,2025-04-22,,MUM-AND,Andheri,Mumbai,UPI,Nguyen-Wong,Toys
+b7e767d4-29fb-432c-8be6-8571b622e18e,1d39e9c2-1758-4f23-9fa0-9802bbb71494,6101.73,2025-04-26,,MUM-AND,Andheri,Mumbai,Credit Card,"Cox, Mills and Cruz",Home Decor
+9cb0c90c-82fc-4294-b9a6-2522ca835709,8ce377d7-60f1-4528-a8ef-2f46f323123e,4138.19,2025-04-25,Success,MUM-AND,Andheri,Mumbai,UPI,Tate LLC,Electronics
+dcd81a8b-a8d6-4af6-9f0d-def190c40e45,2504fd28-de6a-4459-a980-f6ff266c47fb,8507.08,2025-04-23,,MUM-AND,Andheri,Mumbai,upi,"Williams, Parker and Cross",electronics
+a05f36c8-49ed-456e-b23d-facdf601e005,21aea39b-e606-47c2-9e18-046d2e421840,2190.78,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,Credit Card,Dean LLC,
+dafc3805-7f64-45de-b569-9aef03200c4e,0178de26-ceb5-47ac-8b22-e4457fa70485,8938.02,2025-04-26,,MUM-AND,Andheri,Mumbai,UPI,Robinson Ltd,clothng
+711ebe6f-68ff-4e17-b428-349179c842cb,01aec505-99a0-4abb-99e9-54331453e17e,6797.56,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,,"Ramirez, Fuller and Wilkins",clothng
+25f41dd6-2f51-4c6e-8c85-f1543527bcee,09668d08-5959-4d27-a73d-27460e18ab96,5346.86,2025-04-22,Failed,MUM-AND,Andheri,Mumbai,,Estrada PLC,Toys
+1673aefb-eb9e-44e0-94c3-b22e4c66aa4d,fe656dcc-6abd-405a-9be0-0f8e0c8d51d2,5939.49,2025-04-23,,MUM-AND,Andheri,Mumbai,,Powers PLC,Books
+984fe323-b329-4925-b107-094ea9325ae1,2d6b5953-8fea-484e-898c-fd4892811c92,2147.62,2025-04-26,,MUM-AND,Andheri,Mumbai,CASH,"Riley, Huynh and Davis",
+e5c482ff-5e5a-40c1-92a4-73f94c9e903a,c2294116-1152-4a73-91fc-dedd61022b56,9314.93,2025-04-26, pending,MUM-X-ERR,ANDHERI,mumbai,CASH,"Brown, Ruiz and Martinez",
+86eced99-5447-4290-8640-4b2adc0228af,b221e1c5-35b8-4d0a-864f-36dd69ec09d5,2138.05,2025-04-23,Success,MUM-AND,Andheri,Mumbai,Net Banking,"Brown, Duncan and Krause",Home Decor
+7bd15655-1671-4639-bcb8-6f9e87690baa,ef13864b-9ad2-4b72-b04b-a584b95cec2d,587.26,2025-04-24,FAILED,MUM-AND,Andheri,Mumbai,,Lynch-Stewart,
+9f8ceda5-feb9-4a24-933c-8d0086800a0b,9d421bae-2134-415b-ad56-c7145a9621f5,8914.1,2025-04-27,Success,MUM-AND,Andheri,Mumbai,,Stone-Welch,Electronics
+e237c877-2e0e-4673-8ed7-cd177e14c595,4a5d6cea-b565-464e-bb93-a53f9c02040d,8986.05,2025-04-23,Failed,MUM-AND,Andheri,Mumbai,Debit Card,Wilson Group,Toys
+bccaba38-1e30-414f-8bf6-aa23a01e31f5,9d84d303-ccb0-4fc5-b513-a238d91b1a04,3295.81,2025-04-26,Failed,MUM-AND,Andheri,Mumbai,UPI,Williams-Bailey,clothng
+02e460aa-365b-4763-a333-6ea8ce58de20,4818b004-b0a4-4557-b381-001fa3ff8fd2,3747.85,2025-04-24,,MUM-AND,Andheri,Mumbai,Net Banking,Parker PLC,
+0191d19d-c45c-4fbb-92ec-ac278ccc617e,57637902-5552-4712-af92-ef221d2467e2,6685.25,2025-04-25,Success,MUM-AND,Andheri,Mumbai,Net Banking,"Carroll, Choi and Collier",Books
+,56830783-d575-4337-949c-9eb931ab0158,1939.61,2025-04-26, success ,MUM-X-ERR,ANDHERI,mumbai,UPI,Robles-Brewer,electronics
+75eb0e8f-a090-460d-a7c7-655a7b434a72,e55b93ad-8976-4471-9d7f-57d1e45def26,9831.49,2025-04-25,FAILED,MUM-AND,Andheri,Mumbai,,Bowers-Gutierrez,Clothing
+85650e0b-d5c9-4d5d-8e57-79ecbe1a070f,ad9e5c1e-b997-4024-90a0-14ab4ca1cabd,7469.73,2025-04-24,Failed,MUM-AND,Andheri,Mumbai,UPI,"Herrera, Clark and Jennings",Electronics
+,cbb86be0-e355-4636-aa8b-31f5ccae58fe,6981.76,2025-04-25,,MUM-X-ERR,ANDHERI,mumbai,,Montes LLC,Clothing
+fbce7087-56d2-414d-87fa-f6f7d73aae7b,d7a7e7b1-88c6-4063-a063-03ca600fc79c,3373.73,2025-04-23,,MUM-AND,Andheri,Mumbai,,"Obrien, Lopez and Wilson",electronics
+b48c531b-4eeb-47ff-8064-f074c847b130,0818c965-b5b8-4351-9083-0841db9a0eb7,45726.46,2025-04-24,Pending,MUM-X-ERR,ANDHERI,mumbai,Debit Card,Miller-Wiley,Home Decor
+f362d408-d457-4305-b3b0-220d5f2019ea,,49675.74,2025-04-24,FAILED,MUM-X-ERR,ANDHERI,mumbai,Credit Card,Warren and Sons,Books
+0992b886-c8f2-46c1-9fcc-997d1cbb304b,17b4e75b-e9d1-4ec2-b3bc-b8a9c71d4564,6498.12,2025-04-26,Pending,MUM-AND,Andheri,Mumbai,CASH,"Johnson, Webb and Porter",Home Decor
+7bc4d138-ec73-4598-9711-d5fd30b1b67b,4f73ab1c-860c-4b68-9fb6-8a5fbb8141f0,2740.09,2025-04-24,Pending,MUM-AND,Andheri,Mumbai,,Hammond Inc,Books
+84222f58-f022-44af-bb76-4637d277ab64,3487246c-21f9-4072-be22-eba1ad3d581e,3036.61,2025-04-21,FAILED,MUM-AND,Andheri,Mumbai,upi,Hughes-Hancock,Books
+eeada90c-4f9c-48bf-810d-583f1da76d69,98233b06-d91e-47e6-afe2-a9400b458c23,560.73,2025-04-22,Pending,MUM-AND,Andheri,Mumbai,CASH,Owens-Williams,Groceries
+bedcacb7-a8b3-41a0-8424-6277854494ab,c22ca6a8-93da-460d-85c1-44224ffebdfd,4440.94,2025-04-24,Failed,MUM-AND,Andheri,Mumbai,Debit Card,"Mcclain, Flores and Lee",Electronics
+c5d56016-51b3-4cf5-8843-3a3846d28109,45ccaa93-1e1e-4d91-abce-c90f70ecf41b,3470.7,2025-04-22,Success,MUM-AND,Andheri,Mumbai,,Hill Inc,Clothing
+83997ac5-8f43-4250-9f79-5228f5530567,59ae7302-8ae3-497e-b4e2-41421a354475,5822.76,2025-04-27,Success,MUM-AND,Andheri,Mumbai,Debit Card,Nelson-Harding,Home Decor
+3eacdb28-92f7-4993-8884-3b5bcdd3214c,9cfecbd8-4fb6-4094-923c-f9112bd8ad4d,6768.18,2025-04-25,Pending,MUM-AND,Andheri,Mumbai,Credit Card,"Wallace, Anderson and Ruiz",
+6233960a-1b1e-46c3-8cea-af73aced4d55,6454a82a-6d2c-4bf9-960b-eed40dc5d42e,260.85,2025-04-23, pending,MUM-AND,Andheri,Mumbai,upi,"Carlson, Watkins and Huff",Home Decor
+5b0a31ea-9dc6-4783-b222-534db3099e0d,32b9c542-d143-40a2-9513-b74f4ffc1c54,1334.85,2025-04-27,,MUM-AND,Andheri,Mumbai,Debit Card,Beltran Group,
+d0170108-17c9-4aaa-a1bd-55eb915aa3c0,77e0ee02-b2d7-492a-ab70-bda9cd66d79d,3459.91,2025-04-22,Success,MUM-AND,Andheri,Mumbai,Net Banking,Collins-Newman,
+3b504fda-7875-41c7-b724-3aa3c438eae0,dc70ce22-24ca-41b8-b94a-97fdf28bf846,6132.26,2025-04-24,Success,MUM-AND,Andheri,Mumbai,Credit Card,Myers-Lyons,
+dc5cd673-c9ed-46a6-9490-5f79aa4946f4,7ccd3dc0-740a-4bed-9323-8affe1e538a1,7255.8,2025-04-21,,MUM-X-ERR,ANDHERI,mumbai,,Alvarez LLC,Clothing
+2bb9a661-d884-4354-b613-ef447a88f162,9abc9859-593e-4c83-8497-d0a8484204d5,1381.63,2025-04-27, pending,MUM-AND,Andheri,Mumbai,upi,Romero Group,electronics
+1b63205f-cbf8-4149-b6da-99cdd14b256c,1228130b-a642-42a2-8e5f-d65f536c32d0,9018.68,2025-04-24,Success,MUM-AND,Andheri,Mumbai,Net Banking,"Murray, Garza and Allen",Books
+f950f7fa-28b5-4db5-8c46-63083e628981,57390b03-10e9-4dce-a241-cba37b7ce7cc,8126.2,2025-04-23, success ,MUM-AND,Andheri,Mumbai,UPI,"Garza, Mueller and Graham",clothng
+b1b2b5f8-8b66-4d1f-979a-7954c98e3f5b,ab6b3f08-a9a0-44ef-ac4f-54163c749c16,95.22,2025-04-21,Success,MUM-X-ERR,ANDHERI,mumbai,UPI,,Books
+92fe00e8-b63f-4809-ae4d-0decbd472885,979800c3-1d44-4351-bc93-cdc3d635212d,6481.29,2025-04-26,,MUM-AND,Andheri,Mumbai,Cash,Peters-Short,clothng

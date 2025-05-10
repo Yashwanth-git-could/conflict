@@ -1,0 +1,708 @@
+Transaction_ID,Customer_ID,Amount,Date,Status,Branch_ID,Branch_Name,City,Payment_Method,Merchant_Name,Product_Category
+,,7547.09,2025-04-24,,MUM-X-ERR,GHATKOPAR,mumbai,UPI,Barton and Sons,
+,bccf45c8-7521-4a99-9726-e17876b1cd87,30914.61,2025-04-21,Success,MUM-X-ERR,GHATKOPAR,mumbai,upi,"Henderson, Rivas and Bishop",clothng
+4abc5d91-965a-48c5-a7bc-d5a72bef0136,b7cc7157-34cc-47ac-87bb-a5df2861536f,1854.77,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Cash,"Mckay, Young and Wilkerson",Clothing
+f527fa92-3cc6-485f-8565-ad41acb0bce4,fd5444ec-afe4-4dbb-8d6f-c7e353ab7473,1774.13,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Campbell PLC,electronics
+731baedd-6b25-41e9-ba78-14729c4973a4,994be696-6160-4c3c-be6f-2cf706db51d3,1454.22,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,Cash,Jensen PLC,Clothing
+5e2c5cf9-0082-4826-b09a-11ec706eb43a,87cef9a2-9b75-459c-bf09-338c422aaaa7,1106.01,2025-04-22,,MUM-X-ERR,GHATKOPAR,mumbai,upi,Hall-Gaines,Clothing
+a89fd6ce-4726-4174-8699-1c22be146c81,0de6d57e-cfcd-4535-becf-c25ec94e36bf,3116.38,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,"Gregory, Yang and Owens",Clothing
+78b2a65d-6a0e-49b2-9c94-d5c689ed4d64,016db752-ed6b-4872-9c2b-15378082efd4,6552.28,2025-04-25,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,"Bennett, Davidson and Alvarado",Books
+e20e22b8-57ff-4548-9d28-67a0ad845afe,dd1b469d-9474-4809-8717-9af0a52bd100,673.81,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Gray LLC,Groceries
+ebc72f45-94b7-477b-85bb-ed6ce1ea7e7a,e6b87bf5-2454-49f6-a87d-d098b903b981,2995.1,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,Cash,Murphy and Sons,Books
+0bdfa5f0-c653-405e-b2e2-7aa8f081eaef,efd9b5e1-0ded-4b4d-b9d8-1ee91d4bc914,8147.94,2025-04-22, success ,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Mccoy-Williams,Electronics
+07f55f28-341e-4895-8c44-c0fde13ce64d,080ccf78-8a17-4298-a10c-f398835f9963,3176.61,2025-04-27, pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Villanueva, Woodward and Jones",electronics
+87585e33-2674-4da1-a6f0-c1f528ca1d6f,6a247a0c-f224-4b8d-99c3-6e152a650cdf,9429.91,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,,
+c5388e2a-dec0-4aa2-a6ba-6a872c81a569,d7aaa061-4c94-4c5d-953a-7ad34bc58129,8624.43,2025-04-27,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,,Electronics
+07ba9437-f24f-4dc4-8094-7fb553850d92,75281c2c-04ec-42fc-99c4-c947a917676b,1649.13,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,"Romero, Riley and Morgan",Books
+,a597b0b5-a43e-49dd-af10-d73990a05c33,1175.65,2025-04-26,Failed,MUM-X-ERR,GHATKOPAR,mumbai,CASH,"Hill, Jones and Fernandez",Books
+af77e124-97a3-4a49-afe3-1ce46c48923d,e27269b1-998f-4a87-b81f-9c641cc1df92,3307.65,2025-04-25, pending,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Jackson Group,Books
+03fb7a22-21e7-4b58-a454-6b2567f91636,,6164.99,2025-04-27,Success,MUM-X-ERR,GHATKOPAR,mumbai,UPI,Moreno Inc,Clothing
+74cf633f-1ebb-449f-9ff9-79be3d77b36f,cdf16565-c1e5-4ebb-a2b6-da970e8ba9bd,2677.77,2025-04-23,FAILED,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Lee-Valenzuela,
+37e54364-44f2-4286-87d6-1fef43ba5ffa,61a90374-9848-422e-8d95-e7a85378e6f6,6349.85,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,upi,"King, Murillo and Becker",Clothing
+0180aceb-e665-4302-bc0b-a9d2e002f214,bc5c62d0-02cd-406e-adbb-875214cb07a9,40354.31,2025-04-24, pending,MUM-X-ERR,GHATKOPAR,mumbai,,"Arias, Thomas and Martin",Electronics
+6867035e-3706-404c-9fba-343ce07cdd5c,170bdd14-95e7-4610-84c0-d48a98bf6a3e,6408.29,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,Ellis and Sons,Groceries
+e8d333b1-8d23-49a4-aec1-783f024adee9,67b29aec-738b-4ebb-91e3-684c44299fa1,3340.4,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,Bishop Ltd,Electronics
+21c185b5-0032-4863-b2e8-71b3c2d3d967,3e064311-4b2c-4073-8114-3151eb151b3a,1947.59,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,CASH,Anderson-Hubbard,
+5a181f58-0ac2-4396-8eef-48d8b0908f13,c39bf1f8-b2ca-4bd2-b8e9-09f05ad817ba,8545.98,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,Mason-Miller,Books
+ca2e8da6-708a-42f7-90ad-d6058864d32c,47440006-f10e-40ea-8764-f8c75e01ea7d,7693.13,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Russo Ltd,Home Decor
+e61bc863-e08e-40a0-9724-76da45a04d54,1e6d6025-2599-4912-8bfa-0f358290b913,8695.75,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,"Hudson, Bolton and Wright",Toys
+b6594e2e-f066-46f7-86c5-1d5a5e938891,ffc29344-26fb-4d42-a93e-c251666ab560,2957.86,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,upi,Hall Inc,Groceries
+76ae0304-ce8a-4293-a73a-38f76193ab08,f85c24c3-9ffb-4fa9-8684-bb619ab4a698,446.06,2025-04-27,FAILED,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Campbell-Jones,clothng
+91237a9d-4f77-483d-94db-aa545f71ff4c,e94f9c81-f7c1-4030-bc0e-de33d10c7983,5377.83,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,,Clothing
+,,-98.73,2025-04-22,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,,"Williams, Scott and Jacobs",Groceries
+f61437f1-2a70-4c30-af3c-a15a630f4268,20f9bfc9-9eb0-4058-904d-0a5069258881,7058.33,2025-04-21,,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Butler-Jones,Electronics
+f61437f1-2a70-4c30-af3c-a15a630f4268,20f9bfc9-9eb0-4058-904d-0a5069258881,7058.33,2025-04-21,,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Butler-Jones,Electronics
+91b6d376-ee71-4b0c-b2d9-442174260100,306bba50-2d4a-4d08-a87e-93fb955a2740,3343.22,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Bishop-Lawrence,Electronics
+a84517ee-99cf-4419-b2af-0414e3c28fe1,ea3131cf-9686-4cbe-a781-82d4d234fb9d,3600.39,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Lewis PLC,Groceries
+f8f837f2-dd7b-462b-ba3a-c4ccbc1c1ae9,76c82262-83c7-43fb-8e54-912e665a6c4a,5573.78,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Carr-Watson,Electronics
+4d1567e8-0329-492d-af0f-5fdcc7eee466,8672f96f-413b-4738-bf3f-433d1f1540cc,6834.2,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,,Mills LLC,
+3f3ca8ee-d027-48b7-9ba6-7574e52caa86,9a663d0a-333c-42bf-93ce-8fb6187c3bb0,7603.05,2025-04-27,,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,"Lopez, Duran and Miller",Home Decor
+02851b01-6707-465f-a045-1f7efdb4efd7,11060c0d-e595-4021-8121-9aeb07823bfb,5246.12,2025-04-24,Pending,MUM-X-ERR,GHATKOPAR,mumbai,,Williams-Werner,Electronics
+661e0f0e-ee10-4503-b766-ab44b2ca0644,b970c05d-9def-4281-970f-34bb25944c4e,8423.91,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,upi,Figueroa-Stanley,
+48c43b53-dee7-40eb-88a4-36d9da581e29,121a81d8-9063-4fb7-af8f-8421bb28a937,4763.69,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,CASH,Wilson-Harris,
+524715af-7ee6-490b-932d-6b2fcfc0426b,d7f74004-a2b4-41ff-a6b0-aca026fd8253,961.05,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,Anderson-Vargas,
+53c50458-a4f9-415f-af4d-a8c98a47055f,4c103b64-623d-434f-abde-5e49d533e782,4465.69,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,"Hartman, Case and Taylor",
+9eff689a-545a-4a02-82e8-42e9e89966a5,26bdac07-a622-49e0-b59c-9c87f83914c9,5263.77,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,CASH,"White, Rogers and Hall",Electronics
+fe4aa003-7c06-4533-aeb7-898191fa7144,f141be04-9bcf-4139-ad98-6e126d375f0d,6598.32,2025-04-22,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,"Harding, Hansen and Oliver",Electronics
+9181ae73-f00c-4f5f-aa55-ee322006b538,c6db92db-d3c8-4a2b-ba0d-454bf0aea873,7967.68,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Banks LLC,Groceries
+e11cde74-21b7-4765-88b0-d2d966fd046f,a8ac7981-794e-4323-95ce-0875011ab64c,892.65,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,,Burton Inc,Groceries
+68b6daf8-6892-40c7-9d9d-aa1972d57a20,6e3cae9f-86b4-4979-afbb-028819baa1fd,9647.8,2025-04-27, pending,MUM-GHA,Ghatkopar,Mumbai,Cash,Spence-Hernandez,Groceries
+bb87b957-ea54-40e5-a6d1-b539c3b50b86,4a5652b8-c570-4f8a-b6ad-7753a4572e6a,4665.29,2025-04-21, success ,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Wright-Ayers,
+b5f861b0-1eda-428c-81f3-e01c7da1f511,f6e0a26e-39bc-4100-9167-a3df29d2680a,4074.9,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,,"Lee, Guerrero and Stewart",Electronics
+0d44b7c1-0342-43dd-98d0-9c29679ab1a7,324a803a-7ef1-45fe-bd7d-38cf7f07014d,835.75,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Crawford LLC,clothng
+,160ea58f-6b46-42f8-b9cb-20e80fe66ed6,9765.0,2025-04-27,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,"White, Williams and Neal",Groceries
+d5f8a246-be84-4a19-9f3c-4ac3d554da12,122beb5e-b8e4-4b7b-98fd-a3b59575cb44,6145.52,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,Cash,"Washington, Clark and Williams",Electronics
+cf7415e8-2f10-41cb-bb54-c7f44c5b6bf4,4f7d82c7-ff0d-4117-9a0e-862a4b3e8d2a,2142.1,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,,Mitchell-Lynch,clothng
+6e66869f-7e4e-4d70-855b-e7a1c79c6ed5,f571e282-bff2-453c-b1a5-7dee06927c51,8483.22,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Cline-Schroeder,electronics
+ec4a0dfd-10d0-4d27-bc87-aa3950b1d09f,b11ba77e-0150-4dcb-a285-db4df7fb7406,3273.91,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,Morris-Waters,Clothing
+78a1ad7f-c953-41ad-9240-38bb9bb99a3c,eb3e383a-fa3a-4fe0-88bb-d3f5a13f7bfd,4907.19,2025-04-27,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,,Electronics
+5b76b287-f998-444f-87ff-eb5bda73f900,3d280b41-b1f0-48ea-bbba-f12316fefed9,4710.61,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,,"Watkins, Miller and Bell",clothng
+097b6a0a-417b-4a39-b8ba-d003314d4b4e,8eefa874-12c8-4cc2-905e-92789ae27ece,2342.36,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,Cash,,
+58a83686-5824-4832-805f-655282463029,ba9a7c30-143c-4d5e-bdf2-e68f8b6b7f7a,4148.54,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Woodard-Hayes,Toys
+9e80e9b9-ccff-4bde-b7e3-602d45708ada,3fb65c7e-5da1-4dc9-ab48-9f7a64745dce,7324.19,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,Williams-Vasquez,
+,48f975a1-0cf2-4534-80b0-7a66790915e4,9271.89,2025-04-21,Success,MUM-X-ERR,GHATKOPAR,mumbai,UPI,"Sanchez, Poole and Smith",clothng
+4fcf635b-e48d-48b9-91a5-9b654fbd4f39,fc1616b1-46bb-48ea-8a21-ab251e02c368,5949.29,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Munoz Ltd,Electronics
+14d8eae0-2d9f-4daf-a64c-ed708bc22e17,ae5438c8-062d-4f59-8a25-09a4cde4c36f,7677.62,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Reyes, Mack and Wang",Electronics
+3d117149-0a37-409c-bb3c-0b49bd08ce57,d21dd567-ea53-409d-9f2a-cb168384907b,3513.38,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,upi,"Ross, Fry and Fuller",
+a8fa71a6-0562-4e16-be65-f35db180e74c,032fc3b2-8a5d-47fc-88bf-e70571df76c1,8490.42,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,Morris-Franklin,Home Decor
+e6bb4d53-f888-4fc3-972d-d3ce5683a36a,,5145.76,2025-04-25,,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Holt-Fletcher,Electronics
+b8ed8fe4-3427-4c22-9df0-8ae034e6ca9d,6ae2d4fa-b888-4244-97b1-14de3c9a5634,8380.12,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Brown and Sons,electronics
+4ccb8ee7-77ea-4daa-bc46-b0719adad16b,80cd9f52-054a-4d99-9999-e026437e6068,8713.27,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,,Gill Group,Clothing
+b8470eb8-816e-49e9-8ae5-f73f7cc51149,7ba3c934-8ef2-4773-9ae9-1610f70742dd,955.47,2025-04-21, success ,MUM-GHA,Ghatkopar,Mumbai,upi,"Jackson, Werner and Baldwin",Home Decor
+17b854c9-9d79-4635-b304-c4db9977dcb1,d283dfa3-b90f-4b18-96ce-f9758a753c9e,8571.59,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Miller and Sons,Groceries
+,252fb8ef-e914-4761-9b2d-3a13ae4598bb,9659.74,2025-04-25, success ,MUM-X-ERR,GHATKOPAR,mumbai,,Garcia-Rogers,
+8f95a628-56a8-47e6-8db5-1d324692c57e,cce33ef8-29ba-4b63-97c8-f6f60c0b2fd7,6641.03,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,CASH,Lopez Inc,Home Decor
+673d383a-a7fc-43ca-9810-5b901c8739d3,746f3431-fe83-4021-8b96-b9520847feab,7626.3,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,,Smith and Sons,Clothing
+ad994f15-786b-4196-a7ad-053899c23641,f3b48009-7a37-493d-b9de-557601cb6f78,1101.61,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,,Dawson-Phillips,Toys
+ca3ac67e-f565-4f5f-b2be-cd65b9f5f903,adcc2270-8825-4647-9d11-2af90e843a82,9554.11,2025-04-22, success ,MUM-GHA,Ghatkopar,Mumbai,UPI,"Woodard, Miller and Christensen",electronics
+12cc39c8-bef3-4948-a3f1-5a674a0df4cc,56c5fbb1-9281-4bd7-9e1a-27b0d2a7e34e,7514.18,2025-04-23,Pending,MUM-GHA,Ghatkopar,Mumbai,,"Nelson, Walter and Tucker",clothng
+21dc7b1d-687e-487e-bf6f-f6826332472c,3f89d9ad-2e07-40aa-a84e-53dddf6e7c19,9273.6,2025-04-24,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,"Blake, Bennett and Smith",Groceries
+234b4f71-037b-486e-b9e9-c0da3b6a31ce,bd67ab90-12dc-4274-a265-e55dbfc11afd,8383.11,2025-04-27, pending,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,,electronics
+5fbc8473-2136-41f4-8435-aa874d1be4b9,e83f4e25-8e36-4254-901d-c98b7c7519b7,7608.53,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,,Robinson Group,Toys
+54a51767-0c65-4ac0-a6ba-99458455f4ef,,4214.61,2025-04-21,,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Young-Foster,Toys
+02241f4c-d448-4f65-af18-d5e83d1bd63a,bb1e7e3a-2117-4e9f-8b44-af4d5ef788de,4132.33,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,UPI,"Miller, Schultz and Adams",
+9677fc87-8b86-47d5-9fb4-42ab020d396a,376314b0-dc0d-41f3-82cd-8d8f1ee51544,1237.98,2025-04-21,,MUM-GHA,Ghatkopar,Mumbai,Cash,"Wilson, Martin and Trujillo",electronics
+24a64a6b-0760-416d-a39b-b3303cbce9f0,9bba3501-05f7-491a-a2a0-1cb05d65ec01,7030.15,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,,Moore-Gonzalez,
+5efba775-c1c9-4014-b5c7-04d6f1589241,98f2dd3e-b234-43ac-b7ad-7bd591843738,8467.98,2025-04-25, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,Mathews PLC,Books
+f81be7e1-2fc9-4c19-930a-8e78a6366100,9f8f57a4-0cae-465a-8aaa-3b416475d814,8371.11,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,,Williams-Roy,Groceries
+,d091fc34-eacf-4e57-994c-100c76a5dfbc,2351.71,2025-04-26,,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Stanley-Scott,Books
+972d5b66-a152-45d6-bb42-6ef045fa8cb6,51ab79e0-0b39-48c3-a316-8221f3aa6da6,6410.84,2025-04-24, success ,MUM-GHA,Ghatkopar,Mumbai,upi,"Hawkins, Jacobs and Steele",Toys
+83880cf3-39a2-4ed1-9452-185cecfc912a,042b949e-8eb4-40cb-9fd5-c6dd172f2203,6648.9,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,upi,Higgins PLC,
+59b33931-a116-4f53-990d-674b63a87c95,e2e58a89-488c-4a64-b61b-c766878644b9,3168.21,2025-04-24, success ,MUM-X-ERR,GHATKOPAR,mumbai,,Sanders-Sullivan,electronics
+cb50d1f5-98dc-4918-aaf9-ca18ddf0d124,1f93bb9d-263f-4b57-9ef9-81f8af927913,855.52,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,upi,"Simpson, Edwards and Russell",Books
+cfc62c97-f831-442e-bc17-82b60317201f,6b850f21-cf94-4688-9a40-a57d688c2b33,6411.41,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,Weaver-Johnson,Electronics
+dd1af7be-72eb-4f83-8bdc-759502af2537,6bedefb2-c1fd-4d6d-a77d-cdcba3edc79c,1087.27,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Anderson LLC,
+5db05f47-1019-4aac-be8a-c951ccbe2f51,122d774d-06f4-41bb-9d7b-83be810409fe,6433.81,2025-04-25,,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Becker Inc,Books
+b9d05e4e-adec-4d32-bafb-758070f3bbcd,6c543e3f-1715-40b8-b37d-1ad9a282cd49,3036.0,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,,clothng
+6c59e618-50e7-4079-9809-22f6cf18383a,70a64fb3-86cc-4733-98cb-e1e60dd0e2b3,9740.34,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,,,
+2de2da2b-2102-45ad-9f98-6ebb0fd4a3c9,358d6616-1336-41b5-8d5e-6dde4172f01c,9183.22,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,"Nguyen, Ramos and Baker",
+43a38e86-f7f8-44cd-a018-a71bb5abf66e,36bb36d1-5d88-4ece-bece-704dbb5f4cf5,3835.45,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,UPI,"Cain, Benson and Archer",Groceries
+51bed16c-0dee-4761-9561-dee077b09633,929a7800-1f84-4586-b5d1-f63bb901aec9,2740.13,2025-04-21, success ,MUM-GHA,Ghatkopar,Mumbai,UPI,"Randolph, Walsh and Schmidt",Home Decor
+efcd7fae-be5c-42b8-b6e4-7acc6f4a4880,6794e589-b7ef-4f05-98fd-20484ce35c00,1892.74,2025-04-23,Pending,MUM-GHA,Ghatkopar,Mumbai,upi,Rivera-Mcclure,
+e1903719-31de-44b2-bc2c-55298dc12eba,7eb183a6-9b76-41e8-b6a6-d38f52803ae5,755.52,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,CASH,"Lambert, Stevens and Payne",Clothing
+77fd35a0-afc9-4350-9fcf-324f01c5380e,f877389b-2f8c-4b31-85a1-94110c96ccda,3200.98,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Benson, Abbott and Solis",
+3e8e6b61-43ee-44c2-8ac4-808516b52fab,a4739bb0-ce43-4e71-8187-d9d3db04954b,1447.17,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,"Lopez, Johnson and Ward",
+308d2579-378e-48ad-bdec-dd277d268350,b0b128a2-24c6-4b6d-913f-cc1ad9add770,8460.66,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,,Hartman and Sons,electronics
+dc510056-ff90-47e8-90c6-138135d8675b,0a381313-4252-429f-8a02-2f0767a5b989,3898.29,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,UPI,"Dorsey, Morris and Hines",clothng
+cdcc049e-ef4d-4c57-a510-8131d0c31c50,60459a6a-75ce-47db-b6d2-94aae55126a3,103.08,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,,Martin-Kennedy,clothng
+b588247f-eedc-4fbf-9f38-14683c9c1cd2,88f05a37-b88e-4f3a-b94d-35ac28d1f460,8780.31,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,CASH,"Taylor, Taylor and Parks",Electronics
+405945b1-180b-4063-9342-61a2058d8c09,10b4caaf-0008-4748-bdd7-e12fb051411b,9782.95,2025-04-26,Success,MUM-GHA,Ghatkopar,Mumbai,CASH,"Lopez, Juarez and Thompson",Toys
+3661039c-2367-42cc-8b18-020347660299,a8eb7709-7ea0-4d8d-8c03-1bdff626a833,9308.77,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,,Home Decor
+263bda8d-8678-4d01-974b-18d99aca56fc,ccb8d6d6-0253-47b2-9bac-f5bee3b384ca,8190.69,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,UPI,Wilkins-Atkins,Home Decor
+b0a6b1c9-44cb-4c8d-97bd-e1f55408906f,6395c49f-e58e-4370-a078-6fea5793a319,3153.07,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Morris-Carroll,
+33a53356-11c6-42ab-9f51-65169bfe7b18,1fd33eeb-389c-430c-b59b-20808d15d0d3,8666.66,2025-04-21, success ,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Moran Group,Home Decor
+3ef058b3-fc14-4344-88ca-e643c9e1d93f,2f2e9dbd-279c-468e-ac66-364736a44599,9286.33,2025-04-26,Pending,MUM-X-ERR,GHATKOPAR,mumbai,,"Hardy, Hernandez and Anderson",clothng
+37e56349-7784-46d0-b7aa-1c1a730be62f,,21852.89,2025-04-23, success ,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Perry Ltd,Electronics
+37e56349-7784-46d0-b7aa-1c1a730be62f,,21852.89,2025-04-23, success ,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Perry Ltd,Electronics
+08a5251c-f5c8-4d66-b328-f05481986c1d,edb767a6-66dc-45de-a5ff-3b15f4770dfe,2148.85,2025-04-24, success ,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,"Mendoza, Schaefer and Ramos",Books
+,0d677625-5c8b-4c02-8efa-9f513513ee53,33268.12,2025-04-23,Pending,MUM-X-ERR,GHATKOPAR,mumbai,,Salinas-Rogers,Toys
+80e05a64-9fb8-4bc9-ab62-1afd502d58d9,a1531da4-22a1-4052-8de2-6097cbd069d9,2217.02,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,upi,Luna Inc,
+b543622e-ca84-42aa-b911-1299a3eb9098,21dcde12-0dbb-4a59-ba59-43e84c29b12a,2117.9,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Smith-Wong,Clothing
+c23450bb-c810-46dd-b926-71336f302ca6,6d933815-2ac0-4e2b-819f-78105de82b8c,9432.62,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,upi,Taylor-Carroll,clothng
+6e00d063-ed0a-44fa-9783-f6b5009e9ed2,d7bfc03e-0387-46d6-a8ef-4623d4958480,2284.16,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,,Mann and Sons,Toys
+fb6baf69-a990-4847-8223-a973ce0aaa92,cb3a6d96-d8d1-4ef1-a261-02575b5938ed,1999.68,2025-04-25,,MUM-X-ERR,GHATKOPAR,mumbai,,Bautista-Daniel,Books
+446b87ee-72a4-4cc5-92dc-78244860a21b,a54bddbb-7c56-4a1b-9852-bf0250a7db25,1556.02,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Mills and Sons,clothng
+c5239cca-b2f0-49b9-964a-852cfb1ee55a,bfa1bbd9-7c01-4b86-adec-93dc921b8d2a,5849.11,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,,Groceries
+471da96d-b543-48c5-8aab-c40bd6b14c5a,ca22cc24-9920-4fd5-bf4c-2889d794c0de,2899.61,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,upi,George-Mccarthy,Toys
+bd76b92b-96da-40bb-88cd-3d266d603651,d059a088-50a3-4369-a384-bb3b9ec6cb21,2174.6,2025-04-24, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,Delacruz PLC,electronics
+3521279f-a96e-4559-8ce9-5a81b3c36558,c66b7b69-6abc-47ec-92d3-ea0a249690db,6123.88,2025-04-26, pending,MUM-GHA,Ghatkopar,Mumbai,,Robinson-Anderson,clothng
+41dbc918-9729-4a48-b9b1-2bdf38f14931,2179a342-19f7-44dd-a189-9c4fe4a7fcfe,585.84,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,Higgins PLC,clothng
+889e6e1e-e169-43d3-af3f-590eb4320daa,a918aef5-131a-40d5-a6a2-770bce3a9839,46950.92,2025-04-22,Pending,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Gilbert-Hart,
+042b2a24-4060-49e9-ba5c-cb6856e52992,2eb534fa-12bf-4a23-b326-4e5e010ba241,6480.72,2025-04-26,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Figueroa-Huerta,Electronics
+e8dccba9-2331-4710-a9d1-3e66e02c6992,f8e01258-9771-4e2a-910e-095e316f8ff5,3582.54,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,"Sexton, Crosby and Evans",
+a310ca23-eddc-40d8-a3b6-83d4d3a35339,b712eb58-65cf-4f1d-974c-4c06295fa092,3033.3,2025-04-26,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Gordon, Vasquez and Boone",Clothing
+242f1baf-86bf-4beb-804d-ca01c63be21f,347cd0f4-20f6-4e5c-b716-c1dae8b3cb11,8911.03,2025-04-26,FAILED,MUM-GHA,Ghatkopar,Mumbai,,"Day, Banks and Brown",electronics
+d90abc7f-f8f7-4cbe-8bf1-9e1ea8427c3f,,6012.07,2025-04-24,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Hughes Inc,
+fcc97fa6-13b8-405e-b291-39a9626953e6,,22257.94,2025-04-23, pending,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,"Cummings, Johnston and Wood",Home Decor
+fac34112-bf62-47e2-b7b0-9c854e5290ae,f8f390f4-8956-435c-9976-1ae393303626,6818.83,2025-04-24,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Johnson-Shelton,Toys
+719e5eb1-afcb-4996-adaa-664783eb9c88,c6694eaf-913f-4871-84f3-6f679f9fcd78,251.71,2025-04-25, success ,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Stephenson PLC,Books
+db378723-00f2-4636-b897-baf03dcf2273,71dcb5e1-eb17-47ed-9bab-22799ef301a6,1390.72,2025-04-22, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,Foster Inc,Home Decor
+0f31d27c-8b02-42cd-96e3-9e870cfa5dd9,6acc5d15-2405-4f26-a14b-698592ed1507,704.71,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Morales-Smith,
+e69f4f21-5b38-4a6a-9299-4a476b2f92d6,af33c727-731a-442f-bb82-2a1351936ec1,9702.47,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,Net Banking,,Electronics
+549e87aa-471c-4a45-b37a-31106806afc4,85d230fb-ed42-4c0f-aa5e-d7c17fcfa67b,3983.13,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,,Murphy-Blake,Electronics
+19917aee-5a20-4fbe-be58-24b5e3729afb,41385321-2c11-4260-b74f-e2b9fdbf27b0,4945.95,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,Hill-Smith,Home Decor
+566b8b3a-7247-4ae2-8616-1c8e62ec14eb,6a3884a3-cf2d-44a6-8972-0c70856188e7,9378.97,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,upi,Carter Inc,Books
+61f3067a-6a2b-4c64-9240-22615b7f706f,,47214.58,2025-04-25,Pending,MUM-X-ERR,GHATKOPAR,mumbai,,Nguyen-Moore,
+4d7309bd-dc90-4b7a-81b6-4adde44b4ef1,83259434-c514-4fd5-9197-0cc74290274e,3452.29,2025-04-26, pending,MUM-X-ERR,GHATKOPAR,mumbai,UPI,Smith-Solis,Groceries
+877f226b-339b-4663-b3a3-b10ed54bcec5,ff843d1a-88cf-42ad-a982-9e9a6812bc74,2431.78,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,Cash,Hunt and Sons,Home Decor
+784ec5e9-d211-4d6b-917a-a0e7d624b181,10430a9f-baed-477c-8ab9-bb9ade04f248,6272.71,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Mullen Group,Books
+9f493777-e1c3-4e98-8bab-40d631a90ecf,448d4e76-efc5-48dc-8f54-f88a4c5d5377,3161.35,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Hunt Group,Books
+,cc1cbebc-0b93-4ded-ac61-38810f8e2c42,34273.69,2025-04-25,Success,MUM-X-ERR,GHATKOPAR,mumbai,UPI,"Williams, Carr and Nichols",Clothing
+,c6e03c9e-9bd4-42fd-bbad-b44807c81588,9958.2,2025-04-24, success ,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,,
+44e4b56c-366c-4ff8-91b4-accdbf283a6e,957946e4-031a-4885-9411-21bbab004e65,29598.73,2025-04-26,Success,MUM-X-ERR,GHATKOPAR,mumbai,,"Jones, Lawson and Carlson",Groceries
+d23eb130-eb56-4de3-9839-ea8dde35adac,,349.45,2025-04-27,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Taylor-Nelson,Home Decor
+44cb3cf6-8e24-4f29-a721-9bbbfd72c77d,63a54599-5cd1-4293-b5b1-d7d41c093b82,20188.39,2025-04-24,Failed,MUM-X-ERR,GHATKOPAR,mumbai,UPI,"Smith, Stewart and Williams",clothng
+c52391f2-c0e6-48f6-9a9b-a58634638bf0,7dfd151b-b0f9-445c-8075-71f260ad1181,6055.45,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,,"Beltran, Smith and Morris",Home Decor
+3907963b-f40e-44dd-a39f-e087a3e5721c,04d299f8-ad44-44f8-804f-9c8692b290a6,6681.57,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,Cash,"Clayton, Juarez and Williams",electronics
+00476b2e-6ea4-4c5f-bb8b-161ea869959e,403fe009-9df3-4389-b79c-31502b287004,4803.64,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,,Curtis Inc,clothng
+170bc3e2-f82d-4c3a-bbb7-7859cd2a915b,99b80c76-87cb-4208-a94e-13035a90f2bc,1140.29,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,,
+9c4b4fe6-47c6-4c3f-8545-06ed55060c69,77f90adb-047e-456d-9efa-244fd76e9ec1,47711.27,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Hernandez-Perez,Toys
+aa3ca596-70a5-4d6c-be7d-74429042efc7,8857d802-4923-40c9-b89e-44cc75b7d56f,6770.21,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,,Cox-Diaz,Books
+4f0b104d-a803-4bf2-9d1a-0d83f2d8b392,6ce470af-e63c-412e-8373-c5c71112d66c,4427.31,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Mills, Moore and Smith",Clothing
+210f15e8-b952-4617-812e-6c4d85a0a0b4,c965afa7-51eb-4526-9b3b-50fbd6cf3239,765.28,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Horton-Shaffer,
+6b97c617-920f-4a6a-9b24-346346c5ab95,c43644fe-a58e-4128-bea4-2c0028bf9858,4894.04,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,Maddox Group,Electronics
+5c4febf6-a490-4e72-bca0-cdb407f800a2,b7680e3d-6072-4952-8c73-6bf4b8fa7348,6892.41,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,CASH,Stevens Group,Home Decor
+35b49941-842f-4231-ad97-6c7e4ae39c1e,71861b89-fb70-4096-996c-270c19419569,3902.96,2025-04-23,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,,"Smith, Powell and Bridges",
+a469f111-f773-44cd-a83e-78b136b0e09f,5f1c9ef6-1621-43fe-ae6f-0fa2ea2d97c8,1929.09,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,,"Mclean, Yates and Davis",Clothing
+4b7ea28d-264a-46f3-802a-c7178a77444a,61a8fcee-e2e8-4848-a58c-e9b4c76892ba,4970.14,2025-04-25,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Hart-Perry,Books
+05fdc6c5-d602-4e82-97fe-05428c7b7e6f,271b7250-ed87-458e-ab9f-e3a3eefe1006,4336.88,2025-04-23,FAILED,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Stevens and Sons,Clothing
+1e79df28-7948-46b3-a75d-097838561675,f2228efb-80a9-491e-9fea-9f54734783b0,12134.51,2025-04-21,,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Henson and Sons,
+,92bdd0ed-d3d8-45bd-ade7-3cc078b5f340,34447.87,2025-04-21,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Erickson Group,Toys
+df77c1cc-45d1-4fbd-92ec-8e7a50fcdd45,a0b01eca-8aca-473c-b6e7-552fcca8f708,5370.03,2025-04-26,FAILED,MUM-GHA,Ghatkopar,Mumbai,UPI,Lambert PLC,Clothing
+fc03a706-774c-49de-8f56-e78b47d34d63,b4094d74-52ad-4e91-94b7-7fa772563910,1547.41,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Burton Group,
+505a14fc-505f-4203-bf14-0af56bb4420a,13d01698-865b-4878-97e5-ae8933d8ae7b,3597.32,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,Net Banking,"Weber, Williams and Chavez",Home Decor
+10f99efe-83a1-48c4-b678-05f435cb2430,520619e0-1096-4c84-954b-a5905a4d52c7,4536.86,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,"Brown, Carpenter and Wood",
+b6533b97-c319-4a33-9bc8-42e3fcd123a0,67ad3af1-2aea-4f2e-a3fe-cab8a08f5c63,8333.43,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,upi,Wagner PLC,Clothing
+3492abcf-6938-4dd8-b17b-b519830080fc,27d26d0c-dc7a-45e6-85d9-c4d3866e8085,5715.03,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,Cash,"Mendoza, Miller and Young",electronics
+2e2f2252-1bd8-401d-ae66-f964662e9227,,2175.63,2025-04-22, pending,MUM-X-ERR,GHATKOPAR,mumbai,upi,"Hartman, Morrison and Chen",Electronics
+8c141f23-1695-4ee6-bcfc-7e7f556ff5ff,198a6a0c-8bfc-446c-8ea9-e905e0e4fb32,2845.16,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,"Holland, Fernandez and Schneider",Groceries
+c32dd294-c8bd-4448-a7d9-8c3ed8eaea6e,2241b4c0-c45b-4a95-82c0-16fa1929a0e7,7064.94,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,,"Carey, Smith and Morales",Groceries
+f739b0d4-d98d-414f-82ab-3876b71bd82d,1e50e261-df81-4e4a-8961-c2219892d611,4599.66,2025-04-21, success ,MUM-X-ERR,GHATKOPAR,mumbai,,Willis-Robinson,Electronics
+8e09cb50-96e8-4445-a590-6585c7828c90,9b506366-8da3-459e-a33b-35fd24dbc6d1,2212.58,2025-04-23, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Hill Ltd,Groceries
+d97b47b6-ee00-4e59-a9aa-388382e9db99,9b8347fe-4dc5-4fb3-a94e-6d316fc8e07d,9948.2,2025-04-26, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Sanchez LLC,Groceries
+53f17e12-7da7-4582-abb4-82c70b533a90,69ec8c8e-9d3b-4012-82d3-066f75d265de,8133.78,2025-04-27,Success,MUM-GHA,Ghatkopar,Mumbai,UPI,"Grimes, Barajas and Lee",electronics
+0365a4ac-7233-460c-b0c5-b8f25ab445ac,3c72bab1-7137-45ec-bca1-70c6cce4c94c,8179.11,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,CASH,,Home Decor
+ce2e2e2a-d701-497c-abba-1b17c414c913,,20023.7,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,,Morris LLC,clothng
+d81ab7dc-ae6c-4993-8aee-eac9a1d2fc0f,ad1624e1-70a2-4ad8-917b-9145c48383a4,9450.53,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,,Martinez-Davis,Books
+acedb08c-9a7f-4ebd-9e2c-8d557a7b1e66,843e7994-38ff-4d39-bd38-fafae08e7b53,9531.85,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,,"Short, Baker and Collins",clothng
+3590874c-8992-4691-8254-6e92fb5ae35a,4fb581b3-138b-4af1-b8cb-b96e1acbb1ba,6658.4,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,,
+f373057b-7bbf-4c61-a344-7f1d4efe5cf1,b3997b7e-eb74-4d0d-a6c2-325b0d28f5e4,8566.93,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,UPI,Mayer Ltd,
+0c99a75b-d9d0-4c72-929c-bc09cb1451d0,fd901bcb-8927-4f04-a68d-7b7232cdc1d0,3844.3,2025-04-26,Pending,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Nguyen Group,clothng
+88a819dc-c6c5-4ec4-af34-6f0dd1b2dd0f,0997ed80-be60-4590-931c-1dff9a0baa34,7386.75,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,,Williamson-Medina,electronics
+3b6c4438-2462-46fa-a1ea-3804dfab7b0e,cde66117-4d74-4fac-b938-c93ca38905fd,1661.65,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,,Simmons-Carter,electronics
+9312c20c-7918-48e3-b9f0-8c1c6979bafa,ea3c179f-0655-47aa-8b1f-2d17cf699c98,7877.18,2025-04-23,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Swanson-Simmons,Toys
+10ff2cbb-058a-491f-907c-bff24c546b59,227c85aa-f008-4202-b7ca-34f66e97f8ce,4523.45,2025-04-24, success ,MUM-GHA,Ghatkopar,Mumbai,upi,,
+7fa4d8ff-c225-4b2c-b7f8-1f317ad1ef02,de5cd5a3-3553-49c6-a972-9e19818b4ed4,6730.46,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,CASH,Aguilar-Jimenez,Electronics
+2900b3a7-eac0-4858-b4d7-d74873f833d3,ab5b2ca1-b40b-458f-a8f6-8c8199f6a893,4351.38,2025-04-22, pending,MUM-X-ERR,GHATKOPAR,mumbai,,"Gonzales, Garcia and Long",Clothing
+35583711-be37-40e3-8626-625c8f3f57ac,909f9248-22ff-4be3-89a9-b688b5ee7e5b,7433.34,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Hansen-Dorsey,Books
+29e6c348-a47d-4a49-8de6-9711a9718b56,3a0505ee-3a0d-42a1-9257-5c4bfef540ca,6698.84,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,,Davis-Bond,Toys
+8ccc2888-11a8-4fa7-9f72-fc44bc83ecb0,41191db3-bd26-451f-a077-da2558d25613,4200.12,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Cash,Aguilar Group,Electronics
+e90ecbd3-7770-490e-b25d-2c850622a294,cb720f38-4aa8-4839-8cc5-a9ec3511df3d,6178.99,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Fletcher-Price,Books
+be35ef18-586a-4f10-9f51-21a6ba26dbc3,8b76011a-5b53-46a8-9282-6084a1d72be8,43.52,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,Cash,,
+a08a6208-ebec-4b0a-9513-a64ba67a2cc7,ee906cfe-bda0-4104-848a-441e7cafb69b,6704.19,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,upi,Brown-Smith,electronics
+e5c67b63-295c-4fe4-b2c4-16f1035c5a0b,aa1667b0-837c-4e63-93b1-329b2a63c44e,4142.84,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Cunningham-Jones,Books
+e428539a-4963-4fd4-b15a-cfd2d5897d69,c9a90afc-3a59-4560-9950-528dff99581d,1187.04,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Contreras-Hughes,electronics
+,973e9598-b48a-4d14-8efe-ae46e3ad0b6e,8469.25,2025-04-24,,MUM-X-ERR,GHATKOPAR,mumbai,,"Harris, Tucker and Cole",Toys
+20e2da14-ff08-462c-bc66-d391069cd309,dc0382e2-b80e-4079-8f74-12ff976bf9d7,6086.91,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Sullivan, Beck and Shea",Home Decor
+ef2a3540-c549-4a63-b387-3e37f899945f,6cbc9250-26cc-4f5a-8fd9-2fcf075708ff,29587.86,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,"Johnson, Barber and Richards",
+1dd7dcee-2fea-44d8-91b5-20ecb50334d2,6a65d16c-3048-46aa-a404-5f1e8ecdf68c,5219.06,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Stevens-Greene,Toys
+69f2ebec-6a5d-49d9-bd6d-361c60a75fb5,,14244.99,2025-04-26,Failed,MUM-X-ERR,GHATKOPAR,mumbai,upi,Smith LLC,Books
+3d921577-ea4f-4cb7-a4e7-6da1bf218991,f33bb643-cfb1-4ce1-ac84-740d47237612,9946.19,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,Cash,Leon and Sons,Books
+fa95ce1c-b2ee-47db-ae17-b72b223632f2,,521.5,2025-04-23,Success,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Austin-Stephens,electronics
+35711561-fd12-452b-a64f-17e31286dfff,6c626aa7-f8d1-4ae8-b00e-4b6db9a693ef,5954.2,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Vance Group,
+04221ae9-bd88-4958-9e00-9ef45bab5aec,73cc8561-dd3f-4d3b-b96f-326618027280,3541.45,2025-04-21,Success,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Hernandez-Torres,Groceries
+463ba894-1ecb-435e-a752-aefbd072d994,2a094fde-9de5-42c3-86e3-08f54b343a6f,4568.54,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Frank LLC,
+d9f9b008-4dd5-4c39-b53a-531b100af3a9,6f2d0a1b-5c49-4fba-a870-6ff9653c669a,-88.7,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,CASH,Oneill Group,Electronics
+8cb1a229-1c2b-4267-8d73-b07ed04536d0,c0696036-7d57-4db0-bf0f-ac32623c22d1,6474.31,2025-04-22,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Robinson-Bradley,Electronics
+bc2d2926-5b50-472b-801c-b5b4c84478ba,,2652.26,2025-04-25,Failed,MUM-X-ERR,GHATKOPAR,mumbai,CASH,"Schultz, Kelly and Chang",Clothing
+af706ace-7c68-4f75-aec5-ee8aa3ad0476,e17c0533-d9ce-4b26-a029-3a67704cc8c3,5947.78,2025-04-24,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Evans Inc,
+dbba8812-ed63-4454-b761-86d806bd49c7,d079759d-eb53-47a7-8af5-c7b4f7ffc08a,801.6,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,Cash,Smith-White,Groceries
+10448af3-57e0-4ffa-95a3-453fcd3473ed,35523fa3-fa90-4745-b8d5-6915ba860309,39.96,2025-04-24, success ,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Schaefer-Scott,Electronics
+2403b9a9-7b2a-4997-a63a-80fd8ca0a958,89339ade-e91d-4821-888f-db712e39b34c,1465.95,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,,"Smith, Harrison and Allen",Clothing
+ecd6b988-40b0-4a6b-90ec-3c873bc1c038,bb30e92a-60c2-4d65-86a7-7fbe5c776b87,6649.69,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,Parks-Carter,Clothing
+5b8b8ccd-2618-4d5d-b2ae-5cb9d4576672,b259c528-42be-4d2d-9d4d-08e717c169a5,4207.0,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,"Holmes, Lawrence and Stewart",clothng
+b02e1da7-dff6-4376-a24e-ae6510435959,954a29b9-0393-4535-8a1d-8a010211597b,2779.04,2025-04-24,Failed,MUM-X-ERR,GHATKOPAR,mumbai,upi,Sanchez-Simpson,Clothing
+838a8b8c-1842-492b-acc7-f1576f796fc6,87410f48-b2c8-4d8b-8d40-a2ea31bee6d3,4796.7,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,upi,"Williams, Garcia and Horton",clothng
+,15f54aa0-3e42-4e14-b70c-276c7afd04ce,21434.08,2025-04-24,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Aguilar LLC,Groceries
+,400b2ed1-109e-49c3-b035-a81d1793d050,30175.09,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,upi,Olson-Gutierrez,Groceries
+,ccd91ab2-f1fe-4e7c-9a98-3011a19d5b96,1847.77,2025-04-21,Success,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Lindsey-Jones,Toys
+9d79c79e-0b9b-49e4-98e9-d1fd74c377c5,8645fe26-a180-48d5-a7c7-955eabe01571,2311.3,2025-04-24, success ,MUM-X-ERR,GHATKOPAR,mumbai,,Turner-Rivera,Clothing
+68136889-0d89-4b1f-96c5-658474429e4a,d67d81a6-a6d5-4b1c-8c44-37c9a46ebe69,2884.53,2025-04-21, success ,MUM-GHA,Ghatkopar,Mumbai,Net Banking,,Groceries
+d26c8105-6d85-43a2-9d1d-125f248dbf75,3e906a8c-32ab-4e22-a813-611b94040039,7359.58,2025-04-21,,MUM-X-ERR,GHATKOPAR,mumbai,,,Electronics
+2de06f51-4366-4f06-b12b-37c65f4e3f9c,0321fd27-3238-4612-be38-42e3b4ec2cea,7347.68,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Brown and Sons,Books
+809057fa-f57c-4fc8-af5d-6fd60de201b2,fa1002b7-55d2-4466-9fd0-bb066e86546f,2058.81,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,upi,"Smith, Nguyen and Guerra",
+1877b282-bdab-46d8-89ce-76952b0f225c,2745639d-c9cb-4eca-8a0d-ff8a1888d0b8,3715.86,2025-04-21,Pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Ortiz-Johnson,Toys
+51dbb17f-418f-49ac-934c-9e8650a64568,24445246-90fe-4c12-96bd-2185bd10a6f2,3930.27,2025-04-21,,MUM-GHA,Ghatkopar,Mumbai,,Bird Group,Books
+34afbec4-3ff6-46da-a490-ee096ca67438,24019b6a-84f1-4a20-bd7c-ff65d94b413c,2060.04,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,upi,Farrell LLC,Books
+51cbcee7-fdc0-4004-8810-da5609904f9b,964c97a2-fa31-4198-9e7a-c7523b6b6054,5279.39,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,Ortega Inc,Toys
+a7af10e5-23cc-4ecc-a0b6-3cc65f581cc5,a9cb126d-f5fc-402b-9879-9ef1070c4a9e,4154.96,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Wilson and Sons,Clothing
+3585ffbf-4e86-4d9c-88c0-5a8b418aeb2e,3143f35f-19dd-4522-936c-9d62393fa137,2779.67,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,"Thompson, White and Gray",
+36f51698-cbee-40fb-9de2-ea80f90d3083,99032fa5-bba1-4927-be46-16c22887e9be,159.02,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,Cash,Collier-Jenkins,Toys
+3771ad89-2051-4ac6-9550-4d754886e36f,66548fd6-8027-4505-af88-198b4de53f26,1733.15,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Lynch-Patterson,electronics
+956a1351-4382-4ccb-ac5a-f0c801462442,317ddb7c-6ded-43fe-ae17-a77883125afa,1465.21,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Mcgee Ltd,clothng
+5b4abe4b-f364-4799-9555-fba1cf6be07d,742d5ae3-c017-467b-aff0-a0203f5d49d9,4386.55,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,"Stein, Nicholson and Hill",electronics
+a005ac0d-a310-4ff5-8cd6-661592a63189,78ce49d0-9f30-47fb-ad66-9be95c4b3f9c,4614.2,2025-04-23, success ,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Sullivan-Schroeder,Groceries
+ff4daa0c-2d74-4f85-b038-389555a8e46d,677f2b3b-f5b6-40f9-bb59-a25b6236c6f1,1449.61,2025-04-25, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,Hart-Jones,electronics
+63dcb932-e5b0-4143-8397-82737ce8abfb,c99bd782-5ea6-40a0-a85f-6c82f5df7921,7298.22,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,,"Dixon, Harvey and Butler",Clothing
+7904ffb1-443f-4733-9af0-1dd64cd66378,381be2a1-5e95-47b6-be1c-4a28c862b70c,9960.83,2025-04-24, pending,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Sweeney-Wolfe,Toys
+71083466-e0ce-44a8-89dd-fe2128c4de0d,4552d0d2-f2ef-480a-be0f-d9ecc7074546,6145.52,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Cortez-Estrada,electronics
+949f9826-8faa-486e-b558-483c568b5a8d,ed09f7d7-b320-4d08-b07c-80dab2e0c353,2871.8,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Gill PLC,Home Decor
+bf78d7c8-56ce-4395-a362-cf128d2b73b3,33da2f19-4a25-47ae-a772-d5773ff59f4e,4990.63,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,Cash,Bradshaw-Hernandez,
+14f098c0-798d-4fb9-96b8-a1c51a6f19ab,dd0885b1-7529-42f6-a415-8988281a7dd1,509.33,2025-04-26,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Mcgee PLC,clothng
+,457df923-52f0-44c3-b97f-bfd4ee647303,3823.34,2025-04-23,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,"Mitchell, Dunn and Porter",Books
+93e77ff9-ab33-45f8-bf10-dc056dddd10d,19ecb4a0-c8e8-4531-a9b7-aabc06b0bb2f,3082.17,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Ryan, Phillips and Ruiz",Home Decor
+9bc150d9-9dac-49ca-bc82-5d85a38ff713,8bdf7e7e-c248-4251-a3b0-f45dc08665ec,8049.88,2025-04-21, success ,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Davis-Dalton,Electronics
+15534ea0-8006-4969-b243-5fb4ac7edd94,c817b181-e59d-4d4d-a4c6-56e119fc4dff,5528.32,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,"Gonzalez, Murray and Johnson",Electronics
+354ddb65-ce70-4e5a-bf42-20cb05eb4925,0f161581-6129-41b0-a17c-0678795700a0,6556.88,2025-04-26,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,"Martin, Greer and Smith",Clothing
+9d11421a-894b-40af-861c-52c2186d5e1c,f57c2a25-7b62-4e6a-9084-44736c71dad1,3221.33,2025-04-27,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,"Smith, Kemp and Hughes",Home Decor
+1e29c15e-353f-48c3-92e7-3ba5466cdadd,faa2bdc6-1f5b-4f8d-baad-a63321be9f38,2063.33,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Bowers-Vargas,clothng
+71285350-c5f4-4ccb-8872-81884c3fe94f,,7017.37,2025-04-25,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Morris LLC,
+9401cf76-bfa8-46b5-a4e7-00efd69cb471,2a193ff9-a201-43ac-94d3-32e6fdd29e6c,2280.98,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,upi,"Phillips, Christensen and Harris",clothng
+,,5170.39,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,upi,"Rodriguez, Taylor and Galvan",Toys
+a16f9a2a-96b0-4859-8e78-78c3dc4e9d81,37196a50-02e7-4683-8cf2-7f33e6371a1b,4437.43,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,upi,"Baker, Mathis and Miller",
+a45c26e9-2e78-4af9-9c1e-4c10aaf2f24e,621dd512-e93a-4086-b3d8-149e69e27089,1352.55,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,,"Stevens, Oliver and Hayes",Home Decor
+ae92d5ea-6964-45b4-868c-1237ac1796a6,37ec649a-3964-4f48-8cfa-eea8e395f2fc,9544.33,2025-04-24, success ,MUM-X-ERR,GHATKOPAR,mumbai,,Greene Inc,
+1b80effc-63be-40cf-b4b7-ff1f1ad95dfa,c5fabf97-c907-460e-9993-54c62b788de2,9304.87,2025-04-27, pending,MUM-GHA,Ghatkopar,Mumbai,upi,Wilson Ltd,Groceries
+45a8e9ac-9a04-4d5b-9153-e6a03f34bdb6,c2ec5471-08ac-4766-95c9-30eabb3bd320,9819.83,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,UPI,Perez LLC,Groceries
+79eabc73-3727-4969-859b-082cf8d91bd6,d54e9c62-6b54-4209-aa77-5836eaea93f6,3799.51,2025-04-26,FAILED,MUM-GHA,Ghatkopar,Mumbai,,"Mcbride, Krueger and Hill",Toys
+0babd139-480c-469d-99b3-3751cb68abfa,cc1186c0-8ba5-444f-9037-d21cd3559455,2055.12,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Chandler Inc,
+99ba118b-7e5e-412d-af25-222ddd6f0420,fe752dea-12eb-4d94-89a6-86a9376d353d,5093.17,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,,"Davis, Morales and Hester",Clothing
+971ee001-b5db-4827-a78a-380b940e370f,c58b72cd-1541-4a1a-a85e-a974a9b4e9c5,6979.14,2025-04-21,Pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Allison Ltd,Home Decor
+e4c511d5-295b-4073-ac36-1fe5e62224be,879647bc-2688-4e4a-89e5-2183e96f196d,921.81,2025-04-27,,MUM-X-ERR,GHATKOPAR,mumbai,upi,,
+da6c59b2-6acf-46f6-a1b7-1af2d4aee54d,67798ac0-1e7b-4e00-ad03-2b706ac01a5c,2209.65,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Adkins Inc,
+0a204f3a-9a2b-4427-9eef-a930e04cbe7a,1f3afde8-24f6-4d62-8abf-132d3f173407,6661.51,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Shaw-Newton,
+42d99eff-8db3-4e0e-8d67-b0515441a465,0f56816f-ff14-4eba-a7eb-7195e35e232c,6774.01,2025-04-23,Pending,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Gonzalez-Coleman,
+fbffa9e3-90c2-4bf0-ba61-d601b2030b2f,d65b7bc2-7c54-40da-989e-7d6eabda4e04,8791.67,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,,Mccall Group,
+c9863afd-52ec-47ed-9470-3aa50f0af0b7,,1308.18,2025-04-26,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Wyatt Inc,Electronics
+340a09db-1db2-43e7-bed9-e689ca6c57e0,b496c0e4-c85e-4e15-a29e-898be07cd9b2,1518.87,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,upi,"Maldonado, Howe and Montoya",
+e7fd8630-4daf-4bea-a2a6-df25ff115e61,011a560e-de10-414c-ab44-095076c42543,6618.13,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Peters, Rios and Roberts",Books
+889b2b65-d723-42ce-a1ec-d4d21e85edf7,4c901c59-a1ca-4ff1-99e0-aaa97599b3df,9248.33,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Kerr Ltd,Home Decor
+9b89d676-edef-46d1-85c9-93691338a251,79f7c40f-6fa6-4bcc-b841-b86c368f79b8,9572.2,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Henry-Phillips,electronics
+125e0ce9-9aee-453d-b001-76036dbf7fbc,f6c7a1c1-c9e2-4ec1-8dda-01243d24c1c1,5006.17,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Hardin Group,clothng
+1c77857a-f87a-4edb-9d5a-c3804d39f29f,1f42e0cd-6102-4bf3-bc62-3364a859decd,2262.56,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,,Wright and Sons,clothng
+e081aabd-48b1-4785-992d-899e1e74d80a,3ccabde2-b5c1-4ccc-937d-97fc0c42333b,9490.68,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Robinson-Williams,clothng
+f73f707d-6eef-482a-a9d8-7a6498c8ab51,110182d1-6377-4964-af7f-f30ba97198e4,9604.92,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,upi,"King, Cooper and Jackson",Electronics
+a7eed52d-c1f6-4027-aced-976e52bb9866,e4b7405a-4fd7-425d-bd56-02ab7f317011,4004.35,2025-04-21,Success,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,,Books
+5d003081-a20c-4072-a390-f607008428f5,cf08ac06-b87d-4e7a-bc8f-1e1a48726803,9425.67,2025-04-21,,MUM-GHA,Ghatkopar,Mumbai,,"Owens, Daniels and Bush",Electronics
+ea36fb09-8695-4cd2-8545-ce6d46a28301,63f301a9-6d09-4422-9be0-162ee8ea1605,5774.12,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,CASH,"Hudson, Herring and Walker",electronics
+1b20a57e-5e86-4a3d-87d7-12df0ef04ec3,,32778.84,2025-04-25, pending,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Hayes-Crosby,electronics
+5d994b1e-354d-4177-a6e2-4a94eac176f3,4bd6a07d-813e-422d-873e-77c75d332535,2013.19,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,West Ltd,Groceries
+63c4722c-27f3-4303-b4a7-c15b161fc0eb,a745e323-c2aa-4e29-a21d-eb4f677a21cf,922.38,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,,Richardson-Green,
+05c62ffa-79f6-4159-820b-f53bdfbc2770,4b4788c1-153f-4118-8af7-21a9a9d0716a,9952.8,2025-04-24,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Combs Inc,Electronics
+825dd0ea-60c9-4560-9183-6f31fca0cd72,6bc54cdb-f605-4d3e-b4aa-1f32a5f5cec4,7693.06,2025-04-23,FAILED,MUM-GHA,Ghatkopar,Mumbai,UPI,Williams-Graves,
+1a447ac6-ceda-4670-872c-ee5071f0be7a,,33179.58,2025-04-21,,MUM-X-ERR,GHATKOPAR,mumbai,,Schmitt Group,clothng
+0f1a4334-9979-49e3-8a9f-70e668bfe4fe,f8d4b975-fcff-4ed9-859e-141cac1ce3b2,6025.9,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,,Taylor-Taylor,Books
+31325047-2b22-49cd-a85b-58a978c2249a,1f28b08d-1c7f-4315-b859-75b0806272a1,8028.53,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,CASH,"Martin, Perez and Arnold",
+27af9995-8e5a-4e09-accc-181e2e54ca50,471886d9-893a-4348-835f-2c0648ae3a47,7456.09,2025-04-26,,MUM-X-ERR,GHATKOPAR,mumbai,,Cline-Fox,Home Decor
+974f65f5-9b22-4880-bffb-00415ba05fa5,005476f5-082d-4c63-8c12-b1b49872643b,4860.01,2025-04-24,Success,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Williams PLC,clothng
+cd72da7f-9af7-4848-b3ce-9813449a1d03,e3d0ef71-5f7e-4ce0-ba69-8c2f1da6833f,9163.73,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,UPI,"Wilson, Sanchez and Estrada",Clothing
+c638be20-f218-4b0e-9a5d-cf8dd3778853,f7993edc-5195-4d56-b1b9-b512507dbc11,8550.07,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,UPI,Martin Ltd,Books
+ec6cd6e0-2199-4b17-9790-808a87d63a5b,edf27628-caa2-4c81-81f5-badfd35d46c4,7213.68,2025-04-26,FAILED,MUM-GHA,Ghatkopar,Mumbai,UPI,Wilson-Graves,electronics
+7d47af43-f4dd-4978-9c00-9a69aa373383,994aa04f-0a7a-4509-bb04-f2748e78646b,4992.67,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,upi,"Allen, Anderson and Fernandez",Books
+e51bc4b4-0613-4523-92a2-3aa7d9fb128a,49a69acc-9f3f-4d91-9a32-14834cd37b05,9151.01,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Turner PLC,
+2051c45f-c251-4191-9f20-53a3553a0159,c2cda60a-82b2-485a-8319-cd6fc9617519,4462.51,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Baker, Harrison and Ortiz",Electronics
+e23fcbcc-bb96-4a3d-89af-b037744202f2,095256f8-8cf4-4c1c-a0ff-1efca0f990b4,9273.05,2025-04-23,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,,Toys
+ac941700-828b-4347-a43d-3cc615c2b871,39286590-9c38-4544-ad24-83098e32fd20,1579.43,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Walker-Cooper,Groceries
+a47944b6-8f2a-44c2-a9a8-7616fb3904f0,ac76dac0-0662-4d8a-b7d3-48efb5dab58c,6804.9,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Grant-Mejia,Books
+38cfa8b6-18eb-49ac-a55a-4a55aaea1664,b9b2da97-9edd-4a9b-a920-935fd2eb985f,5539.68,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Velazquez-Mckee,Clothing
+98a494d1-670a-42c8-b872-76f0d26fdb7e,d0775ab4-51a5-4268-8384-84279361a973,112.11,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,"Morris, Cooper and Vasquez",
+4e5a046b-9279-48e9-97a4-acb55f40bbb9,8b7381ea-0556-4f65-84a5-dc98b2a7c9b5,3101.14,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Johnston Ltd,Home Decor
+9a4d5aaf-6b4a-426a-9588-9929002b6e26,a33be6ce-9102-40ca-ae0f-97b7f6f9c71f,8743.89,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,Cash,"Evans, English and Meyer",Groceries
+03c82477-6ddc-43ff-8b10-96c0cd0e823c,,17906.83,2025-04-25,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Luna Group,
+3d977c5f-75ae-4072-ab9d-eef254e114bf,45fb791c-c192-4933-b3cd-050a3bc88160,9523.81,2025-04-25,Success,MUM-GHA,Ghatkopar,Mumbai,UPI,English-Miller,Books
+6a147272-71b4-4d8e-a4d6-bca4517f3719,6b12bd63-3900-429b-ad2b-667417de253f,1327.88,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,upi,,
+,e61f82b0-9676-43ab-8c80-d6c611b154fc,9420.64,2025-04-27, pending,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Taylor and Sons,Toys
+47c534e3-8314-48cb-853f-349fa2908eda,66020424-b90f-4ddf-ba99-e31031c78f1c,4152.1,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,upi,,
+65d43bba-d950-4b0d-9ce5-05e9a3e0b8c8,75b78c75-4d21-4a3c-84f4-55a34bb6fdab,9992.14,2025-04-27,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Morris Inc,
+2f26cb42-ace1-415e-8830-1db78810a169,e6a4ee0e-240d-4fae-be73-49703d8a1627,9173.69,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,CASH,Lewis PLC,Books
+461ebf44-082b-4c90-844c-811701387010,2042c893-b59d-4b55-b451-8a2f147bf656,7122.7,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Cortez LLC,electronics
+65f85154-df83-4859-b13a-5d893f21360a,,886.37,2025-04-22, success ,MUM-X-ERR,GHATKOPAR,mumbai,upi,Nichols-Stewart,clothng
+95bfe0b2-f4e9-40e0-9889-446548234c9a,2c92f14d-6259-44b2-875f-0f97ed9c52a7,9323.77,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Lamb, Smith and Ramirez",Books
+3d39b5bb-0fba-457b-b3c1-f6a25e71b662,38bc4ce7-3680-4804-834c-afdfff2af7ad,119.76,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,,"Norton, Lowe and Carter",electronics
+d92bba25-38e4-4bdf-ae50-9b8d2e689243,89ae9834-a3d9-453a-9278-faea15231a90,1159.39,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Hughes, Williams and Smith",
+6f619f65-9ae7-43fd-a3cb-56b8d400f069,e1ba206f-e7a2-4a16-af0e-e497646e6d6b,9419.29,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Moore-Washington,clothng
+238aa954-99a9-4fad-a82f-77e5f386fc84,4d523294-06c4-44a2-a18a-a7c0d447c810,6311.48,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,Marshall-Pennington,Groceries
+5bf36412-1e85-4ded-a7b9-63232d44f50e,2d146d39-9720-4a86-bda1-0020af3b32b9,3154.58,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Munoz-Wells,
+656e5a10-0144-4ea1-958e-f8b9fd929259,d1c4a375-204e-4480-bc77-c40538a68341,2070.42,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,upi,Maddox Inc,electronics
+282a09a1-961c-4ea6-bb0a-71edd6c8cdd4,88197b4c-4d54-4b96-8b8f-743d8007519f,6826.8,2025-04-25, success ,MUM-GHA,Ghatkopar,Mumbai,,Lopez Inc,clothng
+95c5181b-abe2-48a8-9860-50e96b012fae,3d46aa7f-9392-4100-9b32-bc3b0c7acf96,3316.46,2025-04-23, pending,MUM-GHA,Ghatkopar,Mumbai,Cash,Brooks and Sons,electronics
+15b25915-7cba-4756-9aac-8b797d49e8f9,0ee1ec9d-0087-4d18-8fd1-be3b9a8c4492,9551.28,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Erickson Ltd,Electronics
+6074d781-1975-4e62-ae27-488157728c55,572bcbf9-d778-41a0-af28-1d8e256efea5,8342.62,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,UPI,"Robbins, Campbell and Vasquez",
+5a990478-5e53-4d53-bd6e-2570839d8c61,00a10bb3-4f21-468d-9986-13d9f8469cb3,8205.69,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Bright, Cain and Thomas",electronics
+c7963a8d-cb3e-45c7-8920-aa02001ed520,fa37efd0-cdc5-4e2b-ba19-cf045818d1ae,9511.73,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Paul Inc,Home Decor
+a0a5741e-a6a0-42d0-a293-ff3bf65e166d,c826a9b4-ea82-4045-b729-407f77fe3c7b,43025.35,2025-04-27,Failed,MUM-X-ERR,GHATKOPAR,mumbai,UPI,Mitchell Group,
+49b66d1c-bbe1-4a3b-b0eb-6a374a24e243,034a0aab-71a5-49e3-bebc-7049d67e7010,1682.65,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,"Phillips, Sherman and Gonzalez",
+1aba9ef9-e995-488c-b305-4c899d41601d,738c5016-ab8a-4d03-948d-31adeb84e764,3638.64,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,Costa-Dawson,
+2d427251-5837-42f9-8ef4-2cd85709044b,e575eeb5-a5ea-4d8f-b88e-f5c1a8a94ed5,1963.28,2025-04-26,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Martinez PLC,Home Decor
+d24519b3-1627-4558-8dc4-276428fdb02e,7a0eea44-5237-476e-a5e3-862eb3466a56,232.41,2025-04-27, pending,MUM-GHA,Ghatkopar,Mumbai,,Russell Inc,Toys
+0f53e8c5-9ffc-4099-b8ab-2113cc1241a5,11ba33d4-3ef3-4a21-a1cd-bab627e7bad6,478.2,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,UPI,Mendoza-Payne,Home Decor
+62e9ee62-0627-4321-b119-bde0ed67864f,a1f2cce6-7a52-41d5-936e-8d21a113384e,6865.13,2025-04-26, pending,MUM-GHA,Ghatkopar,Mumbai,,Rogers and Sons,Groceries
+7c7dca05-af17-42a6-b2cb-d13426b2fc9a,95f5442f-5b11-4f20-8a05-ce061f83c18b,6739.4,2025-04-22, success ,MUM-GHA,Ghatkopar,Mumbai,upi,Melton Group,Toys
+b8702def-844e-49ff-a2c1-1893d198a560,5e1d47af-833b-435e-a5a9-c1be48d3ef98,6594.15,2025-04-26, pending,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Buck Inc,Groceries
+26f803c6-d886-4d4d-893b-afc41547c5db,0585d67d-314b-42c9-8fc2-fd2b9b34c649,1456.65,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,Mcmillan and Sons,clothng
+c5dd5f8b-562e-443f-9486-8d2d741c3cde,c099739c-91de-413f-bee3-73b4e88859dd,9825.34,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,upi,"Velez, Hernandez and Sanchez",
+24a8d5fa-3509-4022-92b9-ee57b281b0d1,9974c84e-5836-4e9e-aff6-6a794278a00e,6897.51,2025-04-27,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,James-Clark,clothng
+f6e5a7b1-c145-4f26-ba8f-36a2f88cd2b0,1a70a81a-4202-4418-b6ae-db91890e2e44,5304.03,2025-04-26, pending,MUM-X-ERR,GHATKOPAR,mumbai,,"Spencer, Solis and Crawford",Electronics
+e1e3f5cf-1252-453b-91f3-b11c57adfb93,35d6d4be-e540-467a-9740-73b0fc45400a,8455.19,2025-04-27,FAILED,MUM-GHA,Ghatkopar,Mumbai,upi,Williams Inc,Groceries
+,deeca16f-aad4-4a73-8658-b22ec768d2e4,1187.03,2025-04-21,Success,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Lara-Martin,Clothing
+2f19e912-4af7-4f8c-a496-5ca56d8f75e7,cb031bc6-dda4-4ad5-b1f3-26a86e5b6d9f,346.56,2025-04-23, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Brown-Thomas,
+50e04efe-4797-422c-be50-fbba2ede3ede,f6551ac6-3879-4941-986d-da5df16cd8d0,8187.59,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Clements-Diaz,Clothing
+c059d86e-ee2b-4186-9063-4f9e646a9ebf,fa38b5d4-7821-484b-9d14-90d362ca8797,1563.11,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,Cash,Rice-Dixon,Books
+2a28e8cd-28e4-4653-ad05-317a96b3c53b,93e7d699-cd5a-4c3f-906b-ddc54757b52b,20475.71,2025-04-24,Success,MUM-X-ERR,GHATKOPAR,mumbai,,"Richardson, Martinez and Parker",Clothing
+017cff67-509d-412c-a359-da56a01f1549,212e5fdd-941e-4447-a9cc-7010f5651938,7428.49,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Murphy-Ferguson,electronics
+249b4a0e-1c1f-489f-9bd6-ed4a55741a55,ddca4b45-0de2-4365-ac13-30dfd18432b5,1049.93,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,,Christensen Group,Toys
+98e725ea-2de8-4ea2-be00-2a34b60199e4,51cfc712-bd5c-481b-bb3e-0420f1d5181f,4187.46,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,upi,"Alexander, Strickland and Scott",clothng
+23739fe7-ddd1-4868-84f0-3f5be09912de,1c392667-9355-4e00-a188-966e12acccff,3499.27,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,Cash,Melton-Douglas,clothng
+25b85a8e-2fa0-4dbd-811e-6a9de6aa2fe6,e49a4f58-4aee-4f72-b225-6d64c9947eba,7151.16,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,Pierce-Vincent,clothng
+ab0a9408-b301-4c84-9ac7-2a71ef56cb9e,49709b55-0199-4165-b2f3-b59fbadc2d2d,7611.64,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Sharp-Ford,Toys
+1dc06c56-5fa2-4598-a30e-8584e09187e7,b2b7a188-4a93-43ba-850e-7e3add305848,4655.23,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Johnson-Hall,Clothing
+17f6a4cf-224a-4577-879a-67ac9c68253f,ae3e0c98-8e35-490d-b3e9-9f684ae8285c,4175.01,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,Lee Ltd,Groceries
+b183adf9-27f3-4c77-a17e-22cfbb2bc475,b2df1a53-9140-45e8-ad2c-cc5a0e5c969b,3385.02,2025-04-24, success ,MUM-GHA,Ghatkopar,Mumbai,upi,,
+ec2adb5f-b7bf-4049-9064-5aa451106091,c414777b-6673-4343-bcfd-24be650b8d2c,7264.06,2025-04-26, pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Foster Group,
+23fffc04-abc0-41a3-b83e-e51fa150ddd7,fac2a13b-c8a8-4522-9ce6-83a6d9448ec9,5064.19,2025-04-27, pending,MUM-GHA,Ghatkopar,Mumbai,upi,Gonzalez-Rodriguez,
+cb34dc5e-e21e-419b-a368-d3c1fd0a5f40,d25b53f5-06ed-46bb-a6cb-e50ad3501f5b,2874.44,2025-04-21,Failed,MUM-X-ERR,GHATKOPAR,mumbai,upi,"Lowe, Carter and Hull",
+40ccf2e8-d12d-48e2-a340-3148206250f2,8b0b0789-dea3-452b-b6f5-e6d1c5f2b7ac,6813.12,2025-04-23, pending,MUM-GHA,Ghatkopar,Mumbai,,Haney and Sons,Toys
+acfa5a70-738c-410c-995f-9ea06c4086e2,f26e5ef7-05df-456b-a18a-e5f393859784,1192.19,2025-04-27, pending,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Mays Ltd,
+7faf15be-67cc-4df3-9af1-cbf08a4e4e3f,15f697fd-a35c-49f7-bd74-f9d3b949c125,3089.63,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Smith-Rogers,clothng
+ead7bec5-9b49-44a5-80d1-5c15ad5b9058,e06ff0d4-6f53-4f89-a401-ce0f4939ef9b,48.05,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Hart LLC,electronics
+9179703b-47a9-4b30-ab57-abeceacf6180,1d1d0eaa-0d4f-4743-957d-5102b716d761,7406.12,2025-04-23,Pending,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Green LLC,Electronics
+e87907ac-17f4-488c-9dfe-9121c37b2471,5fcb995b-3714-40c3-ae37-1cff905d6a69,1965.46,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,CASH,"Costa, Baxter and Jones",Home Decor
+6439a29b-4ab1-4b59-94f0-fec2e61fc061,c97e4828-5850-4652-b9a6-470c1c16e6a2,686.36,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Vazquez, Erickson and Brown",Books
+f39fe641-377c-45a4-8c7d-5796e0b5ddd0,93bb52ab-8273-400c-bbd6-ef33861fcba0,1542.38,2025-04-21, success ,MUM-GHA,Ghatkopar,Mumbai,upi,Scott-Jones,electronics
+3df31349-459d-4fb5-8fba-42444827075f,628cdff8-67d9-48e4-993b-f230105a1242,30462.38,2025-04-27,,MUM-X-ERR,GHATKOPAR,mumbai,,Jones-Lewis,electronics
+a261d6dc-85be-4c2f-b0e0-ee795486334b,83da6bc6-4641-4af6-9a60-0807a78f49f2,2340.65,2025-04-23, pending,MUM-GHA,Ghatkopar,Mumbai,,Collins-Flores,Electronics
+,0ac4a07c-3274-4991-8cc8-c8078174a096,9260.42,2025-04-21,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Weeks PLC,Home Decor
+48262846-61a5-4adc-9158-cb86ee7006f2,d73e5632-7caf-49ae-9c28-4b82728768d1,6090.8,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,Cash,"Baker, Davis and Ho",Clothing
+766c46eb-e379-4c86-a79e-dbac09860e01,1a4b0992-a834-4352-a972-1813ca51be9e,5984.2,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,CASH,"Rose, Hansen and Warner",
+6f993420-1a53-4cf9-b3a4-5d117bd5ea4d,8415c038-5da5-4675-9b50-e4d617e9a413,4542.94,2025-04-25, success ,MUM-GHA,Ghatkopar,Mumbai,upi,,electronics
+8471a52c-cc80-443a-bb1f-b5e86c9e7b87,15ced849-1ce1-43af-ac22-167bfa4edf5a,1057.95,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,upi,"Harrison, Decker and Gonzales",Groceries
+8574fb9c-b67a-4172-bc60-37889442ae6b,28eab54a-32ff-4dc2-a9fb-9d7433b3f445,23096.36,2025-04-26,,MUM-X-ERR,GHATKOPAR,mumbai,,Alvarez Inc,clothng
+07308155-dd65-4df2-9223-111fb82bb912,,4878.09,2025-04-25,Success,MUM-X-ERR,GHATKOPAR,mumbai,Cash,"Clark, Lopez and Kelly",
+,5907f268-968b-42cc-9125-32b38a03abeb,7468.72,2025-04-26, pending,MUM-X-ERR,GHATKOPAR,mumbai,upi,Gonzales-Hernandez,Electronics
+f3acca68-5d5f-4efd-bf35-bd0d5e9f40f8,9418bc47-3f59-4fa0-bcc5-84be3d4a5466,5598.27,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,,Campbell Group,clothng
+1821b551-245b-4570-a8d2-3fe266722dfa,b34d5ab6-c6da-479b-a7c9-b4b377d70311,6256.82,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,,Hansen-Jones,Books
+4486fb1b-d07b-4724-8a17-d00a548b525a,8c4d33b5-6d81-4b6b-ace1-edeeedd4f209,3354.36,2025-04-26,Pending,MUM-GHA,Ghatkopar,Mumbai,,"Melton, Smith and Golden",electronics
+c9e7cab3-26d0-43c4-81a7-5e0a33d013fd,2857d66d-345a-4c28-9749-f77e83f3c616,2498.46,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Mendoza Group,Books
+cfa57f25-8f67-4b46-97af-d8f26e1450f9,51105a80-414a-465f-b8d3-9674a5b8a9ec,2866.95,2025-04-21,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Watson, Rodgers and Brown",Groceries
+849267cb-dff2-4807-a033-3e8151e745ff,6d2d1441-4cc1-47af-b181-dd0c5ee0bc37,14075.61,2025-04-22,,MUM-X-ERR,GHATKOPAR,mumbai,UPI,Smith PLC,Groceries
+f0fe1354-30c0-464a-9174-89127794e58e,ea855d66-8900-4547-81f5-9debea4ee2dd,2472.89,2025-04-27,,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Martinez-Bowen,Electronics
+f0fe1354-30c0-464a-9174-89127794e58e,ea855d66-8900-4547-81f5-9debea4ee2dd,2472.89,2025-04-27,,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Martinez-Bowen,Electronics
+c3f97e60-74e8-4a93-a38f-8315020a80ac,dd728d56-8e39-43e8-b948-5a8ad4227f59,4640.79,2025-04-23,Pending,MUM-GHA,Ghatkopar,Mumbai,upi,Leon-Harrison,Home Decor
+c1737ba6-f33b-4c4e-bf34-8ab6eb7b8ad8,c28c708d-e0fa-446a-9ef1-5fc11daf231b,1100.66,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,,Taylor-Anderson,clothng
+8103265e-a708-4c37-bb11-37b3bb84517e,0047dfb9-32cb-4f74-a3d2-d733ebea2850,9590.33,2025-04-21, pending,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Ramos Inc,Groceries
+d3c8a4d6-0c4d-4073-92bc-2507257c3b02,4756228e-db88-4d27-b761-4545243d0405,2826.52,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,Phillips LLC,Electronics
+ad84fd1a-e371-4388-b773-83357d25eadb,bd25e347-594a-4000-8d44-ab64f6dd2650,33866.15,2025-04-26,,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,"Bates, Duke and Davis",electronics
+c8a0c691-ed8c-44b2-958f-5a8a9e79a387,ef46e612-6d5c-4842-a73e-153db6397107,12.86,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Riley, Mccoy and Rodriguez",Home Decor
+6f3b8e35-9c23-413d-b5b3-ecb55d61362d,6713250d-6615-42bb-8599-f9ca5990e243,1025.04,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,CASH,Phillips-Lawson,Home Decor
+8625dbc0-60ac-44f2-ae67-2648b932ab84,499e52b5-31dc-4958-bc0a-12c6dacd40ba,5279.01,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,UPI,Smith Ltd,
+efa8c7a7-2956-4c67-a6ff-b2a15ddc7abb,f1e9f9bd-4813-4734-96f1-bb12d2f98849,2403.3,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,upi,"James, Marquez and Gonzalez",Toys
+f50a455f-3346-412d-9fc7-d5e4757a0380,d6794fe3-208f-4390-aeab-253eb1ce8621,8681.6,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,CASH,"Jones, Green and Riggs",
+0570b7f6-756a-44f9-8366-a89eb4135c64,7a6dfc6d-48d5-4760-b17a-c3155ca1eca4,6962.65,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,upi,Williams-Wilson,
+9634d83f-a3fa-49c2-89e1-16b97e2ae0da,f1d6d202-e86a-4ba5-9526-52ea1d4211f8,9203.38,2025-04-24,Success,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Mcgee Inc,Toys
+,b5767c1a-659f-46ba-91b9-e56c0b3a2953,37488.78,2025-04-22, success ,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Smith-Gordon,Home Decor
+8f7e91de-5941-409a-a6bd-483a2271e3be,ab5f69c9-357c-420c-b7bf-a1819262d5ac,5325.43,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Browning-Harper,electronics
+da98948d-eb23-4938-8e6a-0b5edd0f73e8,49fd5ee5-5192-4fa7-b87c-fb13340bffcb,5892.41,2025-04-27,Success,MUM-GHA,Ghatkopar,Mumbai,,"Reeves, Howard and Kline",
+489fc777-1b98-44c5-afd8-178299a1a943,91f453b6-78d4-43ab-a725-be2592095726,1535.05,2025-04-22,,MUM-X-ERR,GHATKOPAR,mumbai,,Cruz-Waller,Clothing
+69c55a32-ec93-493b-815f-1816b5fc4489,da626326-6328-4f93-a231-a9d9fc25c2dc,4280.83,2025-04-24,Pending,MUM-GHA,Ghatkopar,Mumbai,CASH,"Decker, Burnett and Johnson",clothng
+feb2b833-f141-4d13-9774-5bc23529c231,23826ff9-b153-4921-beae-d43cf320194e,8792.78,2025-04-25, success ,MUM-GHA,Ghatkopar,Mumbai,Cash,Diaz-Osborne,Toys
+89e9f343-6491-43fb-8f74-edc2245942f9,e393a344-dbba-4c4f-838c-f5de55443efb,8992.58,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,"Jimenez, Anderson and Smith",
+e16dac5b-b06f-4f8c-88cd-4cedcf937908,2428f9e0-a867-4ad1-ace0-8b86bc11330a,7791.3,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,"Myers, Williams and Torres",Home Decor
+0478c8cd-ca37-473b-a082-6fe9bf0c6693,062a9d31-96d7-4a01-9605-2cda51d33ded,1889.34,2025-04-27,Success,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Ramirez-Holloway,Books
+6690a17c-1d52-4926-a09e-0c957ed9907d,bac93cc8-33f2-42b2-a6d5-f800f450d66c,2577.83,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,CASH,"Horton, Gonzalez and Young",
+a7cbe0b3-d852-43b5-abba-1c76e60aada1,99286625-61a2-4caa-b791-ed72e8d9fd15,4713.84,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,,Davis Inc,electronics
+96de8576-09a7-45f9-b8ee-05310e8eaab3,985e4886-d21d-4696-86bd-20ac0d6b15ec,6083.39,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,CASH,Tran PLC,Electronics
+cf3e297f-00e8-4059-ba24-6f051d2c5ae2,d2ee5de5-da86-4c3a-8f49-fa99f0c56bf8,45.86,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,,,Home Decor
+,,6801.59,2025-04-21, success ,MUM-X-ERR,GHATKOPAR,mumbai,UPI,Rose and Sons,Books
+47578291-f3ab-4d8b-b2f2-feb755ff0129,e17adfd9-8b33-494c-95c9-4df7108109b5,6794.27,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,CASH,"Vega, Howell and Hall",Home Decor
+47578291-f3ab-4d8b-b2f2-feb755ff0129,e17adfd9-8b33-494c-95c9-4df7108109b5,6794.27,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,CASH,"Vega, Howell and Hall",Home Decor
+387ae2d2-b4ce-43c1-8333-fe5aec6808bc,6cb8fa64-6aca-4fa5-b188-0139a223b2ec,1682.65,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Townsend Group,Groceries
+a487cde9-ea8b-4d73-88a6-6f332b9eebab,cf8eeaf3-c9f3-4c9d-8308-450e0654df2a,7141.49,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Mercer Ltd,Toys
+11187b88-8519-4182-add8-cccca29bc628,,573.73,2025-04-25,Success,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,"Turner, Ellis and Terry",Home Decor
+d8c828ac-753f-4434-84e3-f86241a5b2f0,e94eed3f-58f4-4e90-9f2f-438b00f57d76,9877.98,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,upi,Holder Inc,
+ae4e31cf-594e-4567-babf-14cd094d4ebd,aca1c130-364b-479f-b266-92f68c6931d9,7990.82,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,CASH,Atkins Group,Home Decor
+9acb0437-33ea-45b5-ae0b-de137f48266c,4a4b970c-80fb-49ee-9e65-57d072a7410e,8203.95,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,,Grant Inc,Home Decor
+aad1f179-23d2-419c-8ef4-ec7ebf3b21fb,79705db6-3b97-410d-9b3d-4cfa6c14b13e,8069.77,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,,"Boyer, Holland and Todd",clothng
+7c5ed0a2-cff2-47e1-a7d1-35ce1a95a394,dde4e5a0-b0a9-465c-ba9b-90386d591967,4339.12,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,,"Simpson, Sanders and Hurst",Clothing
+cf7c5ca0-8aed-4a8a-87e0-913ba87fedee,ed452fa3-68bf-4bda-b77c-88a0f54bfabb,11346.17,2025-04-23,Success,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Gardner-Escobar,clothng
+1678daa2-064a-48a6-9b87-6aa9aab15294,e10c8e36-6581-43d3-a79d-10a8ba8cb85a,6509.14,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Glass-Jackson,
+,6ea84a38-6cd4-4902-af1f-918128aeac66,3227.07,2025-04-26,,MUM-X-ERR,GHATKOPAR,mumbai,,Robertson-Vazquez,clothng
+b012c7e6-b301-41e0-91e3-644d02dd8c6b,65a72b5f-a4c1-4f91-b292-645931d8ec57,867.85,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Mayo-Nguyen,Toys
+a40d080d-eab1-40a9-8ce0-42982ff05b76,b6d0f0ef-e459-4034-ad0c-e9fa9a2b8246,3450.7,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Smith, Carter and Silva",
+8913f2f0-90cb-4309-9167-dd70cef4d789,5765e2bb-52ce-42e8-a2b5-4f371b2e1e89,8385.83,2025-04-26,Pending,MUM-GHA,Ghatkopar,Mumbai,upi,Marshall-Hamilton,clothng
+7efa38a5-d600-4c5a-9a6f-5a60f97ae55a,8c8e3021-0662-4e64-8bdf-f0e061539a40,5308.69,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,,"Wood, Harmon and Johnson",Groceries
+eb1feef5-128b-4ad3-ac9d-76580781eccd,,6724.55,2025-04-24,Success,MUM-X-ERR,GHATKOPAR,mumbai,CASH,,
+1bff0bcd-70d9-4dd6-85f0-dfb31ff2ca83,6335450d-c7dc-424e-b27d-4e92e4564927,2118.65,2025-04-25,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,Arnold-Lopez,Books
+239a6d42-d2ad-42a6-b411-d9d111e99ec4,dcebbf94-f2f1-4eb0-b50f-64a5971965f5,6468.69,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Bell-Davis,Electronics
+,,1147.39,2025-04-27,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Miller-Wilson,Toys
+6db42d26-868c-4cdd-8ef1-53c8fa1c6272,a6c7efe0-df7f-4207-8e5b-6b910a14a9f1,4797.98,2025-04-25, success ,MUM-GHA,Ghatkopar,Mumbai,,Smith PLC,clothng
+98285c33-450f-40b1-830b-3d762f02bf5d,85d9b1ba-2e52-4b8b-a37b-16b0b439bcc8,4650.81,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,,"Conley, Henry and Fowler",electronics
+3ba049a6-a05f-43ef-8cbf-00cafe0f1bc9,242bf7bf-c621-468e-8443-d9a8a47ed76e,1981.62,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,,Martinez Ltd,Home Decor
+a234ed21-5703-4290-a661-8449e08f6d7b,81d645b4-a4cc-49db-9055-b63c036099c9,44957.48,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,"Johnson, Hill and Duncan",Electronics
+a95c7f25-66c8-4707-85e0-8ea8f812f394,26344184-5839-4477-99c9-3a43a4a408f5,2568.84,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,,Perez and Sons,Electronics
+d2228ef8-35f8-46e8-9acf-760b68778ecb,04036d53-8f90-4934-a24d-084d1e7b1fdd,3677.98,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Tanner Inc,Groceries
+a3917bc8-7f9c-4bc1-b3c5-0e77c84f3c33,22d78c4f-f0bf-4023-8512-765632109614,5965.61,2025-04-24, success ,MUM-GHA,Ghatkopar,Mumbai,Cash,Conway Ltd,Home Decor
+4272adf3-238e-4ae4-ac68-d3d8b5e8f105,7383f5ed-92ff-4ec1-8e0f-e7afb3a5d2cb,2616.14,2025-04-25,Failed,MUM-GHA,Ghatkopar,Mumbai,,Harrison Ltd,clothng
+065eb4e1-fe80-4c84-89cc-bdfba2930d60,7eac66c1-539e-4025-8f18-d1b9b28158f0,7198.32,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,upi,"Farmer, Torres and Shah",Toys
+e6bb097f-5e13-43b7-98f9-ca92f6062220,,5015.3,2025-04-25,Pending,MUM-X-ERR,GHATKOPAR,mumbai,upi,"Waters, Crawford and Williams",Clothing
+7e31c35f-e739-4d6e-8af1-ac836163d267,a55c67bd-5ca4-4098-b551-bf83c9faf9b7,5297.23,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,Cash,Case-Robinson,electronics
+47db2124-10ca-4429-b97c-5829548ef512,e575741f-6ddb-4278-a7c2-d086617d3cd9,7069.87,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,UPI,"Bates, Barnes and Pennington",Home Decor
+bf5eabf2-aa8f-4309-b2d9-3235839cee9f,,5375.88,2025-04-24,,MUM-X-ERR,GHATKOPAR,mumbai,Cash,"Gonzalez, Phillips and Figueroa",clothng
+ed44ab9d-f095-462e-a94e-43723a8835a8,f1d7db6d-8c0a-4448-a7a8-73e55a6997ad,7694.88,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Moore, Butler and Simpson",Electronics
+d47262cf-6442-4305-ba87-fb096f26324b,,7132.55,2025-04-24,,MUM-X-ERR,GHATKOPAR,mumbai,UPI,"Edwards, Moore and Valencia",Groceries
+5d6b4e01-7906-42b8-b5f1-f413cfb82cef,ec9fb045-012b-4ad5-b893-6d2d864743c7,14693.75,2025-04-27,,MUM-X-ERR,GHATKOPAR,mumbai,,"Roberts, Moore and Stephenson",Home Decor
+9c2e7760-cdde-4d24-857d-fa496894520a,d44141d4-a829-42ae-b7eb-e27f8f940a73,1461.61,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,,Sanchez-Cantrell,Electronics
+b0c52fa8-98d9-4e8f-bf2f-63836e3d5887,081bc596-891b-4e6a-9dd4-4b035653d1b3,9938.6,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Hines LLC,Groceries
+5c762bd6-0f40-4393-8cb9-c92d51b2530e,988ba37a-0829-4bfd-b881-d322fe994342,7569.02,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,"Adams, Ford and Oconnor",Electronics
+32736c91-7537-4e4f-8d17-4a200218c6a9,fc5e260a-eaf2-45ee-ac16-4dc447c5f0aa,4258.14,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,,"Williams, Mcdonald and Perez",Toys
+2452260d-e830-431b-bd72-1ae1bd017e57,50924b7f-971d-4716-b8dc-2be1d8338894,6306.53,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,"Kramer, Reed and Fuller",Toys
+8fee2edb-3ddf-4688-8139-bb86af85203c,6bf531f9-103d-4175-8750-d866ece57307,9606.21,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Hansen-Bell,Toys
+21f5b1e8-ad34-4caa-89d7-f5f85ab68220,013edeb2-a2d2-45db-b27b-d350b06aab8f,2004.32,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,,Johnson-Lopez,Clothing
+35b00f9f-4fc8-4ae9-981e-5c688ff4a938,1092285e-e27c-46ea-ba1b-16b957ea38ad,8481.59,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,UPI,Carlson-Ingram,Toys
+3b87c3eb-af3e-4d8e-ac1e-3050afc93fac,7dd10830-c027-4c77-b94a-c12bd30987b5,858.58,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,,Miller Ltd,Clothing
+1c96c12a-19be-4adf-a7d8-8614b991f5ea,5a438639-a825-410c-bd2f-24d32469980a,1954.18,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Hill and Sons,Clothing
+e28a11d1-2f45-428a-9ba3-e76266aed15d,26240543-43a2-4d52-912e-73a175f1afb8,349.78,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,Cash,Pittman-James,Books
+580cd898-aaf7-4d3b-8e5e-2a7e2ee4cbbd,8608da42-0d15-4670-b120-67d81c6b1e50,4743.57,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Walker-Lee,Electronics
+593b5528-599f-4aaa-ad49-207ab7047f41,148b119e-f45e-4a21-979b-d4244ae4eca0,8228.19,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,,"Sherman, Davila and Yates",Home Decor
+14b0bab5-a035-4f66-a8aa-db20d2e45ed5,18011cfb-52fd-441f-bb6e-33f795a85dc0,965.08,2025-04-21,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Wade-Leblanc,Electronics
+500ac7b5-5b83-40a6-942c-0ff95811b254,b04a908e-384c-4561-af2b-de5cc17c0907,307.29,2025-04-26,Success,MUM-GHA,Ghatkopar,Mumbai,upi,"Johnson, Hubbard and Taylor",clothng
+1b8f2eef-d85f-48ce-8b37-8aed2fbcf484,3f58ee69-3325-4a60-b4a4-01316a6d7c9d,4156.41,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,,,clothng
+ff68728e-1870-4d0d-a2a1-22f4400bc861,163d0b23-d88a-4619-a3f1-127bd7ebc00b,33360.47,2025-04-24,,MUM-X-ERR,GHATKOPAR,mumbai,upi,Brooks-Henderson,
+bf461cbe-de96-43f4-8332-f820b8cf55d4,41e04166-6ce7-44f7-82d4-35722ab27fd9,1792.07,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,UPI,Mullins Inc,
+1e57deb0-8695-4649-81ee-0c2383818bda,a7ae4221-c895-4289-b9c7-ec6e82dba4db,1886.89,2025-04-26,Pending,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Moore-Lawrence,Electronics
+922e5cc6-6c84-4a07-8f28-6fc1eed3252a,d50edd86-9a7f-4500-9576-4b3e3bea22db,437.22,2025-04-26, pending,MUM-GHA,Ghatkopar,Mumbai,,Smith and Sons,Home Decor
+5605dfb3-9903-463f-9e53-d154ec4643db,bea6bb61-6f92-44fd-92e1-84cef3276dbb,3221.08,2025-04-26,FAILED,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Collins Inc,electronics
+9d94601b-b89a-4e7c-9476-4d30b657c7e8,2491132d-8a33-4c8f-9715-93fbd24e387a,29549.64,2025-04-22, pending,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,"Padilla, Barnes and Perez",Electronics
+,2c59adbb-f298-48b0-9996-dcafcdc7bd02,4954.59,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Harrington-Carey,Clothing
+87d4eb62-8e59-4494-ab75-3fd787f0a615,80886f1a-4efe-4e13-89d9-b6d3f50fa11b,7509.77,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Sandoval Ltd,clothng
+5e8a4525-252f-452a-8ea3-a18926fa1827,6696c1a6-3e06-424c-90df-7ce39b993874,563.61,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,Williams-Frazier,Toys
+b8ec0c1d-c912-480e-acfa-f3c48d8fe74d,415ebabd-3f0e-4926-9b68-bdbb3ccfd7d2,8470.51,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,Cash,Cox-Watson,clothng
+9b3b9f88-2f4f-4761-b770-5cdc60ebb712,b7e4d698-1c36-4249-905d-48579c10f74d,5612.32,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Garza-Goodman,Clothing
+e5326380-31af-4411-823e-25cea0f330b4,b50e33d7-d9d0-4e8b-8576-5c2a15c7dc6e,8822.9,2025-04-23,FAILED,MUM-GHA,Ghatkopar,Mumbai,,"Evans, Graham and Gilbert",clothng
+15a57d60-cba8-4d6e-aa54-79f2399b29fc,a7366835-af88-4619-89c3-32eee2f820df,6627.28,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,Cash,"Zavala, Webb and Wilson",Electronics
+040b7232-5218-43fc-9b71-a8e3a47bfb9a,,49658.11,2025-04-25, success ,MUM-X-ERR,GHATKOPAR,mumbai,,Vega Inc,Toys
+77bb271a-efa6-4f91-ac53-55e0f2df8f17,e73b63f3-63cb-4148-a062-c43e9ade704c,7613.93,2025-04-25,,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Browning and Sons,
+1c8e1029-825d-42b4-a966-b97edb73a0c0,af705e12-2429-42a1-ad67-831dd783ac0d,7606.54,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,Cash,"Brown, Gordon and Perez",Home Decor
+19134417-281f-4439-a7d6-b2e29e597f5d,65a664a2-3f06-451f-8cc9-308797fcfb3a,2440.2,2025-04-27, pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Buchanan Group,Home Decor
+6f65f4bd-75e3-41d0-adec-fcd337c3c8f7,c5db348f-1d29-48e0-bbea-76c1c72beda0,2146.7,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Taylor-Palmer,electronics
+712b8f43-0040-45e1-bcc1-425173833649,d9b69c3f-58a4-4e03-8ac1-a8f4a4ba67d7,2895.41,2025-04-21,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Boyer-Brown,Groceries
+02a6727c-0d16-492b-915b-1487462f9d6e,01813f3f-2d75-4d4f-bcfa-2369cf11be94,2921.35,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Bennett, Roman and Sanchez",Books
+08c252d6-9ce8-4e82-8e11-4e0d7e8eda3e,f0ac7edc-bea9-4566-b68a-3eaae315fe90,5964.42,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,Cash,"Reed, Brown and Wheeler",Home Decor
+c2e02128-73dc-40e0-a657-00be80c48989,a608f248-3cdc-4271-8c17-52fd6587a1af,4291.94,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,CASH,Smith-Norman,Clothing
+,687862c4-45ec-4ad1-b4a9-c479c9e6dec2,1856.64,2025-04-26,Success,MUM-X-ERR,GHATKOPAR,mumbai,Cash,"Bailey, Garrett and Herrera",electronics
+c9ef4cdf-3d76-4659-a56d-1405b93df0b6,18a461ca-8146-4f20-8aad-15376c88e9d7,8538.99,2025-04-21,Pending,MUM-GHA,Ghatkopar,Mumbai,,Oneal PLC,Books
+,2c2a7a45-7247-4e4a-a1d5-663baa3f7521,8500.79,2025-04-21,,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Savage LLC,Home Decor
+,2c2a7a45-7247-4e4a-a1d5-663baa3f7521,8500.79,2025-04-21,,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Savage LLC,Home Decor
+47e3a429-3e9b-4492-be62-196e19a208a4,8ba55e2f-19bd-45ca-8f63-22ae6013761a,9769.05,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,,Hernandez Inc,Home Decor
+8c01f5cd-a854-44dd-8911-19e83c2a5ce4,3c6d8133-cbcc-44fe-9c95-e2492b4772f4,610.52,2025-04-23,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Wise Ltd,electronics
+13a8fde4-bb30-40c3-af65-6bef326dbb01,63011a73-ac0f-4333-8094-2bdfe1a8ecda,2609.37,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Cummings Ltd,
+d752133c-6a53-447a-b8e6-44d9693c3019,90ba2411-8997-4384-bcd0-ab12025049ab,5323.66,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,"Mays, Mendoza and Sanchez",Clothing
+7742614d-033b-4e59-99a8-d90461604bd6,b4d8a6c3-97ae-4c61-82a1-c1c2bfc41c8b,260.68,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Tucker, Olson and Williams",Toys
+14aed155-2120-45d1-9a84-c17205ec28ed,198774c1-b79f-48eb-b2e1-3d2341c962f2,7267.99,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,upi,Gentry-Bryant,
+8f855b48-44dc-4ebd-bdcf-494c6f071181,070fc7e9-cb55-4daf-9f11-8c675d7cb047,295.58,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,UPI,"Flores, White and Ellis",Home Decor
+c3c68354-14b7-414f-9f0e-75e787723389,958a40b0-c7f4-47c7-a1d4-be551c316d04,3839.34,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,CASH,"Baker, Day and Cox",Electronics
+9b02912b-6b99-4fc8-9d05-b9f2ef4b2109,653ac312-9de8-4ab0-a44a-e9f078fd07ff,9030.42,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Price-Wilson,
+7f9ec3a0-6d83-43da-b419-db052fa1ea72,7236b469-706e-4ef9-bc7f-f37d1408049b,8237.33,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,"Fischer, Mason and Perry",Electronics
+3d9290f0-6cf7-4c55-98b1-6dcc243096bd,1b46f9d7-669a-4e0c-9ab8-58a095abe7ae,1657.4,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,,"Morales, Calderon and Mclean",Books
+f0a0eebb-3800-41ac-8b3d-36ba70cc6d61,7e923c57-5d0b-4acc-9f4c-1f4106776680,9155.55,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Garcia-Stephens,Home Decor
+bf58359f-7a52-44f6-8656-34e3da216cf7,0be9eea0-fe25-4f62-92ba-e51d4957c530,3585.36,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,Cash,"Taylor, Mcdaniel and Pennington",Toys
+aaceb98c-49e7-429b-b492-c0d2c2ecbc97,4d4b0444-119f-4e03-b61f-4793617ad8f1,6197.55,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Blackwell-Thompson,clothng
+37e9df35-ba3e-44f4-b46d-592e6c9c7ebd,ae12f4b6-f390-4a5d-8bfe-cfa600379b0c,496.8,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,Trujillo Group,clothng
+4c5632d4-af27-466d-98c5-6a57c7756900,1a2e1c6d-abc2-405c-a04f-43702c92da23,707.99,2025-04-25, pending,MUM-X-ERR,GHATKOPAR,mumbai,,Phillips and Sons,Toys
+fd879360-6593-4379-99d8-dfd21cd98e6b,350ba522-6be7-4e77-bcb4-067d8828418d,5685.44,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,Mendoza-Skinner,Books
+89e4d2f0-608a-40f7-902d-76db636781d0,97d90588-6333-457a-90bc-850efa19e10d,3804.22,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Mcintosh-Robinson,Clothing
+f6172de1-c787-44de-8f09-1ace8d1bde2f,473eed62-073f-4d91-80c3-f2673b38387c,686.85,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,CASH,Tucker PLC,Books
+66ccef46-3a53-4c4c-a404-aeebeba81faf,d7cadeaf-b0aa-4503-ba1d-8916ba9b9531,8477.02,2025-04-21, success ,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Ray-White,Toys
+f477649b-c78a-49dc-a51c-8c20f3bc1432,980726ce-f2b2-4021-bce2-8232b4fa785b,6102.23,2025-04-22, success ,MUM-X-ERR,GHATKOPAR,mumbai,Cash,"Schneider, Olson and Brown",Clothing
+47b88951-391a-4488-992a-da0b546fc668,43a414a2-e868-4363-8b2e-adb9107d6e7a,1334.7,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,upi,Newton-Jennings,
+8b1035df-14fb-41b7-981c-b16f9439f63e,8378dd18-20d7-4ec8-ab9b-541c73a0294a,4225.43,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Castillo-Stone,Home Decor
+1d3d0b4a-8956-44d7-9666-bc2b053a6494,c5ce245c-9558-4a31-b24f-59f97243fed5,8247.92,2025-04-25, success ,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,"Brown, Wilcox and Cook",electronics
+baa6302f-9ce1-46a5-869c-287372bd355a,8548a5af-ba28-45ad-9625-98baca4148af,4457.37,2025-04-24,Success,MUM-X-ERR,GHATKOPAR,mumbai,Cash,"Woods, Mitchell and Mendez",Toys
+50d346e8-0e8f-43d4-99ab-20849fd0f410,2283afb3-de45-4daf-ae0b-349c29465d29,3335.97,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,upi,Martinez-Ramirez,electronics
+55f3d1e7-ca60-4190-a8c2-9304da89f0cc,844bf02f-5b1f-4979-aae1-dd7efce364dd,2752.47,2025-04-22, success ,MUM-GHA,Ghatkopar,Mumbai,upi,"Harvey, Alvarado and Cooley",Toys
+6ec35dff-0268-469e-b7c8-5570e431dcda,a1c06f17-3615-4724-be15-878913b445ba,39311.13,2025-04-24, success ,MUM-X-ERR,GHATKOPAR,mumbai,,Hensley-Davis,Home Decor
+18182465-d43f-46de-b33a-d1ae686e677b,fb276440-7603-4ce3-98ac-352b2b0cba41,6674.06,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,,West-Thompson,clothng
+1a7585b5-6a17-47f5-80d7-e804dde2482c,9bda79cc-4e1a-443a-98c0-3fd66b264020,9293.47,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Freeman PLC,Toys
+92eef5bb-16b3-4ada-922f-0f9481d2645b,868ad1f4-3615-4464-a442-5217d6d4836b,577.69,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,upi,Moreno-Gould,Groceries
+c37beeab-1d23-4fce-8c1f-dc0ab29c6d64,0351dfd7-d2c3-4b9b-a49b-c6793509d895,1276.23,2025-04-27, pending,MUM-GHA,Ghatkopar,Mumbai,Cash,Simmons Group,
+aeeaa345-cb9b-4441-b043-2eca591a6550,6396a633-1d6b-4978-abf7-3025b21352ae,4371.59,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,Cash,"Lee, Mccall and Lang",Electronics
+9d29e050-785f-4313-93ae-858a3df8c0c9,448bfa0a-5455-4f94-86e1-d4b3dc695efe,9481.57,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Collins PLC,electronics
+79e9a90b-3e1f-4ad1-8e68-84d6d5b50c21,5b753440-99f3-411d-a9d0-cb45ac2c96e7,2027.66,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,,Black-Cook,Toys
+6bcd1399-b1e1-45ce-977c-b0ac399388f9,de196147-d201-4306-b7ba-4319e75fc9d8,2415.51,2025-04-23,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Harper, Willis and Blake",
+d9c1ab2d-7b59-46b1-a734-bf111fa85609,37c386e5-bb86-4ab2-bfca-f33447489b80,3667.75,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Bartlett LLC,Groceries
+45b75b82-cf08-4740-b01d-2fe41b186be4,b358279c-99a6-4259-9568-91ca11da787e,2915.47,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,Grant-Humphrey,Electronics
+fb409faf-d7d1-45fc-bd32-a40aa11d19a4,410a20b8-d4db-41f9-b2dc-b2efe739fc11,8926.27,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Villanueva-Conway,
+fdd02c32-b405-4657-91a3-76501b36101d,67e38fcd-3018-4922-b4e8-38bd2ea4790b,3858.18,2025-04-21,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Horton Group,
+42d8c523-9925-4f49-924a-6fea3bb7a577,d3270cc0-1900-4321-8219-eb725ba6612b,4477.05,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,"Barton, King and Hall",Toys
+c6a6aeb4-37b6-48c4-a3bd-994c505f1c4d,0238a72d-3e0b-4622-9a65-44ea0d7f241e,5429.37,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,CASH,"Ross, Stanley and Morgan",electronics
+a68e851a-0bcf-4d34-9f2b-d1def53b1b90,a95ebce8-b21d-4ed2-adbb-f0f8964f05a1,477.99,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Macias-Riley,Home Decor
+470e81b5-a12f-409f-a2b7-6d0e76fe0b48,8ff9aa6c-0838-43e9-bab8-a244ea279487,250.08,2025-04-23,Failed,MUM-X-ERR,GHATKOPAR,mumbai,upi,"Rodriguez, Webb and Frank",Toys
+,,6870.9,2025-04-23,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Curtis-Hodges,
+821adae4-6684-4d4a-ab25-3e7b17cb6af4,34c93ebf-e099-4b65-9108-eec8107aad8b,9365.5,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Ruiz, Villa and Chavez",Books
+1efb6bc5-22d6-4eca-b141-d1f07a6c9048,b4e48d56-39f2-4b71-a828-211d7a9410b6,4957.75,2025-04-24, success ,MUM-GHA,Ghatkopar,Mumbai,,Mccarthy and Sons,Toys
+2bf14f70-a684-4cf3-a1f2-57f24e3dc31a,d9da15e6-bc27-4719-abb5-5ac9a5767e70,313.48,2025-04-24,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,,Barker PLC,Groceries
+b8cac62f-d6e8-4c2c-8aba-c975e12ac803,0fb361e9-cf33-471c-8f8d-dcd63ac2bf85,9641.32,2025-04-25,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,"Gaines, Lopez and Young",Toys
+03b0c4c0-e6db-4a5b-8efc-8d6d500b3933,19919b61-8b55-4fe6-a43d-482d1819db76,9878.94,2025-04-24, success ,MUM-GHA,Ghatkopar,Mumbai,,Adams-Phillips,Books
+da5ea455-df63-44e9-8d80-d237f8d690af,fc3953eb-ab5d-4ee3-a7c1-d438454ff2ab,6646.11,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Steele and Sons,Groceries
+5e2bcab9-c102-4fc8-9637-7a84cefa8037,4ec22c2a-99d6-468d-b29c-e74001dfe951,2710.67,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,Bell-Kline,Electronics
+bc5feb6a-ab16-45f0-9e36-40b11742b052,10ac12e9-a849-46af-ad01-02f983c6e86c,8751.66,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Fritz-Smith,
+1a617eb4-48f6-4a9e-9371-fe14cd7e2e13,31417cc0-59ff-40d6-beb7-d9094f15fdac,2268.28,2025-04-27,Pending,MUM-GHA,Ghatkopar,Mumbai,CASH,"Mann, Merritt and Mcdonald",Groceries
+,a2e3bca4-d4b0-4d7e-8fa0-b71651e63610,9143.02,2025-04-22,Failed,MUM-X-ERR,GHATKOPAR,mumbai,upi,Roberson-Branch,Toys
+0e491353-9fa3-4a92-a228-f934af33581d,2dd86931-d31c-4274-a8c7-c8678231b35c,8507.46,2025-04-25, success ,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Contreras Inc,Toys
+517c8165-331b-46c7-a49b-ed7b06f40c1e,44651be5-9dd3-425e-91cc-63906221f89c,8025.45,2025-04-23, success ,MUM-GHA,Ghatkopar,Mumbai,Cash,"Lane, Branch and Johnson",Toys
+7af3f398-3dea-49c7-acac-003cf4f183e5,6ecad0f5-61b0-481f-b60c-498a61d9e4fe,2738.92,2025-04-26,,MUM-X-ERR,GHATKOPAR,mumbai,Cash,"Thompson, Jackson and Reed",
+17e093ca-623b-41c6-8989-d6053b5187cb,d5b31d9a-17c6-42cf-8003-2b139195164c,5768.55,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,,"Carson, Patton and Lee",Clothing
+9f012883-d5f5-43d8-8428-7972ad433e2d,,7645.97,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,UPI,Martinez-Valdez,
+00903816-4b47-42fc-a617-836bdbd141b4,2d7c1657-ac60-4144-acb5-329960e86fd5,1307.9,2025-04-27,Failed,MUM-X-ERR,GHATKOPAR,mumbai,upi,"Lopez, Ortiz and Harris",Electronics
+89eea9ac-8473-42d6-acaf-08fb4cc6c4d9,,6055.73,2025-04-23, success ,MUM-X-ERR,GHATKOPAR,mumbai,,Scott Group,Clothing
+f5024acd-f066-427a-9a3f-3ff25ef512bb,6fa97de7-6199-47c0-86dd-0792bcd1e347,20321.7,2025-04-24,,MUM-X-ERR,GHATKOPAR,mumbai,Cash,"Johnson, Hamilton and Stokes",Electronics
+48c67ec3-2cfc-4075-89b8-68c2cfdaff51,2d355557-8fe0-4af7-ba3a-b69d3fc4520b,1160.55,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,,"Duffy, Spencer and Cooper",Home Decor
+570bee97-3446-4c32-84dc-6f427323eab3,93dec16a-058e-4663-9536-90b0d239abdf,22568.29,2025-04-25,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Dickson PLC,Clothing
+85e76074-ef9a-454a-a746-8a52a233b665,5f8b3066-fd1b-41a3-9f18-336dce94f92b,49712.05,2025-04-24,,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Bridges-Glenn,electronics
+ce81d541-6d4a-4116-91be-d6c83fad566f,f5cd6db1-dfa5-4b11-9ae4-8021e780ac62,5873.38,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Murphy-Morris,Clothing
+78672905-dca4-41c9-96e9-ebe0189bb8d4,42348b76-0b78-4dbb-9400-ceae67a4bf73,4969.81,2025-04-26,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,Lang PLC,Home Decor
+c313e1be-09a2-4c56-8128-e485338f8ce9,5718da0a-96b5-4c4c-8c54-d9819787edf2,460.39,2025-04-24, success ,MUM-GHA,Ghatkopar,Mumbai,Cash,Pierce Group,Home Decor
+fc678db7-4657-4fee-af3f-6b9a3657197b,9c4b1428-bacf-4012-bd54-954548e8c79a,1192.2,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Bennett, Mccarty and Jordan",clothng
+9452f39a-9c7d-4944-89f4-f37c96cb832e,6898e551-0432-4d05-b4fc-fa93421a51df,4826.79,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,Cash,Graves-Wyatt,electronics
+ddd55c3c-dd00-492f-9f47-5b9405b21cb3,0d2e773e-9590-4345-aee8-2dd7dae8d1a7,7119.44,2025-04-22, success ,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Howell-Odonnell,Toys
+c23b4ffa-f69f-4ce8-86bc-b3c014aee34d,42bde34a-860a-4d63-8c65-4e5f370336f9,7143.6,2025-04-26,Pending,MUM-GHA,Ghatkopar,Mumbai,,Rogers Group,Books
+6ea0682e-6b38-47b0-9bc6-6ea4d44afdde,,24700.32,2025-04-24, pending,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Delgado Inc,
+6c20ee70-8153-4f6c-ba5c-543e8af638a3,188e56da-afac-40bc-851e-e74af195321d,700.23,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Bates-Green,
+2e427c4b-aedf-46a1-b923-ee23e3068822,351de11b-b1bd-449c-88b9-e631345439ff,2427.01,2025-04-25,FAILED,MUM-GHA,Ghatkopar,Mumbai,upi,"Clay, Lucero and Johnston",Electronics
+f9f5abe4-e208-445f-84c6-050953e1eeef,52ff1b8c-473a-492a-ad25-625cfe0060ae,6586.5,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,,"Rogers, Ortiz and Vincent",clothng
+3ab51e50-f2c9-4c0f-8a7e-2d4e939cfc04,0ba9e532-4f94-4545-97d9-0d127c0664aa,2739.94,2025-04-22, pending,MUM-X-ERR,GHATKOPAR,mumbai,Cash,"Curry, Baker and Thompson",Home Decor
+78bcab5b-1275-45e1-af44-24468f9d0bb5,967bdaf2-897c-4965-b3f8-5398d4d92be8,6753.14,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Solis-Martinez,Books
+214b286f-d830-4225-8885-dbcff57ecb8e,dcb96c70-faf7-4850-8e42-291254979c9e,1658.09,2025-04-23,Pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Morris, Thornton and Henry",
+605b3b1b-c16d-474a-ac24-59bfbe9c0533,83a022e0-4d04-4cf1-94b7-44c7dfe223fd,5809.52,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,"Jenkins, Campos and Holmes",Clothing
+c23cd879-3e97-4573-92ae-2d72499b0c67,8f2d7a0c-dc05-41e2-a83e-83b7bfa7db26,5009.73,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,"Cruz, Morris and Bell",
+15a70b2d-d703-4652-b857-d87a04d999e6,d9a3af5a-1457-4890-8510-559c059077ef,1866.49,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Dunn-Bennett,Clothing
+ce779a9d-f782-424b-9584-e6bf555dddac,006484a9-3559-44b4-a605-8c3e9c42831c,7035.45,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,Cash,"Knapp, Heath and Hernandez",Toys
+7d5ea741-b546-4571-a759-070ede441c40,6044abd0-8630-4789-99ab-d41c75acb371,790.61,2025-04-26,Pending,MUM-GHA,Ghatkopar,Mumbai,Cash,Snow Group,electronics
+0d360498-258c-42bf-aa3a-6b2153da2de8,6c2678a1-bf52-4943-b1bd-d7def202c05a,5799.06,2025-04-23, success ,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Torres-Campbell,Home Decor
+0d360498-258c-42bf-aa3a-6b2153da2de8,6c2678a1-bf52-4943-b1bd-d7def202c05a,5799.06,2025-04-23, success ,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Torres-Campbell,Home Decor
+6728cd49-4217-499a-985a-aa57a0fd7ea0,60a525ef-9906-4aac-87e7-f31f82383310,8079.75,2025-04-23,FAILED,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Garcia Inc,
+32389b8d-2689-4cec-b687-6db2ac9ca563,adfc11fc-7093-472e-9eeb-afad38ebf35d,1455.81,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,Cash,Woods Ltd,
+e1fedffb-72d0-4352-8c3d-beeee6f507a9,e2caeb65-1fc0-4d8f-9694-2cdf38477d4d,3389.76,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Ramirez-Howard,
+,2c4d9dd1-6d91-48b9-a2da-32dd762831bf,12736.88,2025-04-26,Failed,MUM-X-ERR,GHATKOPAR,mumbai,,,
+3eb88403-635c-4b32-a2ca-a952e3e3a2b2,89c6589a-71ca-4099-a475-32f1f1759e25,4123.84,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,Cash,"Williams, Mendez and Blankenship",clothng
+7d06cba8-9aff-4070-a2f0-00fdea324e73,c8972af5-43d4-41a6-bef3-2adcd04fc75a,-25.77,2025-04-27,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Austin-Sutton,Electronics
+4906c7ee-f0e2-48b9-bd4b-1695a66a8b58,5593862c-b67e-4215-809f-9b4fd6dd12af,4671.02,2025-04-22,FAILED,MUM-GHA,Ghatkopar,Mumbai,UPI,"Gomez, Lee and Brady",
+d3696a0f-e0d0-4f68-80f5-c102c986b12d,c0d42af4-f659-4e63-870a-0069de84bcd1,6814.66,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,Cash,Price-Barnes,electronics
+43e01c80-0667-4aa2-8809-57a479ae8ee7,f552fd9d-05c4-4acf-a679-e833df433659,2170.85,2025-04-26,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Mcdonald-Miller,
+3320ee94-59c9-4716-b1f5-7def98c61a6d,512cd058-1376-4a78-9698-a88d4c4cd8ab,1149.88,2025-04-26, pending,MUM-GHA,Ghatkopar,Mumbai,Cash,Pearson and Sons,Groceries
+0ee576d1-969e-4c23-9f3a-c1330f348245,b7b66a25-a4b2-414a-8846-01b2c9ec979e,9634.67,2025-04-21,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,"Rosales, Rodgers and Hogan",electronics
+b9d955d8-5b68-44a9-a5ff-60865f62c1be,beaf7c57-3dfe-4b6e-a667-64518198fc8e,3504.85,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,,"Baker, Sanchez and Bird",
+a83fe708-a79a-48d9-9562-5d91cceced0c,578a7568-3ef9-4977-9d8e-96f76c33de04,9086.51,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,,Hancock and Sons,
+fbddcffc-6e09-412d-a95f-c955f10543f9,ea591204-aefc-4dae-a19c-bbff082a0d76,9167.77,2025-04-21, pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Green Inc,
+bca30593-9214-44e3-bfe1-d65adaffe5fa,,13302.76,2025-04-21,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Brown and Sons,Electronics
+fd566c86-95bc-41b9-8ec3-20f7d09f6ec0,d3109606-5c96-4bed-aa69-aac2c0e309ac,4676.12,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Miller Ltd,Books
+915490f6-807a-4c52-990c-f751c3f02831,d563680d-662b-401c-bc50-2b2097711705,6894.88,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Miller Inc,Clothing
+809c2262-517a-4689-a300-d545aecf1445,72a4768e-f62f-4486-bfb6-5261370ca09a,4925.0,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Simmons-Collins,Electronics
+6cd01753-72dc-43ed-b86b-13364e710f53,a490e9d1-82be-4c49-97cf-76e2ec5e7dae,8750.91,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,,"Tucker, Smith and Le",Groceries
+665f8993-695f-40c5-9563-8ea4bbaafa3c,c82f68db-dbc6-4dfc-a6a1-48c3abd4b9a0,9030.07,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,CASH,"Mcclure, Erickson and Smith",
+5e6d9db3-2217-4f70-b646-9a1f5f7402f2,99b3bde0-fa5a-4b37-97d4-f8c467742686,4840.51,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,upi,Rose PLC,clothng
+2a00930d-b7e4-49eb-86b6-c5a8115b4d5e,3b4757e5-b110-4482-bb90-4a84b38de0cb,3696.54,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,"White, Bush and Crawford",Clothing
+0470fd4d-daf9-4a25-8928-654ce88442c0,7b2e86f3-d692-4225-873a-b3de50c79b16,49186.22,2025-04-23,Success,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,"Nichols, Thompson and Moore",Groceries
+113629da-5ac4-41de-8e07-0e0040dd4e0f,882cd5af-1696-4bfb-a02b-f2dd375e38b7,17711.8,2025-04-25,Success,MUM-X-ERR,GHATKOPAR,mumbai,,Johnson-Washington,electronics
+369531db-3e5e-4d9f-9e1c-01f373792444,171d28b0-d687-4993-973d-68a58d405bf9,25647.83,2025-04-24,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Quinn-Mason,
+4c9a7c98-7488-4503-82da-bc8c2aebbd96,20d1dd51-d3de-4fba-8d6d-1283dd5fdcf6,23988.26,2025-04-21,,MUM-X-ERR,GHATKOPAR,mumbai,,Murphy LLC,
+ee15fd4e-0445-4990-9a65-85ab4832daf1,ac1525de-dfae-425c-bf0d-cfc6e5ae565c,3476.38,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,,"Perez, Wagner and Brewer",Home Decor
+1503a2aa-fdfb-4095-9b7b-35a1d69b0190,ae94d6be-bf6a-406a-aa70-5729898a9024,301.02,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,Credit Card,Collins-Camacho,Toys
+18737a1d-4d6d-4f82-baa4-11887f34e05a,341c3b08-f828-4db0-9715-8cbe342b6225,9712.7,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,CASH,Wagner and Sons,
+839d2774-5af7-491c-a42f-caa40237b7a6,e69467d0-447d-48ec-b212-89ec5fb72099,4344.78,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,,Nichols-Miller,Books
+ef87bdbe-9f3b-4131-b36b-f8bf35c50282,5d5ba987-89b8-4812-869c-270f86f86d78,8131.15,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,"Wilson, Pierce and Murphy",Toys
+9eb03dad-ce85-4ee8-9f63-e175e0778f89,85c38220-93cc-40ac-8f10-869c0ed19b4b,9971.97,2025-04-24,,MUM-GHA,Ghatkopar,Mumbai,upi,"Mercado, Leon and Jones",clothng
+8dd2fb1b-ff7a-4f96-b89b-affc2bba25b5,5c6ae28e-548e-4580-a007-15fffaad409b,1141.7,2025-04-27, success ,MUM-X-ERR,GHATKOPAR,mumbai,UPI,Bennett LLC,Home Decor
+3712e715-2d85-40b4-9eee-f474c205a109,da9397a6-f145-42c8-b49d-e09f89bcc9fc,7557.23,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,"Robinson, Patel and Blevins",Home Decor
+b76b05b3-e43b-47eb-8c38-24311779a44c,0e34681c-bb7a-4b9f-8a82-67b1c3f32de9,9346.4,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,Cash,"Brown, Scott and Cruz",
+9b50b5fb-b41d-4663-a08b-efee42556846,4fcf4a3e-2c4c-4708-9101-929cfb664abf,317.17,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,,Norris LLC,Electronics
+d757d743-be9b-4b1a-b69b-80ab9300f3dd,d8d4725c-c35c-4b32-ba63-1e093dfe5ff4,5115.33,2025-04-21,,MUM-GHA,Ghatkopar,Mumbai,CASH,"Moss, Garcia and Brown",Toys
+e7940b08-78e0-49ac-a79c-e2d1507c2d8d,fd7a3950-1736-4adc-8b91-b45031750735,274.82,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,,Home Decor
+168f1a46-66cd-46e5-b946-4f114bb47f88,55143e7e-1577-46e6-bfdc-848e32571e92,3314.36,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,,Gonzalez-Brown,Groceries
+09fb57f0-3934-4ab6-921b-37301011d01a,4eabfd0d-cef7-477e-8f13-280b309757d9,1236.93,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Cole PLC,clothng
+198d08e7-b653-45bf-abf5-c0bc1683f329,fff3f7ef-9ddc-4c0b-8c25-db04e4c9bdec,3484.13,2025-04-25,Failed,MUM-GHA,Ghatkopar,Mumbai,CASH,Austin-Turner,Toys
+74e4f34c-51dc-4a8e-9017-bacec49f2e14,b53a45c3-d6e3-465f-bdcd-daab68228d75,3346.57,2025-04-26,FAILED,MUM-GHA,Ghatkopar,Mumbai,,Curry LLC,Clothing
+4db7255b-e2e7-455f-bcea-825153565937,bdf29031-8ef0-4bcc-8878-49c11ea34e54,7458.08,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,"Garza, Thomas and Mcmillan",Electronics
+44539a53-9913-4320-a7a3-8ff8db915ffd,6abef130-0e19-4c86-a717-6819575bb6ff,1909.65,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,Net Banking,"Miller, Montgomery and Gross",Clothing
+f8c14375-6b5a-4672-85dd-49911a5cd165,bf8ae3f5-b1dc-4ffc-aaef-91c81ac9c9d3,204.35,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,CASH,"James, Gilbert and Smith",
+d7177de4-e360-4e7e-80f6-1d0de529f653,86c48769-ba09-4d83-b3cb-3f5ad98df6a0,3959.6,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,upi,Beck and Sons,Clothing
+678d2bb9-1f9d-4ee5-bd74-2407ccd0d9c4,d30087ae-6ada-4044-a432-7c6f89199f95,2159.77,2025-04-27,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,Hernandez Inc,Clothing
+5b184e8c-7fcc-4867-8f80-5983a2007835,2ba5d62a-66f0-4429-a356-5dd0ed88ee88,486.85,2025-04-25, success ,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,"Carroll, James and Thomas",Books
+5b184e8c-7fcc-4867-8f80-5983a2007835,2ba5d62a-66f0-4429-a356-5dd0ed88ee88,486.85,2025-04-25, success ,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,"Carroll, James and Thomas",Books
+455f9ac0-a1a5-466b-b18c-ac328771aa3b,eeb1ae97-ccb4-4d2d-92ab-e1cb7f1f2b30,3641.14,2025-04-22,Pending,MUM-X-ERR,GHATKOPAR,mumbai,UPI,"Smith, Reed and Hall",electronics
+a223621e-a257-40d7-8cb6-0e9ea97c0644,a23064a7-f27a-4368-afde-16bcec27e52d,2645.41,2025-04-25,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,Anderson-Anderson,
+,b415e6c8-0c95-421c-b4b3-92bda0968dda,31360.86,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,CASH,Thomas Inc,Toys
+769aff7e-a937-44c7-a538-2d43f5cd3fcb,8f113c8d-446f-4414-9864-9c33e9b1c858,-41.58,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,,"Snyder, Anderson and Trujillo",
+1f41b98b-f074-4dda-b68c-73d98e76db29,169f915e-5982-4abf-9c2c-e814250e3556,867.42,2025-04-24, success ,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Lopez-Love,
+feeffc7f-ad48-4174-94c8-633b0b7130f6,cd870962-eced-4cb0-a274-191583000f15,2973.06,2025-04-21, success ,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Spears, Mcintyre and Gould",
+614e73e0-ce56-48a6-8414-5aec664148d6,0757912b-8d6b-456e-89bc-bc580b3e32c1,6993.66,2025-04-23,Pending,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Baker Group,
+4ce95e09-d8e1-4e32-9bce-01c4c87e332c,737ee7e5-4374-44db-ba23-9fffe2ebb14a,3081.85,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,upi,"Petty, Church and Williams",Home Decor
+dee14213-41d6-4371-85f6-94c8945ed196,f8d86c40-80af-477b-a272-ceba155bc59a,5974.91,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Graham-Mccarty,Groceries
+180133f1-0907-4c9e-b448-ec4442742e66,a0836609-5448-4874-a390-d5d3e68c6a15,5710.8,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,upi,Trujillo-Walker,Clothing
+82377bd0-87e5-45c1-bdfc-b03a8f11b60e,ba5e8d20-715b-4d6d-82ac-e0dced3f3aff,35541.96,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,UPI,Coleman-Haas,electronics
+d45fdfc8-9f99-48fc-9d04-0243fa057940,63aca07b-34bc-46b4-92f6-2dc73cd6f53f,18145.0,2025-04-21,Success,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,Holland-Dyer,Clothing
+05e54cf0-9771-4b1d-97e5-843823576198,19020277-fe06-4a7d-9693-3dc7e27d114a,1914.83,2025-04-23, pending,MUM-GHA,Ghatkopar,Mumbai,CASH,"Reyes, Weeks and Olson",Toys
+c0d4173b-aa58-40e6-86ef-a55196d0ae38,14636298-e1d8-42f3-a70d-9181727cc81c,5883.87,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,,Hicks and Sons,Books
+b8957c93-c28a-43ec-9f0a-7308544b1a44,fea9c616-db59-4a43-81a0-3734baf362fb,8798.49,2025-04-27, pending,MUM-GHA,Ghatkopar,Mumbai,,"Salinas, Hubbard and Blair",Electronics
+b7dfc38c-f363-47c0-ab22-0ef08f63fdb2,12cb8302-4edb-40cb-8a33-7f1b91cd3af7,7781.06,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Stevens-Elliott,clothng
+3bbd60ea-5c97-4975-b500-20580c3b491f,8f90364f-20ce-49eb-b0c4-97ac4ec08b2f,5799.72,2025-04-23,Success,MUM-GHA,Ghatkopar,Mumbai,CASH,"Howard, Davis and Moss",Groceries
+0e6960ed-a3bd-4289-b70d-b45e796746be,ba8cecfc-54d5-4514-907c-7b39d1f055ba,2234.99,2025-04-23,Failed,MUM-GHA,Ghatkopar,Mumbai,Cash,Sandoval Group,Electronics
+8e7ce430-cecd-476b-8200-eb7f7e510fa2,c256f224-82b2-48b6-9d51-ef25417f38c1,4409.02,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Briggs-Rice,clothng
+ccb77f3b-d5af-42dd-a9f3-7bf1c52d50fd,a92c1fd3-b053-4141-a147-89ed54ec2b91,6249.31,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,"Macdonald, Richardson and Alvarado",
+2f8199c4-a9de-44a3-88e8-6648a994ddca,86899a05-28aa-4964-a2ca-bd0cdf652d96,7298.89,2025-04-22,Failed,MUM-GHA,Ghatkopar,Mumbai,UPI,"Herrera, Smith and Gallagher",Clothing
+3ed71432-277d-4dc6-b7e4-b92786e5b158,6fd17141-0aaf-4b46-b5ac-d71b5f9ec8e9,9501.07,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,UPI,"Cooper, Nichols and Evans",clothng
+7c263cec-6c22-4110-94f1-0cf9f12ee3a3,,30281.22,2025-04-25,FAILED,MUM-X-ERR,GHATKOPAR,mumbai,UPI,"Simpson, Smith and Avery",Electronics
+8d39db39-cd3c-4090-92ee-3db5474e8557,44d02163-f93b-4f4f-bac9-080c3803fd7f,9177.27,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Nguyen, Andrews and Cook",Electronics
+a2dc95f5-5b7f-4f66-bb26-28be14503e5b,7a426a39-f008-4838-94c6-f6aa335edaa5,57.64,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Sutton-Fletcher,Toys
+ec7be9e9-289c-4d9c-a0e5-ea709985f511,,1048.56,2025-04-27, success ,MUM-X-ERR,GHATKOPAR,mumbai,Debit Card,"Dean, Hill and Erickson",Electronics
+f78b36a3-1644-400b-86c4-62a7f7225aff,a2d855c2-b4ac-4cd1-907a-8d83af92a2ae,9424.18,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,Net Banking,,electronics
+af1458cf-62c1-4f4c-86cc-db09f881ec7b,280fbf6e-edb5-4a50-bb96-2c66e327929d,3314.14,2025-04-26,Failed,MUM-GHA,Ghatkopar,Mumbai,,Morris-Martinez,Toys
+ca3778da-1e29-4577-a6e3-d14abf898112,6ca587a3-7e36-4b30-9e6a-e5ed9dfa00db,1378.91,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Walker-Austin,Toys
+126ac1ba-517b-4fa0-8981-602a5b081fac,a42df296-c755-46ad-9bb2-5e79c47b15e0,9605.21,2025-04-26,,MUM-GHA,Ghatkopar,Mumbai,Cash,Tanner-Carr,Electronics
+6d40a9b8-994e-494e-8785-ffc670cb2492,02081c96-b8fd-4f81-af74-19b83cd23aaf,5206.7,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Moses, Bell and Gordon",Clothing
+1c39d22b-d5c7-49d1-8f9f-5ee22f0602c6,d64dbbb0-3111-4e09-88c6-cbbb65606cc7,1122.54,2025-04-21,Success,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Blake LLC,clothng
+a3a941c1-a6f7-4504-b9b3-d03b935afe43,47e151e5-ec05-41e7-ac2c-5d5b27bd668b,9761.25,2025-04-22,Pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,Warren PLC,Books
+4e28c5e9-3708-4b78-bebf-5e40cab8aadd,2ada4447-99a6-4d39-a9ae-7949c5b504dd,2883.31,2025-04-26, pending,MUM-GHA,Ghatkopar,Mumbai,,Ortiz-Williams,Toys
+4108c01f-c42b-4a49-8518-2ad2a0e0c1c8,0c9fe37c-b1b4-4409-a7a7-f9556f96be80,6790.09,2025-04-22, pending,MUM-GHA,Ghatkopar,Mumbai,,"Sawyer, Arellano and Hill",
+e8f50fb0-3250-4f53-b438-1df6cb2b9704,126de6c4-0148-4558-8db5-5f784ccd97d3,2504.52,2025-04-25,,MUM-GHA,Ghatkopar,Mumbai,Net Banking,Gonzales and Sons,electronics
+86e86510-e192-4bec-8b68-51685fee2bc9,bf32ed0d-fc9c-4a0f-a676-76eb662d826f,4492.31,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,,Mcfarland LLC,Books
+e178e8f0-6ab5-4bfa-85c6-dc7842def747,95f50f19-3ebb-4dfe-9855-37a30409aaeb,1880.89,2025-04-22, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,Williams-Zamora,Home Decor
+ee6fe6ca-446f-4fd0-9b15-304f7c0bd82a,67247e29-fd95-4b6e-931f-3cf4bf6bcbd4,1073.13,2025-04-22,,MUM-GHA,Ghatkopar,Mumbai,,Taylor-Soto,Books
+,ecd884c7-6524-4833-b4ca-3002bfd7d03f,4787.99,2025-04-24,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,"Berry, Rodriguez and Vazquez",electronics
+fb418306-d22d-41da-87dc-fa74b5e9b522,bd279fd8-71c7-4f62-a8a5-057c5959a5c3,3122.04,2025-04-22, success ,MUM-GHA,Ghatkopar,Mumbai,Net Banking,"Diaz, Williams and Zavala",Clothing
+5b7faafe-f302-46bd-a199-0278e12587f7,e2d54777-b8ff-48b1-922b-e5d5f848169c,9480.37,2025-04-23,,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,"Sanchez, Smith and Crawford",Clothing
+8c8cbdd5-51ed-428b-9fef-bce257164e3c,28a189bc-ea08-4543-96df-0a192385c221,4375.28,2025-04-25,Pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Butler and Sons,Electronics
+65cd5ee7-5eeb-48bf-9b7a-a110f140ab80,4459c7bd-8312-4577-a42f-5d7c7a4a0e76,6760.33,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,UPI,"Foster, Griffin and Lynch",Books
+7b01e4c2-d4c8-4608-85ba-6c45d50ac423,aa92e1d3-150a-4591-97e8-a949d483cb09,8148.58,2025-04-27,,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Hudson, Garcia and Wagner",electronics
+5ecda362-5fe8-4045-bbb7-e06874c1f9b4,,4996.31,2025-04-21, success ,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Armstrong Ltd,Clothing
+cb208d25-1891-4883-8c87-06bb46ff8b15,2a4b4ab3-c7df-4600-9aa0-bf744e8bafc4,6549.64,2025-04-25, pending,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Chambers Group,Groceries
+8a9f9745-9eb2-4619-868d-3d28eaeb4c59,ac475be8-c263-4f0d-851f-9a502d871eb0,1694.65,2025-04-23,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Cash,"Norman, Rogers and Hudson",electronics
+6f3312ce-71e7-4c0c-b0a2-302345a937a9,51b9aa71-c7b6-4a72-a115-914c59bab160,6307.37,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,upi,Smith-Nguyen,
+a60d69d9-4369-4344-9cdd-a58cb9ac3983,a37e5f52-35d2-4cad-b557-4a16cb35eba9,45382.49,2025-04-24,Success,MUM-X-ERR,GHATKOPAR,mumbai,,,Electronics
+6e919cf9-c40d-4418-bbe6-cd4138ffecca,7e1cf27d-a841-4ef7-b883-1ccc897bae29,8320.3,2025-04-22, success ,MUM-X-ERR,GHATKOPAR,mumbai,Cash,Heath-Owen,Toys
+b9d6279b-240f-4a2f-b364-50ac2cba898c,44006cc6-950f-4960-947f-5d5000af2bad,3910.81,2025-04-21,FAILED,MUM-GHA,Ghatkopar,Mumbai,CASH,Sullivan-Herring,
+1cd04b14-dd79-470f-8c67-c10f3db195a9,97ff7fd8-5c25-48d3-b5e3-ebf65884a8c3,4037.32,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,,Martinez-Williams,
+f322986c-1f81-48d2-9c1b-2fdd0c389a24,765c2768-4094-4f81-a4b9-12f155412f59,2604.74,2025-04-26, pending,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Miranda PLC,
+a9c84868-3d8a-4371-8348-de60f6003f09,a8c5792a-e4f9-4eed-9192-dcc4125ea338,3231.19,2025-04-24,Success,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Herrera, Anderson and Gomez",electronics
+801f8e86-f640-4b28-b7e2-67ad5d8325ff,1a96b9d0-412a-4ff6-a6ba-ff8a563653c3,19459.91,2025-04-23,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Nelson-Burch,
+186109a9-4f1b-4984-bce0-5457a245f5c0,e0232429-542c-4bf1-88b2-13b364bcef25,1444.55,2025-04-25, success ,MUM-X-ERR,GHATKOPAR,mumbai,CASH,,clothng
+aa49faab-9e9c-4f2a-b6c8-7c6c77b42cd6,dc570f3f-3cdf-4052-a6d2-722850672451,4104.79,2025-04-22,Success,MUM-GHA,Ghatkopar,Mumbai,Cash,"Richardson, Watson and Tran",Toys
+bff7eb5c-ac95-4a16-8676-9625d5805bc0,d6305b45-f7cc-4ee9-8927-54079502bcac,6957.07,2025-04-25, success ,MUM-GHA,Ghatkopar,Mumbai,Credit Card,Burgess-Turner,Home Decor
+8067e1dd-ed8f-4ec6-9cb4-3f8e7ce06759,67071746-68a6-443d-a753-b68519043f35,9842.26,2025-04-21,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,Cobb PLC,Electronics
+a0c92f46-4332-4324-a8b9-af63c5fe5b58,3183c226-c6d5-45e0-9e18-446ba3e910bf,28220.56,2025-04-25, pending,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Allen Ltd,Home Decor
+f65b4437-c97f-4cbe-a7bb-41f3bc6e8fd5,007b453d-71ac-442c-8d4c-b4c5a3597308,28778.33,2025-04-24, success ,MUM-X-ERR,GHATKOPAR,mumbai,,Marshall LLC,Books
+ff416009-97c8-4e0f-8e8e-9fda6683b4b0,b76091df-a233-4347-b1d0-8a74f9ce407a,2344.64,2025-04-22, pending,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Blair-Vasquez,
+cf320d68-b869-4ac8-bd38-43c0970189aa,3edcd10d-b18b-4838-920d-468cce7fc2d1,4660.03,2025-04-24, pending,MUM-GHA,Ghatkopar,Mumbai,UPI,Hawkins Ltd,Toys
+fea44402-570d-4b38-9268-685751c06134,377d10db-b67e-42c0-84a8-db260aaf7ae7,3187.27,2025-04-27,Success,MUM-GHA,Ghatkopar,Mumbai,upi,Watson-Wang,Groceries
+0680809e-7623-450e-9f66-b98f097e0cad,6367e39f-d31b-49f1-9bc5-8ca730e2fbe9,15273.7,2025-04-22,Failed,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Miller LLC,clothng
+a8b7babf-07ff-4498-ad84-98a29da368c9,1ad81d87-c20a-40f1-8a10-75efd8ac9c9d,5568.71,2025-04-26,Success,MUM-GHA,Ghatkopar,Mumbai,Credit Card,"Johnson, Reyes and Armstrong",
+088fc1e1-931a-4fd8-850b-bc4fa56dbdb2,b362fb84-6eb6-41e0-8b01-c9be7d27519b,8999.77,2025-04-23, pending,MUM-GHA,Ghatkopar,Mumbai,Debit Card,"Edwards, Frazier and Sanders",Groceries
+bfcf939e-1c1e-4a5a-a7f5-e4d5b42176c0,cf77d5c0-940b-4668-9d7b-783fcc520538,5093.49,2025-04-23, pending,MUM-GHA,Ghatkopar,Mumbai,,"Dunn, Moody and Richards",Home Decor
+3fff2063-ad46-4df0-a6dc-a49671f6a2e0,,37916.8,2025-04-25,Pending,MUM-X-ERR,GHATKOPAR,mumbai,Net Banking,Gibbs Group,Home Decor
+e112b126-5e36-416d-bd7a-a6a5fff6a3fa,b406f1c1-5b25-41f1-8bab-5e74ac7e9900,498.95,2025-04-27, success ,MUM-GHA,Ghatkopar,Mumbai,CASH,"Russell, Burns and Gibson",Clothing
+36e2d60f-89d0-4d69-88b2-d0072201c388,f78fd863-15db-4e89-8772-78074524a8de,1801.94,2025-04-23,Pending,MUM-GHA,Ghatkopar,Mumbai,CASH,Owen Inc,Clothing
+01de8041-9cb2-4bbd-b1a0-261ec0d70f89,0c109a7a-3087-4aa9-85a8-abb1130c93bd,4846.41,2025-04-26, success ,MUM-GHA,Ghatkopar,Mumbai,Cash,Martin-Reid,Electronics
+6ea58753-3a09-4b30-9d4e-fcd4f9bfa7ad,ec422181-ac20-43d4-99df-734f67ba704b,246.97,2025-04-23,,MUM-GHA,Ghatkopar,Mumbai,,Castillo-Ingram,Groceries
+c4c4a450-710e-4061-a9fe-f16f9159c84f,f360af76-1003-44ad-a26a-971bd1f78e4e,795.36,2025-04-24,FAILED,MUM-GHA,Ghatkopar,Mumbai,Cash,"Richmond, Gonzalez and Saunders",Home Decor
+02d1269d-aae5-4fff-a42c-885af9303a7e,74ce90ca-ea07-4d86-8d32-5a89aa088f0d,2465.46,2025-04-23,Pending,MUM-GHA,Ghatkopar,Mumbai,Cash,Schroeder-Kim,Electronics
+27431a1b-d052-457e-8f8b-55d15d60be10,837fa030-0672-4829-9309-648463cc0601,420.06,2025-04-23, pending,MUM-X-ERR,GHATKOPAR,mumbai,,White-Frey,Electronics
+babddfea-e59c-4df4-bcbe-aea26a42b826,f22b77ae-975f-455b-8f4d-9e6c788b4ccd,2329.14,2025-04-24,Failed,MUM-GHA,Ghatkopar,Mumbai,upi,"Osborne, Jones and Mercado",electronics
